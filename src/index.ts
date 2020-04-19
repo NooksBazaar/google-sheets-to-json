@@ -2,9 +2,10 @@ import {OAuth2Client} from 'google-auth-library';
 import {google, sheets_v4} from 'googleapis';
 import fs from 'fs';
 import {zipObject, camelCase} from 'lodash';
+import { addMinutes, endOfDay, parse } from "date-fns";
 
-// const SHEET_ID = '1lhr9srU-NWesmIklMBNSoGJt0Fx-GBfvb7zJzfoiJ1M';
-const SHEET_ID = '1deO9EM5GOVSzUbOt4N25WQxAKqce9FAuRU4tyGuV5p4';
+
+const SHEET_ID = '1lhr9srU-NWesmIklMBNSoGJt0Fx-GBfvb7zJzfoiJ1M';
 
 const ITEM_SHEETS = [
   'Housewares',
@@ -76,7 +77,7 @@ export async function main(auth: OAuth2Client) {
     );
 
     console.log(`Normalising data`);
-    data = await normalizeData(data);
+    data = await normalizeData(data, key);
 
     console.log(`Writing data to disk`);
     fs.writeFileSync(`out/${key}.json`, JSON.stringify(data, undefined, ' '));
@@ -110,11 +111,6 @@ export async function loadData(
     const [header, ...rows] = response.data.values!;
 
     for (const row of rows) {
-      if (key === 'creatures') {
-        console.log(row);
-        process.exit(0);
-      }
-
       data.push({SourceSheet: sheetName, ...zipObject(header, row)});
     }
   }
@@ -133,11 +129,14 @@ const valueFormatters: ValueFormatters = {
   house: extractImageUrl,
   uses: normaliseUse,
   source: (input: string) => input.split('\n'),
+  startTime: normaliseTime,
+  endTime: normaliseTime,
 };
 
 const NULL_VALUES = new Set(['None', 'NA', 'Does not play music']);
+const ALL_DAY: Array<[string, string]> = [[new Date(0).toISOString(), endOfDay(new Date(0)).toISOString()]];
 
-export async function normalizeData(data: ItemData) {
+export async function normalizeData(data: ItemData, sheetKey: string) {
   for (const item of data) {
     // Normalise keys first
     for (const objectKey of Object.keys(item)) {
@@ -187,6 +186,26 @@ export async function normalizeData(data: ItemData) {
 
       item[key] = value;
     }
+
+    if (sheetKey === 'creatures') {
+      const startTime: string[] = item['startTime'];
+      const endTime: string[] = item['endTime'];
+      let activeHours: Array<[string, string]> = ALL_DAY;
+
+      if (startTime) {
+        const totalTimeActives = startTime.length;
+        activeHours = [];
+
+        for (let i = 0; i < totalTimeActives; i++) {
+          const start = startTime[i];
+          const end = endTime[i];
+
+          activeHours.push([start, end])
+        }
+      }
+
+      item['activeHours'] = activeHours;
+    }
   }
 
   return data;
@@ -213,4 +232,28 @@ function normaliseUse(input: string | number) {
   }
 
   throw new Error(`Unexpected Use value: ${input}`);
+}
+
+const TIME_FORMAT = 'hh:mm a';
+
+function normaliseTime(input: string | number) {
+  const date = new Date(0);
+
+  if (typeof input === 'number') {
+    const minutesToAdd = input * 24 * 60;
+
+    const output = addMinutes(date, minutesToAdd).toISOString();
+
+    return [output];
+  }
+
+  if (input === 'All day') {
+    return null;
+  }
+
+  return input.split('\n').map((input2) => {
+    const output = parse(input2, TIME_FORMAT, date);
+
+    return output.toISOString();
+  })
 }
