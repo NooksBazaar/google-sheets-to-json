@@ -211,8 +211,8 @@ export async function normalizeData(data: ItemData, sheetKey: string) {
           activeHours.push([start, end]);
         }
       } else {
-        item['startTime'] = activeHours[0][0];
-        item['endTime'] = activeHours[0][1];
+        item['startTime'] = [activeHours[0][0]];
+        item['endTime'] = [activeHours[0][1]];
       }
 
       item['activeHours'] = activeHours;
