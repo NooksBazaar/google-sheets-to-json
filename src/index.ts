@@ -2,7 +2,7 @@ import {OAuth2Client} from 'google-auth-library';
 import {google, sheets_v4} from 'googleapis';
 import fs from 'fs';
 import {zipObject, camelCase} from 'lodash';
-import {addMinutes, endOfDay, parse} from 'date-fns';
+import {addMinutes, parse} from 'date-fns';
 
 const SHEET_ID = '1lhr9srU-NWesmIklMBNSoGJt0Fx-GBfvb7zJzfoiJ1M';
 
@@ -132,9 +132,16 @@ const valueFormatters: ValueFormatters = {
   endTime: normaliseTime,
 };
 
+function emptyDate() {
+  return new Date('1970-01-01T00:00:00.000Z');
+}
+
 const NULL_VALUES = new Set(['None', 'NA', 'Does not play music']);
 const ALL_DAY: Array<[string, string]> = [
-  [new Date(0).toISOString(), endOfDay(new Date(0)).toISOString()],
+  [
+    emptyDate().toISOString(),
+    new Date('1970-01-01T23:59:59.999Z').toISOString(),
+  ],
 ];
 
 export async function normalizeData(data: ItemData, sheetKey: string) {
@@ -203,6 +210,9 @@ export async function normalizeData(data: ItemData, sheetKey: string) {
 
           activeHours.push([start, end]);
         }
+      } else {
+        item['startTime'] = activeHours[0][0];
+        item['endTime'] = activeHours[0][1];
       }
 
       item['activeHours'] = activeHours;
@@ -238,7 +248,7 @@ function normaliseUse(input: string | number) {
 const TIME_FORMAT = 'hh:mm a';
 
 function normaliseTime(input: string | number) {
-  const date = new Date(0);
+  const date = emptyDate();
 
   if (typeof input === 'number') {
     const minutesToAdd = input * 24 * 60;
