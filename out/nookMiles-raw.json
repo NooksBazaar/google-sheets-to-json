@@ -1,0 +1,478 @@
+[
+ {
+  "Category": "",
+  "Name": "arched tile path permit",
+  "Image": "=image(\"https://i.imgur.com/RZsW5np.png\")",
+  "Nook Miles": 2000,
+  "Filename": "FtrGroundMakerStonePattern",
+  "Internal ID": 8776
+ },
+ {
+  "Category": "Recipe",
+  "Name": "bamboo lattice fence",
+  "Image": "=image(\"https://i.imgur.com/bK3wMxl.png\")",
+  "Nook Miles": 1000,
+  "Filename": "ItemFenceBamboo",
+  "Internal ID": 3403
+ },
+ {
+  "Category": "Recipe",
+  "Name": "barbed-wire fence",
+  "Image": "=image(\"https://i.imgur.com/bK3wMxl.png\")",
+  "Nook Miles": 1000,
+  "Filename": "ItemFenceBarbedWire",
+  "Internal ID": 5213
+ },
+ {
+  "Category": "",
+  "Name": "Bell voucher",
+  "Image": "=image(\"https://i.imgur.com/NdMAOFh.png\")",
+  "Nook Miles": 500,
+  "Filename": "BellExchangeTicket",
+  "Internal ID": 9964
+ },
+ {
+  "Category": "Recipe",
+  "Name": "brick fence",
+  "Image": "=image(\"https://i.imgur.com/bK3wMxl.png\")",
+  "Nook Miles": 1000,
+  "Filename": "ItemFenceWallRenga",
+  "Internal ID": 3080
+ },
+ {
+  "Category": "",
+  "Name": "brick path permit",
+  "Image": "=image(\"https://i.imgur.com/RZsW5np.png\")",
+  "Nook Miles": 2000,
+  "Filename": "FtrGroundMakerBrick",
+  "Internal ID": 8774
+ },
+ {
+  "Category": "",
+  "Name": "cliff construction permit",
+  "Image": "=image(\"https://i.imgur.com/sNreCAw.png\")",
+  "Nook Miles": 6000,
+  "Filename": "FtrCliffMaker",
+  "Internal ID": 2543
+ },
+ {
+  "Category": "Recipe",
+  "Name": "corral fence",
+  "Image": "=image(\"https://i.imgur.com/bK3wMxl.png\")",
+  "Nook Miles": 1000,
+  "Filename": "ItemFenceHorizontalWood",
+  "Internal ID": 4349
+ },
+ {
+  "Category": "Recipe",
+  "Name": "country fence",
+  "Image": "=image(\"https://i.imgur.com/bK3wMxl.png\")",
+  "Nook Miles": 1000,
+  "Filename": "ItemFenceLog",
+  "Internal ID": 4350
+ },
+ {
+  "Category": "",
+  "Name": "custom design path permit",
+  "Image": "=image(\"https://i.imgur.com/RZsW5np.png\")",
+  "Nook Miles": 2800,
+  "Filename": "FtrGroundMakerMydesign",
+  "Internal ID": 9771
+ },
+ {
+  "Category": "",
+  "Name": "Custom Design Pro Editor",
+  "Image": "=image(\"https://i.imgur.com/GHbUUKS.png\")",
+  "Nook Miles": 800,
+  "Filename": "HowtoBookMydesingPro",
+  "Internal ID": 12185
+ },
+ {
+  "Category": "",
+  "Name": "customizable phone case kit",
+  "Image": "=image(\"https://i.imgur.com/wjkZITy.png\")",
+  "Nook Miles": 1800,
+  "Filename": "SmartphoneCase",
+  "Internal ID": 8760
+ },
+ {
+  "Category": "",
+  "Name": "dark dirt path permit",
+  "Image": "=image(\"https://i.imgur.com/RZsW5np.png\")",
+  "Nook Miles": 2000,
+  "Filename": "FtrGroundMakerDarkSoil",
+  "Internal ID": 8775
+ },
+ {
+  "Category": "Recipe",
+  "Name": "imperial fence",
+  "Image": "=image(\"https://i.imgur.com/bK3wMxl.png\")",
+  "Nook Miles": 1000,
+  "Filename": "ItemFenceChinese",
+  "Internal ID": 4354
+ },
+ {
+  "Category": "Recipe",
+  "Name": "iron fence",
+  "Image": "=image(\"https://i.imgur.com/bK3wMxl.png\")",
+  "Nook Miles": 1000,
+  "Filename": "ItemFenceSteel",
+  "Internal ID": 4357
+ },
+ {
+  "Category": "Recipe",
+  "Name": "iron-and-stone fence",
+  "Image": "=image(\"https://i.imgur.com/bK3wMxl.png\")",
+  "Nook Miles": 1000,
+  "Filename": "ItemFenceIronAndStone",
+  "Internal ID": 5206
+ },
+ {
+  "Category": "Recipe",
+  "Name": "lattice fence",
+  "Image": "=image(\"https://i.imgur.com/bK3wMxl.png\")",
+  "Nook Miles": 1000,
+  "Filename": "ItemFenceLatiiceNatural",
+  "Internal ID": 11712
+ },
+ {
+  "Category": "",
+  "Name": "Nook Miles Ticket",
+  "Image": "=image(\"https://i.imgur.com/5ccmHPa.png\")",
+  "Nook Miles": 2000,
+  "Filename": "MilePlaneTicket",
+  "Internal ID": 5851
+ },
+ {
+  "Category": "",
+  "Name": "Pocket Organization Guide",
+  "Image": "=image(\"https://i.imgur.com/Nwri4DI.png\")",
+  "Nook Miles": 5000,
+  "Filename": "HowtoBookPocketExpansion",
+  "Internal ID": 9052
+ },
+ {
+  "Category": "",
+  "Name": "Pretty Good Tools Recipes",
+  "Image": "=image(\"https://i.imgur.com/ma78edH.png\")",
+  "Nook Miles": 3000,
+  "Filename": "DIYbookNormalTools",
+  "Internal ID": 9221
+ },
+ {
+  "Category": "Recipe",
+  "Name": "rope fence",
+  "Image": "=image(\"https://i.imgur.com/bK3wMxl.png\")",
+  "Nook Miles": 1000,
+  "Filename": "ItemFencePegRope",
+  "Internal ID": 4352
+ },
+ {
+  "Category": "",
+  "Name": "sand path permit",
+  "Image": "=image(\"https://i.imgur.com/RZsW5np.png\")",
+  "Nook Miles": 2000,
+  "Filename": "FtrGroundMakerSand",
+  "Internal ID": 8777
+ },
+ {
+  "Category": "Recipe",
+  "Name": "simple wooden fence",
+  "Image": "=image(\"https://i.imgur.com/bK3wMxl.png\")",
+  "Nook Miles": 1000,
+  "Filename": "ItemFenceNatural",
+  "Internal ID": 11711
+ },
+ {
+  "Category": "Recipe",
+  "Name": "spiky fence",
+  "Image": "=image(\"https://i.imgur.com/bK3wMxl.png\")",
+  "Nook Miles": 1000,
+  "Filename": "ItemFenceSharply",
+  "Internal ID": 4358
+ },
+ {
+  "Category": "Recipe",
+  "Name": "stone fence",
+  "Image": "=image(\"https://i.imgur.com/bK3wMxl.png\")",
+  "Nook Miles": 1000,
+  "Filename": "ItemFenceStone",
+  "Internal ID": 5212
+ },
+ {
+  "Category": "",
+  "Name": "stone path permit",
+  "Image": "=image(\"https://i.imgur.com/RZsW5np.png\")",
+  "Nook Miles": 2000,
+  "Filename": "FtrGroundMakerStone",
+  "Internal ID": 8773
+ },
+ {
+  "Category": "Recipe",
+  "Name": "straw fence",
+  "Image": "=image(\"https://i.imgur.com/bK3wMxl.png\")",
+  "Nook Miles": 1000,
+  "Filename": "ItemFenceDriedStraw",
+  "Internal ID": 4356
+ },
+ {
+  "Category": "",
+  "Name": "terra-cotta tile permit",
+  "Image": "=image(\"https://i.imgur.com/RZsW5np.png\")",
+  "Nook Miles": 2000,
+  "Filename": "FtrGroundMakerTile",
+  "Internal ID": 8778
+ },
+ {
+  "Category": "",
+  "Name": "Tool Ring: It's Essential!",
+  "Image": "=image(\"https://i.imgur.com/Nwri4DI.png\")",
+  "Nook Miles": 800,
+  "Filename": "HowtoBookRingMenuUI",
+  "Internal ID": 9616
+ },
+ {
+  "Category": "",
+  "Name": "Top 8 Cool Hairstyles",
+  "Image": "=image(\"https://i.imgur.com/APjUcMR.png\")",
+  "Nook Miles": 2400,
+  "Filename": "HowtoBookHairCool",
+  "Internal ID": 9050
+ },
+ {
+  "Category": "",
+  "Name": "Top 8 Pop Hairstyles",
+  "Image": "=image(\"https://i.imgur.com/APjUcMR.png\")",
+  "Nook Miles": 2400,
+  "Filename": "HowtoBookHairPop",
+  "Internal ID": 9049
+ },
+ {
+  "Category": "",
+  "Name": "Top 8 Stylish Hair Colors",
+  "Image": "=image(\"https://i.imgur.com/APjUcMR.png\")",
+  "Nook Miles": 3000,
+  "Filename": "HowtoBookHairColor",
+  "Internal ID": 9051
+ },
+ {
+  "Category": "",
+  "Name": "Ultimate Pocket Stuffing",
+  "Image": "=image(\"https://i.imgur.com/Nwri4DI.png\")",
+  "Nook Miles": 8000,
+  "Filename": "HowtoBookPocketExpansion2",
+  "Internal ID": 11140
+ },
+ {
+  "Category": "Recipe",
+  "Name": "vertical-board fence",
+  "Image": "=image(\"https://i.imgur.com/bK3wMxl.png\")",
+  "Nook Miles": 1000,
+  "Filename": "ItemFenceVerticalWood",
+  "Internal ID": 3402
+ },
+ {
+  "Category": "",
+  "Name": "waterscaping permit",
+  "Image": "=image(\"https://i.imgur.com/qX4Y5Lg.png\")",
+  "Nook Miles": 6000,
+  "Filename": "FtrRiverMaker",
+  "Internal ID": 3247
+ },
+ {
+  "Category": "",
+  "Name": "wooden path permit",
+  "Image": "=image(\"https://i.imgur.com/RZsW5np.png\")",
+  "Nook Miles": 2000,
+  "Filename": "FtrGroundMakerWood",
+  "Internal ID": 8779
+ },
+ {
+  "Category": "Recipe",
+  "Name": "zen fence",
+  "Image": "=image(\"https://i.imgur.com/bK3wMxl.png\")",
+  "Nook Miles": 1000,
+  "Filename": "ItemFenceJapanese",
+  "Internal ID": 5207
+ },
+ {
+  "Name": "(for recipes)",
+  "Image": "=image(\"https://i.imgur.com/zNdiVQF.png\")"
+ },
+ {
+  "Category": "Housewares",
+  "Name": "construction sign",
+  "Image": "=IMAGE(\"https://storage.googleapis.com/acdb/housewares/FtrSignConstruction_Remake_0_0.png\")",
+  "Nook Miles": 1000,
+  "Filename": "FtrSignConstruction",
+  "Internal ID": 9568
+ },
+ {
+  "Category": "Housewares",
+  "Name": "cotton-candy stall",
+  "Image": "=IMAGE(\"https://storage.googleapis.com/acdb/housewares/FtrCottoncandymachine_Remake_0_0.png\")",
+  "Nook Miles": 3000,
+  "Filename": "FtrCottoncandymachine",
+  "Internal ID": 4412
+ },
+ {
+  "Category": "Housewares",
+  "Name": "drink machine",
+  "Image": "=IMAGE(\"https://storage.googleapis.com/acdb/housewares/FtrDrinkmachine_Remake_0_0.png\")",
+  "Nook Miles": 2000,
+  "Filename": "FtrDrinkmachine",
+  "Internal ID": 1802
+ },
+ {
+  "Category": "Housewares",
+  "Name": "lifeguard chair",
+  "Image": "=IMAGE(\"https://storage.googleapis.com/acdb/housewares/FtrMonitoringchair_Remake_0_0.png\")",
+  "Nook Miles": 1000,
+  "Filename": "FtrMonitoringchair",
+  "Internal ID": 3345
+ },
+ {
+  "Category": "Housewares",
+  "Name": "lighthouse",
+  "Image": "=IMAGE(\"https://storage.googleapis.com/acdb/housewares/FtrLighthouse_Remake_0_0.png\")",
+  "Nook Miles": 5000,
+  "Filename": "FtrLighthouse",
+  "Internal ID": 2335
+ },
+ {
+  "Category": "Housewares",
+  "Name": "monster statue",
+  "Image": "=IMAGE(\"https://storage.googleapis.com/acdb/housewares/FtrMonster_Remake_0_0.png\")",
+  "Nook Miles": 5000,
+  "Filename": "FtrMonster",
+  "Internal ID": 4722
+ },
+ {
+  "Category": "Housewares",
+  "Name": "parabolic antenna",
+  "Image": "=IMAGE(\"https://storage.googleapis.com/acdb/housewares/FtrParabolicantenna_Remake_0_0.png\")",
+  "Nook Miles": 4000,
+  "Filename": "FtrParabolicantenna",
+  "Internal ID": 2352
+ },
+ {
+  "Category": "Housewares",
+  "Name": "park clock",
+  "Image": "=IMAGE(\"https://storage.googleapis.com/acdb/housewares/FtrParkclock_Remake_0_0.png\")",
+  "Nook Miles": 2400,
+  "Filename": "FtrParkclock",
+  "Internal ID": 3595
+ },
+ {
+  "Category": "Housewares",
+  "Name": "phone box",
+  "Image": "=IMAGE(\"https://storage.googleapis.com/acdb/housewares/FtrTelephonebox_Remake_0_0.png\")",
+  "Nook Miles": 2400,
+  "Filename": "FtrTelephonebox",
+  "Internal ID": 1185
+ },
+ {
+  "Category": "Housewares",
+  "Name": "playground gym",
+  "Image": "=IMAGE(\"https://storage.googleapis.com/acdb/housewares/FtrJunglegym_Remake_0_0.png\")",
+  "Nook Miles": 3000,
+  "Filename": "FtrJunglegym",
+  "Internal ID": 3430
+ },
+ {
+  "Category": "Housewares",
+  "Name": "pool",
+  "Image": "=IMAGE(\"https://storage.googleapis.com/acdb/housewares/FtrPool_Remake_0_0.png\")",
+  "Nook Miles": 5000,
+  "Filename": "FtrPool",
+  "Internal ID": 3596
+ },
+ {
+  "Category": "Housewares",
+  "Name": "portable toilet",
+  "Image": "=IMAGE(\"https://storage.googleapis.com/acdb/housewares/FtrWCPortable_Remake_0_0.png\")",
+  "Nook Miles": 1000,
+  "Filename": "FtrWCPortable",
+  "Internal ID": 1234
+ },
+ {
+  "Category": "Housewares",
+  "Name": "public bench",
+  "Image": "=IMAGE(\"https://storage.googleapis.com/acdb/housewares/FtrPublicbench_Remake_0_0.png\")",
+  "Nook Miles": 2000,
+  "Filename": "FtrPublicbench",
+  "Internal ID": 3346
+ },
+ {
+  "Category": "Housewares",
+  "Name": "snack machine",
+  "Image": "=IMAGE(\"https://storage.googleapis.com/acdb/housewares/FtrFoodmachine_Remake_0_0.png\")",
+  "Nook Miles": 2000,
+  "Filename": "FtrFoodmachine",
+  "Internal ID": 971
+ },
+ {
+  "Category": "Housewares",
+  "Name": "soccer goal",
+  "Image": "=IMAGE(\"https://storage.googleapis.com/acdb/housewares/FtrSoccergoal.png\")",
+  "Nook Miles": 4000,
+  "Filename": "FtrSoccergoal",
+  "Internal ID": 1149
+ },
+ {
+  "Category": "Housewares",
+  "Name": "solar panel",
+  "Image": "=IMAGE(\"https://storage.googleapis.com/acdb/housewares/FtrSolarpanel_Remake_0_0.png\")",
+  "Nook Miles": 4000,
+  "Filename": "FtrSolarpanel",
+  "Internal ID": 2333
+ },
+ {
+  "Category": "Housewares",
+  "Name": "springy ride-on",
+  "Image": "=IMAGE(\"https://storage.googleapis.com/acdb/housewares/FtrSpringrider_Remake_0_0.png\")",
+  "Nook Miles": 2000,
+  "Filename": "FtrSpringrider",
+  "Internal ID": 4379
+ },
+ {
+  "Category": "Housewares",
+  "Name": "streetlamp",
+  "Image": "=IMAGE(\"https://storage.googleapis.com/acdb/housewares/FtrStreetlamp_Remake_0_0.png\")",
+  "Nook Miles": 1000,
+  "Filename": "FtrStreetlamp",
+  "Internal ID": 3816
+ },
+ {
+  "Category": "Housewares",
+  "Name": "teacup ride",
+  "Image": "=IMAGE(\"https://storage.googleapis.com/acdb/housewares/FtrTurncup_Remake_0_0.png\")",
+  "Nook Miles": 5000,
+  "Filename": "FtrTurncup",
+  "Internal ID": 1507
+ },
+ {
+  "Category": "Housewares",
+  "Name": "tourist telescope",
+  "Image": "=IMAGE(\"https://storage.googleapis.com/acdb/housewares/FtrTelescopeSightseeing_Remake_0_0.png\")",
+  "Nook Miles": 2000,
+  "Filename": "FtrTelescopeSightseeing",
+  "Internal ID": 3078
+ },
+ {
+  "Category": "Housewares",
+  "Name": "utility pole",
+  "Image": "=IMAGE(\"https://storage.googleapis.com/acdb/housewares/FtrTelephonepole_Remake_0_0.png\")",
+  "Nook Miles": 1000,
+  "Filename": "FtrTelephonepole",
+  "Internal ID": 9619
+ },
+ {
+  "Category": "Housewares",
+  "Name": "wind turbine",
+  "Image": "=IMAGE(\"https://storage.googleapis.com/acdb/housewares/FtrWindturbine_Remake_0_0.png\")",
+  "Nook Miles": 4000,
+  "Filename": "FtrWindturbine",
+  "Internal ID": 7379
+ }
+]
