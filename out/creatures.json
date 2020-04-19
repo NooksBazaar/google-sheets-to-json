@@ -40,8 +40,8 @@
     "whereHow": "On rotten turnips",
     "weather": "Any weather",
     "rarity": "Common",
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": true,
@@ -59,7 +59,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrInsectAri",
     "internalId": 588,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Bugs - North",
@@ -102,8 +102,8 @@
     "whereHow": "Shaking trees (hardwood or cedar only)",
     "weather": "Any weather",
     "rarity": "Common",
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": true,
@@ -121,7 +121,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrInsectMinomushi",
     "internalId": 622,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Bugs - North",
@@ -195,8 +195,8 @@
     "whereHow": "On palm trees",
     "weather": "Any weather",
     "rarity": "Common",
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": false,
     "feb": false,
     "mar": false,
@@ -214,7 +214,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrInsectHousekizoumushi",
     "internalId": 3485,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Bugs - North",
@@ -288,8 +288,8 @@
     "whereHow": "Shaking trees (hardwood or cedar only)",
     "weather": "Any weather",
     "rarity": "Rare",
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": false,
     "feb": false,
     "mar": false,
@@ -307,7 +307,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrInsectSeminonukegara",
     "internalId": 641,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Bugs - North",
@@ -319,8 +319,8 @@
     "whereHow": "On tree stumps",
     "weather": "Any except rain",
     "rarity": "Common",
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": true,
@@ -338,7 +338,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrInsectGomadarakamikiri",
     "internalId": 609,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Bugs - North",
@@ -474,8 +474,8 @@
     "whereHow": "Flying",
     "weather": "Any except rain",
     "rarity": "Common",
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": false,
@@ -493,7 +493,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrInsectItotonbo",
     "internalId": 5339,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Bugs - North",
@@ -567,8 +567,8 @@
     "whereHow": "On trees (any kind)",
     "weather": "Any weather",
     "rarity": "Common",
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": false,
     "feb": false,
     "mar": false,
@@ -586,7 +586,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrInsectKanabun",
     "internalId": 3480,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Bugs - North",
@@ -598,8 +598,8 @@
     "whereHow": "Pushing snowballs",
     "weather": "Any weather",
     "rarity": "Common",
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": false,
@@ -617,7 +617,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrInsectFunkorogashi",
     "internalId": 604,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Bugs - North",
@@ -629,8 +629,8 @@
     "whereHow": "On trees (any kind)",
     "weather": "Any weather",
     "rarity": "Common",
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": false,
     "feb": false,
     "mar": false,
@@ -648,7 +648,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrInsectSenchikogane",
     "internalId": 614,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Bugs - North",
@@ -756,8 +756,8 @@
     "whereHow": "On villagers",
     "weather": "Any weather",
     "rarity": "Common",
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": false,
     "feb": false,
     "mar": false,
@@ -775,7 +775,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrInsectNomi",
     "internalId": 633,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Bugs - North",
@@ -787,8 +787,8 @@
     "whereHow": "Flying near trash (boots, tires, cans)",
     "weather": "Any weather",
     "rarity": "Common",
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": true,
@@ -806,7 +806,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrInsectHae",
     "internalId": 597,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Bugs - North",
@@ -1252,8 +1252,8 @@
     "whereHow": "On tree stumps",
     "weather": "Any except rain",
     "rarity": "Uncommon",
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": false,
     "feb": false,
     "mar": false,
@@ -1271,7 +1271,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrInsectTamamushi",
     "internalId": 645,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Bugs - North",
@@ -1469,8 +1469,8 @@
     "whereHow": "On trees (any kind)",
     "weather": "Any weather",
     "rarity": "Common",
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": false,
     "feb": false,
     "mar": false,
@@ -1488,7 +1488,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrInsectMiyamakuwagata",
     "internalId": 624,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Bugs - North",
@@ -1500,8 +1500,8 @@
     "whereHow": "Underground (dig where noise is loudest)",
     "weather": "Any weather",
     "rarity": "Common",
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": true,
@@ -1519,7 +1519,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrInsectOkera",
     "internalId": 634,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Bugs - North",
@@ -1965,8 +1965,8 @@
     "whereHow": "On tree stumps",
     "weather": "Any except rain",
     "rarity": "Uncommon",
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": false,
     "feb": false,
     "mar": false,
@@ -1984,7 +1984,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrInsectRuriboshikamikiri",
     "internalId": 3487,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Bugs - North",
@@ -1996,8 +1996,8 @@
     "whereHow": "On trees (any kind)",
     "weather": "Any weather",
     "rarity": "Common",
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": false,
     "feb": false,
     "mar": false,
@@ -2015,7 +2015,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrInsectNokogirikuwagata",
     "internalId": 632,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Bugs - North",
@@ -2089,8 +2089,8 @@
     "whereHow": "On rocks",
     "weather": "Rain only",
     "rarity": "Common",
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": true,
@@ -2108,7 +2108,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrInsectKatatsumuri",
     "internalId": 611,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Bugs - North",
@@ -2151,8 +2151,8 @@
     "whereHow": "On flowers",
     "weather": "Any except rain",
     "rarity": "Common",
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": false,
     "feb": false,
     "mar": true,
@@ -2170,7 +2170,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrInsectKamemushi",
     "internalId": 608,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Bugs - North",
@@ -2213,8 +2213,8 @@
     "whereHow": "On the ground",
     "weather": "Any except rain",
     "rarity": "Uncommon",
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": false,
     "feb": true,
     "mar": true,
@@ -2232,7 +2232,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrInsectHanmyou",
     "internalId": 599,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Bugs - North",
@@ -2275,8 +2275,8 @@
     "whereHow": "On tree stumps",
     "weather": "Any except rain",
     "rarity": "Common",
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": false,
     "feb": false,
     "mar": false,
@@ -2294,7 +2294,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrInsectBaiorinmushi",
     "internalId": 650,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Bugs - North",
@@ -2337,8 +2337,8 @@
     "whereHow": "Disguised under trees",
     "weather": "Any weather",
     "rarity": "Uncommon",
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": false,
     "feb": false,
     "mar": false,
@@ -2356,7 +2356,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrInsectKonohamushi",
     "internalId": 616,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Bugs - North",
@@ -2402,8 +2402,8 @@
     "whereHow": "Shaking trees",
     "weather": "Any weather",
     "rarity": "Common",
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": true,
@@ -2421,7 +2421,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrInsectHachi",
     "internalId": 643,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Bugs - North",
@@ -2433,8 +2433,8 @@
     "whereHow": "On beach rocks",
     "weather": "Any weather",
     "rarity": "Common",
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": true,
@@ -2452,7 +2452,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrInsectFunamushi",
     "internalId": 591,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Bugs - North",
@@ -2526,8 +2526,8 @@
     "whereHow": "On rotten turnips",
     "weather": "Any weather",
     "rarity": "Common",
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": true,
@@ -2545,7 +2545,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrInsectAri",
     "internalId": 588,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Bugs - South",
@@ -2588,8 +2588,8 @@
     "whereHow": "Shaking trees (hardwood or cedar only)",
     "weather": "Any weather",
     "rarity": "Common",
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": true,
@@ -2607,7 +2607,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrInsectMinomushi",
     "internalId": 622,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Bugs - South",
@@ -2681,8 +2681,8 @@
     "whereHow": "On palm trees",
     "weather": "Any weather",
     "rarity": "Common",
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": false,
@@ -2700,7 +2700,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrInsectHousekizoumushi",
     "internalId": 3485,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Bugs - South",
@@ -2774,8 +2774,8 @@
     "whereHow": "Shaking trees (hardwood or cedar only)",
     "weather": "Any weather",
     "rarity": "Rare",
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": false,
@@ -2793,7 +2793,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrInsectSeminonukegara",
     "internalId": 641,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Bugs - South",
@@ -2805,8 +2805,8 @@
     "whereHow": "On tree stumps",
     "weather": "Any except rain",
     "rarity": "Common",
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": true,
@@ -2824,7 +2824,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrInsectGomadarakamikiri",
     "internalId": 609,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Bugs - South",
@@ -2960,8 +2960,8 @@
     "whereHow": "Flying",
     "weather": "Any except rain",
     "rarity": "Common",
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": false,
     "feb": false,
     "mar": false,
@@ -2979,7 +2979,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrInsectItotonbo",
     "internalId": 5339,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Bugs - South",
@@ -3053,8 +3053,8 @@
     "whereHow": "On trees (any kind)",
     "weather": "Any weather",
     "rarity": "Common",
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": false,
@@ -3072,7 +3072,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrInsectKanabun",
     "internalId": 3480,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Bugs - South",
@@ -3084,8 +3084,8 @@
     "whereHow": "Pushing snowballs",
     "weather": "Any weather",
     "rarity": "Common",
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": false,
     "feb": false,
     "mar": false,
@@ -3103,7 +3103,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrInsectFunkorogashi",
     "internalId": 604,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Bugs - South",
@@ -3115,8 +3115,8 @@
     "whereHow": "On trees (any kind)",
     "weather": "Any weather",
     "rarity": "Common",
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": true,
@@ -3134,7 +3134,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrInsectSenchikogane",
     "internalId": 614,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Bugs - South",
@@ -3242,8 +3242,8 @@
     "whereHow": "On villagers",
     "weather": "Any weather",
     "rarity": "Common",
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": true,
@@ -3261,7 +3261,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrInsectNomi",
     "internalId": 633,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Bugs - South",
@@ -3273,8 +3273,8 @@
     "whereHow": "Flying near trash (boots, tires, cans)",
     "weather": "Any weather",
     "rarity": "Common",
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": true,
@@ -3292,7 +3292,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrInsectHae",
     "internalId": 597,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Bugs - South",
@@ -3738,8 +3738,8 @@
     "whereHow": "On tree stumps",
     "weather": "Any except rain",
     "rarity": "Uncommon",
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": false,
@@ -3757,7 +3757,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrInsectTamamushi",
     "internalId": 645,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Bugs - South",
@@ -3955,8 +3955,8 @@
     "whereHow": "On trees (any kind)",
     "weather": "Any weather",
     "rarity": "Common",
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": false,
@@ -3974,7 +3974,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrInsectMiyamakuwagata",
     "internalId": 624,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Bugs - South",
@@ -3986,8 +3986,8 @@
     "whereHow": "Underground (dig where noise is loudest)",
     "weather": "Any weather",
     "rarity": "Common",
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": false,
     "feb": false,
     "mar": false,
@@ -4005,7 +4005,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrInsectOkera",
     "internalId": 634,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Bugs - South",
@@ -4451,8 +4451,8 @@
     "whereHow": "On tree stumps",
     "weather": "Any except rain",
     "rarity": "Uncommon",
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": true,
@@ -4470,7 +4470,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrInsectRuriboshikamikiri",
     "internalId": 3487,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Bugs - South",
@@ -4482,8 +4482,8 @@
     "whereHow": "On trees (any kind)",
     "weather": "Any weather",
     "rarity": "Common",
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": false,
@@ -4501,7 +4501,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrInsectNokogirikuwagata",
     "internalId": 632,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Bugs - South",
@@ -4575,8 +4575,8 @@
     "whereHow": "On rocks",
     "weather": "Rain only",
     "rarity": "Common",
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": true,
@@ -4594,7 +4594,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrInsectKatatsumuri",
     "internalId": 611,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Bugs - South",
@@ -4637,8 +4637,8 @@
     "whereHow": "On flowers",
     "weather": "Any except rain",
     "rarity": "Common",
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": true,
@@ -4656,7 +4656,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrInsectKamemushi",
     "internalId": 608,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Bugs - South",
@@ -4699,8 +4699,8 @@
     "whereHow": "On the ground",
     "weather": "Any except rain",
     "rarity": "Uncommon",
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": true,
@@ -4718,7 +4718,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrInsectHanmyou",
     "internalId": 599,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Bugs - South",
@@ -4761,8 +4761,8 @@
     "whereHow": "On tree stumps",
     "weather": "Any except rain",
     "rarity": "Common",
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": false,
     "feb": false,
     "mar": true,
@@ -4780,7 +4780,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrInsectBaiorinmushi",
     "internalId": 650,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Bugs - South",
@@ -4823,8 +4823,8 @@
     "whereHow": "Disguised under trees",
     "weather": "Any weather",
     "rarity": "Uncommon",
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": true,
@@ -4842,7 +4842,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrInsectKonohamushi",
     "internalId": 616,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Bugs - South",
@@ -4888,8 +4888,8 @@
     "whereHow": "Shaking trees",
     "weather": "Any weather",
     "rarity": "Common",
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": true,
@@ -4907,7 +4907,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrInsectHachi",
     "internalId": 643,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Bugs - South",
@@ -4919,8 +4919,8 @@
     "whereHow": "On beach rocks",
     "weather": "Any weather",
     "rarity": "Common",
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": true,
@@ -4938,7 +4938,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrInsectFunamushi",
     "internalId": 591,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Bugs - South",
@@ -5118,8 +5118,8 @@
     "shadow": "Medium",
     "rarity": "Uncommon",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": false,
     "feb": false,
     "mar": true,
@@ -5139,7 +5139,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishIshidai",
     "internalId": 2265,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - North",
@@ -5220,8 +5220,8 @@
     "shadow": "X-Small",
     "rarity": "Common",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": true,
@@ -5241,7 +5241,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishTanago",
     "internalId": 2215,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - North",
@@ -5254,8 +5254,8 @@
     "shadow": "Large",
     "rarity": "Common",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": true,
@@ -5275,7 +5275,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishBlackbass",
     "internalId": 2234,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - North",
@@ -5322,8 +5322,8 @@
     "shadow": "XX-Large",
     "rarity": "Rare",
     "rainSnowCatchUp": true,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": true,
@@ -5343,7 +5343,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishKajiki",
     "internalId": 2275,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - North",
@@ -5390,8 +5390,8 @@
     "shadow": "Small",
     "rarity": "Common",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": false,
     "feb": false,
     "mar": false,
@@ -5411,7 +5411,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishChouchouuo",
     "internalId": 2259,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - North",
@@ -5424,8 +5424,8 @@
     "shadow": "Large",
     "rarity": "Common",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": true,
@@ -5445,7 +5445,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishKoi",
     "internalId": 2219,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - North",
@@ -5560,8 +5560,8 @@
     "shadow": "X-Small",
     "rarity": "Common",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": false,
     "feb": false,
     "mar": false,
@@ -5581,7 +5581,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishKumanomi",
     "internalId": 2257,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - North",
@@ -5594,8 +5594,8 @@
     "shadow": "XX-Large",
     "rarity": "Ultra-rare",
     "rainSnowCatchUp": true,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": true,
@@ -5615,7 +5615,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishSirakansu",
     "internalId": 2284,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - North",
@@ -5628,8 +5628,8 @@
     "shadow": "Small",
     "rarity": "Common",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": false,
     "feb": false,
     "mar": false,
@@ -5649,7 +5649,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishZarigani",
     "internalId": 2223,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - North",
@@ -5662,8 +5662,8 @@
     "shadow": "Small",
     "rarity": "Common",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": true,
@@ -5683,7 +5683,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishFuna",
     "internalId": 328,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - North",
@@ -5696,8 +5696,8 @@
     "shadow": "Medium",
     "rarity": "Common",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": true,
@@ -5717,7 +5717,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishKarei",
     "internalId": 2268,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - North",
@@ -5866,8 +5866,8 @@
     "shadow": "Small",
     "rarity": "Common",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": false,
     "feb": false,
     "mar": false,
@@ -5887,7 +5887,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishKaeru",
     "internalId": 2226,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - North",
@@ -5968,8 +5968,8 @@
     "shadow": "X-Large",
     "rarity": "Uncommon",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": false,
     "feb": false,
     "mar": false,
@@ -5989,7 +5989,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishGT",
     "internalId": 2276,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - North",
@@ -6036,8 +6036,8 @@
     "shadow": "X-Small",
     "rarity": "Common",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": true,
@@ -6057,7 +6057,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishKingyo",
     "internalId": 329,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - North",
@@ -6172,8 +6172,8 @@
     "shadow": "Small",
     "rarity": "Common",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": true,
@@ -6193,7 +6193,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishAji",
     "internalId": 2264,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - North",
@@ -6206,8 +6206,8 @@
     "shadow": "X-Small",
     "rarity": "Common",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": false,
     "feb": false,
     "mar": false,
@@ -6227,7 +6227,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishMedaka",
     "internalId": 2222,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - North",
@@ -6240,8 +6240,8 @@
     "shadow": "X-Large",
     "rarity": "Uncommon",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": false,
     "feb": false,
     "mar": false,
@@ -6261,7 +6261,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishKingsalmon",
     "internalId": 2243,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - North",
@@ -6308,8 +6308,8 @@
     "shadow": "Small",
     "rarity": "Common",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": false,
     "feb": false,
     "mar": true,
@@ -6329,7 +6329,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishDojou",
     "internalId": 2228,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - North",
@@ -6342,8 +6342,8 @@
     "shadow": "X-Large",
     "rarity": "Rare",
     "rainSnowCatchUp": true,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": false,
     "feb": false,
     "mar": false,
@@ -6363,7 +6363,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishShiira",
     "internalId": 4202,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - North",
@@ -6410,8 +6410,8 @@
     "shadow": "Long",
     "rarity": "Uncommon",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": false,
     "feb": false,
     "mar": false,
@@ -6431,7 +6431,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishUtsubo",
     "internalId": 2271,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - North",
@@ -6546,8 +6546,8 @@
     "shadow": "XX-Large",
     "rarity": "Rare",
     "rainSnowCatchUp": true,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": true,
@@ -6567,7 +6567,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishRyugu",
     "internalId": 2283,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - North",
@@ -6614,8 +6614,8 @@
     "shadow": "X-Large",
     "rarity": "Common",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": true,
@@ -6635,7 +6635,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishHirame",
     "internalId": 2269,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - North",
@@ -6682,8 +6682,8 @@
     "shadow": "X-Large",
     "rarity": "Uncommon",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": false,
     "feb": false,
     "mar": false,
@@ -6703,7 +6703,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishPaiku",
     "internalId": 2235,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - North",
@@ -6753,8 +6753,8 @@
     "shadow": "Small",
     "rarity": "Common",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": false,
@@ -6774,7 +6774,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishWakasagi",
     "internalId": 2236,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - North",
@@ -6821,8 +6821,8 @@
     "shadow": "Medium",
     "rarity": "Common",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": false,
     "feb": false,
     "mar": false,
@@ -6842,7 +6842,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishHarisenbon",
     "internalId": 2263,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - North",
@@ -6957,8 +6957,8 @@
     "shadow": "Large",
     "rarity": "Common",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": true,
@@ -6978,7 +6978,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishTai",
     "internalId": 2267,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - North",
@@ -6991,8 +6991,8 @@
     "shadow": "Long",
     "rarity": "Common",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": false,
     "feb": false,
     "mar": false,
@@ -7012,7 +7012,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishHanahige",
     "internalId": 2272,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - North",
@@ -7059,8 +7059,8 @@
     "shadow": "Large",
     "rarity": "Common",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": false,
     "feb": false,
     "mar": false,
@@ -7080,7 +7080,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishSake",
     "internalId": 2242,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - North",
@@ -7127,8 +7127,8 @@
     "shadow": "X-Large",
     "rarity": "Common",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": true,
@@ -7148,7 +7148,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishSuzuki",
     "internalId": 2266,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - North",
@@ -7161,8 +7161,8 @@
     "shadow": "X-Small",
     "rarity": "Common",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": true,
@@ -7182,7 +7182,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishKurione",
     "internalId": 2255,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - North",
@@ -7195,8 +7195,8 @@
     "shadow": "X-Small",
     "rarity": "Common",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": false,
     "feb": false,
     "mar": false,
@@ -7216,7 +7216,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishTatsunootoshigo",
     "internalId": 2256,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - North",
@@ -7297,8 +7297,8 @@
     "shadow": "Medium",
     "rarity": "Common",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": true,
@@ -7318,7 +7318,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishIka",
     "internalId": 2270,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - North",
@@ -7365,8 +7365,8 @@
     "shadow": "XX-Large",
     "rarity": "Uncommon",
     "rainSnowCatchUp": true,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": true,
@@ -7386,7 +7386,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishTyouzame",
     "internalId": 4189,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - North",
@@ -7399,8 +7399,8 @@
     "shadow": "Medium w/Fin",
     "rarity": "Uncommon",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": false,
     "feb": false,
     "mar": false,
@@ -7420,7 +7420,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishKobanzame",
     "internalId": 4203,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - North",
@@ -7433,8 +7433,8 @@
     "shadow": "Small",
     "rarity": "Common",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": false,
     "feb": false,
     "mar": false,
@@ -7454,7 +7454,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishNanyouhagi",
     "internalId": 2258,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - North",
@@ -7467,8 +7467,8 @@
     "shadow": "Medium",
     "rarity": "Common",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": false,
     "feb": false,
     "mar": false,
@@ -7488,7 +7488,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishAyu",
     "internalId": 2237,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - North",
@@ -7501,8 +7501,8 @@
     "shadow": "X-Small",
     "rarity": "Common",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": false,
     "feb": false,
     "mar": true,
@@ -7522,7 +7522,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishOtama",
     "internalId": 2225,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - North",
@@ -7535,8 +7535,8 @@
     "shadow": "Medium",
     "rarity": "Common",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": false,
     "feb": false,
     "mar": false,
@@ -7556,7 +7556,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishThirapia",
     "internalId": 4190,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - North",
@@ -7569,8 +7569,8 @@
     "shadow": "XX-Large",
     "rarity": "Rare",
     "rainSnowCatchUp": true,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": true,
@@ -7590,7 +7590,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishMaguro",
     "internalId": 2274,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - North",
@@ -7603,8 +7603,8 @@
     "shadow": "Large w/Fin",
     "rarity": "Rare",
     "rainSnowCatchUp": true,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": false,
     "feb": false,
     "mar": false,
@@ -7624,7 +7624,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishJinbee",
     "internalId": 2282,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - North",
@@ -7637,8 +7637,8 @@
     "shadow": "Medium",
     "rarity": "Common",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": true,
@@ -7658,7 +7658,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishYellowparch",
     "internalId": 2233,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - North",
@@ -7671,8 +7671,8 @@
     "shadow": "Medium",
     "rarity": "Common",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": false,
     "feb": false,
     "mar": false,
@@ -7692,7 +7692,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishMinokasago",
     "internalId": 2261,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - South",
@@ -7841,8 +7841,8 @@
     "shadow": "Medium",
     "rarity": "Uncommon",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": true,
@@ -7862,7 +7862,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishIshidai",
     "internalId": 2265,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - South",
@@ -7943,8 +7943,8 @@
     "shadow": "X-Small",
     "rarity": "Common",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": false,
     "feb": false,
     "mar": false,
@@ -7964,7 +7964,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishTanago",
     "internalId": 2215,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - South",
@@ -7977,8 +7977,8 @@
     "shadow": "Large",
     "rarity": "Common",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": true,
@@ -7998,7 +7998,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishBlackbass",
     "internalId": 2234,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - South",
@@ -8045,8 +8045,8 @@
     "shadow": "XX-Large",
     "rarity": "Rare",
     "rainSnowCatchUp": true,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": true,
@@ -8066,7 +8066,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishKajiki",
     "internalId": 2275,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - South",
@@ -8113,8 +8113,8 @@
     "shadow": "Small",
     "rarity": "Common",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": true,
@@ -8134,7 +8134,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishChouchouuo",
     "internalId": 2259,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - South",
@@ -8147,8 +8147,8 @@
     "shadow": "Large",
     "rarity": "Common",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": true,
@@ -8168,7 +8168,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishKoi",
     "internalId": 2219,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - South",
@@ -8283,8 +8283,8 @@
     "shadow": "X-Small",
     "rarity": "Common",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": true,
@@ -8304,7 +8304,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishKumanomi",
     "internalId": 2257,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - South",
@@ -8317,8 +8317,8 @@
     "shadow": "XX-Large",
     "rarity": "Ultra-rare",
     "rainSnowCatchUp": true,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": true,
@@ -8338,7 +8338,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishSirakansu",
     "internalId": 2284,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - South",
@@ -8351,8 +8351,8 @@
     "shadow": "Small",
     "rarity": "Common",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": true,
@@ -8372,7 +8372,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishZarigani",
     "internalId": 2223,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - South",
@@ -8385,8 +8385,8 @@
     "shadow": "Small",
     "rarity": "Common",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": true,
@@ -8406,7 +8406,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishFuna",
     "internalId": 328,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - South",
@@ -8419,8 +8419,8 @@
     "shadow": "Medium",
     "rarity": "Common",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": false,
     "feb": false,
     "mar": false,
@@ -8440,7 +8440,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishKarei",
     "internalId": 2268,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - South",
@@ -8589,8 +8589,8 @@
     "shadow": "Small",
     "rarity": "Common",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": false,
@@ -8610,7 +8610,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishKaeru",
     "internalId": 2226,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - South",
@@ -8691,8 +8691,8 @@
     "shadow": "X-Large",
     "rarity": "Uncommon",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": true,
@@ -8712,7 +8712,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishGT",
     "internalId": 2276,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - South",
@@ -8759,8 +8759,8 @@
     "shadow": "X-Small",
     "rarity": "Common",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": true,
@@ -8780,7 +8780,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishKingyo",
     "internalId": 329,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - South",
@@ -8895,8 +8895,8 @@
     "shadow": "Small",
     "rarity": "Common",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": true,
@@ -8916,7 +8916,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishAji",
     "internalId": 2264,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - South",
@@ -8929,8 +8929,8 @@
     "shadow": "X-Small",
     "rarity": "Common",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": false,
@@ -8950,7 +8950,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishMedaka",
     "internalId": 2222,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - South",
@@ -8963,8 +8963,8 @@
     "shadow": "X-Large",
     "rarity": "Uncommon",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": false,
     "feb": false,
     "mar": true,
@@ -8984,7 +8984,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishKingsalmon",
     "internalId": 2243,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - South",
@@ -9031,8 +9031,8 @@
     "shadow": "Small",
     "rarity": "Common",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": false,
     "feb": false,
     "mar": false,
@@ -9052,7 +9052,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishDojou",
     "internalId": 2228,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - South",
@@ -9065,8 +9065,8 @@
     "shadow": "X-Large",
     "rarity": "Rare",
     "rainSnowCatchUp": true,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": true,
@@ -9086,7 +9086,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishShiira",
     "internalId": 4202,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - South",
@@ -9133,8 +9133,8 @@
     "shadow": "Long",
     "rarity": "Uncommon",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": false,
     "feb": true,
     "mar": true,
@@ -9154,7 +9154,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishUtsubo",
     "internalId": 2271,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - South",
@@ -9269,8 +9269,8 @@
     "shadow": "XX-Large",
     "rarity": "Rare",
     "rainSnowCatchUp": true,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": false,
     "feb": false,
     "mar": false,
@@ -9290,7 +9290,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishRyugu",
     "internalId": 2283,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - South",
@@ -9337,8 +9337,8 @@
     "shadow": "X-Large",
     "rarity": "Common",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": true,
@@ -9358,7 +9358,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishHirame",
     "internalId": 2269,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - South",
@@ -9405,8 +9405,8 @@
     "shadow": "X-Large",
     "rarity": "Uncommon",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": false,
     "feb": false,
     "mar": true,
@@ -9426,7 +9426,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishPaiku",
     "internalId": 2235,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - South",
@@ -9476,8 +9476,8 @@
     "shadow": "Small",
     "rarity": "Common",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": false,
     "feb": false,
     "mar": false,
@@ -9497,7 +9497,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishWakasagi",
     "internalId": 2236,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - South",
@@ -9544,8 +9544,8 @@
     "shadow": "Medium",
     "rarity": "Common",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": true,
@@ -9565,7 +9565,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishHarisenbon",
     "internalId": 2263,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - South",
@@ -9680,8 +9680,8 @@
     "shadow": "Large",
     "rarity": "Common",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": true,
@@ -9701,7 +9701,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishTai",
     "internalId": 2267,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - South",
@@ -9714,8 +9714,8 @@
     "shadow": "Long",
     "rarity": "Common",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": true,
@@ -9735,7 +9735,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishHanahige",
     "internalId": 2272,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - South",
@@ -9782,8 +9782,8 @@
     "shadow": "Large",
     "rarity": "Common",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": false,
     "feb": false,
     "mar": true,
@@ -9803,7 +9803,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishSake",
     "internalId": 2242,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - South",
@@ -9850,8 +9850,8 @@
     "shadow": "X-Large",
     "rarity": "Common",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": true,
@@ -9871,7 +9871,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishSuzuki",
     "internalId": 2266,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - South",
@@ -9884,8 +9884,8 @@
     "shadow": "X-Small",
     "rarity": "Common",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": false,
     "feb": false,
     "mar": false,
@@ -9905,7 +9905,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishKurione",
     "internalId": 2255,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - South",
@@ -9918,8 +9918,8 @@
     "shadow": "X-Small",
     "rarity": "Common",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": true,
@@ -9939,7 +9939,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishTatsunootoshigo",
     "internalId": 2256,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - South",
@@ -10020,8 +10020,8 @@
     "shadow": "Medium",
     "rarity": "Common",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": false,
@@ -10041,7 +10041,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishIka",
     "internalId": 2270,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - South",
@@ -10088,8 +10088,8 @@
     "shadow": "XX-Large",
     "rarity": "Uncommon",
     "rainSnowCatchUp": true,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": false,
     "feb": false,
     "mar": true,
@@ -10109,7 +10109,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishTyouzame",
     "internalId": 4189,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - South",
@@ -10122,8 +10122,8 @@
     "shadow": "Medium w/Fin",
     "rarity": "Uncommon",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": true,
@@ -10143,7 +10143,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishKobanzame",
     "internalId": 4203,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - South",
@@ -10156,8 +10156,8 @@
     "shadow": "Small",
     "rarity": "Common",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": true,
@@ -10177,7 +10177,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishNanyouhagi",
     "internalId": 2258,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - South",
@@ -10190,8 +10190,8 @@
     "shadow": "Medium",
     "rarity": "Common",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": true,
@@ -10211,7 +10211,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishAyu",
     "internalId": 2237,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - South",
@@ -10224,8 +10224,8 @@
     "shadow": "X-Small",
     "rarity": "Common",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": false,
     "mar": false,
@@ -10245,7 +10245,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishOtama",
     "internalId": 2225,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - South",
@@ -10258,8 +10258,8 @@
     "shadow": "Medium",
     "rarity": "Common",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": true,
@@ -10279,7 +10279,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishThirapia",
     "internalId": 4190,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - South",
@@ -10292,8 +10292,8 @@
     "shadow": "XX-Large",
     "rarity": "Rare",
     "rainSnowCatchUp": true,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": false,
     "feb": false,
     "mar": false,
@@ -10313,7 +10313,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishMaguro",
     "internalId": 2274,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - South",
@@ -10326,8 +10326,8 @@
     "shadow": "Large w/Fin",
     "rarity": "Rare",
     "rainSnowCatchUp": true,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": true,
@@ -10347,7 +10347,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishJinbee",
     "internalId": 2282,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - South",
@@ -10360,8 +10360,8 @@
     "shadow": "Medium",
     "rarity": "Common",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": false,
     "feb": false,
     "mar": false,
@@ -10381,7 +10381,7 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishYellowparch",
     "internalId": 2233,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   },
   {
     "sourceSheet": "Fish - South",
@@ -10394,8 +10394,8 @@
     "shadow": "Medium",
     "rarity": "Common",
     "rainSnowCatchUp": false,
-    "startTime": null,
-    "endTime": null,
+    "startTime": ["1970-01-01T00:00:00.000Z"],
+    "endTime": ["1970-01-01T23:59:59.999Z"],
     "jan": true,
     "feb": true,
     "mar": true,
@@ -10415,6 +10415,6 @@
     "critterpediaFilename": null,
     "itemFilename": "FtrFishMinokasago",
     "internalId": 2261,
-    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T22:59:59.999Z"]]
+    "activeHours": [["1970-01-01T00:00:00.000Z", "1970-01-01T23:59:59.999Z"]]
   }
 ]

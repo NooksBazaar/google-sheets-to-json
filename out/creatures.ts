@@ -8,8 +8,8 @@ export interface Creatures {
   whereHow: string;
   weather?: Weather;
   rarity: Rarity;
-  startTime: Date[] | null;
-  endTime: Date[] | null;
+  startTime: Date[];
+  endTime: Date[];
   jan: boolean;
   feb: boolean;
   mar: boolean;
