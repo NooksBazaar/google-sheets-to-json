@@ -2,7 +2,7 @@
   "name": "google-sheet-to-json",
   "version": "1.0.0",
   "scripts": {
-    "build": "echo \"Error: no test specified\" && exit 1",
+    "build": "bash bin/build.sh",
     "prettier:fix": "prettier '**/*.ts' --write"
   },
   "author": "Adam Lavin",

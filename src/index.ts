@@ -2,8 +2,7 @@ import {OAuth2Client} from 'google-auth-library';
 import {google, sheets_v4} from 'googleapis';
 import fs from 'fs';
 import {zipObject, camelCase} from 'lodash';
-import { addMinutes, endOfDay, parse } from "date-fns";
-
+import {addMinutes, endOfDay, parse} from 'date-fns';
 
 const SHEET_ID = '1lhr9srU-NWesmIklMBNSoGJt0Fx-GBfvb7zJzfoiJ1M';
 
@@ -72,8 +71,8 @@ export async function main(auth: OAuth2Client) {
 
     console.log(`Writing raw file to disk`);
     fs.writeFileSync(
-        `out/${key}-raw.json`,
-        JSON.stringify(data, undefined, ' '),
+      `out/${key}-raw.json`,
+      JSON.stringify(data, undefined, ' '),
     );
 
     console.log(`Normalising data`);
@@ -87,9 +86,9 @@ export async function main(auth: OAuth2Client) {
 }
 
 export async function loadData(
-    sheets: sheets_v4.Sheets,
-    sheetNames: string[],
-    key: string,
+  sheets: sheets_v4.Sheets,
+  sheetNames: string[],
+  key: string,
 ) {
   const cacheFile = `cache/${key}.json`;
 
@@ -134,7 +133,9 @@ const valueFormatters: ValueFormatters = {
 };
 
 const NULL_VALUES = new Set(['None', 'NA', 'Does not play music']);
-const ALL_DAY: Array<[string, string]> = [[new Date(0).toISOString(), endOfDay(new Date(0)).toISOString()]];
+const ALL_DAY: Array<[string, string]> = [
+  [new Date(0).toISOString(), endOfDay(new Date(0)).toISOString()],
+];
 
 export async function normalizeData(data: ItemData, sheetKey: string) {
   for (const item of data) {
@@ -167,8 +168,8 @@ export async function normalizeData(data: ItemData, sheetKey: string) {
       }
 
       if (
-          NULL_VALUES.has(value) ||
-          (typeof value === 'string' && value === '')
+        NULL_VALUES.has(value) ||
+        (typeof value === 'string' && value === '')
       ) {
         value = null;
       }
@@ -200,7 +201,7 @@ export async function normalizeData(data: ItemData, sheetKey: string) {
           const start = startTime[i];
           const end = endTime[i];
 
-          activeHours.push([start, end])
+          activeHours.push([start, end]);
         }
       }
 
@@ -251,9 +252,9 @@ function normaliseTime(input: string | number) {
     return null;
   }
 
-  return input.split('\n').map((input2) => {
+  return input.split('\n').map(input2 => {
     const output = parse(input2, TIME_FORMAT, date);
 
     return output.toISOString();
-  })
+  });
 }

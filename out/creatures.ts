@@ -1,5 +1,5 @@
 export interface Creatures {
-  category: Category;
+  sourceSheet: SourceSheet;
   num: number;
   name: string;
   image: string;
@@ -8,8 +8,8 @@ export interface Creatures {
   whereHow: string;
   weather?: Weather;
   rarity: Rarity;
-  startTime: number | StartTimeEnum;
-  endTime: number | EndTimeEnum;
+  startTime: Date[] | null;
+  endTime: Date[] | null;
   jan: boolean;
   feb: boolean;
   mar: boolean;
@@ -27,17 +27,11 @@ export interface Creatures {
   critterpediaFilename: null;
   itemFilename: string;
   internalId: number;
+  activeHours: Array<Date[]>;
   shadow?: Shadow;
   rainSnowCatchUp?: boolean;
   size?: Size;
   lightingType?: LightingType;
-}
-
-export enum Category {
-  BugsNorth = 'Bugs - North',
-  BugsSouth = 'Bugs - South',
-  FishNorth = 'Fish - North',
-  FishSouth = 'Fish - South',
 }
 
 export enum Color {
@@ -54,12 +48,6 @@ export enum Color {
   Red = 'Red',
   White = 'White',
   Yellow = 'Yellow',
-}
-
-export enum EndTimeEnum {
-  AllDay = 'All day',
-  The400Pm400Am = '4:00 PM\n4:00 AM',
-  The800Am700Pm = '8:00 AM\n7:00 PM',
 }
 
 export enum LightingType {
@@ -94,11 +82,11 @@ export enum Size {
   The3X2 = '3x2',
 }
 
-export enum StartTimeEnum {
-  AllDay = 'All day',
-  The400Am400Pm = '4:00 AM \n4:00 PM',
-  The400Am500Pm = '4:00 AM\n5:00 PM',
-  The900Am900Pm = '9:00 AM\n9:00 PM',
+export enum SourceSheet {
+  BugsNorth = 'Bugs - North',
+  BugsSouth = 'Bugs - South',
+  FishNorth = 'Fish - North',
+  FishSouth = 'Fish - South',
 }
 
 export enum Weather {

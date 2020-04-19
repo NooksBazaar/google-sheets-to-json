@@ -8,3 +8,4 @@ yarn quicktype out/nookMiles.json -o out/nookMiles.ts --just-types
 yarn quicktype out/recipes.json -o out/recipes.ts --just-types
 
 yarn prettier:fix
+yarn prettier "out/*.json" --write
