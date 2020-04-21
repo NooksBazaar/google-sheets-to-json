@@ -1,9 +1,9 @@
 {
-  "name": "google-sheet-to-json",
+  "name": "@nooksbazaar/acdb",
   "version": "1.0.0",
   "scripts": {
     "build": "bash bin/build.sh",
-    "prettier:fix": "prettier '**/*.ts' --write"
+    "prettier:fix": "prettier '**/*.ts' README.md --write"
   },
   "author": "Adam Lavin",
   "license": "MIT",
