@@ -351,13 +351,16 @@ async function mergeCreatures(data: any[]) {
 
   for (let rawCreature of data) {
     let creature = dataset[rawCreature.internalId];
-    const hemisphere =
-      rawCreature.sourceSheet.slice(-5) === 'North' ? 'northern' : 'southern';
+    const sheetInfo = rawCreature.sourceSheet.split(' - ');
+    const type = sheetInfo[0] === 'Fish' ? 'fish' : 'bug';
+    const hemisphere = sheetInfo[1] === 'North' ? 'northern' : 'southern';
     delete rawCreature['sourceSheet'];
 
     if (!creature) {
       creature = {
         ...omit(rawCreature, [...AVAILABILITY_KEYS, 'uniqueEntryId']),
+        type,
+        specialSell: Math.round(rawCreature.sell * 1.5), // CJ / Flicks
         uniqueEntryId: {},
         availability: {},
       };

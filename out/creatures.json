@@ -17,6 +17,8 @@
     "itemFilename": "FtrFishFuna",
     "internalId": 328,
     "activeHours": [["01:00", "00:59"]],
+    "type": "fish",
+    "specialSell": 240,
     "uniqueEntryId": {
       "northern": "Pdw7vmJz9PRM4ggbf",
       "southern": "HTW3XWdNyCePoPPpj"
@@ -70,6 +72,8 @@
     "itemFilename": "FtrFishKingyo",
     "internalId": 329,
     "activeHours": [["01:00", "00:59"]],
+    "type": "fish",
+    "specialSell": 1950,
     "uniqueEntryId": {
       "northern": "5NwmwhEQxBNZCPiBR",
       "southern": "jGrjMc728aie74wtL"
@@ -120,6 +124,8 @@
     "itemFilename": "FtrInsectAburazemi",
     "internalId": 582,
     "activeHours": [["09:00", "18:00"]],
+    "type": "bug",
+    "specialSell": 375,
     "uniqueEntryId": {
       "northern": "gBLRZ2J2R2wwYWFCk",
       "southern": "nE5mZLdJmZRn6guDE"
@@ -170,6 +176,8 @@
     "itemFilename": "FtrInsectAgehacho",
     "internalId": 583,
     "activeHours": [["05:00", "20:00"]],
+    "type": "bug",
+    "specialSell": 360,
     "uniqueEntryId": {
       "northern": "GcSpepwg536mYnNuu",
       "southern": "2FMin5SnjchFPvPhX"
@@ -220,6 +228,8 @@
     "itemFilename": "FtrInsectAkaeritoribaneageha",
     "internalId": 584,
     "activeHours": [["09:00", "18:00"]],
+    "type": "bug",
+    "specialSell": 3750,
     "uniqueEntryId": {
       "northern": "gLpHgXT4pPXP4XfWQ",
       "southern": "EtLxJXigbC7ugkFLf"
@@ -270,6 +280,8 @@
     "itemFilename": "FtrInsectAkiakane",
     "internalId": 585,
     "activeHours": [["09:00", "20:00"]],
+    "type": "bug",
+    "specialSell": 270,
     "uniqueEntryId": {
       "northern": "PKSHvkPphXteXHKuG",
       "southern": "5ySEjwXpuRyASBjXb"
@@ -320,6 +332,8 @@
     "itemFilename": "FtrInsectArekisandoratoribaneageha",
     "internalId": 586,
     "activeHours": [["09:00", "17:00"]],
+    "type": "bug",
+    "specialSell": 6000,
     "uniqueEntryId": {
       "northern": "PbNXeN9GZuJuow7jv",
       "southern": "9foTeyu68daFMmbbK"
@@ -370,6 +384,8 @@
     "itemFilename": "FtrInsectAmenbo",
     "internalId": 587,
     "activeHours": [["09:00", "20:00"]],
+    "type": "bug",
+    "specialSell": 195,
     "uniqueEntryId": {
       "northern": "eSBNwiuZforpxNYem",
       "southern": "KkJGk44HYTEYD7YZu"
@@ -420,6 +436,8 @@
     "itemFilename": "FtrInsectAri",
     "internalId": 588,
     "activeHours": [["01:00", "00:59"]],
+    "type": "bug",
+    "specialSell": 120,
     "uniqueEntryId": {
       "northern": "QZpmczZu4hW2a4Rpv",
       "southern": "fFDQQcYH5DFKY3eEE"
@@ -470,6 +488,8 @@
     "itemFilename": "FtrInsectDangomushi",
     "internalId": 590,
     "activeHours": [["00:00", "17:00"]],
+    "type": "bug",
+    "specialSell": 375,
     "uniqueEntryId": {
       "northern": "SGHXhcTzaNJD2z926",
       "southern": "H3LoBRmc9JcNRMTAp"
@@ -520,6 +540,8 @@
     "itemFilename": "FtrInsectFunamushi",
     "internalId": 591,
     "activeHours": [["01:00", "00:59"]],
+    "type": "bug",
+    "specialSell": 300,
     "uniqueEntryId": {
       "northern": "2fp9ChfPuPdYefTK3",
       "southern": "2HmZjrCW258Z8h4T2"
@@ -570,6 +592,8 @@
     "itemFilename": "FtrInsectGa",
     "internalId": 592,
     "activeHours": [["20:00", "05:00"]],
+    "type": "bug",
+    "specialSell": 195,
     "uniqueEntryId": {
       "northern": "7Kd97rqbYBuzuCHgf",
       "southern": "9GNhLLWGutb7kjddS"
@@ -620,6 +644,8 @@
     "itemFilename": "FtrInsectGengorou",
     "internalId": 594,
     "activeHours": [["09:00", "20:00"]],
+    "type": "bug",
+    "specialSell": 1200,
     "uniqueEntryId": {
       "northern": "CBjt7itnPqEtNznrX",
       "southern": "wZqpH7YKJKgfkXQYP"
@@ -670,6 +696,8 @@
     "itemFilename": "FtrInsectGinyanma",
     "internalId": 595,
     "activeHours": [["09:00", "18:00"]],
+    "type": "bug",
+    "specialSell": 345,
     "uniqueEntryId": {
       "northern": "723NiWMh4iY9RJtAM",
       "southern": "FnjeJpLiQrHojaj2P"
@@ -720,6 +748,8 @@
     "itemFilename": "FtrInsectGoraiasuohtsunohanamuguri",
     "internalId": 596,
     "activeHours": [["18:00", "09:00"]],
+    "type": "bug",
+    "specialSell": 12000,
     "uniqueEntryId": {
       "northern": "wZQMZfhtRyPFAapmF",
       "southern": "xZgsvrq8ejhtDXywK"
@@ -770,6 +800,8 @@
     "itemFilename": "FtrInsectHae",
     "internalId": 597,
     "activeHours": [["01:00", "00:59"]],
+    "type": "bug",
+    "specialSell": 90,
     "uniqueEntryId": {
       "northern": "xdBmuMgXJ6jGxpabK",
       "southern": "3bFo9zLis2uJsSs39"
@@ -820,6 +852,8 @@
     "itemFilename": "FtrInsectHanakamakiri",
     "internalId": 598,
     "activeHours": [["09:00", "18:00"]],
+    "type": "bug",
+    "specialSell": 3600,
     "uniqueEntryId": {
       "northern": "9b4v6nMrrThHEtNbB",
       "southern": "4CX8BNnkfkc59p8mh"
@@ -870,6 +904,8 @@
     "itemFilename": "FtrInsectHanmyou",
     "internalId": 599,
     "activeHours": [["01:00", "00:59"]],
+    "type": "bug",
+    "specialSell": 2250,
     "uniqueEntryId": {
       "northern": "zzGvu3797KnMb4LCD",
       "southern": "omvbhSkSFG2TSzZhB"
@@ -920,6 +956,8 @@
     "itemFilename": "FtrInsectHerakuresuohkabuto",
     "internalId": 600,
     "activeHours": [["18:00", "09:00"]],
+    "type": "bug",
+    "specialSell": 18000,
     "uniqueEntryId": {
       "northern": "TqhEomNEMDZ2wcTpk",
       "southern": "j6xSQNBEhXz4Wighp"
@@ -973,6 +1011,8 @@
       ["04:00", "08:00"],
       ["16:00", "19:00"]
     ],
+    "type": "bug",
+    "specialSell": 825,
     "uniqueEntryId": {
       "northern": "kzX4apD9C3Nq8khzR",
       "southern": "a43ajJPorQhS7sR8W"
@@ -1023,6 +1063,8 @@
     "itemFilename": "FtrInsectHosoakakuwagata",
     "internalId": 602,
     "activeHours": [["18:00", "09:00"]],
+    "type": "bug",
+    "specialSell": 12000,
     "uniqueEntryId": {
       "northern": "moBevd7J5hwpHeLcs",
       "southern": "ZwejbnAsAKgvKBNin"
@@ -1073,6 +1115,8 @@
     "itemFilename": "FtrInsectHotaru",
     "internalId": 603,
     "activeHours": [["20:00", "05:00"]],
+    "type": "bug",
+    "specialSell": 450,
     "uniqueEntryId": {
       "northern": "PgiwPqykwafyz5EL6",
       "southern": "HJ3XbfivDgBywq9N8"
@@ -1123,6 +1167,8 @@
     "itemFilename": "FtrInsectFunkorogashi",
     "internalId": 604,
     "activeHours": [["01:00", "00:59"]],
+    "type": "bug",
+    "specialSell": 4500,
     "uniqueEntryId": {
       "northern": "p9RhE8wLWpHtcoq5G",
       "southern": "32ghB3sXkqSiCzXTr"
@@ -1173,6 +1219,8 @@
     "itemFilename": "FtrInsectInago",
     "internalId": 605,
     "activeHours": [["09:00", "20:00"]],
+    "type": "bug",
+    "specialSell": 600,
     "uniqueEntryId": {
       "northern": "ZxXDxrgPvXEHz24Ni",
       "southern": "y4ABcN68yhfH2fajz"
@@ -1223,6 +1271,8 @@
     "itemFilename": "FtrInsectKa",
     "internalId": 606,
     "activeHours": [["18:00", "05:00"]],
+    "type": "bug",
+    "specialSell": 195,
     "uniqueEntryId": {
       "northern": "3mMZ74qpWWnoizJHh",
       "southern": "MAdbgFggj3EfHmTwt"
@@ -1273,6 +1323,8 @@
     "itemFilename": "FtrInsectKamakiri",
     "internalId": 607,
     "activeHours": [["09:00", "18:00"]],
+    "type": "bug",
+    "specialSell": 645,
     "uniqueEntryId": {
       "northern": "Qko2mfz7SaESpMcCv",
       "southern": "ubxZf9ebNCL7wN74H"
@@ -1323,6 +1375,8 @@
     "itemFilename": "FtrInsectKamemushi",
     "internalId": 608,
     "activeHours": [["01:00", "00:59"]],
+    "type": "bug",
+    "specialSell": 180,
     "uniqueEntryId": {
       "northern": "4u5GZ4z3CyaHhMgqj",
       "southern": "ewYPTwARFE9W2BnNg"
@@ -1373,6 +1427,8 @@
     "itemFilename": "FtrInsectGomadarakamikiri",
     "internalId": 609,
     "activeHours": [["01:00", "00:59"]],
+    "type": "bug",
+    "specialSell": 525,
     "uniqueEntryId": {
       "northern": "QR88MPLzYxSCHWZJb",
       "southern": "iYJ6aWNchLGikwy4i"
@@ -1423,6 +1479,8 @@
     "itemFilename": "FtrInsectKarasuageha",
     "internalId": 610,
     "activeHours": [["05:00", "20:00"]],
+    "type": "bug",
+    "specialSell": 3750,
     "uniqueEntryId": {
       "northern": "rguKzmnRkGmBMKzyE",
       "southern": "EcLvQM5LfdgR4o2en"
@@ -1473,6 +1531,8 @@
     "itemFilename": "FtrInsectKatatsumuri",
     "internalId": 611,
     "activeHours": [["01:00", "00:59"]],
+    "type": "bug",
+    "specialSell": 375,
     "uniqueEntryId": {
       "northern": "rDNLeQnmJQGxsHpmL",
       "southern": "XEaKyK7nZ89kjfYn8"
@@ -1523,6 +1583,8 @@
     "itemFilename": "FtrInsectKabutomushi",
     "internalId": 612,
     "activeHours": [["18:00", "09:00"]],
+    "type": "bug",
+    "specialSell": 2025,
     "uniqueEntryId": {
       "northern": "zaG8qsKLpbTjysx7D",
       "southern": "qc5DW5pHENsgubkTK"
@@ -1573,6 +1635,8 @@
     "itemFilename": "FtrInsectKirigirisu",
     "internalId": 613,
     "activeHours": [["09:00", "18:00"]],
+    "type": "bug",
+    "specialSell": 240,
     "uniqueEntryId": {
       "northern": "zkzSLJPkkcwXwShKc",
       "southern": "35BKZ663nxA9bXhr7"
@@ -1623,6 +1687,8 @@
     "itemFilename": "FtrInsectSenchikogane",
     "internalId": 614,
     "activeHours": [["01:00", "00:59"]],
+    "type": "bug",
+    "specialSell": 450,
     "uniqueEntryId": {
       "northern": "k2fqxdYnTF8BpHB7u",
       "southern": "zXpGx9g44pXRhTwyW"
@@ -1673,6 +1739,8 @@
     "itemFilename": "FtrInsectKohkasasuohkabuto",
     "internalId": 615,
     "activeHours": [["18:00", "09:00"]],
+    "type": "bug",
+    "specialSell": 12000,
     "uniqueEntryId": {
       "northern": "S93y8gxrSHFNCFmwJ",
       "southern": "oxCiEy4SuGHxddR9F"
@@ -1723,6 +1791,8 @@
     "itemFilename": "FtrInsectKonohamushi",
     "internalId": 616,
     "activeHours": [["01:00", "00:59"]],
+    "type": "bug",
+    "specialSell": 900,
     "uniqueEntryId": {
       "northern": "kuZaMcg2E7ZX56nio",
       "southern": "9Re9PyCS9hh7moWHP"
@@ -1773,6 +1843,8 @@
     "itemFilename": "FtrInsectKohrogi",
     "internalId": 617,
     "activeHours": [["18:00", "09:00"]],
+    "type": "bug",
+    "specialSell": 195,
     "uniqueEntryId": {
       "northern": "Lr7eFJzJJZpWRWekm",
       "southern": "7ctou5bL6L6xyaTbB"
@@ -1823,6 +1895,8 @@
     "itemFilename": "FtrInsectKumazemi",
     "internalId": 618,
     "activeHours": [["09:00", "18:00"]],
+    "type": "bug",
+    "specialSell": 750,
     "uniqueEntryId": {
       "northern": "nPm2r7idGshQW87MN",
       "southern": "BTYtv2uZoQNd3inj7"
@@ -1873,6 +1947,8 @@
     "itemFilename": "FtrInsectKumo",
     "internalId": 619,
     "activeHours": [["20:00", "09:00"]],
+    "type": "bug",
+    "specialSell": 900,
     "uniqueEntryId": {
       "northern": "s2u8kDoMQx7GbAJTR",
       "southern": "EJ2kKhTf6xfYwcfwy"
@@ -1923,6 +1999,8 @@
     "itemFilename": "FtrInsectMiirotateha",
     "internalId": 620,
     "activeHours": [["09:00", "18:00"]],
+    "type": "bug",
+    "specialSell": 4500,
     "uniqueEntryId": {
       "northern": "aj95rMzdbSbvZy9A2",
       "southern": "cpyr7ogdNjj83JZzd"
@@ -1973,6 +2051,8 @@
     "itemFilename": "FtrInsectMinminzemi",
     "internalId": 621,
     "activeHours": [["09:00", "18:00"]],
+    "type": "bug",
+    "specialSell": 450,
     "uniqueEntryId": {
       "northern": "cd5ymnRmRvT4n4yjB",
       "southern": "Grf5JfQXgY24wYmio"
@@ -2023,6 +2103,8 @@
     "itemFilename": "FtrInsectMinomushi",
     "internalId": 622,
     "activeHours": [["01:00", "00:59"]],
+    "type": "bug",
+    "specialSell": 900,
     "uniqueEntryId": {
       "northern": "QvxgCm82JqHsDknY4",
       "southern": "av4PmoZ2HvnHg5uZS"
@@ -2073,6 +2155,8 @@
     "itemFilename": "FtrInsectMitsubachi",
     "internalId": 623,
     "activeHours": [["09:00", "18:00"]],
+    "type": "bug",
+    "specialSell": 300,
     "uniqueEntryId": {
       "northern": "yeWiAiqDRwinvumDm",
       "southern": "CGTyrwme3ymjY9YkK"
@@ -2123,6 +2207,8 @@
     "itemFilename": "FtrInsectMiyamakuwagata",
     "internalId": 624,
     "activeHours": [["01:00", "00:59"]],
+    "type": "bug",
+    "specialSell": 1500,
     "uniqueEntryId": {
       "northern": "qRGGm6MfuP4Aqdk3M",
       "southern": "kuJXB2RXkoonY9GT4"
@@ -2173,6 +2259,8 @@
     "itemFilename": "FtrInsectMonkicho",
     "internalId": 625,
     "activeHours": [["05:00", "20:00"]],
+    "type": "bug",
+    "specialSell": 240,
     "uniqueEntryId": {
       "northern": "9d92MqgcnGao8wQjB",
       "southern": "jtoNevxkYqPFRQk29"
@@ -2223,6 +2311,8 @@
     "itemFilename": "FtrInsectMonshirocho",
     "internalId": 626,
     "activeHours": [["05:00", "20:00"]],
+    "type": "bug",
+    "specialSell": 240,
     "uniqueEntryId": {
       "northern": "tRJxp5N9XbwAGQHZc",
       "southern": "G2ocQzSSMzftrsReu"
@@ -2273,6 +2363,8 @@
     "itemFilename": "FtrInsectMorufuocho",
     "internalId": 627,
     "activeHours": [["18:00", "09:00"]],
+    "type": "bug",
+    "specialSell": 6000,
     "uniqueEntryId": {
       "northern": "Lwkf7oQ3mcWYm6eEY",
       "southern": "RqHaM6gCjKQ5m72W6"
@@ -2323,6 +2415,8 @@
     "itemFilename": "FtrInsectMukade",
     "internalId": 628,
     "activeHours": [["17:00", "00:00"]],
+    "type": "bug",
+    "specialSell": 450,
     "uniqueEntryId": {
       "northern": "ubStMQwHMJJcYje38",
       "southern": "u8wcE9vg6y5LJe9pm"
@@ -2376,6 +2470,8 @@
       ["04:00", "08:00"],
       ["17:00", "19:00"]
     ],
+    "type": "bug",
+    "specialSell": 900,
     "uniqueEntryId": {
       "northern": "WQjgrjYotbwH59vXG",
       "southern": "drAumSPbq44efd8mF"
@@ -2426,6 +2522,8 @@
     "itemFilename": "FtrInsectNijiirokuwagata",
     "internalId": 631,
     "activeHours": [["20:00", "09:00"]],
+    "type": "bug",
+    "specialSell": 9000,
     "uniqueEntryId": {
       "northern": "Egfv6BDtFMeGZPmfh",
       "southern": "DcqW2mJfRm2kyy7cX"
@@ -2476,6 +2574,8 @@
     "itemFilename": "FtrInsectNokogirikuwagata",
     "internalId": 632,
     "activeHours": [["01:00", "00:59"]],
+    "type": "bug",
+    "specialSell": 3000,
     "uniqueEntryId": {
       "northern": "YQq3iSiBcBAHTWxc2",
       "southern": "uu7YfnLLbeHabBtS4"
@@ -2526,6 +2626,8 @@
     "itemFilename": "FtrInsectNomi",
     "internalId": 633,
     "activeHours": [["01:00", "00:59"]],
+    "type": "bug",
+    "specialSell": 105,
     "uniqueEntryId": {
       "northern": "QzDywoJEAJDcjGfEF",
       "southern": "o8zFG8947PQW3wL22"
@@ -2576,6 +2678,8 @@
     "itemFilename": "FtrInsectOkera",
     "internalId": 634,
     "activeHours": [["01:00", "00:59"]],
+    "type": "bug",
+    "specialSell": 750,
     "uniqueEntryId": {
       "northern": "HMWPGeeKw9LP6ucSq",
       "southern": "bBSuPDYsKWoCXTSoz"
@@ -2626,6 +2730,8 @@
     "itemFilename": "FtrInsectOniyanma",
     "internalId": 635,
     "activeHours": [["09:00", "18:00"]],
+    "type": "bug",
+    "specialSell": 6750,
     "uniqueEntryId": {
       "northern": "pCFep58D6QusMSvR7",
       "southern": "rP9cD4fdBQ5tNg7Z5"
@@ -2676,6 +2782,8 @@
     "itemFilename": "FtrInsectOhkabamadara",
     "internalId": 636,
     "activeHours": [["05:00", "18:00"]],
+    "type": "bug",
+    "specialSell": 210,
     "uniqueEntryId": {
       "northern": "BJPKSZMZ2tkLXkWjL",
       "southern": "ccZ7HHqAFxieNpHL3"
@@ -2726,6 +2834,8 @@
     "itemFilename": "FtrInsectOhkuwagata",
     "internalId": 637,
     "activeHours": [["00:00", "09:00"]],
+    "type": "bug",
+    "specialSell": 15000,
     "uniqueEntryId": {
       "northern": "KhrTLzayFz23zz2kn",
       "southern": "mt6ytXKvY3j39mBMs"
@@ -2776,6 +2886,8 @@
     "itemFilename": "FtrInsectOugononikuwagata",
     "internalId": 638,
     "activeHours": [["18:00", "09:00"]],
+    "type": "bug",
+    "specialSell": 18000,
     "uniqueEntryId": {
       "northern": "2C8cSphidFCBPxYEe",
       "southern": "xPyKLidJeZunJQ28Z"
@@ -2826,6 +2938,8 @@
     "itemFilename": "FtrInsectPurachinakogane",
     "internalId": 639,
     "activeHours": [["00:00", "21:00"]],
+    "type": "bug",
+    "specialSell": 15000,
     "uniqueEntryId": {
       "northern": "2HXdFD8s6BmYYMf4u",
       "southern": "SDxL5ttCz6xi7JouK"
@@ -2876,6 +2990,8 @@
     "itemFilename": "FtrInsectSasori",
     "internalId": 640,
     "activeHours": [["20:00", "05:00"]],
+    "type": "bug",
+    "specialSell": 12000,
     "uniqueEntryId": {
       "northern": "xMzHsHbjvvicZvYxg",
       "southern": "GTL6H5SZSTiZQkAN2"
@@ -2926,6 +3042,8 @@
     "itemFilename": "FtrInsectSeminonukegara",
     "internalId": 641,
     "activeHours": [["01:00", "00:59"]],
+    "type": "bug",
+    "specialSell": 15,
     "uniqueEntryId": {
       "northern": "6s3MCahAroqpjGybW",
       "southern": "J7bFkWwRQTvFiNYsm"
@@ -2976,6 +3094,8 @@
     "itemFilename": "FtrInsectSuzumushi",
     "internalId": 642,
     "activeHours": [["18:00", "09:00"]],
+    "type": "bug",
+    "specialSell": 645,
     "uniqueEntryId": {
       "northern": "d5EQqbQsip82G2CZE",
       "southern": "mbnLAaP568zEPycZW"
@@ -3026,6 +3146,8 @@
     "itemFilename": "FtrInsectHachi",
     "internalId": 643,
     "activeHours": [["01:00", "00:59"]],
+    "type": "bug",
+    "specialSell": 3750,
     "uniqueEntryId": {
       "northern": "ZEfBHqM6pFEddBezw",
       "southern": "thkzEFvKKqcCSckxA"
@@ -3076,6 +3198,8 @@
     "itemFilename": "FtrInsectShoryobatta",
     "internalId": 644,
     "activeHours": [["09:00", "20:00"]],
+    "type": "bug",
+    "specialSell": 300,
     "uniqueEntryId": {
       "northern": "Q57sgq4hQTNZAqWXj",
       "southern": "gm2hxMebSDrSwCr5S"
@@ -3126,6 +3250,8 @@
     "itemFilename": "FtrInsectTamamushi",
     "internalId": 645,
     "activeHours": [["01:00", "00:59"]],
+    "type": "bug",
+    "specialSell": 3600,
     "uniqueEntryId": {
       "northern": "TYFowxRG4ydcvotkQ",
       "southern": "tGZq3PK2ezjLvHtGF"
@@ -3176,6 +3302,8 @@
     "itemFilename": "FtrInsectTaranchura",
     "internalId": 646,
     "activeHours": [["20:00", "05:00"]],
+    "type": "bug",
+    "specialSell": 12000,
     "uniqueEntryId": {
       "northern": "4mto3ZvrZYpJxbm4c",
       "southern": "7wZQKoqMzgC9rrwxK"
@@ -3226,6 +3354,8 @@
     "itemFilename": "FtrInsectTentoumushi",
     "internalId": 647,
     "activeHours": [["09:00", "18:00"]],
+    "type": "bug",
+    "specialSell": 300,
     "uniqueEntryId": {
       "northern": "pYSSbvXzkuFneRvQ7",
       "southern": "MGW8WwKMaEyHQwEia"
@@ -3276,6 +3406,8 @@
     "itemFilename": "FtrInsectTonosamabatta",
     "internalId": 648,
     "activeHours": [["09:00", "20:00"]],
+    "type": "bug",
+    "specialSell": 900,
     "uniqueEntryId": {
       "northern": "dkGagcjd7aZwFEszw",
       "southern": "9ThyjwsQQuM6HDyxe"
@@ -3326,6 +3458,8 @@
     "itemFilename": "FtrInsectTsukutsukuhousi",
     "internalId": 649,
     "activeHours": [["09:00", "18:00"]],
+    "type": "bug",
+    "specialSell": 600,
     "uniqueEntryId": {
       "northern": "QdrL4K7seJHvd4ZZM",
       "southern": "6LrAWYHNv5YtiJiDH"
@@ -3376,6 +3510,8 @@
     "itemFilename": "FtrInsectBaiorinmushi",
     "internalId": 650,
     "activeHours": [["01:00", "00:59"]],
+    "type": "bug",
+    "specialSell": 675,
     "uniqueEntryId": {
       "northern": "poAcys5Mr35ELp5PS",
       "southern": "Srk5kLczD6DyKcu23"
@@ -3426,6 +3562,8 @@
     "itemFilename": "FtrInsectYadokari",
     "internalId": 651,
     "activeHours": [["20:00", "09:00"]],
+    "type": "bug",
+    "specialSell": 1500,
     "uniqueEntryId": {
       "northern": "TzbsfYgE4k2qo7fHN",
       "southern": "wh57zKyvhrQ4LcjS8"
@@ -3476,6 +3614,8 @@
     "itemFilename": "FtrInsectYonagunisan",
     "internalId": 652,
     "activeHours": [["20:00", "05:00"]],
+    "type": "bug",
+    "specialSell": 4500,
     "uniqueEntryId": {
       "northern": "u2GhYQJXDCQKp7AQ8",
       "southern": "MiS5HWxuw8vfbskLs"
@@ -3526,6 +3666,8 @@
     "itemFilename": "FtrInsectZoukabuto",
     "internalId": 653,
     "activeHours": [["18:00", "09:00"]],
+    "type": "bug",
+    "specialSell": 12000,
     "uniqueEntryId": {
       "northern": "M7SHXNEMf78nJD6fE",
       "southern": "qwg5nZwxR444LuNe5"
@@ -3579,6 +3721,8 @@
     "itemFilename": "FtrFishTanago",
     "internalId": 2215,
     "activeHours": [["01:00", "00:59"]],
+    "type": "fish",
+    "specialSell": 1350,
     "uniqueEntryId": {
       "northern": "Drj6eLRBgg4T9KhNx",
       "southern": "hGuQQRhZGJrRnS3Fz"
@@ -3632,6 +3776,8 @@
     "itemFilename": "FtrFishOikawa",
     "internalId": 2216,
     "activeHours": [["10:00", "17:00"]],
+    "type": "fish",
+    "specialSell": 300,
     "uniqueEntryId": {
       "northern": "pCn9TLap3rWiLYfnF",
       "southern": "W6fabEEkQvqvjhNB3"
@@ -3685,6 +3831,8 @@
     "itemFilename": "FtrFishUgui",
     "internalId": 2217,
     "activeHours": [["17:00", "10:00"]],
+    "type": "fish",
+    "specialSell": 360,
     "uniqueEntryId": {
       "northern": "dWmXFdnjByWT5nEok",
       "southern": "HukervsZiT8NGA9Dz"
@@ -3738,6 +3886,8 @@
     "itemFilename": "FtrFishKoi",
     "internalId": 2219,
     "activeHours": [["01:00", "00:59"]],
+    "type": "fish",
+    "specialSell": 450,
     "uniqueEntryId": {
       "northern": "4DwwvGDwPQvZTn9Fb",
       "southern": "fFWcW2kZrMgmL7LBn"
@@ -3791,6 +3941,8 @@
     "itemFilename": "FtrFishNishikigoi",
     "internalId": 2220,
     "activeHours": [["17:00", "10:00"]],
+    "type": "fish",
+    "specialSell": 6000,
     "uniqueEntryId": {
       "northern": "kNwjLeqjg8bFevfiG",
       "southern": "KRLsBRHqrx2eTERCz"
@@ -3844,6 +3996,8 @@
     "itemFilename": "FtrFishDemekin",
     "internalId": 2221,
     "activeHours": [["10:00", "17:00"]],
+    "type": "fish",
+    "specialSell": 1950,
     "uniqueEntryId": {
       "northern": "RvqzuA438gGqRJ7NG",
       "southern": "ex7mxhT9FEgz5pQYD"
@@ -3897,6 +4051,8 @@
     "itemFilename": "FtrFishMedaka",
     "internalId": 2222,
     "activeHours": [["01:00", "00:59"]],
+    "type": "fish",
+    "specialSell": 450,
     "uniqueEntryId": {
       "northern": "ZR9dsEApEXCjtXu3k",
       "southern": "2TR6zR8mhsTsSufkL"
@@ -3950,6 +4106,8 @@
     "itemFilename": "FtrFishZarigani",
     "internalId": 2223,
     "activeHours": [["01:00", "00:59"]],
+    "type": "fish",
+    "specialSell": 300,
     "uniqueEntryId": {
       "northern": "W7TrwpycmfgniZipi",
       "southern": "vMJweM9RcjN8pYYok"
@@ -4003,6 +4161,8 @@
     "itemFilename": "FtrFishSuppon",
     "internalId": 2224,
     "activeHours": [["17:00", "10:00"]],
+    "type": "fish",
+    "specialSell": 5625,
     "uniqueEntryId": {
       "northern": "izuY2f4GtEGT3BtuR",
       "southern": "FS3AtKkHoFb6eZoww"
@@ -4056,6 +4216,8 @@
     "itemFilename": "FtrFishOtama",
     "internalId": 2225,
     "activeHours": [["01:00", "00:59"]],
+    "type": "fish",
+    "specialSell": 150,
     "uniqueEntryId": {
       "northern": "rb8MsjWopKYWuQK8s",
       "southern": "jHwDCfiGrX56kt7BD"
@@ -4109,6 +4271,8 @@
     "itemFilename": "FtrFishKaeru",
     "internalId": 2226,
     "activeHours": [["01:00", "00:59"]],
+    "type": "fish",
+    "specialSell": 180,
     "uniqueEntryId": {
       "northern": "LcQLs85qPPdLajLje",
       "southern": "4TGBv5bbc9pQXv5Hq"
@@ -4162,6 +4326,8 @@
     "itemFilename": "FtrFishDonko",
     "internalId": 2227,
     "activeHours": [["17:00", "10:00"]],
+    "type": "fish",
+    "specialSell": 600,
     "uniqueEntryId": {
       "northern": "SfXYNdtaid6hdQhvZ",
       "southern": "T8QBy9vZfsBowHnfp"
@@ -4215,6 +4381,8 @@
     "itemFilename": "FtrFishDojou",
     "internalId": 2228,
     "activeHours": [["01:00", "00:59"]],
+    "type": "fish",
+    "specialSell": 600,
     "uniqueEntryId": {
       "northern": "95yBKrQ4tdyWj4H25",
       "southern": "BjxXjLZPo5j7ivrmz"
@@ -4268,6 +4436,8 @@
     "itemFilename": "FtrFishNamazu",
     "internalId": 2229,
     "activeHours": [["17:00", "10:00"]],
+    "type": "fish",
+    "specialSell": 1200,
     "uniqueEntryId": {
       "northern": "nbPtvwf7HCQxA9Nc4",
       "southern": "LiN6N3jWNSJBQZDok"
@@ -4321,6 +4491,8 @@
     "itemFilename": "FtrFishRaigyo",
     "internalId": 2231,
     "activeHours": [["10:00", "17:00"]],
+    "type": "fish",
+    "specialSell": 8250,
     "uniqueEntryId": {
       "northern": "KyWQRd8W2FePM42wB",
       "southern": "wbiASapfjoa8QdKMM"
@@ -4374,6 +4546,8 @@
     "itemFilename": "FtrFishBlueguill",
     "internalId": 2232,
     "activeHours": [["10:00", "17:00"]],
+    "type": "fish",
+    "specialSell": 270,
     "uniqueEntryId": {
       "northern": "8ygccYFCrWf4hwYGR",
       "southern": "CYDnutGqXqKmPu6w6"
@@ -4427,6 +4601,8 @@
     "itemFilename": "FtrFishYellowparch",
     "internalId": 2233,
     "activeHours": [["01:00", "00:59"]],
+    "type": "fish",
+    "specialSell": 450,
     "uniqueEntryId": {
       "northern": "bLgE5dicZniF5zZDW",
       "southern": "X7XQNMe5yJ2bR6f65"
@@ -4480,6 +4656,8 @@
     "itemFilename": "FtrFishBlackbass",
     "internalId": 2234,
     "activeHours": [["01:00", "00:59"]],
+    "type": "fish",
+    "specialSell": 600,
     "uniqueEntryId": {
       "northern": "wAZvfTca7GyaTtLcQ",
       "southern": "4297LKBYgv9Fsn2jZ"
@@ -4533,6 +4711,8 @@
     "itemFilename": "FtrFishPaiku",
     "internalId": 2235,
     "activeHours": [["01:00", "00:59"]],
+    "type": "fish",
+    "specialSell": 2700,
     "uniqueEntryId": {
       "northern": "XxrB6iKQPhBkYKaXD",
       "southern": "b5eLrWd8JyptpuuJk"
@@ -4586,6 +4766,8 @@
     "itemFilename": "FtrFishWakasagi",
     "internalId": 2236,
     "activeHours": [["01:00", "00:59"]],
+    "type": "fish",
+    "specialSell": 600,
     "uniqueEntryId": {
       "northern": "DDb2GPEjapPmbYbWG",
       "southern": "krtLNXjpkWE9Suxzc"
@@ -4639,6 +4821,8 @@
     "itemFilename": "FtrFishAyu",
     "internalId": 2237,
     "activeHours": [["01:00", "00:59"]],
+    "type": "fish",
+    "specialSell": 1350,
     "uniqueEntryId": {
       "northern": "dWgg2bjCicuiZjXW6",
       "southern": "Mx25cAmEDuAb8e5H9"
@@ -4692,6 +4876,8 @@
     "itemFilename": "FtrFishYamame",
     "internalId": 2238,
     "activeHours": [["17:00", "10:00"]],
+    "type": "fish",
+    "specialSell": 1500,
     "uniqueEntryId": {
       "northern": "sJyBbeLbpzn7LyzFr",
       "southern": "42nEegEqHWEb4R2FF"
@@ -4745,6 +4931,8 @@
     "itemFilename": "FtrFishOoiwana",
     "internalId": 2239,
     "activeHours": [["17:00", "10:00"]],
+    "type": "fish",
+    "specialSell": 5700,
     "uniqueEntryId": {
       "northern": "ahbnwCqp3EZXa96KC",
       "southern": "Kyh4ufnv7jjnDPA4w"
@@ -4798,6 +4986,8 @@
     "itemFilename": "FtrFishItou",
     "internalId": 2241,
     "activeHours": [["17:00", "10:00"]],
+    "type": "fish",
+    "specialSell": 22500,
     "uniqueEntryId": {
       "northern": "APXg8kSzjcmoGGWSP",
       "southern": "fd6Ezf6cvt8pkCxRg"
@@ -4851,6 +5041,8 @@
     "itemFilename": "FtrFishSake",
     "internalId": 2242,
     "activeHours": [["01:00", "00:59"]],
+    "type": "fish",
+    "specialSell": 1050,
     "uniqueEntryId": {
       "northern": "iwXhnZcSezNxqdNQf",
       "southern": "rfP2SWFt3JZEFpGJp"
@@ -4904,6 +5096,8 @@
     "itemFilename": "FtrFishKingsalmon",
     "internalId": 2243,
     "activeHours": [["01:00", "00:59"]],
+    "type": "fish",
+    "specialSell": 2700,
     "uniqueEntryId": {
       "northern": "Pf5cXKo8pzdB45rAA",
       "southern": "jQm8MSwfjL8Qha4Jv"
@@ -4957,6 +5151,8 @@
     "itemFilename": "FtrFishShanghai",
     "internalId": 2244,
     "activeHours": [["17:00", "10:00"]],
+    "type": "fish",
+    "specialSell": 3000,
     "uniqueEntryId": {
       "northern": "s2jqSYbMWBX6qCLDm",
       "southern": "ue8oAvKb7eAuMWEoD"
@@ -5010,6 +5206,8 @@
     "itemFilename": "FtrFishGuppi",
     "internalId": 2245,
     "activeHours": [["10:00", "17:00"]],
+    "type": "fish",
+    "specialSell": 1950,
     "uniqueEntryId": {
       "northern": "WtdZnARNxnWRobej2",
       "southern": "76S9sKq6nXfAA2W8X"
@@ -5063,6 +5261,8 @@
     "itemFilename": "FtrFishDoctor",
     "internalId": 2246,
     "activeHours": [["10:00", "17:00"]],
+    "type": "fish",
+    "specialSell": 2250,
     "uniqueEntryId": {
       "northern": "pkPKYsMiXsTWNz4L4",
       "southern": "JKREQY3uD2FSsnYXt"
@@ -5116,6 +5316,8 @@
     "itemFilename": "FtrFishAngelfish",
     "internalId": 2247,
     "activeHours": [["17:00", "10:00"]],
+    "type": "fish",
+    "specialSell": 4500,
     "uniqueEntryId": {
       "northern": "XTCFCk2SiuY5YXLZ7",
       "southern": "zWg3QxHGeZPEtydEz"
@@ -5169,6 +5371,8 @@
     "itemFilename": "FtrFishNeontetora",
     "internalId": 2248,
     "activeHours": [["10:00", "17:00"]],
+    "type": "fish",
+    "specialSell": 750,
     "uniqueEntryId": {
       "northern": "aEyRb96wcz9m8yjFN",
       "southern": "Z2D5GbGZSMQ47EkkD"
@@ -5225,6 +5429,8 @@
       ["09:00", "16:00"],
       ["21:00", "04:00"]
     ],
+    "type": "fish",
+    "specialSell": 3750,
     "uniqueEntryId": {
       "northern": "5C59HAFxmwNSjH4Zq",
       "southern": "X9Eoeuwsokc8EsmTD"
@@ -5278,6 +5484,8 @@
     "itemFilename": "FtrFishArowana",
     "internalId": 2250,
     "activeHours": [["17:00", "10:00"]],
+    "type": "fish",
+    "specialSell": 15000,
     "uniqueEntryId": {
       "northern": "F68AvCaqddBJL7ZSN",
       "southern": "Pym8PdaZzM2JPg6LZ"
@@ -5331,6 +5539,8 @@
     "itemFilename": "FtrFishDolado",
     "internalId": 2251,
     "activeHours": [["05:00", "22:00"]],
+    "type": "fish",
+    "specialSell": 22500,
     "uniqueEntryId": {
       "northern": "G7ZwD67cRMHBwTSKH",
       "southern": "Xs43YpZZHfXH4ScRB"
@@ -5384,6 +5594,8 @@
     "itemFilename": "FtrFishGa",
     "internalId": 2252,
     "activeHours": [["17:00", "10:00"]],
+    "type": "fish",
+    "specialSell": 9000,
     "uniqueEntryId": {
       "northern": "x5yAYQgMJW9Kf7WyM",
       "southern": "fB8RoqJja9v4YwJLG"
@@ -5437,6 +5649,8 @@
     "itemFilename": "FtrFishPiraruku",
     "internalId": 2253,
     "activeHours": [["17:00", "10:00"]],
+    "type": "fish",
+    "specialSell": 15000,
     "uniqueEntryId": {
       "northern": "mZy4BES54bqwi97br",
       "southern": "AgcybrEaMNJnwAQw4"
@@ -5490,6 +5704,8 @@
     "itemFilename": "FtrFishEndlicheri",
     "internalId": 2254,
     "activeHours": [["22:00", "05:00"]],
+    "type": "fish",
+    "specialSell": 6000,
     "uniqueEntryId": {
       "northern": "bcTmnwZxrw2iJsQmf",
       "southern": "RHEoCYrjsN2QvhfDC"
@@ -5543,6 +5759,8 @@
     "itemFilename": "FtrFishKurione",
     "internalId": 2255,
     "activeHours": [["01:00", "00:59"]],
+    "type": "fish",
+    "specialSell": 1500,
     "uniqueEntryId": {
       "northern": "kd5beizyQGeyjeM79",
       "southern": "xL5gWRtSg5wx8grNA"
@@ -5596,6 +5814,8 @@
     "itemFilename": "FtrFishTatsunootoshigo",
     "internalId": 2256,
     "activeHours": [["01:00", "00:59"]],
+    "type": "fish",
+    "specialSell": 1650,
     "uniqueEntryId": {
       "northern": "Pw5oZqC29NWEGRfyS",
       "southern": "GT4qHvvBDD7xGDwKd"
@@ -5649,6 +5869,8 @@
     "itemFilename": "FtrFishKumanomi",
     "internalId": 2257,
     "activeHours": [["01:00", "00:59"]],
+    "type": "fish",
+    "specialSell": 975,
     "uniqueEntryId": {
       "northern": "L9qxZaMoBhwxvpMyh",
       "southern": "9P9utXsA694uTWx8f"
@@ -5702,6 +5924,8 @@
     "itemFilename": "FtrFishNanyouhagi",
     "internalId": 2258,
     "activeHours": [["01:00", "00:59"]],
+    "type": "fish",
+    "specialSell": 1500,
     "uniqueEntryId": {
       "northern": "s7iioofF5C7PzCZyF",
       "southern": "FcaAXgc48z5fpQNYN"
@@ -5755,6 +5979,8 @@
     "itemFilename": "FtrFishChouchouuo",
     "internalId": 2259,
     "activeHours": [["01:00", "00:59"]],
+    "type": "fish",
+    "specialSell": 1500,
     "uniqueEntryId": {
       "northern": "S4rkio2M3WB5cyy8Y",
       "southern": "fd9QDcqMGwBYW9fW9"
@@ -5808,6 +6034,8 @@
     "itemFilename": "FtrFishNaporeonfish",
     "internalId": 2260,
     "activeHours": [["05:00", "22:00"]],
+    "type": "fish",
+    "specialSell": 15000,
     "uniqueEntryId": {
       "northern": "dm4THC3AYR6CZ8bvJ",
       "southern": "SMc3GqLrJoxaixLLa"
@@ -5861,6 +6089,8 @@
     "itemFilename": "FtrFishMinokasago",
     "internalId": 2261,
     "activeHours": [["01:00", "00:59"]],
+    "type": "fish",
+    "specialSell": 750,
     "uniqueEntryId": {
       "northern": "h7fa7Fh3Ay7vAxgE2",
       "southern": "ps2T62EzQwRLpsJEC"
@@ -5914,6 +6144,8 @@
     "itemFilename": "FtrFishFugu",
     "internalId": 2262,
     "activeHours": [["22:00", "06:00"]],
+    "type": "fish",
+    "specialSell": 7500,
     "uniqueEntryId": {
       "northern": "aDsmTcByApycafxTa",
       "southern": "5iqYixbu8J6wDS996"
@@ -5967,6 +6199,8 @@
     "itemFilename": "FtrFishHarisenbon",
     "internalId": 2263,
     "activeHours": [["01:00", "00:59"]],
+    "type": "fish",
+    "specialSell": 375,
     "uniqueEntryId": {
       "northern": "jNkgaybfSsv8MkaQ2",
       "southern": "TWv7ZFTEgKq8Kqv8j"
@@ -6020,6 +6254,8 @@
     "itemFilename": "FtrFishAji",
     "internalId": 2264,
     "activeHours": [["01:00", "00:59"]],
+    "type": "fish",
+    "specialSell": 225,
     "uniqueEntryId": {
       "northern": "L24RYPaEcm9ZXkTui",
       "southern": "GEh5ZgwuNzMptkqAq"
@@ -6073,6 +6309,8 @@
     "itemFilename": "FtrFishIshidai",
     "internalId": 2265,
     "activeHours": [["01:00", "00:59"]],
+    "type": "fish",
+    "specialSell": 7500,
     "uniqueEntryId": {
       "northern": "X3R9SFSAaDzBF4fE3",
       "southern": "guw9TKfGGNPNZKNtg"
@@ -6126,6 +6364,8 @@
     "itemFilename": "FtrFishSuzuki",
     "internalId": 2266,
     "activeHours": [["01:00", "00:59"]],
+    "type": "fish",
+    "specialSell": 600,
     "uniqueEntryId": {
       "northern": "LkA5hzibm6uiHDB9g",
       "southern": "BXxw4D4AprbvH26Zs"
@@ -6179,6 +6419,8 @@
     "itemFilename": "FtrFishTai",
     "internalId": 2267,
     "activeHours": [["01:00", "00:59"]],
+    "type": "fish",
+    "specialSell": 4500,
     "uniqueEntryId": {
       "northern": "iY4zfgojAfLskW4CQ",
       "southern": "arXB8QXnaCedMpv4F"
@@ -6232,6 +6474,8 @@
     "itemFilename": "FtrFishKarei",
     "internalId": 2268,
     "activeHours": [["01:00", "00:59"]],
+    "type": "fish",
+    "specialSell": 450,
     "uniqueEntryId": {
       "northern": "noA2Kfp8TaFgaLs5n",
       "southern": "oTncbSYhBfP82yH82"
@@ -6285,6 +6529,8 @@
     "itemFilename": "FtrFishHirame",
     "internalId": 2269,
     "activeHours": [["01:00", "00:59"]],
+    "type": "fish",
+    "specialSell": 1200,
     "uniqueEntryId": {
       "northern": "TXSteKMHuQ9ZfqPXm",
       "southern": "DJ3Mn8S3js75WCZ6f"
@@ -6338,6 +6584,8 @@
     "itemFilename": "FtrFishIka",
     "internalId": 2270,
     "activeHours": [["01:00", "00:59"]],
+    "type": "fish",
+    "specialSell": 750,
     "uniqueEntryId": {
       "northern": "qxHJ6BGgyQujkC28w",
       "southern": "WBnvAcKQ5XgScQZcE"
@@ -6391,6 +6639,8 @@
     "itemFilename": "FtrFishUtsubo",
     "internalId": 2271,
     "activeHours": [["01:00", "00:59"]],
+    "type": "fish",
+    "specialSell": 3000,
     "uniqueEntryId": {
       "northern": "4nLynLTMRtoqcCfh4",
       "southern": "uYPGhKpc4d8M2mSsc"
@@ -6444,6 +6694,8 @@
     "itemFilename": "FtrFishHanahige",
     "internalId": 2272,
     "activeHours": [["01:00", "00:59"]],
+    "type": "fish",
+    "specialSell": 900,
     "uniqueEntryId": {
       "northern": "T9zeSBHpB5qyAZTxu",
       "southern": "Z4meYXw9ZJtQQPdHK"
@@ -6497,6 +6749,8 @@
     "itemFilename": "FtrFishChouchinankou",
     "internalId": 2273,
     "activeHours": [["17:00", "10:00"]],
+    "type": "fish",
+    "specialSell": 3750,
     "uniqueEntryId": {
       "northern": "vQHfve6DygtcYqwdi",
       "southern": "2hbMJQhkivukowbRB"
@@ -6550,6 +6804,8 @@
     "itemFilename": "FtrFishMaguro",
     "internalId": 2274,
     "activeHours": [["01:00", "00:59"]],
+    "type": "fish",
+    "specialSell": 10500,
     "uniqueEntryId": {
       "northern": "4PnGXx9DSb866AeCM",
       "southern": "NGsa29maHNpkoSrAT"
@@ -6603,6 +6859,8 @@
     "itemFilename": "FtrFishKajiki",
     "internalId": 2275,
     "activeHours": [["01:00", "00:59"]],
+    "type": "fish",
+    "specialSell": 15000,
     "uniqueEntryId": {
       "northern": "jhtsYRHydAcZnd6bJ",
       "southern": "8Ri4vk9sgZiHADLsR"
@@ -6656,6 +6914,8 @@
     "itemFilename": "FtrFishGT",
     "internalId": 2276,
     "activeHours": [["01:00", "00:59"]],
+    "type": "fish",
+    "specialSell": 6750,
     "uniqueEntryId": {
       "northern": "53qtm8cMH4RfqJiAH",
       "southern": "DRCfP82srJcvnApSS"
@@ -6709,6 +6969,8 @@
     "itemFilename": "FtrFishEi",
     "internalId": 2277,
     "activeHours": [["05:00", "22:00"]],
+    "type": "fish",
+    "specialSell": 4500,
     "uniqueEntryId": {
       "northern": "gP5F7wWFvFqiZzuGw",
       "southern": "2PEy7ZTXx68RncMzE"
@@ -6762,6 +7024,8 @@
     "itemFilename": "FtrFishManbou",
     "internalId": 2278,
     "activeHours": [["05:00", "22:00"]],
+    "type": "fish",
+    "specialSell": 6000,
     "uniqueEntryId": {
       "northern": "6BwK6LHbjFAKzgE82",
       "southern": "fj6gPur9jgtRpidko"
@@ -6815,6 +7079,8 @@
     "itemFilename": "FtrFishShumokuzame",
     "internalId": 2279,
     "activeHours": [["17:00", "10:00"]],
+    "type": "fish",
+    "specialSell": 12000,
     "uniqueEntryId": {
       "northern": "guHT5g6H7tJEyqYzf",
       "southern": "KJyiGh9uraAt5MZ3T"
@@ -6868,6 +7134,8 @@
     "itemFilename": "FtrFishSame",
     "internalId": 2280,
     "activeHours": [["17:00", "10:00"]],
+    "type": "fish",
+    "specialSell": 22500,
     "uniqueEntryId": {
       "northern": "EPypAeJGuTDGFJRnx",
       "southern": "Rg246PsWPjB5QLWAY"
@@ -6921,6 +7189,8 @@
     "itemFilename": "FtrFishNokogiri",
     "internalId": 2281,
     "activeHours": [["17:00", "10:00"]],
+    "type": "fish",
+    "specialSell": 18000,
     "uniqueEntryId": {
       "northern": "tsrT7a8cbtwZrmJTz",
       "southern": "yEBbZRPQtqKX73apn"
@@ -6974,6 +7244,8 @@
     "itemFilename": "FtrFishJinbee",
     "internalId": 2282,
     "activeHours": [["01:00", "00:59"]],
+    "type": "fish",
+    "specialSell": 19500,
     "uniqueEntryId": {
       "northern": "r3RAtJsXENwnFvQh7",
       "southern": "wMaEcaQxYqrvuTv2T"
@@ -7027,6 +7299,8 @@
     "itemFilename": "FtrFishRyugu",
     "internalId": 2283,
     "activeHours": [["01:00", "00:59"]],
+    "type": "fish",
+    "specialSell": 13500,
     "uniqueEntryId": {
       "northern": "qgvEPGk759xaBqwXP",
       "southern": "5bzpceXjtezTJMp6t"
@@ -7080,6 +7354,8 @@
     "itemFilename": "FtrFishSirakansu",
     "internalId": 2284,
     "activeHours": [["01:00", "00:59"]],
+    "type": "fish",
+    "specialSell": 22500,
     "uniqueEntryId": {
       "northern": "NjMZQ6Xi9NswEXnHH",
       "southern": "TjEaWcTNKNwwpq9A4"
@@ -7130,6 +7406,8 @@
     "itemFilename": "FtrInsectAosujiageha",
     "internalId": 3477,
     "activeHours": [["05:00", "20:00"]],
+    "type": "bug",
+    "specialSell": 450,
     "uniqueEntryId": {
       "northern": "vgkW2eovbpxNuGsFZ",
       "southern": "uYtqZdzMARD747LPi"
@@ -7180,6 +7458,8 @@
     "itemFilename": "FtrInsectOhgomamadara",
     "internalId": 3478,
     "activeHours": [["09:00", "20:00"]],
+    "type": "bug",
+    "specialSell": 1500,
     "uniqueEntryId": {
       "northern": "hzwridDJE99rPHLrZ",
       "southern": "icdAaJR9xeamPkbun"
@@ -7230,6 +7510,8 @@
     "itemFilename": "FtrInsectOhmurasaki",
     "internalId": 3479,
     "activeHours": [["05:00", "20:00"]],
+    "type": "bug",
+    "specialSell": 4500,
     "uniqueEntryId": {
       "northern": "ZSre7sheZoRqsJwHQ",
       "southern": "YduWSvM6Hfa5HPwyA"
@@ -7280,6 +7562,8 @@
     "itemFilename": "FtrInsectKanabun",
     "internalId": 3480,
     "activeHours": [["01:00", "00:59"]],
+    "type": "bug",
+    "specialSell": 300,
     "uniqueEntryId": {
       "northern": "uXmtRAQgY3g596tov",
       "southern": "focoXGdm5JMJw7CPF"
@@ -7330,6 +7614,8 @@
     "itemFilename": "FtrInsectGirafanokogirikuwagata",
     "internalId": 3482,
     "activeHours": [["18:00", "09:00"]],
+    "type": "bug",
+    "specialSell": 18000,
     "uniqueEntryId": {
       "northern": "PSChjzMhGwhnsHTs4",
       "southern": "jAcCAzpFHqrSbaZBP"
@@ -7380,6 +7666,8 @@
     "itemFilename": "FtrInsectJinmenkamemushi",
     "internalId": 3483,
     "activeHours": [["20:00", "09:00"]],
+    "type": "bug",
+    "specialSell": 1500,
     "uniqueEntryId": {
       "northern": "zvr84Jvf4s6K23XJ5",
       "southern": "ZCoo9aZtDL9Q7Y2zb"
@@ -7430,6 +7718,8 @@
     "itemFilename": "FtrInsectNishikiohtsubamega",
     "internalId": 3484,
     "activeHours": [["09:00", "17:00"]],
+    "type": "bug",
+    "specialSell": 3750,
     "uniqueEntryId": {
       "northern": "EFWMygLqnJinFoXSW",
       "southern": "wRuDf5dskHx4F6uPt"
@@ -7480,6 +7770,8 @@
     "itemFilename": "FtrInsectHousekizoumushi",
     "internalId": 3485,
     "activeHours": [["01:00", "00:59"]],
+    "type": "bug",
+    "specialSell": 1200,
     "uniqueEntryId": {
       "northern": "qocWy6r5RXjeThdYy",
       "southern": "BNoCCddNyas4j2KNv"
@@ -7530,6 +7822,8 @@
     "itemFilename": "FtrInsectRuriboshikamikiri",
     "internalId": 3487,
     "activeHours": [["01:00", "00:59"]],
+    "type": "bug",
+    "specialSell": 4500,
     "uniqueEntryId": {
       "northern": "MSTA9vdJmGoDDADrF",
       "southern": "2g4nqkeGd46kNch4N"
@@ -7583,6 +7877,8 @@
     "itemFilename": "FtrFishTyouzame",
     "internalId": 4189,
     "activeHours": [["01:00", "00:59"]],
+    "type": "fish",
+    "specialSell": 15000,
     "uniqueEntryId": {
       "northern": "XabKYtzYDNSNrFvpw",
       "southern": "PvbGdqGWRD6HhMGGF"
@@ -7636,6 +7932,8 @@
     "itemFilename": "FtrFishThirapia",
     "internalId": 4190,
     "activeHours": [["01:00", "00:59"]],
+    "type": "fish",
+    "specialSell": 1200,
     "uniqueEntryId": {
       "northern": "as78rnkwY3ahrTkBY",
       "southern": "ovvjDJiia6DHnrTST"
@@ -7689,6 +7987,8 @@
     "itemFilename": "FtrFishBeta",
     "internalId": 4191,
     "activeHours": [["10:00", "17:00"]],
+    "type": "fish",
+    "specialSell": 3750,
     "uniqueEntryId": {
       "northern": "7QcQXzwZoNGiNA94k",
       "southern": "PXKheBpjDi3Kerqfe"
@@ -7742,6 +8042,8 @@
     "itemFilename": "FtrFishKamitukigame",
     "internalId": 4192,
     "activeHours": [["22:00", "05:00"]],
+    "type": "fish",
+    "specialSell": 7500,
     "uniqueEntryId": {
       "northern": "SJa3LLde3Yuz4H3D7",
       "southern": "DerByqB2XE4GNgko8"
@@ -7795,6 +8097,8 @@
     "itemFilename": "FtrFishGoldenTorauto",
     "internalId": 4193,
     "activeHours": [["17:00", "10:00"]],
+    "type": "fish",
+    "specialSell": 22500,
     "uniqueEntryId": {
       "northern": "wwGzR7FzWNJ7cDz9X",
       "southern": "TfjuFuzNMswbxXSwu"
@@ -7848,6 +8152,8 @@
     "itemFilename": "FtrFishRainbowfish",
     "internalId": 4194,
     "activeHours": [["10:00", "17:00"]],
+    "type": "fish",
+    "specialSell": 1200,
     "uniqueEntryId": {
       "northern": "XJfkdS4C2MPYiscST",
       "southern": "AqnawB3bjnEK3pxaB"
@@ -7901,6 +8207,8 @@
     "itemFilename": "FtrFishAntyobi",
     "internalId": 4201,
     "activeHours": [["05:00", "22:00"]],
+    "type": "fish",
+    "specialSell": 300,
     "uniqueEntryId": {
       "northern": "LzuWkSQP55uEpRCP5",
       "southern": "8tHhKTS9Bf37onoJx"
@@ -7954,6 +8262,8 @@
     "itemFilename": "FtrFishShiira",
     "internalId": 4202,
     "activeHours": [["01:00", "00:59"]],
+    "type": "fish",
+    "specialSell": 9000,
     "uniqueEntryId": {
       "northern": "D7gY39QDo8BBNs2Ne",
       "southern": "6AZNRzTu9eNpWtAew"
@@ -8007,6 +8317,8 @@
     "itemFilename": "FtrFishKobanzame",
     "internalId": 4203,
     "activeHours": [["01:00", "00:59"]],
+    "type": "fish",
+    "specialSell": 2250,
     "uniqueEntryId": {
       "northern": "FPpwmMDn9rYAJazyS",
       "southern": "ePPT74a7Zju3ecmZT"
@@ -8060,6 +8372,8 @@
     "itemFilename": "FtrFishDemenigisu",
     "internalId": 4204,
     "activeHours": [["22:00", "05:00"]],
+    "type": "fish",
+    "specialSell": 22500,
     "uniqueEntryId": {
       "northern": "BpqTa4zmTjv3Nm4wE",
       "southern": "d6LaNMNtT9D8q6haJ"
@@ -8110,6 +8424,8 @@
     "itemFilename": "FtrInsectTagame",
     "internalId": 5157,
     "activeHours": [["20:00", "09:00"]],
+    "type": "bug",
+    "specialSell": 3000,
     "uniqueEntryId": {
       "northern": "ZsDdBvqAjZMG8EQkZ",
       "southern": "cKYzJjTdq8PduWkDr"
@@ -8163,6 +8479,8 @@
     "itemFilename": "FtrFishRanchu",
     "internalId": 5254,
     "activeHours": [["10:00", "17:00"]],
+    "type": "fish",
+    "specialSell": 6750,
     "uniqueEntryId": {
       "northern": "4NE2SteWKEaBYjgWb",
       "southern": "BiToqb8zSirhfXdT7"
@@ -8213,6 +8531,8 @@
     "itemFilename": "FtrInsectItotonbo",
     "internalId": 5339,
     "activeHours": [["01:00", "00:59"]],
+    "type": "bug",
+    "specialSell": 750,
     "uniqueEntryId": {
       "northern": "pBmqsa7CyeKzyRjDT",
       "southern": "w332om69yjuBE4At3"

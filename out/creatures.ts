@@ -16,6 +16,8 @@ export interface Creatures {
   itemFilename: string;
   internalId: number;
   activeHours: Array<ActiveHour[]>;
+  type: Type;
+  specialSell: number;
   uniqueEntryId: UniqueEntryID;
   availability: Availability;
   weather?: Weather;
@@ -78,6 +80,11 @@ export enum Size {
   The2X1 = '2x1',
   The2X2 = '2x2',
   The3X2 = '3x2',
+}
+
+export enum Type {
+  Bug = 'bug',
+  Fish = 'fish',
 }
 
 export interface UniqueEntryID {
