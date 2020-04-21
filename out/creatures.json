@@ -24,34 +24,8 @@
       "southern": "HTW3XWdNyCePoPPpj"
     },
     "availability": {
-      "northern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
     }
   },
   {
@@ -79,34 +53,8 @@
       "southern": "jGrjMc728aie74wtL"
     },
     "availability": {
-      "northern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
     }
   },
   {
@@ -131,34 +79,8 @@
       "southern": "nE5mZLdJmZRn6guDE"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": true,
-        "aug": true,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      }
+      "northern": [7, 8],
+      "southern": [1, 2]
     }
   },
   {
@@ -183,34 +105,8 @@
       "southern": "2FMin5SnjchFPvPhX"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [3, 4, 5, 6, 7, 8, 9],
+      "southern": [1, 2, 3, 9, 10, 11, 12]
     }
   },
   {
@@ -235,34 +131,8 @@
       "southern": "EtLxJXigbC7ugkFLf"
     },
     "availability": {
-      "northern": {
-        "jan": true,
-        "feb": true,
-        "mar": false,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": false,
-        "nov": false,
-        "dec": true
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": false,
-        "may": false,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": false,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [1, 2, 4, 5, 6, 7, 8, 9, 12],
+      "southern": [1, 2, 3, 6, 7, 8, 10, 11, 12]
     }
   },
   {
@@ -287,34 +157,8 @@
       "southern": "5ySEjwXpuRyASBjXb"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": true,
-        "oct": true,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": false,
-        "feb": false,
-        "mar": true,
-        "apr": true,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      }
+      "northern": [9, 10],
+      "southern": [3, 4]
     }
   },
   {
@@ -339,34 +183,8 @@
       "southern": "9foTeyu68daFMmbbK"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [5, 6, 7, 8, 9],
+      "southern": [1, 2, 3, 11, 12]
     }
   },
   {
@@ -391,34 +209,8 @@
       "southern": "KkJGk44HYTEYD7YZu"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [5, 6, 7, 8, 9],
+      "southern": [1, 2, 3, 11, 12]
     }
   },
   {
@@ -443,34 +235,8 @@
       "southern": "fFDQQcYH5DFKY3eEE"
     },
     "availability": {
-      "northern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
     }
   },
   {
@@ -495,34 +261,8 @@
       "southern": "H3LoBRmc9JcNRMTAp"
     },
     "availability": {
-      "northern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": false,
-        "aug": false,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      },
-      "southern": {
-        "jan": false,
-        "feb": false,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [1, 2, 3, 4, 5, 6, 9, 10, 11, 12],
+      "southern": [3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
     }
   },
   {
@@ -547,34 +287,8 @@
       "southern": "2HmZjrCW258Z8h4T2"
     },
     "availability": {
-      "northern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
     }
   },
   {
@@ -599,34 +313,8 @@
       "southern": "9GNhLLWGutb7kjddS"
     },
     "availability": {
-      "northern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
     }
   },
   {
@@ -651,34 +339,8 @@
       "southern": "wZqpH7YKJKgfkXQYP"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [5, 6, 7, 8, 9],
+      "southern": [1, 2, 3, 11, 12]
     }
   },
   {
@@ -703,34 +365,8 @@
       "southern": "FnjeJpLiQrHojaj2P"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [4, 5, 6, 7, 8, 9, 10],
+      "southern": [1, 2, 3, 4, 10, 11, 12]
     }
   },
   {
@@ -755,34 +391,8 @@
       "southern": "xZgsvrq8ejhtDXywK"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": true
-      }
+      "northern": [6, 7, 8, 9],
+      "southern": [1, 2, 3, 12]
     }
   },
   {
@@ -807,34 +417,8 @@
       "southern": "3bFo9zLis2uJsSs39"
     },
     "availability": {
-      "northern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
     }
   },
   {
@@ -859,34 +443,8 @@
       "southern": "4CX8BNnkfkc59p8mh"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [3, 4, 5, 6, 7, 8, 9, 10, 11],
+      "southern": [1, 2, 3, 4, 5, 9, 10, 11, 12]
     }
   },
   {
@@ -911,34 +469,8 @@
       "southern": "omvbhSkSFG2TSzZhB"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "southern": [1, 2, 3, 4, 8, 9, 10, 11, 12]
     }
   },
   {
@@ -963,34 +495,8 @@
       "southern": "j6xSQNBEhXz4Wighp"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": true,
-        "aug": true,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      }
+      "northern": [7, 8],
+      "southern": [1, 2]
     }
   },
   {
@@ -1018,34 +524,8 @@
       "southern": "a43ajJPorQhS7sR8W"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": true,
-        "aug": true,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      }
+      "northern": [7, 8],
+      "southern": [1, 2]
     }
   },
   {
@@ -1070,34 +550,8 @@
       "southern": "ZwejbnAsAKgvKBNin"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": true,
-        "aug": true,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      }
+      "northern": [7, 8],
+      "southern": [1, 2]
     }
   },
   {
@@ -1122,34 +576,8 @@
       "southern": "HJ3XbfivDgBywq9N8"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": true,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": true
-      }
+      "northern": [6],
+      "southern": [12]
     }
   },
   {
@@ -1174,34 +602,8 @@
       "southern": "32ghB3sXkqSiCzXTr"
     },
     "availability": {
-      "northern": {
-        "jan": true,
-        "feb": true,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": true
-      },
-      "southern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      }
+      "northern": [1, 2, 12],
+      "southern": [6, 7, 8]
     }
   },
   {
@@ -1226,34 +628,8 @@
       "southern": "y4ABcN68yhfH2fajz"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": false
-      },
-      "southern": {
-        "jan": false,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      }
+      "northern": [8, 9, 10, 11],
+      "southern": [2, 3, 4, 5]
     }
   },
   {
@@ -1278,34 +654,8 @@
       "southern": "MAdbgFggj3EfHmTwt"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": true
-      }
+      "northern": [6, 7, 8, 9],
+      "southern": [1, 2, 3, 12]
     }
   },
   {
@@ -1330,34 +680,8 @@
       "southern": "ubxZf9ebNCL7wN74H"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [3, 4, 5, 6, 7, 8, 9, 10, 11],
+      "southern": [1, 2, 3, 4, 5, 9, 10, 11, 12]
     }
   },
   {
@@ -1382,34 +706,8 @@
       "southern": "ewYPTwARFE9W2BnNg"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [3, 4, 5, 6, 7, 8, 9, 10],
+      "southern": [1, 2, 3, 4, 9, 10, 11, 12]
     }
   },
   {
@@ -1434,34 +732,8 @@
       "southern": "iYJ6aWNchLGikwy4i"
     },
     "availability": {
-      "northern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
     }
   },
   {
@@ -1486,34 +758,8 @@
       "southern": "EcLvQM5LfdgR4o2en"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [3, 4, 5, 6],
+      "southern": [9, 10, 11, 12]
     }
   },
   {
@@ -1538,34 +784,8 @@
       "southern": "XEaKyK7nZ89kjfYn8"
     },
     "availability": {
-      "northern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
     }
   },
   {
@@ -1590,34 +810,8 @@
       "southern": "qc5DW5pHENsgubkTK"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": true,
-        "aug": true,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      }
+      "northern": [7, 8],
+      "southern": [1, 2]
     }
   },
   {
@@ -1642,34 +836,8 @@
       "southern": "35BKZ663nxA9bXhr7"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      }
+      "northern": [7, 8, 9],
+      "southern": [1, 2, 3]
     }
   },
   {
@@ -1694,34 +862,8 @@
       "southern": "zXpGx9g44pXRhTwyW"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      }
+      "northern": [7, 8, 9],
+      "southern": [1, 2, 3]
     }
   },
   {
@@ -1746,34 +888,8 @@
       "southern": "oxCiEy4SuGHxddR9F"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": true,
-        "aug": true,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      }
+      "northern": [7, 8],
+      "southern": [1, 2]
     }
   },
   {
@@ -1798,34 +914,8 @@
       "southern": "9Re9PyCS9hh7moWHP"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      }
+      "northern": [7, 8, 9],
+      "southern": [1, 2, 3]
     }
   },
   {
@@ -1850,34 +940,8 @@
       "southern": "7ctou5bL6L6xyaTbB"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": false
-      },
-      "southern": {
-        "jan": false,
-        "feb": false,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      }
+      "northern": [9, 10, 11],
+      "southern": [3, 4, 5]
     }
   },
   {
@@ -1902,34 +966,8 @@
       "southern": "BTYtv2uZoQNd3inj7"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": true,
-        "aug": true,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      }
+      "northern": [7, 8],
+      "southern": [1, 2]
     }
   },
   {
@@ -1954,34 +992,8 @@
       "southern": "EJ2kKhTf6xfYwcfwy"
     },
     "availability": {
-      "northern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
     }
   },
   {
@@ -2006,34 +1018,8 @@
       "southern": "cpyr7ogdNjj83JZzd"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [4, 5, 6, 7, 8, 9],
+      "southern": [1, 2, 3, 10, 11, 12]
     }
   },
   {
@@ -2058,34 +1044,8 @@
       "southern": "Grf5JfQXgY24wYmio"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": true,
-        "aug": true,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      }
+      "northern": [7, 8],
+      "southern": [1, 2]
     }
   },
   {
@@ -2110,34 +1070,8 @@
       "southern": "av4PmoZ2HvnHg5uZS"
     },
     "availability": {
-      "northern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
     }
   },
   {
@@ -2162,34 +1096,8 @@
       "southern": "CGTyrwme3ymjY9YkK"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [3, 4, 5, 6, 7],
+      "southern": [1, 9, 10, 11, 12]
     }
   },
   {
@@ -2214,34 +1122,8 @@
       "southern": "kuJXB2RXkoonY9GT4"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": true,
-        "aug": true,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      }
+      "northern": [7, 8],
+      "southern": [1, 2]
     }
   },
   {
@@ -2266,34 +1148,8 @@
       "southern": "jtoNevxkYqPFRQk29"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": false,
-        "aug": false,
-        "sep": true,
-        "oct": true,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": false,
-        "feb": false,
-        "mar": true,
-        "apr": true,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [3, 4, 5, 6, 9, 10],
+      "southern": [3, 4, 9, 10, 11, 12]
     }
   },
   {
@@ -2318,34 +1174,8 @@
       "southern": "G2ocQzSSMzftrsReu"
     },
     "availability": {
-      "northern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": false,
-        "aug": false,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      },
-      "southern": {
-        "jan": false,
-        "feb": false,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [1, 2, 3, 4, 5, 6, 9, 10, 11, 12],
+      "southern": [3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
     }
   },
   {
@@ -2370,34 +1200,8 @@
       "southern": "RqHaM6gCjKQ5m72W6"
     },
     "availability": {
-      "northern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": false,
-        "may": false,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": false,
-        "nov": false,
-        "dec": true
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": false,
-        "may": false,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": false,
-        "nov": false,
-        "dec": true
-      }
+      "northern": [1, 2, 3, 6, 7, 8, 9, 12],
+      "southern": [1, 2, 3, 6, 7, 8, 9, 12]
     }
   },
   {
@@ -2422,34 +1226,8 @@
       "southern": "u8wcE9vg6y5LJe9pm"
     },
     "availability": {
-      "northern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": false,
-        "aug": false,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      },
-      "southern": {
-        "jan": false,
-        "feb": false,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [1, 2, 3, 4, 5, 6, 9, 10, 11, 12],
+      "southern": [3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
     }
   },
   {
@@ -2477,34 +1255,8 @@
       "southern": "drAumSPbq44efd8mF"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": true
-      }
+      "northern": [6, 7, 8, 9, 10, 11],
+      "southern": [1, 2, 3, 4, 5, 12]
     }
   },
   {
@@ -2529,34 +1281,8 @@
       "southern": "DcqW2mJfRm2kyy7cX"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": true
-      }
+      "northern": [6, 7, 8, 9],
+      "southern": [1, 2, 3, 12]
     }
   },
   {
@@ -2581,34 +1307,8 @@
       "southern": "uu7YfnLLbeHabBtS4"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": true,
-        "aug": true,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      }
+      "northern": [7, 8],
+      "southern": [1, 2]
     }
   },
   {
@@ -2633,34 +1333,8 @@
       "southern": "o8zFG8947PQW3wL22"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [4, 5, 6, 7, 8, 9, 10, 11],
+      "southern": [1, 2, 3, 4, 5, 10, 11, 12]
     }
   },
   {
@@ -2685,34 +1359,8 @@
       "southern": "bBSuPDYsKWoCXTSoz"
     },
     "availability": {
-      "northern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": true,
-        "dec": true
-      },
-      "southern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": false
-      }
+      "northern": [1, 2, 3, 4, 5, 11, 12],
+      "southern": [5, 6, 7, 8, 9, 10, 11]
     }
   },
   {
@@ -2737,34 +1385,8 @@
       "southern": "rP9cD4fdBQ5tNg7Z5"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [5, 6, 7, 8, 9, 10],
+      "southern": [1, 2, 3, 4, 11, 12]
     }
   },
   {
@@ -2789,34 +1411,8 @@
       "southern": "ccZ7HHqAFxieNpHL3"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": false
-      },
-      "southern": {
-        "jan": false,
-        "feb": false,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      }
+      "northern": [9, 10, 11],
+      "southern": [3, 4, 5]
     }
   },
   {
@@ -2841,34 +1437,8 @@
       "southern": "mt6ytXKvY3j39mBMs"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": true,
-        "aug": true,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      }
+      "northern": [7, 8],
+      "southern": [1, 2]
     }
   },
   {
@@ -2893,34 +1463,8 @@
       "southern": "xPyKLidJeZunJQ28Z"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": true,
-        "aug": true,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      }
+      "northern": [7, 8],
+      "southern": [1, 2]
     }
   },
   {
@@ -2945,34 +1489,8 @@
       "southern": "SDxL5ttCz6xi7JouK"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": true,
-        "aug": true,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      }
+      "northern": [7, 8],
+      "southern": [1, 2]
     }
   },
   {
@@ -2997,34 +1515,8 @@
       "southern": "GTL6H5SZSTiZQkAN2"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [5, 6, 7, 8, 9, 10],
+      "southern": [1, 2, 3, 4, 11, 12]
     }
   },
   {
@@ -3049,34 +1541,8 @@
       "southern": "J7bFkWwRQTvFiNYsm"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": true,
-        "aug": true,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      }
+      "northern": [7, 8],
+      "southern": [1, 2]
     }
   },
   {
@@ -3101,34 +1567,8 @@
       "southern": "mbnLAaP568zEPycZW"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": true,
-        "oct": true,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": false,
-        "feb": false,
-        "mar": true,
-        "apr": true,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      }
+      "northern": [9, 10],
+      "southern": [3, 4]
     }
   },
   {
@@ -3153,34 +1593,8 @@
       "southern": "thkzEFvKKqcCSckxA"
     },
     "availability": {
-      "northern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
     }
   },
   {
@@ -3205,34 +1619,8 @@
       "southern": "gm2hxMebSDrSwCr5S"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [4, 5, 6, 7, 8, 9, 10, 11],
+      "southern": [1, 2, 3, 4, 5, 10, 11, 12]
     }
   },
   {
@@ -3257,34 +1645,8 @@
       "southern": "tGZq3PK2ezjLvHtGF"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [4, 5, 6, 7, 8],
+      "southern": [1, 2, 10, 11, 12]
     }
   },
   {
@@ -3309,34 +1671,8 @@
       "southern": "7wZQKoqMzgC9rrwxK"
     },
     "availability": {
-      "northern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": true,
-        "dec": true
-      },
-      "southern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": false,
-        "dec": false
-      }
+      "northern": [1, 2, 3, 4, 11, 12],
+      "southern": [5, 6, 7, 8, 9, 10]
     }
   },
   {
@@ -3361,34 +1697,8 @@
       "southern": "MGW8WwKMaEyHQwEia"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": true,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": true,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [3, 4, 5, 6, 10],
+      "southern": [4, 9, 10, 11, 12]
     }
   },
   {
@@ -3413,34 +1723,8 @@
       "southern": "9ThyjwsQQuM6HDyxe"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": false
-      },
-      "southern": {
-        "jan": false,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      }
+      "northern": [8, 9, 10, 11],
+      "southern": [2, 3, 4, 5]
     }
   },
   {
@@ -3465,34 +1749,8 @@
       "southern": "6LrAWYHNv5YtiJiDH"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": true,
-        "sep": true,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": false,
-        "feb": true,
-        "mar": true,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      }
+      "northern": [8, 9],
+      "southern": [2, 3]
     }
   },
   {
@@ -3517,34 +1775,8 @@
       "southern": "Srk5kLczD6DyKcu23"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": true,
-        "jun": true,
-        "jul": false,
-        "aug": false,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": false
-      },
-      "southern": {
-        "jan": false,
-        "feb": false,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [5, 6, 9, 10, 11],
+      "southern": [3, 4, 5, 11, 12]
     }
   },
   {
@@ -3569,34 +1801,8 @@
       "southern": "wh57zKyvhrQ4LcjS8"
     },
     "availability": {
-      "northern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
     }
   },
   {
@@ -3621,34 +1827,8 @@
       "southern": "MiS5HWxuw8vfbskLs"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [4, 5, 6, 7, 8, 9],
+      "southern": [1, 2, 3, 10, 11, 12]
     }
   },
   {
@@ -3673,34 +1853,8 @@
       "southern": "qwg5nZwxR444LuNe5"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": true,
-        "aug": true,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      }
+      "northern": [7, 8],
+      "southern": [1, 2]
     }
   },
   {
@@ -3728,34 +1882,8 @@
       "southern": "hGuQQRhZGJrRnS3Fz"
     },
     "availability": {
-      "northern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": true,
-        "dec": true
-      },
-      "southern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      }
+      "northern": [1, 2, 3, 11, 12],
+      "southern": [5, 6, 7, 8, 9]
     }
   },
   {
@@ -3783,34 +1911,8 @@
       "southern": "W6fabEEkQvqvjhNB3"
     },
     "availability": {
-      "northern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
     }
   },
   {
@@ -3838,34 +1940,8 @@
       "southern": "HukervsZiT8NGA9Dz"
     },
     "availability": {
-      "northern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
     }
   },
   {
@@ -3893,34 +1969,8 @@
       "southern": "fFWcW2kZrMgmL7LBn"
     },
     "availability": {
-      "northern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
     }
   },
   {
@@ -3948,34 +1998,8 @@
       "southern": "KRLsBRHqrx2eTERCz"
     },
     "availability": {
-      "northern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
     }
   },
   {
@@ -4003,34 +2027,8 @@
       "southern": "ex7mxhT9FEgz5pQYD"
     },
     "availability": {
-      "northern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
     }
   },
   {
@@ -4058,34 +2056,8 @@
       "southern": "2TR6zR8mhsTsSufkL"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [4, 5, 6, 7, 8],
+      "southern": [1, 2, 10, 11, 12]
     }
   },
   {
@@ -4113,34 +2085,8 @@
       "southern": "vMJweM9RcjN8pYYok"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [4, 5, 6, 7, 8, 9],
+      "southern": [1, 2, 3, 10, 11, 12]
     }
   },
   {
@@ -4168,34 +2114,8 @@
       "southern": "FS3AtKkHoFb6eZoww"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": true,
-        "sep": true,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": false,
-        "feb": true,
-        "mar": true,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      }
+      "northern": [8, 9],
+      "southern": [2, 3]
     }
   },
   {
@@ -4223,34 +2143,8 @@
       "southern": "jHwDCfiGrX56kt7BD"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [3, 4, 5, 6, 7],
+      "southern": [1, 9, 10, 11, 12]
     }
   },
   {
@@ -4278,34 +2172,8 @@
       "southern": "4TGBv5bbc9pQXv5Hq"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [5, 6, 7, 8],
+      "southern": [1, 2, 11, 12]
     }
   },
   {
@@ -4333,34 +2201,8 @@
       "southern": "T8QBy9vZfsBowHnfp"
     },
     "availability": {
-      "northern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
     }
   },
   {
@@ -4388,34 +2230,8 @@
       "southern": "BjxXjLZPo5j7ivrmz"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": false
-      }
+      "northern": [3, 4, 5],
+      "southern": [9, 10, 11]
     }
   },
   {
@@ -4443,34 +2259,8 @@
       "southern": "LiN6N3jWNSJBQZDok"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [5, 6, 7, 8, 9, 10],
+      "southern": [1, 2, 3, 4, 11, 12]
     }
   },
   {
@@ -4498,34 +2288,8 @@
       "southern": "wbiASapfjoa8QdKMM"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": true
-      }
+      "northern": [6, 7, 8],
+      "southern": [1, 2, 12]
     }
   },
   {
@@ -4553,34 +2317,8 @@
       "southern": "CYDnutGqXqKmPu6w6"
     },
     "availability": {
-      "northern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
     }
   },
   {
@@ -4608,34 +2346,8 @@
       "southern": "X7XQNMe5yJ2bR6f65"
     },
     "availability": {
-      "northern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      },
-      "southern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      }
+      "northern": [1, 2, 3, 10, 11, 12],
+      "southern": [4, 5, 6, 7, 8, 9]
     }
   },
   {
@@ -4663,34 +2375,8 @@
       "southern": "4297LKBYgv9Fsn2jZ"
     },
     "availability": {
-      "northern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
     }
   },
   {
@@ -4718,34 +2404,8 @@
       "southern": "b5eLrWd8JyptpuuJk"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      },
-      "southern": {
-        "jan": false,
-        "feb": false,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      }
+      "northern": [9, 10, 11, 12],
+      "southern": [3, 4, 5, 6]
     }
   },
   {
@@ -4773,34 +2433,8 @@
       "southern": "krtLNXjpkWE9Suxzc"
     },
     "availability": {
-      "northern": {
-        "jan": true,
-        "feb": true,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": true
-      },
-      "southern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      }
+      "northern": [1, 2, 12],
+      "southern": [6, 7, 8]
     }
   },
   {
@@ -4828,34 +2462,8 @@
       "southern": "Mx25cAmEDuAb8e5H9"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      }
+      "northern": [7, 8, 9],
+      "southern": [1, 2, 3]
     }
   },
   {
@@ -4883,34 +2491,8 @@
       "southern": "42nEegEqHWEb4R2FF"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": false,
-        "aug": false,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": false
-      },
-      "southern": {
-        "jan": false,
-        "feb": false,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [3, 4, 5, 6, 9, 10, 11],
+      "southern": [3, 4, 5, 9, 10, 11, 12]
     }
   },
   {
@@ -4938,34 +2520,8 @@
       "southern": "Kyh4ufnv7jjnDPA4w"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": false,
-        "aug": false,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": false
-      },
-      "southern": {
-        "jan": false,
-        "feb": false,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [3, 4, 5, 6, 9, 10, 11],
+      "southern": [3, 4, 5, 9, 10, 11, 12]
     }
   },
   {
@@ -4993,34 +2549,8 @@
       "southern": "fd6Ezf6cvt8pkCxRg"
     },
     "availability": {
-      "northern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": true
-      },
-      "southern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      }
+      "northern": [1, 2, 3, 12],
+      "southern": [6, 7, 8, 9]
     }
   },
   {
@@ -5048,34 +2578,8 @@
       "southern": "rfP2SWFt3JZEFpGJp"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": true,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": false,
-        "feb": false,
-        "mar": true,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      }
+      "northern": [9],
+      "southern": [3]
     }
   },
   {
@@ -5103,34 +2607,8 @@
       "southern": "jQm8MSwfjL8Qha4Jv"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": true,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": false,
-        "feb": false,
-        "mar": true,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      }
+      "northern": [9],
+      "southern": [3]
     }
   },
   {
@@ -5158,34 +2636,8 @@
       "southern": "ue8oAvKb7eAuMWEoD"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": false
-      },
-      "southern": {
-        "jan": false,
-        "feb": false,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      }
+      "northern": [9, 10, 11],
+      "southern": [3, 4, 5]
     }
   },
   {
@@ -5213,34 +2665,8 @@
       "southern": "76S9sKq6nXfAA2W8X"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [4, 5, 6, 7, 8, 9, 10, 11],
+      "southern": [1, 2, 3, 4, 5, 10, 11, 12]
     }
   },
   {
@@ -5268,34 +2694,8 @@
       "southern": "JKREQY3uD2FSsnYXt"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [5, 6, 7, 8, 9],
+      "southern": [1, 2, 3, 11, 12]
     }
   },
   {
@@ -5323,34 +2723,8 @@
       "southern": "zWg3QxHGeZPEtydEz"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [5, 6, 7, 8, 9, 10],
+      "southern": [1, 2, 3, 4, 11, 12]
     }
   },
   {
@@ -5378,34 +2752,8 @@
       "southern": "Z2D5GbGZSMQ47EkkD"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [4, 5, 6, 7, 8, 9, 10, 11],
+      "southern": [1, 2, 3, 4, 5, 10, 11, 12]
     }
   },
   {
@@ -5436,34 +2784,8 @@
       "southern": "X9Eoeuwsokc8EsmTD"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": true
-      }
+      "northern": [6, 7, 8, 9],
+      "southern": [1, 2, 3, 12]
     }
   },
   {
@@ -5491,34 +2813,8 @@
       "southern": "Pym8PdaZzM2JPg6LZ"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": true
-      }
+      "northern": [6, 7, 8, 9],
+      "southern": [1, 2, 3, 12]
     }
   },
   {
@@ -5546,34 +2842,8 @@
       "southern": "Xs43YpZZHfXH4ScRB"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": true
-      }
+      "northern": [6, 7, 8, 9],
+      "southern": [1, 2, 3, 12]
     }
   },
   {
@@ -5601,34 +2871,8 @@
       "southern": "fB8RoqJja9v4YwJLG"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": true
-      }
+      "northern": [6, 7, 8, 9],
+      "southern": [1, 2, 3, 12]
     }
   },
   {
@@ -5656,34 +2900,8 @@
       "southern": "AgcybrEaMNJnwAQw4"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": true
-      }
+      "northern": [6, 7, 8, 9],
+      "southern": [1, 2, 3, 12]
     }
   },
   {
@@ -5711,34 +2929,8 @@
       "southern": "RHEoCYrjsN2QvhfDC"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": true
-      }
+      "northern": [6, 7, 8, 9],
+      "southern": [1, 2, 3, 12]
     }
   },
   {
@@ -5766,34 +2958,8 @@
       "southern": "xL5gWRtSg5wx8grNA"
     },
     "availability": {
-      "northern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": true
-      },
-      "southern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      }
+      "northern": [1, 2, 3, 12],
+      "southern": [6, 7, 8, 9]
     }
   },
   {
@@ -5821,34 +2987,8 @@
       "southern": "GT4qHvvBDD7xGDwKd"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [4, 5, 6, 7, 8, 9, 10, 11],
+      "southern": [1, 2, 3, 4, 5, 10, 11, 12]
     }
   },
   {
@@ -5876,34 +3016,8 @@
       "southern": "9P9utXsA694uTWx8f"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [4, 5, 6, 7, 8, 9],
+      "southern": [1, 2, 3, 10, 11, 12]
     }
   },
   {
@@ -5931,34 +3045,8 @@
       "southern": "FcaAXgc48z5fpQNYN"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [4, 5, 6, 7, 8, 9],
+      "southern": [1, 2, 3, 10, 11, 12]
     }
   },
   {
@@ -5986,34 +3074,8 @@
       "southern": "fd9QDcqMGwBYW9fW9"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [4, 5, 6, 7, 8, 9],
+      "southern": [1, 2, 3, 10, 11, 12]
     }
   },
   {
@@ -6041,34 +3103,8 @@
       "southern": "SMc3GqLrJoxaixLLa"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": true,
-        "aug": true,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      }
+      "northern": [7, 8],
+      "southern": [1, 2]
     }
   },
   {
@@ -6096,34 +3132,8 @@
       "southern": "ps2T62EzQwRLpsJEC"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [4, 5, 6, 7, 8, 9, 10, 11],
+      "southern": [1, 2, 3, 4, 5, 10, 11, 12]
     }
   },
   {
@@ -6151,34 +3161,8 @@
       "southern": "5iqYixbu8J6wDS996"
     },
     "availability": {
-      "northern": {
-        "jan": true,
-        "feb": true,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": true,
-        "dec": true
-      },
-      "southern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      }
+      "northern": [1, 2, 11, 12],
+      "southern": [5, 6, 7, 8]
     }
   },
   {
@@ -6206,34 +3190,8 @@
       "southern": "TWv7ZFTEgKq8Kqv8j"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      }
+      "northern": [7, 8, 9],
+      "southern": [1, 2, 3]
     }
   },
   {
@@ -6261,34 +3219,8 @@
       "southern": "GEh5ZgwuNzMptkqAq"
     },
     "availability": {
-      "northern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
     }
   },
   {
@@ -6316,34 +3248,8 @@
       "southern": "guw9TKfGGNPNZKNtg"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [3, 4, 5, 6, 7, 8, 9, 10, 11],
+      "southern": [1, 2, 3, 4, 5, 9, 10, 11, 12]
     }
   },
   {
@@ -6371,34 +3277,8 @@
       "southern": "BXxw4D4AprbvH26Zs"
     },
     "availability": {
-      "northern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
     }
   },
   {
@@ -6426,34 +3306,8 @@
       "southern": "arXB8QXnaCedMpv4F"
     },
     "availability": {
-      "northern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
     }
   },
   {
@@ -6481,34 +3335,8 @@
       "southern": "oTncbSYhBfP82yH82"
     },
     "availability": {
-      "northern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      },
-      "southern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": false,
-        "dec": false
-      }
+      "northern": [1, 2, 3, 4, 10, 11, 12],
+      "southern": [4, 5, 6, 7, 8, 9, 10]
     }
   },
   {
@@ -6536,34 +3364,8 @@
       "southern": "DJ3Mn8S3js75WCZ6f"
     },
     "availability": {
-      "northern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
     }
   },
   {
@@ -6591,34 +3393,8 @@
       "southern": "WBnvAcKQ5XgScQZcE"
     },
     "availability": {
-      "northern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": true
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [1, 2, 3, 4, 5, 6, 7, 8, 12],
+      "southern": [1, 2, 6, 7, 8, 9, 10, 11, 12]
     }
   },
   {
@@ -6646,34 +3422,8 @@
       "southern": "uYPGhKpc4d8M2mSsc"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": false,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      }
+      "northern": [8, 9, 10],
+      "southern": [2, 3, 4]
     }
   },
   {
@@ -6701,34 +3451,8 @@
       "southern": "Z4meYXw9ZJtQQPdHK"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": true
-      }
+      "northern": [6, 7, 8, 9, 10],
+      "southern": [1, 2, 3, 4, 12]
     }
   },
   {
@@ -6756,34 +3480,8 @@
       "southern": "2hbMJQhkivukowbRB"
     },
     "availability": {
-      "northern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": true,
-        "dec": true
-      },
-      "southern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      }
+      "northern": [1, 2, 3, 11, 12],
+      "southern": [5, 6, 7, 8, 9]
     }
   },
   {
@@ -6811,34 +3509,8 @@
       "southern": "NGsa29maHNpkoSrAT"
     },
     "availability": {
-      "northern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": true,
-        "dec": true
-      },
-      "southern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": false,
-        "dec": false
-      }
+      "northern": [1, 2, 3, 4, 11, 12],
+      "southern": [5, 6, 7, 8, 9, 10]
     }
   },
   {
@@ -6866,34 +3538,8 @@
       "southern": "8Ri4vk9sgZiHADLsR"
     },
     "availability": {
-      "northern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": false,
-        "jun": false,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": false,
-        "nov": true,
-        "dec": true
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": false,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": false,
-        "dec": false
-      }
+      "northern": [1, 2, 3, 4, 7, 8, 9, 11, 12],
+      "southern": [1, 2, 3, 5, 6, 7, 8, 9, 10]
     }
   },
   {
@@ -6921,34 +3567,8 @@
       "southern": "DRCfP82srJcvnApSS"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [5, 6, 7, 8, 9, 10],
+      "southern": [1, 2, 3, 4, 11, 12]
     }
   },
   {
@@ -6976,34 +3596,8 @@
       "southern": "2PEy7ZTXx68RncMzE"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": false
-      },
-      "southern": {
-        "jan": false,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      }
+      "northern": [8, 9, 10, 11],
+      "southern": [2, 3, 4, 5]
     }
   },
   {
@@ -7031,34 +3625,8 @@
       "southern": "fj6gPur9jgtRpidko"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      }
+      "northern": [7, 8, 9],
+      "southern": [1, 2, 3]
     }
   },
   {
@@ -7086,34 +3654,8 @@
       "southern": "KJyiGh9uraAt5MZ3T"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": true
-      }
+      "northern": [6, 7, 8, 9],
+      "southern": [1, 2, 3, 12]
     }
   },
   {
@@ -7141,34 +3683,8 @@
       "southern": "Rg246PsWPjB5QLWAY"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": true
-      }
+      "northern": [6, 7, 8, 9],
+      "southern": [1, 2, 3, 12]
     }
   },
   {
@@ -7196,34 +3712,8 @@
       "southern": "yEBbZRPQtqKX73apn"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": true
-      }
+      "northern": [6, 7, 8, 9],
+      "southern": [1, 2, 3, 12]
     }
   },
   {
@@ -7251,34 +3741,8 @@
       "southern": "wMaEcaQxYqrvuTv2T"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": true
-      }
+      "northern": [6, 7, 8, 9],
+      "southern": [1, 2, 3, 12]
     }
   },
   {
@@ -7306,34 +3770,8 @@
       "southern": "5bzpceXjtezTJMp6t"
     },
     "availability": {
-      "northern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": true
-      },
-      "southern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": false
-      }
+      "northern": [1, 2, 3, 4, 5, 12],
+      "southern": [6, 7, 8, 9, 10, 11]
     }
   },
   {
@@ -7361,34 +3799,8 @@
       "southern": "TjEaWcTNKNwwpq9A4"
     },
     "availability": {
-      "northern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
     }
   },
   {
@@ -7413,34 +3825,8 @@
       "southern": "uYtqZdzMARD747LPi"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [4, 5, 6, 7, 8],
+      "southern": [1, 2, 10, 11, 12]
     }
   },
   {
@@ -7465,34 +3851,8 @@
       "southern": "icdAaJR9xeamPkbun"
     },
     "availability": {
-      "northern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
     }
   },
   {
@@ -7517,34 +3877,8 @@
       "southern": "YduWSvM6Hfa5HPwyA"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [5, 6, 7, 8],
+      "southern": [1, 2, 11, 12]
     }
   },
   {
@@ -7569,34 +3903,8 @@
       "southern": "focoXGdm5JMJw7CPF"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": true
-      }
+      "northern": [6, 7, 8],
+      "southern": [1, 2, 12]
     }
   },
   {
@@ -7621,34 +3929,8 @@
       "southern": "jAcCAzpFHqrSbaZBP"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": true,
-        "aug": true,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      }
+      "northern": [7, 8],
+      "southern": [1, 2]
     }
   },
   {
@@ -7673,34 +3955,8 @@
       "southern": "ZCoo9aZtDL9Q7Y2zb"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [3, 4, 5, 6, 7, 8, 9, 10],
+      "southern": [1, 2, 3, 4, 9, 10, 11, 12]
     }
   },
   {
@@ -7725,34 +3981,8 @@
       "southern": "wRuDf5dskHx4F6uPt"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [4, 5, 6, 7, 8, 9],
+      "southern": [1, 2, 3, 10, 11, 12]
     }
   },
   {
@@ -7777,34 +4007,8 @@
       "southern": "BNoCCddNyas4j2KNv"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": true,
-        "aug": true,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      }
+      "northern": [7, 8],
+      "southern": [1, 2]
     }
   },
   {
@@ -7829,34 +4033,8 @@
       "southern": "2g4nqkeGd46kNch4N"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [5, 6, 7, 8, 9],
+      "southern": [1, 2, 3, 11, 12]
     }
   },
   {
@@ -7884,34 +4062,8 @@
       "southern": "PvbGdqGWRD6HhMGGF"
     },
     "availability": {
-      "northern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      },
-      "southern": {
-        "jan": false,
-        "feb": false,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      }
+      "northern": [1, 2, 3, 9, 10, 11, 12],
+      "southern": [3, 4, 5, 6, 7, 8, 9]
     }
   },
   {
@@ -7939,34 +4091,8 @@
       "southern": "ovvjDJiia6DHnrTST"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": true
-      }
+      "northern": [6, 7, 8, 9, 10],
+      "southern": [1, 2, 3, 4, 12]
     }
   },
   {
@@ -7994,34 +4120,8 @@
       "southern": "PXKheBpjDi3Kerqfe"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [5, 6, 7, 8, 9, 10],
+      "southern": [1, 2, 3, 4, 11, 12]
     }
   },
   {
@@ -8049,34 +4149,8 @@
       "southern": "DerByqB2XE4GNgko8"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [4, 5, 6, 7, 8, 9, 10],
+      "southern": [1, 2, 3, 4, 10, 11, 12]
     }
   },
   {
@@ -8104,34 +4178,8 @@
       "southern": "TfjuFuzNMswbxXSwu"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": false
-      },
-      "southern": {
-        "jan": false,
-        "feb": false,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": false
-      }
+      "northern": [3, 4, 5, 9, 10, 11],
+      "southern": [3, 4, 5, 9, 10, 11]
     }
   },
   {
@@ -8159,34 +4207,8 @@
       "southern": "AqnawB3bjnEK3pxaB"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [5, 6, 7, 8, 9, 10],
+      "southern": [1, 2, 3, 4, 11, 12]
     }
   },
   {
@@ -8214,34 +4236,8 @@
       "southern": "8tHhKTS9Bf37onoJx"
     },
     "availability": {
-      "northern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
     }
   },
   {
@@ -8269,34 +4265,8 @@
       "southern": "6AZNRzTu9eNpWtAew"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [5, 6, 7, 8, 9, 10],
+      "southern": [1, 2, 3, 4, 11, 12]
     }
   },
   {
@@ -8324,34 +4294,8 @@
       "southern": "ePPT74a7Zju3ecmZT"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": true
-      }
+      "northern": [6, 7, 8, 9],
+      "southern": [1, 2, 3, 12]
     }
   },
   {
@@ -8379,34 +4323,8 @@
       "southern": "d6LaNMNtT9D8q6haJ"
     },
     "availability": {
-      "northern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
     }
   },
   {
@@ -8431,34 +4349,8 @@
       "southern": "cKYzJjTdq8PduWkDr"
     },
     "availability": {
-      "northern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [4, 5, 6, 7, 8, 9],
+      "southern": [1, 2, 3, 10, 11, 12]
     }
   },
   {
@@ -8486,34 +4378,8 @@
       "southern": "BiToqb8zSirhfXdT7"
     },
     "availability": {
-      "northern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      },
-      "southern": {
-        "jan": true,
-        "feb": true,
-        "mar": true,
-        "apr": true,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": true,
-        "oct": true,
-        "nov": true,
-        "dec": true
-      }
+      "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
     }
   },
   {
@@ -8538,34 +4404,8 @@
       "southern": "w332om69yjuBE4At3"
     },
     "availability": {
-      "northern": {
-        "jan": true,
-        "feb": true,
-        "mar": false,
-        "apr": false,
-        "may": false,
-        "jun": false,
-        "jul": false,
-        "aug": false,
-        "sep": false,
-        "oct": false,
-        "nov": true,
-        "dec": true
-      },
-      "southern": {
-        "jan": false,
-        "feb": false,
-        "mar": false,
-        "apr": false,
-        "may": true,
-        "jun": true,
-        "jul": true,
-        "aug": true,
-        "sep": false,
-        "oct": false,
-        "nov": false,
-        "dec": false
-      }
+      "northern": [1, 2, 11, 12],
+      "southern": [5, 6, 7, 8]
     }
   }
 ]

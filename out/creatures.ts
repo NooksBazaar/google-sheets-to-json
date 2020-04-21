@@ -43,8 +43,8 @@ export enum ActiveHour {
 }
 
 export interface Availability {
-  northern: {[key: string]: boolean};
-  southern: {[key: string]: boolean};
+  northern: number[];
+  southern: number[];
 }
 
 export enum Color {

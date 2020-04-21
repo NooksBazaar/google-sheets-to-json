@@ -369,8 +369,27 @@ async function mergeCreatures(data: any[]) {
     }
 
     creature.uniqueEntryId[hemisphere] = rawCreature.uniqueEntryId;
-    creature.availability[hemisphere] = pick(rawCreature, AVAILABILITY_KEYS);
+    creature.availability[hemisphere] = mapAvailability(
+      pick(rawCreature, AVAILABILITY_KEYS),
+    );
   }
 
   return Object.values(dataset);
+}
+
+function mapAvailability(data: {[key: string]: boolean}): number[] {
+  const availableMonths = [];
+
+  let i = 1;
+  for (const month of Object.keys(data)) {
+    const isAvailable = data[month];
+
+    if (isAvailable) {
+      availableMonths.push(i);
+    }
+
+    i++;
+  }
+
+  return availableMonths;
 }
