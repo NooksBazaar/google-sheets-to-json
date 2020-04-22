@@ -12,5 +12,3 @@ yarn quicktype out/achievements.json -o out/achievements.d.ts --just-types
 
 yarn prettier:fix
 yarn prettier "out/*.json" --write
-
-cp package.json out
