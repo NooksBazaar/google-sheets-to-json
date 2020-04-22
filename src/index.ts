@@ -5,6 +5,8 @@ import {camelCase, zipObject, omit, pick} from 'lodash';
 import {addMinutes, format, parse} from 'date-fns';
 
 const SHEET_ID = '1mo7myqHry5r_TKvakvIhHbcEAEQpSiNoNQoIS8sMpvM';
+const OUTPUT_FOLDER = './out/';
+const CACHE_FOLDER = './cache/';
 
 const ITEM_SHEETS = [
   'Housewares',
@@ -53,12 +55,12 @@ type ItemData = any[];
 export async function main(auth: OAuth2Client) {
   const sheets = google.sheets({version: 'v4', auth});
 
-  if (!fs.existsSync('cache')) {
-    fs.mkdirSync('cache');
+  if (!fs.existsSync(CACHE_FOLDER)) {
+    fs.mkdirSync(CACHE_FOLDER);
   }
 
-  if (!fs.existsSync('out')) {
-    fs.mkdirSync('out');
+  if (!fs.existsSync(OUTPUT_FOLDER)) {
+    fs.mkdirSync(OUTPUT_FOLDER);
   }
 
   const workSet: Array<[string, string[]]> = [
@@ -90,7 +92,7 @@ export async function main(auth: OAuth2Client) {
     }
 
     console.log(`Writing data to disk`);
-    fs.writeFileSync(`out/${key}.json`, JSON.stringify(data, undefined, ' '));
+    fs.writeFileSync(`${OUTPUT_FOLDER}${key}.json`, JSON.stringify(data, undefined, ' '));
 
     console.log(`Finished ${key}`);
   }
@@ -101,7 +103,7 @@ export async function loadData(
   sheetNames: string[],
   key: string,
 ) {
-  const cacheFile = `cache/${key}.json`;
+  const cacheFile = `${CACHE_FOLDER}${key}.json`;
 
   try {
     const file = fs.readFileSync(cacheFile);
@@ -138,7 +140,7 @@ const valueFormatters: ValueFormatters = {
   image: extractImageUrl,
   house: extractImageUrl,
   uses: normaliseUse,
-  source: (input: string) => input.split('\n'),
+  source: (input: string) => input ? input.split('\n') : [],
   startTime: normaliseTime,
   endTime: normaliseTime,
   birthday: normaliseBirthday,
