@@ -1,7 +1,7 @@
 import {OAuth2Client} from 'google-auth-library';
 import {google, sheets_v4} from 'googleapis';
 import fs from 'fs';
-import {camelCase, zipObject, omit, pick} from 'lodash';
+import {camelCase, isEqual, omit, pick, zipObject} from 'lodash';
 import {addMinutes, format, parse} from 'date-fns';
 
 const SHEET_ID = '1mo7myqHry5r_TKvakvIhHbcEAEQpSiNoNQoIS8sMpvM';
@@ -89,6 +89,10 @@ export async function main(auth: OAuth2Client) {
       data = await mergeCreatures(data);
     }
 
+    if (key === 'items') {
+      data = await mergeItemVariations(data);
+    }
+
     console.log(`Writing data to disk`);
     fs.writeFileSync(`out/${key}.json`, JSON.stringify(data, undefined, ' '));
 
@@ -137,6 +141,8 @@ interface ValueFormatters {
 const valueFormatters: ValueFormatters = {
   image: extractImageUrl,
   house: extractImageUrl,
+  furnitureImage: extractImageUrl,
+  critterpediaImage: extractImageUrl,
   uses: normaliseUse,
   source: (input: string) => input.split('\n'),
   startTime: normaliseTime,
@@ -157,6 +163,7 @@ const NULL_VALUES = new Set([
   'Does not play music',
   'No lighting',
 ]);
+
 const ALL_DAY: Array<[string, string]> = [
   [
     format(emptyDate(), TIME_FORMAT_OUT),
@@ -215,7 +222,33 @@ export async function normalizeData(data: ItemData, sheetKey: string) {
       item[key] = value;
     }
 
+    if (sheetKey === 'items') {
+      item['colors'] = [item['color2'], item['color2']].filter(item => !!item);
+      item['themes'] = [item['hhaConcept1'], item['hhaConcept2']].filter(
+        item => !!item,
+      );
+      item['labelThemes'] = item.labelThemes
+        ?.split(';')
+        .map((item: string) => item.trim());
+      item['set'] = item['hhaSet'];
+      item['series'] = item['hhaSeries'];
+      item['customizationKitCost'] = item['kitCost'];
+
+      delete item['color1'];
+      delete item['color2'];
+      delete item['hhaConcept1'];
+      delete item['hhaConcept2'];
+      delete item['hhaSet'];
+      delete item['hhaSeries'];
+    }
+
     if (sheetKey === 'creatures') {
+      // Temporary workaround
+      item['critterpediaImage'] = item['image'];
+      item['furnitureImage'] = item['house'];
+      delete item['image'];
+      delete item['house'];
+
       const startTime: string[] = item['startTime'];
       const endTime: string[] = item['endTime'];
       let activeHours: Array<[string, string]> = ALL_DAY;
@@ -373,6 +406,73 @@ async function mergeCreatures(data: any[]) {
       pick(rawCreature, AVAILABILITY_KEYS),
     );
   }
+
+  return Object.values(dataset);
+}
+
+const ITEM_VARIATION_KEYS = [
+  'image',
+  'variation',
+  'filename',
+  'variantId',
+  'uniqueEntryId',
+  'colors',
+  'pattern',
+  'bodyCustomize',
+  'bodyTitle',
+  'closetImage',
+  'storageImage',
+  'internalId',
+  'labelThemes',
+];
+
+const keysWithDifferentValueToRoot = new Set();
+
+async function mergeItemVariations(data: any[]) {
+  const dataset: any = {};
+
+  for (let rawItem of data) {
+    // if (! rawItem.name.toLower) {
+    //   console.log(rawItem);
+    //   process.exit(0);
+    // }
+
+    let key = (rawItem.name as string).toLowerCase();
+    let item = dataset[key];
+
+    if (!item) {
+      item = {
+        ...omit(rawItem, ITEM_VARIATION_KEYS),
+        variants: [],
+      };
+
+      dataset[key] = item;
+    }
+
+    item.variants.push(pick(rawItem, ITEM_VARIATION_KEYS));
+  }
+
+  // This part of the code generates the keys to be put into `ITEM_VARIATION_KEYS`
+  //
+  // for (let item of Object.values(dataset) as any) {
+  //   for (let variant of item.variants) {
+  //     for (let key of Object.keys(variant)) {
+  //       let val1 = item[key];
+  //       let val2 = variant[key];
+  //       const hasValue = val1 || val2;
+  //       if (!isEqual(val1,val2) && hasValue) {
+  //         keysWithDifferentValueToRoot.add(key);
+  //
+  //         if (key === 'sourceNotes') {
+  //           console.log(item.name, key, val1, val2);
+  //           process.exit(1);
+  //         }
+  //       }
+  //     }
+  //   }
+  // }
+  //
+  // console.log(keysWithDifferentValueToRoot)
 
   return Object.values(dataset);
 }
