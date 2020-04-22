@@ -6,7 +6,7 @@ export interface Achievements {
   internalId: number;
   internalName: string;
   internalCategory: string;
-  ofTiers: number;
+  numOfTiers: number;
   tier1: number;
   tier2: number;
   tier3: number;

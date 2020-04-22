@@ -1,10 +1,11 @@
 export interface Construction {
   sourceSheet: SourceSheet;
-  name: null | string;
+  name: string;
   image: string;
   buy: number;
   category: Category;
   source: Source[];
+  filename: string;
   uniqueEntryId: string;
 }
 

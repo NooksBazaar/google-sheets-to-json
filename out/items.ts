@@ -1,36 +1,26 @@
 export interface Items {
   sourceSheet: SourceSheet;
   name: string;
-  image: null | string;
-  variation?: number | null | string;
-  bodyTitle?: BodyTitle | null;
-  pattern?: null | string;
   patternTitle?: null | string;
   diy?: boolean;
-  bodyCustomize?: boolean;
   patternCustomize?: boolean;
   kitCost?: number | null;
   buy: number;
   sell: number | null;
-  color1?: Color | null;
-  color2?: Color | null;
   size?: Size;
   source: string[];
   sourceNotes?: null | string;
   version: Version;
-  hhaConcept1?: HhaConcept | null;
-  hhaConcept2?: HhaConcept | null;
-  hhaSeries?: HhaSeries | null;
-  hhaSet?: null | string;
   interact?: boolean;
   tag?: null | string;
   speakerType?: SpeakerType | null;
   lightingType?: LightingType | null;
   catalog?: Catalog;
-  filename: string;
-  variantId?: VariantID | null;
-  internalId: number;
-  uniqueEntryId: string;
+  themes: Theme[];
+  set?: null | string;
+  series?: null | string;
+  customizationKitCost?: number | null;
+  variants: Variant[];
   doorDeco?: boolean;
   vfx?: boolean;
   vfxType?: VfxType | null;
@@ -40,63 +30,14 @@ export interface Items {
   curtainType?: CurtainType | null;
   curtainColor?: null | string;
   ceilingType?: CeilingType;
+  ''?: string;
   customize?: boolean;
   uses?: number;
-  set?: Set | null;
   style?: Style;
-  labelThemes?: null | string;
   primaryShape?: PrimaryShape;
   secondaryShape?: SecondaryShape | null;
-}
-
-export enum BodyTitle {
-  Art = 'Art',
-  BagColor = 'Bag color',
-  Bamboo = 'Bamboo',
-  BarrelColor = 'Barrel color',
-  BlockColor = 'Block color',
-  Body = 'Body',
-  BodyColor = 'Body color',
-  BrickColor = 'Brick color',
-  Can = 'Can',
-  Cardboard = 'Cardboard',
-  ChairBackAndSeat = 'Chair back and seat',
-  Coating = 'Coating',
-  Color = 'Color',
-  CoverDesign = 'Cover design',
-  CoverPattern = 'Cover pattern',
-  Creation = 'Creation',
-  Decorations = 'Decorations',
-  Design = 'Design',
-  Dish = 'Dish',
-  Fabric = 'Fabric',
-  Finish = 'Finish',
-  Flavor = 'Flavor',
-  FlowerColor = 'Flower color',
-  Food = 'Food',
-  Frame = 'Frame',
-  FruitType = 'Fruit type',
-  Genre = 'Genre',
-  HayCondition = 'Hay condition',
-  Illumination = 'Illumination',
-  KnitCapColor = 'Knit-cap color',
-  LightColor = 'Light color',
-  LumberType = 'Lumber type',
-  MushroomType = 'Mushroom type',
-  Name = 'Name',
-  Navigation = 'Navigation',
-  NutColor = 'Nut color',
-  Paint = 'Paint',
-  PaintColor = 'Paint color',
-  PlateColor = 'Plate color',
-  RoofColor = 'Roof color',
-  Season = 'Season',
-  ShellColor = 'Shell color',
-  Sign = 'Sign',
-  Stone = 'Stone',
-  Tabletop = 'Tabletop',
-  TireColor = 'Tire color',
-  Variation = 'Variation',
+  framedImage?: null | string;
+  albumImage?: null | string;
 }
 
 export enum Catalog {
@@ -114,84 +55,10 @@ export enum CeilingType {
   Wood = 'Wood',
 }
 
-export enum Color {
-  Beige = 'Beige',
-  Black = 'Black',
-  Blue = 'Blue',
-  Brown = 'Brown',
-  ColorLightBlue = 'Light Blue',
-  Colorful = 'Colorful',
-  Gray = 'Gray',
-  Green = 'Green',
-  LightBlue = 'Light blue',
-  LightBue = 'Light bue',
-  Orange = 'Orange',
-  Pink = 'Pink',
-  Purple = 'Purple',
-  Red = 'Red',
-  White = 'White',
-  Yellow = 'Yellow',
-}
-
 export enum CurtainType {
   Curtains = 'Curtains',
   RollerShades = 'Roller Shades',
   SlattedBlinds = 'Slatted Blinds',
-}
-
-export enum HhaConcept {
-  Bathroom = 'bathroom',
-  ChildSRoom = "child's room",
-  Concert = 'concert',
-  Den = 'den',
-  Expensive = 'expensive',
-  Facility = 'facility',
-  Fancy = 'fancy',
-  Fitness = 'fitness',
-  FolkArt = 'folk art',
-  FreezingCold = 'freezing cold',
-  Garage = 'garage',
-  Garden = 'garden',
-  Horror = 'horror',
-  Kitchen = 'kitchen',
-  LivingRoom = 'living room',
-  Music = 'music',
-  Ocean = 'ocean',
-  Office = 'office',
-  Outdoors = 'outdoors',
-  Party = 'party',
-  School = 'school',
-  Shop = 'shop',
-  Space = 'space',
-  ZenStyle = 'zen-style',
-}
-
-export enum HhaSeries {
-  Antique = 'antique',
-  Bamboo = 'bamboo',
-  BunnyDay = 'Bunny Day',
-  Cardboard = 'cardboard',
-  CherryBlossoms = 'cherry blossoms',
-  Cute = 'cute',
-  Diner = 'diner',
-  Festive = 'festive',
-  Flowers = 'flowers',
-  Frozen = 'frozen',
-  Fruits = 'fruits',
-  Golden = 'golden',
-  Iron = 'iron',
-  Ironwood = 'ironwood',
-  Log = 'log',
-  Motherly = 'motherly',
-  Mush = 'mush',
-  Rattan = 'rattan',
-  Shell = 'shell',
-  Stars = 'stars',
-  Throwback = 'throwback',
-  TreeSBountyOrLeaves = "tree's bounty or leaves",
-  Wooden = 'wooden',
-  WoodenBlock = 'wooden block',
-  Zen = 'zen',
 }
 
 export enum LightingType {
@@ -225,11 +92,6 @@ export enum SecondaryShape {
   H = 'H',
   L = 'L',
   N = 'N',
-}
-
-export enum Set {
-  ColorfulTools = 'Colorful Tools',
-  OutdoorTools = 'Outdoor Tools',
 }
 
 export enum Size {
@@ -290,6 +152,133 @@ export enum Style {
   Elegant = 'Elegant',
   Gorgeous = 'Gorgeous',
   Simple = 'Simple',
+}
+
+export enum Theme {
+  Bathroom = 'bathroom',
+  ChildSRoom = "child's room",
+  Concert = 'concert',
+  Den = 'den',
+  Expensive = 'expensive',
+  Facility = 'facility',
+  Fancy = 'fancy',
+  Fitness = 'fitness',
+  FolkArt = 'folk art',
+  FreezingCold = 'freezing cold',
+  Garage = 'garage',
+  Garden = 'garden',
+  Horror = 'horror',
+  Kitchen = 'kitchen',
+  LivingRoom = 'living room',
+  Music = 'music',
+  Ocean = 'ocean',
+  Office = 'office',
+  Outdoors = 'outdoors',
+  Party = 'party',
+  School = 'school',
+  Shop = 'shop',
+  Space = 'space',
+  ZenStyle = 'zen-style',
+}
+
+export interface Variant {
+  image?: null | string;
+  variation?: number | null | string;
+  filename: string;
+  variantId?: VariantID | null;
+  uniqueEntryId: string;
+  colors: Color[];
+  pattern?: null | string;
+  bodyCustomize?: boolean;
+  bodyTitle?: BodyTitle | null;
+  internalId: number;
+  closetImage?: string;
+  storageImage?: string;
+  labelThemes?: LabelTheme[];
+}
+
+export enum BodyTitle {
+  Art = 'Art',
+  BagColor = 'Bag color',
+  Bamboo = 'Bamboo',
+  BarrelColor = 'Barrel color',
+  BlockColor = 'Block color',
+  Body = 'Body',
+  BodyColor = 'Body color',
+  BrickColor = 'Brick color',
+  Can = 'Can',
+  Cardboard = 'Cardboard',
+  ChairBackAndSeat = 'Chair back and seat',
+  Coating = 'Coating',
+  Color = 'Color',
+  CoverDesign = 'Cover design',
+  CoverPattern = 'Cover pattern',
+  Creation = 'Creation',
+  Decorations = 'Decorations',
+  Design = 'Design',
+  Dish = 'Dish',
+  Fabric = 'Fabric',
+  Finish = 'Finish',
+  Flavor = 'Flavor',
+  FlowerColor = 'Flower color',
+  Food = 'Food',
+  Frame = 'Frame',
+  FruitType = 'Fruit type',
+  Genre = 'Genre',
+  HayCondition = 'Hay condition',
+  Illumination = 'Illumination',
+  KnitCapColor = 'Knit-cap color',
+  LightColor = 'Light color',
+  LumberType = 'Lumber type',
+  MushroomType = 'Mushroom type',
+  Name = 'Name',
+  Navigation = 'Navigation',
+  NutColor = 'Nut color',
+  Paint = 'Paint',
+  PaintColor = 'Paint color',
+  PlateColor = 'Plate color',
+  RoofColor = 'Roof color',
+  Season = 'Season',
+  ShellColor = 'Shell color',
+  Sign = 'Sign',
+  Stone = 'Stone',
+  Tabletop = 'Tabletop',
+  TireColor = 'Tire color',
+  Variation = 'Variation',
+}
+
+export enum Color {
+  Beige = 'Beige',
+  Black = 'Black',
+  Blue = 'Blue',
+  Brown = 'Brown',
+  ColorLightBlue = 'Light Blue',
+  Colorful = 'Colorful',
+  Gray = 'Gray',
+  Green = 'Green',
+  LightBlue = 'Light blue',
+  LightBue = 'Light bue',
+  Orange = 'Orange',
+  Pink = 'Pink',
+  Purple = 'Purple',
+  Red = 'Red',
+  White = 'White',
+  Yellow = 'Yellow',
+}
+
+export enum LabelTheme {
+  Comfy = 'comfy',
+  Everyday = 'everyday',
+  Evreyday = 'evreyday',
+  FairyTale = 'fairy tale',
+  Formal = 'formal',
+  Goth = 'goth',
+  Outdoorsy = 'outdoorsy',
+  Party = 'party',
+  Sporty = 'sporty',
+  Theatrical = 'theatrical',
+  Vacation = 'vacation',
+  Work = 'work',
 }
 
 export enum VariantID {

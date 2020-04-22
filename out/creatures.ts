@@ -1,8 +1,6 @@
 export interface Creatures {
   num: number;
   name: string;
-  image: string;
-  house: string;
   sell: number;
   whereHow: string;
   shadow?: string;
@@ -15,6 +13,8 @@ export interface Creatures {
   critterpediaFilename: null | string;
   itemFilename: string;
   internalId: number;
+  critterpediaImage?: string;
+  furnitureImage?: string;
   activeHours: Array<ActiveHour[]>;
   type: Type;
   specialSell: number;
