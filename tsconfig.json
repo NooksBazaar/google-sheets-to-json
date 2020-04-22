@@ -19,6 +19,8 @@
     "sourceMap": true,
     "declaration": true,
     "importHelpers": true,
-    "types": ["node"]
+    "types": ["node"],
+    "outDir": "build"
   },
+  "exclude": ["out", "build"]
 }

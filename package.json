@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "scripts": {
     "build": "bash bin/build.sh",
-    "prettier:fix": "prettier '**/*.ts' README.md --write"
+    "prettier:fix": "prettier '**/*.ts' README.md --write",
+    "start": "tsc -w"
   },
   "author": "Adam Lavin",
   "license": "MIT",

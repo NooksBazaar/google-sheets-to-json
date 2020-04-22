@@ -1,5 +1,6 @@
 .idea
 node_modules/
+build/
 cache/
 credentials.json
 token.json
