@@ -143,6 +143,10 @@ const valueFormatters: ValueFormatters = {
   house: extractImageUrl,
   furnitureImage: extractImageUrl,
   critterpediaImage: extractImageUrl,
+  closetImage: extractImageUrl,
+  storageImage: extractImageUrl,
+  albumImage: extractImageUrl,
+  framedImage: extractImageUrl,
   uses: normaliseUse,
   source: (input: string) => input.split('\n'),
   startTime: normaliseTime,
@@ -240,6 +244,10 @@ export async function normalizeData(data: ItemData, sheetKey: string) {
       delete item['hhaConcept2'];
       delete item['hhaSet'];
       delete item['hhaSeries'];
+
+      if (item.sourceSheet === 'Tools') {
+        delete item[''];
+      }
     }
 
     if (sheetKey === 'creatures') {
