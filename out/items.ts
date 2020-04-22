@@ -30,7 +30,6 @@ export interface Items {
   curtainType?: CurtainType | null;
   curtainColor?: null | string;
   ceilingType?: CeilingType;
-  ''?: string;
   customize?: boolean;
   uses?: number;
   style?: Style;
