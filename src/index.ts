@@ -19,7 +19,7 @@ const ITEM_SHEETS = [
   'Tools',
   'Tops',
   'Bottoms',
-  'Dresses',
+  'Dress-Up',
   'Headwear',
   'Accessories',
   'Socks',
@@ -29,12 +29,10 @@ const ITEM_SHEETS = [
   'Music',
   'Fossils',
   'Other',
+  'Art',
 ];
 
-const CREATURE_SHEETS = [
-  'Fish',
-  'Bugs',
-];
+const CREATURE_SHEETS = ['Fish', 'Bugs'];
 
 const NOOK_MILE_SHEETS = ['Nook Miles'];
 
@@ -196,7 +194,13 @@ export async function normalizeData(data: ItemData, sheetKey: string) {
       }
 
       if (valueFormatter) {
-        value = valueFormatter(value, item);
+        try {
+          value = valueFormatter(value, item);
+        } catch (e) {
+          console.error(`Error formatting "${key}" for:`, item);
+
+          throw e;
+        }
       }
 
       if (
@@ -270,11 +274,10 @@ export async function normalizeData(data: ItemData, sheetKey: string) {
       item['specialSell'] = Math.round(item.sell * 1.5); // CJ / Flicks
       item['activeHours'] = activeHours;
 
-
       item['activeMonths'] = {
         northern: mapAvailability(pick(item, NH_AVAILABILITY_KEYS)),
         southern: mapAvailability(pick(item, SH_AVAILABILITY_KEYS)),
-      }
+      };
 
       delete item['startTime'];
       delete item['endTime'];
@@ -343,7 +346,9 @@ function normaliseUse(input: string | number) {
     return 9.5;
   }
 
-  throw new Error(`Unexpected Use value: ${input}`);
+  console.info(`Unexpected Use value: ${JSON.stringify(input)}`);
+
+  return -1;
 }
 
 function normaliseTime(input: string | number) {
@@ -417,10 +422,16 @@ const ITEM_VARIATION_KEYS = [
   'pattern',
   'bodyCustomize',
   'bodyTitle',
+  'source',
   'closetImage',
   'storageImage',
   'internalId',
   'labelThemes',
+  'genuine',
+  'buy',
+  'sell',
+  'themes',
+  'highResTexture',
 ];
 
 const keysWithDifferentValueToRoot = new Set();
@@ -446,6 +457,7 @@ async function mergeItemVariations(data: any[]) {
       dataset[key] = item;
     }
 
+    // item.variants.push(rawItem);
     item.variants.push(pick(rawItem, ITEM_VARIATION_KEYS));
   }
 
@@ -459,11 +471,6 @@ async function mergeItemVariations(data: any[]) {
   //       const hasValue = val1 || val2;
   //       if (!isEqual(val1,val2) && hasValue) {
   //         keysWithDifferentValueToRoot.add(key);
-  //
-  //         if (key === 'sourceNotes') {
-  //           console.log(item.name, key, val1, val2);
-  //           process.exit(1);
-  //         }
   //       }
   //     }
   //   }
