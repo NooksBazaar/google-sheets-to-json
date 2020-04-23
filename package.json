@@ -1,6 +1,6 @@
 {
   "name": "@nooksbazaar/acdb",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "scripts": {
     "build": "bash bin/build.sh",
     "prettier:fix": "prettier '**/*.ts' README.md --write",
