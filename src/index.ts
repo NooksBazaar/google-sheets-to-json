@@ -32,10 +32,8 @@ const ITEM_SHEETS = [
 ];
 
 const CREATURE_SHEETS = [
-  'Bugs - North',
-  'Bugs - South',
-  'Fish - North',
-  'Fish - South',
+  'Fish',
+  'Bugs',
 ];
 
 const NOOK_MILE_SHEETS = ['Nook Miles'];
@@ -84,10 +82,6 @@ export async function main(auth: OAuth2Client) {
 
     console.log(`Normalising data`);
     data = await normalizeData(data, key);
-
-    if (key === 'creatures') {
-      data = await mergeCreatures(data);
-    }
 
     if (key === 'items') {
       data = await mergeItemVariations(data);
@@ -273,10 +267,21 @@ export async function normalizeData(data: ItemData, sheetKey: string) {
         }
       }
 
+      item['specialSell'] = Math.round(item.sell * 1.5); // CJ / Flicks
       item['activeHours'] = activeHours;
+
+
+      item['activeMonths'] = {
+        northern: mapAvailability(pick(item, NH_AVAILABILITY_KEYS)),
+        southern: mapAvailability(pick(item, SH_AVAILABILITY_KEYS)),
+      }
 
       delete item['startTime'];
       delete item['endTime'];
+
+      for (const key of [...NH_AVAILABILITY_KEYS, ...SH_AVAILABILITY_KEYS]) {
+        delete item[key];
+      }
     }
 
     if (sheetKey === 'recipes') {
@@ -372,51 +377,35 @@ function normaliseBirthday(input: string) {
   return format(output, BDAY_FORMAT_OUT);
 }
 
-const AVAILABILITY_KEYS = [
-  'jan',
-  'feb',
-  'mar',
-  'apr',
-  'may',
-  'jun',
-  'jul',
-  'aug',
-  'sep',
-  'oct',
-  'nov',
-  'dec',
+const NH_AVAILABILITY_KEYS = [
+  'nhJan',
+  'nhFeb',
+  'nhMar',
+  'nhApr',
+  'nhMay',
+  'nhJun',
+  'nhJul',
+  'nhAug',
+  'nhSep',
+  'nhOct',
+  'nhNov',
+  'nhDec',
 ];
 
-async function mergeCreatures(data: any[]) {
-  const dataset: any = {};
-
-  for (let rawCreature of data) {
-    let creature = dataset[rawCreature.internalId];
-    const sheetInfo = rawCreature.sourceSheet.split(' - ');
-    const type = sheetInfo[0] === 'Fish' ? 'fish' : 'bug';
-    const hemisphere = sheetInfo[1] === 'North' ? 'northern' : 'southern';
-    delete rawCreature['sourceSheet'];
-
-    if (!creature) {
-      creature = {
-        ...omit(rawCreature, [...AVAILABILITY_KEYS, 'uniqueEntryId']),
-        type,
-        specialSell: Math.round(rawCreature.sell * 1.5), // CJ / Flicks
-        uniqueEntryId: {},
-        availability: {},
-      };
-
-      dataset[rawCreature.internalId] = creature;
-    }
-
-    creature.uniqueEntryId[hemisphere] = rawCreature.uniqueEntryId;
-    creature.availability[hemisphere] = mapAvailability(
-      pick(rawCreature, AVAILABILITY_KEYS),
-    );
-  }
-
-  return Object.values(dataset);
-}
+const SH_AVAILABILITY_KEYS = [
+  'shJan',
+  'shFeb',
+  'shMar',
+  'shApr',
+  'shMay',
+  'shJun',
+  'shJul',
+  'shAug',
+  'shSep',
+  'shOct',
+  'shNov',
+  'shDec',
+];
 
 const ITEM_VARIATION_KEYS = [
   'image',
