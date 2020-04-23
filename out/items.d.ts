@@ -171,7 +171,7 @@ export interface Variant {
   closetImage?: string;
   storageImage?: string;
   labelThemes?: LabelTheme[];
-  genuine?: Genuine;
+  genuine?: boolean;
   highResTexture?: null;
 }
 
@@ -244,11 +244,6 @@ export enum Color {
   Red = 'Red',
   White = 'White',
   Yellow = 'Yellow',
-}
-
-export enum Genuine {
-  N = 'N',
-  Y = 'Y',
 }
 
 export enum LabelTheme {
