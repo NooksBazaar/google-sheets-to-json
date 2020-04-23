@@ -1,14 +1,11 @@
 export interface Items {
-  sourceSheet: SourceSheet;
+  sourceSheet: Category;
   name: string;
   patternTitle?: null | string;
-  diy?: boolean;
-  patternCustomize?: boolean;
+  diy?: boolean | null;
+  patternCustomize?: boolean | null;
   kitCost?: number | null;
-  buy: number;
-  sell: number | null;
   size?: Size;
-  source: string[];
   sourceNotes?: null | string;
   version: Version;
   interact?: boolean;
@@ -16,33 +13,61 @@ export interface Items {
   speakerType?: SpeakerType | null;
   lightingType?: LightingType | null;
   catalog?: Catalog;
-  themes: Theme[];
   set?: null | string;
   series?: null | string;
   customizationKitCost?: number | null;
   variants: Variant[];
   doorDeco?: boolean;
-  vfx?: boolean;
+  vfx?: boolean | null;
   vfxType?: VfxType | null;
   windowType?: WindowType | null;
   windowColor?: WindowColor | null;
   paneType?: PaneType | null;
   curtainType?: CurtainType | null;
   curtainColor?: null | string;
-  ceilingType?: CeilingType;
-  customize?: boolean;
+  ceilingType?: CeilingType | null;
+  customize?: boolean | null;
   uses?: number;
   style?: Style;
   primaryShape?: PrimaryShape;
   secondaryShape?: SecondaryShape | null;
   framedImage?: null | string;
   albumImage?: null | string;
+  category?: Category;
+  realArtworkTitle?: string;
+  artist?: string;
 }
 
 export enum Catalog {
   ForSale = 'For sale',
   NotForSale = 'Not for sale',
   NotInCatalog = 'Not in catalog',
+}
+
+export enum Category {
+  Accessories = 'Accessories',
+  Art = 'Art',
+  Bags = 'Bags',
+  Bottoms = 'Bottoms',
+  DressUp = 'Dress-Up',
+  Fencing = 'Fencing',
+  Floors = 'Floors',
+  Fossils = 'Fossils',
+  Headwear = 'Headwear',
+  Housewares = 'Housewares',
+  Miscellaneous = 'Miscellaneous',
+  Music = 'Music',
+  Other = 'Other',
+  Photos = 'Photos',
+  Posters = 'Posters',
+  Rugs = 'Rugs',
+  Shoes = 'Shoes',
+  Socks = 'Socks',
+  Tools = 'Tools',
+  Tops = 'Tops',
+  Umbrellas = 'Umbrellas',
+  WallMounted = 'Wall-mounted',
+  Wallpapers = 'Wallpapers',
 }
 
 export enum CeilingType {
@@ -112,31 +137,6 @@ export enum Size {
   The5X5 = '5x5',
 }
 
-export enum SourceSheet {
-  Accessories = 'Accessories',
-  Bags = 'Bags',
-  Bottoms = 'Bottoms',
-  Dresses = 'Dresses',
-  Fencing = 'Fencing',
-  Floors = 'Floors',
-  Fossils = 'Fossils',
-  Headwear = 'Headwear',
-  Housewares = 'Housewares',
-  Miscellaneous = 'Miscellaneous',
-  Music = 'Music',
-  Other = 'Other',
-  Photos = 'Photos',
-  Posters = 'Posters',
-  Rugs = 'Rugs',
-  Shoes = 'Shoes',
-  Socks = 'Socks',
-  Tools = 'Tools',
-  Tops = 'Tops',
-  Umbrellas = 'Umbrellas',
-  WallMounted = 'Wall-mounted',
-  Wallpapers = 'Wallpapers',
-}
-
 export enum SpeakerType {
   Cheap = 'Cheap',
   HiFi = 'Hi-fi',
@@ -153,33 +153,6 @@ export enum Style {
   Simple = 'Simple',
 }
 
-export enum Theme {
-  Bathroom = 'bathroom',
-  ChildSRoom = "child's room",
-  Concert = 'concert',
-  Den = 'den',
-  Expensive = 'expensive',
-  Facility = 'facility',
-  Fancy = 'fancy',
-  Fitness = 'fitness',
-  FolkArt = 'folk art',
-  FreezingCold = 'freezing cold',
-  Garage = 'garage',
-  Garden = 'garden',
-  Horror = 'horror',
-  Kitchen = 'kitchen',
-  LivingRoom = 'living room',
-  Music = 'music',
-  Ocean = 'ocean',
-  Office = 'office',
-  Outdoors = 'outdoors',
-  Party = 'party',
-  School = 'school',
-  Shop = 'shop',
-  Space = 'space',
-  ZenStyle = 'zen-style',
-}
-
 export interface Variant {
   image?: null | string;
   variation?: number | null | string;
@@ -188,12 +161,18 @@ export interface Variant {
   uniqueEntryId: string;
   colors: Color[];
   pattern?: null | string;
-  bodyCustomize?: boolean;
+  bodyCustomize?: boolean | null;
   bodyTitle?: BodyTitle | null;
+  source: string[];
   internalId: number;
+  buy: number;
+  sell: number | null;
+  themes: Theme[];
   closetImage?: string;
   storageImage?: string;
   labelThemes?: LabelTheme[];
+  genuine?: Genuine;
+  highResTexture?: null;
 }
 
 export enum BodyTitle {
@@ -216,6 +195,7 @@ export enum BodyTitle {
   Decorations = 'Decorations',
   Design = 'Design',
   Dish = 'Dish',
+  Easel = 'Easel',
   Fabric = 'Fabric',
   Finish = 'Finish',
   Flavor = 'Flavor',
@@ -229,6 +209,7 @@ export enum BodyTitle {
   KnitCapColor = 'Knit-cap color',
   LightColor = 'Light color',
   LumberType = 'Lumber type',
+  MapCenter = 'Map center',
   MushroomType = 'Mushroom type',
   Name = 'Name',
   Navigation = 'Navigation',
@@ -265,6 +246,11 @@ export enum Color {
   Yellow = 'Yellow',
 }
 
+export enum Genuine {
+  N = 'N',
+  Y = 'Y',
+}
+
 export enum LabelTheme {
   Comfy = 'comfy',
   Everyday = 'everyday',
@@ -278,6 +264,33 @@ export enum LabelTheme {
   Theatrical = 'theatrical',
   Vacation = 'vacation',
   Work = 'work',
+}
+
+export enum Theme {
+  Bathroom = 'bathroom',
+  ChildSRoom = "child's room",
+  Concert = 'concert',
+  Den = 'den',
+  Expensive = 'expensive',
+  Facility = 'facility',
+  Fancy = 'fancy',
+  Fitness = 'fitness',
+  FolkArt = 'folk art',
+  FreezingCold = 'freezing cold',
+  Garage = 'garage',
+  Garden = 'garden',
+  Horror = 'horror',
+  Kitchen = 'kitchen',
+  LivingRoom = 'living room',
+  Music = 'music',
+  Ocean = 'ocean',
+  Office = 'office',
+  Outdoors = 'outdoors',
+  Party = 'party',
+  School = 'school',
+  Shop = 'shop',
+  Space = 'space',
+  ZenStyle = 'zen-style',
 }
 
 export enum VariantID {
@@ -351,6 +364,7 @@ export enum Version {
   The100 = '1.0.0',
   The110 = '1.1.0',
   The110A = '1.1.0a',
+  The120 = '1.2.0',
 }
 
 export enum VfxType {
