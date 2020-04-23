@@ -4,3 +4,5 @@ build/
 cache/
 credentials.json
 token.json
+
+*.tsbuildinfo

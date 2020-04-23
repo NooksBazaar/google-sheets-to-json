@@ -12,3 +12,5 @@ yarn quicktype out/achievements.json -o out/achievements.ts --just-types -t Achi
 
 yarn prettier:fix
 yarn prettier "out/*.json" --write
+
+yarn tsc -p tsconfig.types.json
