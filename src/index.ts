@@ -46,6 +46,8 @@ const ACHIEVEMENTS_SHEETS = ['Achievements'];
 
 type ItemData = any[];
 
+const validateIds = false;
+
 export async function main(auth: OAuth2Client) {
   const sheets = google.sheets({version: 'v4', auth});
 
@@ -67,6 +69,9 @@ export async function main(auth: OAuth2Client) {
     ['achievements', ACHIEVEMENTS_SHEETS],
   ];
 
+  const ids = new Set();
+  const duplicates = new Set();
+
   for (const [key, sheetNames] of workSet) {
     console.log(`Loading ${key}`);
 
@@ -81,14 +86,28 @@ export async function main(auth: OAuth2Client) {
     console.log(`Normalising data`);
     data = await normalizeData(data, key);
 
-    if (key === 'items') {
-      data = await mergeItemVariations(data);
+    if (validateIds) {
+      for (const item of data) {
+        if (ids.has(item['uniqueEntryId'])) {
+          duplicates.add(item['uniqueEntryId']);
+        }
+
+        ids.add(item['uniqueEntryId']);
+      }
+    } else {
+      if (key === 'items') {
+        data = await mergeItemVariations(data);
+      }
+
+      console.log(`Writing data to disk`);
+      fs.writeFileSync(`out/${key}.json`, JSON.stringify(data, undefined, ' '));
+
+      console.log(`Finished ${key}`);
     }
+  }
 
-    console.log(`Writing data to disk`);
-    fs.writeFileSync(`out/${key}.json`, JSON.stringify(data, undefined, ' '));
-
-    console.log(`Finished ${key}`);
+  if (validateIds) {
+    console.log(duplicates);
   }
 }
 
