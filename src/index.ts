@@ -340,6 +340,14 @@ export async function normalizeData(data: ItemData, sheetKey: string) {
       delete item['5'];
       delete item['6'];
     }
+
+    if (sheetKey === 'villagers') {
+      item['colors'] = [item['color2'], item['color2']].filter(item => !!item);
+      item['styles'] = [item['style2'], item['style2']].filter(item => !!item);
+
+      delete item['color1'];
+      delete item['color2'];
+    }
   }
 
   return data;
