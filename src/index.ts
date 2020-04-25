@@ -106,6 +106,20 @@ export async function main(auth: OAuth2Client) {
     }
   }
 
+  const all = [];
+
+  for (const [key] of workSet) {
+    if (key === 'achievements') {
+      continue;
+    }
+
+    const data = require(`../out/${key}.json`);
+
+    all.push(...data);
+  }
+
+  fs.writeFileSync(`out/all.json`, JSON.stringify(all, undefined, ' '));
+
   if (validateIds) {
     console.log(duplicates);
   }
@@ -268,6 +282,7 @@ export async function normalizeData(data: ItemData, sheetKey: string) {
     }
 
     if (sheetKey === 'creatures') {
+      item['colors'] = [item['color2'], item['color2']].filter(item => !!item);
       // Temporary workaround
       item['critterpediaImage'] = item['image'];
       item['furnitureImage'] = item['house'];
@@ -300,6 +315,8 @@ export async function normalizeData(data: ItemData, sheetKey: string) {
 
       delete item['startTime'];
       delete item['endTime'];
+      delete item['color1'];
+      delete item['color2'];
 
       for (const key of [...NH_AVAILABILITY_KEYS, ...SH_AVAILABILITY_KEYS]) {
         delete item[key];
@@ -347,6 +364,8 @@ export async function normalizeData(data: ItemData, sheetKey: string) {
 
       delete item['color1'];
       delete item['color2'];
+      delete item['style1'];
+      delete item['style2'];
     }
   }
 

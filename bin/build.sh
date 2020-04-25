@@ -9,6 +9,7 @@ yarn quicktype out/recipes.json -o out/recipes.ts --just-types -t Recipes
 yarn quicktype out/villagers.json -o out/villagers.ts --just-types -t Villagers
 yarn quicktype out/construction.json -o out/construction.ts --just-types -t Construction
 yarn quicktype out/achievements.json -o out/achievements.ts --just-types -t Achievements
+yarn quicktype out/all.json -o out/all.ts --just-types -t Item
 
 yarn prettier:fix
 yarn prettier "out/*.json" --write
