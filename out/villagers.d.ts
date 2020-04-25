@@ -7,12 +7,10 @@ export interface Villagers {
     personality: Personality;
     birthday: string;
     catchphrase: string;
-    style1: Style;
-    style2: Style;
-    color1: Color;
-    color2: Color;
     filename: string;
     uniqueEntryId: string;
+    colors: Color[];
+    styles: Style[];
 }
 export declare enum Color {
     Beige = "Beige",

@@ -19,9 +19,15 @@ export interface Achievements {
   rewardTier5: number;
   rewardTier6: number;
   sequential: boolean;
+  version: Version;
   uniqueEntryId: string;
 }
 
 export enum SourceSheet {
   Achievements = 'Achievements',
+}
+
+export enum Version {
+  The100 = '1.0.0',
+  The120 = '1.2.0',
 }

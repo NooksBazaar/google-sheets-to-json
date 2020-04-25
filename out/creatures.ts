@@ -7,14 +7,13 @@ export interface Creatures {
   shadow?: string;
   rarity: Rarity;
   rainSnowCatchUp?: boolean;
-  color1: Color;
-  color2: Color;
   size?: Size;
   lightingType?: LightingType | null;
   critterpediaFilename: string;
   furnitureFilename: string;
   internalId: number;
   uniqueEntryId: string;
+  colors: Color[];
   specialSell: number;
   activeHours: Array<ActiveHour[]>;
   activeMonths: ActiveMonths;
@@ -50,13 +49,10 @@ export enum Color {
   Beige = 'Beige',
   Black = 'Black',
   Blue = 'Blue',
-  Brown = 'Brown',
-  Gray = 'Gray',
   Green = 'Green',
   LightBlue = 'Light blue',
   Orange = 'Orange',
   Pink = 'Pink',
-  Purple = 'Purple',
   Red = 'Red',
   White = 'White',
   Yellow = 'Yellow',

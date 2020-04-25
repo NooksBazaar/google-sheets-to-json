@@ -8,12 +8,10 @@
     "personality": "Cranky",
     "birthday": "01-27",
     "catchphrase": "aye aye",
-    "style1": "Cool",
-    "style2": "Cool",
-    "color1": "Black",
-    "color2": "Blue",
     "filename": "brd06",
-    "uniqueEntryId": "B3RyfNEqwGmcccRC3"
+    "uniqueEntryId": "B3RyfNEqwGmcccRC3",
+    "colors": ["Blue", "Blue"],
+    "styles": ["Cool", "Cool"]
   },
   {
     "sourceSheet": "Villagers",
@@ -24,12 +22,10 @@
     "personality": "Peppy",
     "birthday": "07-02",
     "catchphrase": "sidekick",
-    "style1": "Active",
-    "style2": "Simple",
-    "color1": "Blue",
-    "color2": "Black",
     "filename": "squ05",
-    "uniqueEntryId": "SGMdki6dzpDZyXAw5"
+    "uniqueEntryId": "SGMdki6dzpDZyXAw5",
+    "colors": ["Black", "Black"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -40,12 +36,10 @@
     "personality": "Big sister",
     "birthday": "04-21",
     "catchphrase": "snuffle",
-    "style1": "Simple",
-    "style2": "Elegant",
-    "color1": "Pink",
-    "color2": "White",
     "filename": "pig17",
-    "uniqueEntryId": "jzWCiDPm9MqtCfecP"
+    "uniqueEntryId": "jzWCiDPm9MqtCfecP",
+    "colors": ["White", "White"],
+    "styles": ["Elegant", "Elegant"]
   },
   {
     "sourceSheet": "Villagers",
@@ -56,12 +50,10 @@
     "personality": "Lazy",
     "birthday": "10-18",
     "catchphrase": "ayyyeee",
-    "style1": "Active",
-    "style2": "Active",
-    "color1": "Red",
-    "color2": "White",
     "filename": "gor08",
-    "uniqueEntryId": "LBifxETQJGEaLhBjC"
+    "uniqueEntryId": "LBifxETQJGEaLhBjC",
+    "colors": ["White", "White"],
+    "styles": ["Active", "Active"]
   },
   {
     "sourceSheet": "Villagers",
@@ -72,12 +64,10 @@
     "personality": "Lazy",
     "birthday": "06-09",
     "catchphrase": "it'sa me",
-    "style1": "Simple",
-    "style2": "Simple",
-    "color1": "Red",
-    "color2": "Blue",
     "filename": "crd00",
-    "uniqueEntryId": "REpd8KxB8p9aGBRSE"
+    "uniqueEntryId": "REpd8KxB8p9aGBRSE",
+    "colors": ["Blue", "Blue"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -88,12 +78,10 @@
     "personality": "Normal",
     "birthday": "08-19",
     "catchphrase": "guvnor",
-    "style1": "Cute",
-    "style2": "Cute",
-    "color1": "Red",
-    "color2": "Pink",
     "filename": "kal01",
-    "uniqueEntryId": "wkPJDHMMMTK24eqzC"
+    "uniqueEntryId": "wkPJDHMMMTK24eqzC",
+    "colors": ["Pink", "Pink"],
+    "styles": ["Cute", "Cute"]
   },
   {
     "sourceSheet": "Villagers",
@@ -104,12 +92,10 @@
     "personality": "Snooty",
     "birthday": "11-08",
     "catchphrase": "graaagh",
-    "style1": "Gorgeous",
-    "style2": "Elegant",
-    "color1": "Yellow",
-    "color2": "Brown",
     "filename": "crd01",
-    "uniqueEntryId": "dcB3BpFLtcXHAbt5i"
+    "uniqueEntryId": "dcB3BpFLtcXHAbt5i",
+    "colors": ["Brown", "Brown"],
+    "styles": ["Elegant", "Elegant"]
   },
   {
     "sourceSheet": "Villagers",
@@ -120,12 +106,10 @@
     "personality": "Snooty",
     "birthday": "11-19",
     "catchphrase": "cuz",
-    "style1": "Cool",
-    "style2": "Elegant",
-    "color1": "Black",
-    "color2": "White",
     "filename": "pbr01",
-    "uniqueEntryId": "gWpcHhfpuN4MSTdhF"
+    "uniqueEntryId": "gWpcHhfpuN4MSTdhF",
+    "colors": ["White", "White"],
+    "styles": ["Elegant", "Elegant"]
   },
   {
     "sourceSheet": "Villagers",
@@ -136,12 +120,10 @@
     "personality": "Peppy",
     "birthday": "02-16",
     "catchphrase": "snorty",
-    "style1": "Cute",
-    "style2": "Simple",
-    "color1": "Green",
-    "color2": "Blue",
     "filename": "ant03",
-    "uniqueEntryId": "gvdKbp6t9xMtx5swT"
+    "uniqueEntryId": "gvdKbp6t9xMtx5swT",
+    "colors": ["Blue", "Blue"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -152,12 +134,10 @@
     "personality": "Lazy",
     "birthday": "03-04",
     "catchphrase": "chuurp",
-    "style1": "Simple",
-    "style2": "Simple",
-    "color1": "Colorful",
-    "color2": "Orange",
     "filename": "brd02",
-    "uniqueEntryId": "T9ya79MPxRxcR4tae"
+    "uniqueEntryId": "T9ya79MPxRxcR4tae",
+    "colors": ["Orange", "Orange"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -168,12 +148,10 @@
     "personality": "Cranky",
     "birthday": "04-30",
     "catchphrase": "macmoo",
-    "style1": "Cool",
-    "style2": "Cool",
-    "color1": "Red",
-    "color2": "Black",
     "filename": "bul00",
-    "uniqueEntryId": "jHQfWetzGf6Zhgt4u"
+    "uniqueEntryId": "jHQfWetzGf6Zhgt4u",
+    "colors": ["Black", "Black"],
+    "styles": ["Cool", "Cool"]
   },
   {
     "sourceSheet": "Villagers",
@@ -184,12 +162,10 @@
     "personality": "Peppy",
     "birthday": "02-24",
     "catchphrase": "cannoli",
-    "style1": "Simple",
-    "style2": "Elegant",
-    "color1": "Red",
-    "color2": "Pink",
     "filename": "mus10",
-    "uniqueEntryId": "oGr6N9vC3TD9raXbf"
+    "uniqueEntryId": "oGr6N9vC3TD9raXbf",
+    "colors": ["Pink", "Pink"],
+    "styles": ["Elegant", "Elegant"]
   },
   {
     "sourceSheet": "Villagers",
@@ -200,12 +176,10 @@
     "personality": "Snooty",
     "birthday": "09-22",
     "catchphrase": "me meow",
-    "style1": "Gorgeous",
-    "style2": "Simple",
-    "color1": "Colorful",
-    "color2": "Brown",
     "filename": "cat19",
-    "uniqueEntryId": "AWdRRws22EGTxC7vc"
+    "uniqueEntryId": "AWdRRws22EGTxC7vc",
+    "colors": ["Brown", "Brown"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -216,12 +190,10 @@
     "personality": "Normal",
     "birthday": "02-06",
     "catchphrase": "gumdrop",
-    "style1": "Elegant",
-    "style2": "Gorgeous",
-    "color1": "Red",
-    "color2": "Pink",
     "filename": "ant08",
-    "uniqueEntryId": "XTwyzscZPAA8LRdYN"
+    "uniqueEntryId": "XTwyzscZPAA8LRdYN",
+    "colors": ["Pink", "Pink"],
+    "styles": ["Gorgeous", "Gorgeous"]
   },
   {
     "sourceSheet": "Villagers",
@@ -232,12 +204,10 @@
     "personality": "Snooty",
     "birthday": "12-02",
     "catchphrase": "nipper",
-    "style1": "Elegant",
-    "style2": "Active",
-    "color1": "Blue",
-    "color2": "Purple",
     "filename": "hrs09",
-    "uniqueEntryId": "88YKJKvjin32GeG4H"
+    "uniqueEntryId": "88YKJKvjin32GeG4H",
+    "colors": ["Purple", "Purple"],
+    "styles": ["Active", "Active"]
   },
   {
     "sourceSheet": "Villagers",
@@ -248,12 +218,10 @@
     "personality": "Jock",
     "birthday": "10-20",
     "catchphrase": "honk",
-    "style1": "Simple",
-    "style2": "Simple",
-    "color1": "Light blue",
-    "color2": "Blue",
     "filename": "ant01",
-    "uniqueEntryId": "RQNii4nDE2AWswpgE"
+    "uniqueEntryId": "RQNii4nDE2AWswpgE",
+    "colors": ["Blue", "Blue"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -264,12 +232,10 @@
     "personality": "Cranky",
     "birthday": "07-04",
     "catchphrase": "pah",
-    "style1": "Cool",
-    "style2": "Simple",
-    "color1": "Black",
-    "color2": "Black",
     "filename": "pbr00",
-    "uniqueEntryId": "25sZq7NjGGADiEXtR"
+    "uniqueEntryId": "25sZq7NjGGADiEXtR",
+    "colors": ["Black", "Black"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -280,12 +246,10 @@
     "personality": "Peppy",
     "birthday": "09-24",
     "catchphrase": "cheekers",
-    "style1": "Cute",
-    "style2": "Simple",
-    "color1": "Colorful",
-    "color2": "Red",
     "filename": "ham01",
-    "uniqueEntryId": "bEHwPJ3GBDZaNE4Bd"
+    "uniqueEntryId": "bEHwPJ3GBDZaNE4Bd",
+    "colors": ["Red", "Red"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -296,12 +260,10 @@
     "personality": "Snooty",
     "birthday": "09-08",
     "catchphrase": "my pet",
-    "style1": "Cool",
-    "style2": "Active",
-    "color1": "Black",
-    "color2": "Colorful",
     "filename": "kgr05",
-    "uniqueEntryId": "qrki2afmbkBQ6DbmZ"
+    "uniqueEntryId": "qrki2afmbkBQ6DbmZ",
+    "colors": ["Colorful", "Colorful"],
+    "styles": ["Active", "Active"]
   },
   {
     "sourceSheet": "Villagers",
@@ -312,12 +274,10 @@
     "personality": "Peppy",
     "birthday": "08-31",
     "catchphrase": "foxtrot",
-    "style1": "Cute",
-    "style2": "Active",
-    "color1": "Green",
-    "color2": "White",
     "filename": "wol12",
-    "uniqueEntryId": "2tufzN7iwjncqLu7Y"
+    "uniqueEntryId": "2tufzN7iwjncqLu7Y",
+    "colors": ["White", "White"],
+    "styles": ["Active", "Active"]
   },
   {
     "sourceSheet": "Villagers",
@@ -328,12 +288,10 @@
     "personality": "Normal",
     "birthday": "01-27",
     "catchphrase": "b-b-baby",
-    "style1": "Cute",
-    "style2": "Elegant",
-    "color1": "Pink",
-    "color2": "Red",
     "filename": "pgn00",
-    "uniqueEntryId": "CXt3MBoeCZXXSRS7B"
+    "uniqueEntryId": "CXt3MBoeCZXXSRS7B",
+    "colors": ["Red", "Red"],
+    "styles": ["Elegant", "Elegant"]
   },
   {
     "sourceSheet": "Villagers",
@@ -344,12 +302,10 @@
     "personality": "Normal",
     "birthday": "04-28",
     "catchphrase": "beaker",
-    "style1": "Elegant",
-    "style2": "Cute",
-    "color1": "Red",
-    "color2": "Gray",
     "filename": "chn05",
-    "uniqueEntryId": "93emjZzaaLb7BdkSn"
+    "uniqueEntryId": "93emjZzaaLb7BdkSn",
+    "colors": ["Gray", "Gray"],
+    "styles": ["Cute", "Cute"]
   },
   {
     "sourceSheet": "Villagers",
@@ -360,12 +316,10 @@
     "personality": "Cranky",
     "birthday": "02-22",
     "catchphrase": "skree-haw",
-    "style1": "Simple",
-    "style2": "Gorgeous",
-    "color1": "Orange",
-    "color2": "Brown",
     "filename": "pbr05",
-    "uniqueEntryId": "SKF5NqPPqzjL7dEng"
+    "uniqueEntryId": "SKF5NqPPqzjL7dEng",
+    "colors": ["Brown", "Brown"],
+    "styles": ["Gorgeous", "Gorgeous"]
   },
   {
     "sourceSheet": "Villagers",
@@ -376,12 +330,10 @@
     "personality": "Jock",
     "birthday": "03-23",
     "catchphrase": "WHONK",
-    "style1": "Active",
-    "style2": "Simple",
-    "color1": "Green",
-    "color2": "White",
     "filename": "elp06",
-    "uniqueEntryId": "K3aj3w7fLcMETyuzf"
+    "uniqueEntryId": "K3aj3w7fLcMETyuzf",
+    "colors": ["White", "White"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -392,12 +344,10 @@
     "personality": "Snooty",
     "birthday": "03-28",
     "catchphrase": "daahling",
-    "style1": "Gorgeous",
-    "style2": "Elegant",
-    "color1": "Purple",
-    "color2": "Blue",
     "filename": "shp01",
-    "uniqueEntryId": "LAWZdKWcejrkbikco"
+    "uniqueEntryId": "LAWZdKWcejrkbikco",
+    "colors": ["Blue", "Blue"],
+    "styles": ["Elegant", "Elegant"]
   },
   {
     "sourceSheet": "Villagers",
@@ -408,12 +358,10 @@
     "personality": "Jock",
     "birthday": "11-07",
     "catchphrase": "kablang",
-    "style1": "Active",
-    "style2": "Simple",
-    "color1": "Green",
-    "color2": "Brown",
     "filename": "der01",
-    "uniqueEntryId": "2yvPukPn4ZSamngmb"
+    "uniqueEntryId": "2yvPukPn4ZSamngmb",
+    "colors": ["Brown", "Brown"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -424,12 +372,10 @@
     "personality": "Peppy",
     "birthday": "08-27",
     "catchphrase": "growf",
-    "style1": "Gorgeous",
-    "style2": "Cute",
-    "color1": "Yellow",
-    "color2": "Green",
     "filename": "tig03",
-    "uniqueEntryId": "DvL5iP2kNCNfwc6Mv"
+    "uniqueEntryId": "DvL5iP2kNCNfwc6Mv",
+    "colors": ["Green", "Green"],
+    "styles": ["Cute", "Cute"]
   },
   {
     "sourceSheet": "Villagers",
@@ -440,12 +386,10 @@
     "personality": "Lazy",
     "birthday": "03-02",
     "catchphrase": "cubby",
-    "style1": "Simple",
-    "style2": "Cool",
-    "color1": "Yellow",
-    "color2": "Black",
     "filename": "cbr16",
-    "uniqueEntryId": "6qZJQFWqeCHzPNyEZ"
+    "uniqueEntryId": "6qZJQFWqeCHzPNyEZ",
+    "colors": ["Black", "Black"],
+    "styles": ["Cool", "Cool"]
   },
   {
     "sourceSheet": "Villagers",
@@ -456,12 +400,10 @@
     "personality": "Normal",
     "birthday": "10-15",
     "catchphrase": "bingo",
-    "style1": "Simple",
-    "style2": "Cool",
-    "color1": "Light blue",
-    "color2": "Green",
     "filename": "dog10",
-    "uniqueEntryId": "DkqHjENW8fRBE9uxG"
+    "uniqueEntryId": "DkqHjENW8fRBE9uxG",
+    "colors": ["Green", "Green"],
+    "styles": ["Cool", "Cool"]
   },
   {
     "sourceSheet": "Villagers",
@@ -472,12 +414,10 @@
     "personality": "Smug",
     "birthday": "09-27",
     "catchphrase": "whiskers",
-    "style1": "Elegant",
-    "style2": "Elegant",
-    "color1": "Brown",
-    "color2": "Blue",
     "filename": "bea13",
-    "uniqueEntryId": "3XoqTm3LW4C4BvLBt"
+    "uniqueEntryId": "3XoqTm3LW4C4BvLBt",
+    "colors": ["Blue", "Blue"],
+    "styles": ["Elegant", "Elegant"]
   },
   {
     "sourceSheet": "Villagers",
@@ -488,12 +428,10 @@
     "personality": "Lazy",
     "birthday": "04-05",
     "catchphrase": "saltlick",
-    "style1": "Simple",
-    "style2": "Cute",
-    "color1": "Beige",
-    "color2": "Orange",
     "filename": "der07",
-    "uniqueEntryId": "zbkkW8wWbmyGAZauv"
+    "uniqueEntryId": "zbkkW8wWbmyGAZauv",
+    "colors": ["Orange", "Orange"],
+    "styles": ["Cute", "Cute"]
   },
   {
     "sourceSheet": "Villagers",
@@ -504,12 +442,10 @@
     "personality": "Snooty",
     "birthday": "12-09",
     "catchphrase": "chicklet",
-    "style1": "Gorgeous",
-    "style2": "Elegant",
-    "color1": "Purple",
-    "color2": "Pink",
     "filename": "chn09",
-    "uniqueEntryId": "D7Atj8BuHK6mgwwvZ"
+    "uniqueEntryId": "D7Atj8BuHK6mgwwvZ",
+    "colors": ["Pink", "Pink"],
+    "styles": ["Elegant", "Elegant"]
   },
   {
     "sourceSheet": "Villagers",
@@ -520,12 +456,10 @@
     "personality": "Peppy",
     "birthday": "12-28",
     "catchphrase": "eeks",
-    "style1": "Cool",
-    "style2": "Active",
-    "color1": "Black",
-    "color2": "Purple",
     "filename": "mus02",
-    "uniqueEntryId": "hu4qewj6YKKmzMpYL"
+    "uniqueEntryId": "hu4qewj6YKKmzMpYL",
+    "colors": ["Purple", "Purple"],
+    "styles": ["Active", "Active"]
   },
   {
     "sourceSheet": "Villagers",
@@ -536,12 +470,10 @@
     "personality": "Lazy",
     "birthday": "10-10",
     "catchphrase": "uh-hoo",
-    "style1": "Simple",
-    "style2": "Simple",
-    "color1": "Blue",
-    "color2": "Purple",
     "filename": "chn01",
-    "uniqueEntryId": "BjcoELiTM3m8StExF"
+    "uniqueEntryId": "BjcoELiTM3m8StExF",
+    "colors": ["Purple", "Purple"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -552,12 +484,10 @@
     "personality": "Lazy",
     "birthday": "08-03",
     "catchphrase": "alrighty",
-    "style1": "Simple",
-    "style2": "Simple",
-    "color1": "Red",
-    "color2": "White",
     "filename": "dog16",
-    "uniqueEntryId": "wgb64Mp6XbFS2CPwj"
+    "uniqueEntryId": "wgb64Mp6XbFS2CPwj",
+    "colors": ["White", "White"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -568,12 +498,10 @@
     "personality": "Normal",
     "birthday": "04-25",
     "catchphrase": "bloop",
-    "style1": "Cute",
-    "style2": "Elegant",
-    "color1": "Pink",
-    "color2": "White",
     "filename": "hip03",
-    "uniqueEntryId": "oMQnY9fuzdtPweuLi"
+    "uniqueEntryId": "oMQnY9fuzdtPweuLi",
+    "colors": ["White", "White"],
+    "styles": ["Elegant", "Elegant"]
   },
   {
     "sourceSheet": "Villagers",
@@ -584,12 +512,10 @@
     "personality": "Normal",
     "birthday": "06-12",
     "catchphrase": "eekers",
-    "style1": "Simple",
-    "style2": "Elegant",
-    "color1": "White",
-    "color2": "Red",
     "filename": "mus15",
-    "uniqueEntryId": "r9JpujcMdgTRABad9"
+    "uniqueEntryId": "r9JpujcMdgTRABad9",
+    "colors": ["Red", "Red"],
+    "styles": ["Elegant", "Elegant"]
   },
   {
     "sourceSheet": "Villagers",
@@ -600,12 +526,10 @@
     "personality": "Peppy",
     "birthday": "12-13",
     "catchphrase": "glimmer",
-    "style1": "Cute",
-    "style2": "Cute",
-    "color1": "Pink",
-    "color2": "Orange",
     "filename": "tig06",
-    "uniqueEntryId": "KGECko2WSNbQp4oRY"
+    "uniqueEntryId": "KGECko2WSNbQp4oRY",
+    "colors": ["Orange", "Orange"],
+    "styles": ["Cute", "Cute"]
   },
   {
     "sourceSheet": "Villagers",
@@ -616,12 +540,10 @@
     "personality": "Jock",
     "birthday": "03-29",
     "catchphrase": "squirt",
-    "style1": "Gorgeous",
-    "style2": "Active",
-    "color1": "Black",
-    "color2": "Blue",
     "filename": "hip04",
-    "uniqueEntryId": "sT2KXbN2N3dqB6aaN"
+    "uniqueEntryId": "sT2KXbN2N3dqB6aaN",
+    "colors": ["Blue", "Blue"],
+    "styles": ["Active", "Active"]
   },
   {
     "sourceSheet": "Villagers",
@@ -632,12 +554,10 @@
     "personality": "Lazy",
     "birthday": "10-03",
     "catchphrase": "villain",
-    "style1": "Simple",
-    "style2": "Active",
-    "color1": "Green",
-    "color2": "Green",
     "filename": "elp02",
-    "uniqueEntryId": "o2NPbZGfMvTD7Se5i"
+    "uniqueEntryId": "o2NPbZGfMvTD7Se5i",
+    "colors": ["Green", "Green"],
+    "styles": ["Active", "Active"]
   },
   {
     "sourceSheet": "Villagers",
@@ -648,12 +568,10 @@
     "personality": "Jock",
     "birthday": "02-01",
     "catchphrase": "quacko",
-    "style1": "Active",
-    "style2": "Active",
-    "color1": "Blue",
-    "color2": "Purple",
     "filename": "duk00",
-    "uniqueEntryId": "hcnPuswvHJykZw7BX"
+    "uniqueEntryId": "hcnPuswvHJykZw7BX",
+    "colors": ["Purple", "Purple"],
+    "styles": ["Active", "Active"]
   },
   {
     "sourceSheet": "Villagers",
@@ -664,12 +582,10 @@
     "personality": "Jock",
     "birthday": "03-25",
     "catchphrase": "dagnaabit",
-    "style1": "Simple",
-    "style2": "Active",
-    "color1": "Blue",
-    "color2": "Purple",
     "filename": "goa02",
-    "uniqueEntryId": "dqEHTSBSx5iLhGiSC"
+    "uniqueEntryId": "dqEHTSBSx5iLhGiSC",
+    "colors": ["Purple", "Purple"],
+    "styles": ["Active", "Active"]
   },
   {
     "sourceSheet": "Villagers",
@@ -680,12 +596,10 @@
     "personality": "Lazy",
     "birthday": "05-13",
     "catchphrase": "dawg",
-    "style1": "Gorgeous",
-    "style2": "Simple",
-    "color1": "Purple",
-    "color2": "Colorful",
     "filename": "dog03",
-    "uniqueEntryId": "nfeef6XSSstGwrbWo"
+    "uniqueEntryId": "nfeef6XSSstGwrbWo",
+    "colors": ["Colorful", "Colorful"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -696,12 +610,10 @@
     "personality": "Snooty",
     "birthday": "10-06",
     "catchphrase": "my dear",
-    "style1": "Cute",
-    "style2": "Elegant",
-    "color1": "Pink",
-    "color2": "Orange",
     "filename": "hip05",
-    "uniqueEntryId": "JGyY83aN4ocBGZs8s"
+    "uniqueEntryId": "JGyY83aN4ocBGZs8s",
+    "colors": ["Orange", "Orange"],
+    "styles": ["Elegant", "Elegant"]
   },
   {
     "sourceSheet": "Villagers",
@@ -712,12 +624,10 @@
     "personality": "Snooty",
     "birthday": "07-03",
     "catchphrase": "nutlet",
-    "style1": "Gorgeous",
-    "style2": "Elegant",
-    "color1": "Orange",
-    "color2": "Brown",
     "filename": "squ01",
-    "uniqueEntryId": "SjArzqyvbHAbgRz8D"
+    "uniqueEntryId": "SjArzqyvbHAbgRz8D",
+    "colors": ["Brown", "Brown"],
+    "styles": ["Elegant", "Elegant"]
   },
   {
     "sourceSheet": "Villagers",
@@ -728,12 +638,10 @@
     "personality": "Snooty",
     "birthday": "12-21",
     "catchphrase": "quite so",
-    "style1": "Elegant",
-    "style2": "Gorgeous",
-    "color1": "Black",
-    "color2": "Brown",
     "filename": "ost08",
-    "uniqueEntryId": "2B4NDzz69JKjjqF9o"
+    "uniqueEntryId": "2B4NDzz69JKjjqF9o",
+    "colors": ["Brown", "Brown"],
+    "styles": ["Gorgeous", "Gorgeous"]
   },
   {
     "sourceSheet": "Villagers",
@@ -744,12 +652,10 @@
     "personality": "Peppy",
     "birthday": "06-24",
     "catchphrase": "peach",
-    "style1": "Cute",
-    "style2": "Simple",
-    "color1": "White",
-    "color2": "Blue",
     "filename": "cbr00",
-    "uniqueEntryId": "ytYM52sRa4vhWW9cF"
+    "uniqueEntryId": "ytYM52sRa4vhWW9cF",
+    "colors": ["Blue", "Blue"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -760,12 +666,10 @@
     "personality": "Lazy",
     "birthday": "01-01",
     "catchphrase": "pthhpth",
-    "style1": "Simple",
-    "style2": "Cute",
-    "color1": "Colorful",
-    "color2": "Red",
     "filename": "cat00",
-    "uniqueEntryId": "KijzbrvT4obqCnBTw"
+    "uniqueEntryId": "KijzbrvT4obqCnBTw",
+    "colors": ["Red", "Red"],
+    "styles": ["Cute", "Cute"]
   },
   {
     "sourceSheet": "Villagers",
@@ -776,12 +680,10 @@
     "personality": "Peppy",
     "birthday": "03-03",
     "catchphrase": "deelish",
-    "style1": "Cute",
-    "style2": "Elegant",
-    "color1": "Light blue",
-    "color2": "Yellow",
     "filename": "rbt17",
-    "uniqueEntryId": "yEQijXt6x8kQxdTrD"
+    "uniqueEntryId": "yEQijXt6x8kQxdTrD",
+    "colors": ["Yellow", "Yellow"],
+    "styles": ["Elegant", "Elegant"]
   },
   {
     "sourceSheet": "Villagers",
@@ -792,12 +694,10 @@
     "personality": "Lazy",
     "birthday": "08-04",
     "catchphrase": "yip yip",
-    "style1": "Simple",
-    "style2": "Cute",
-    "color1": "Beige",
-    "color2": "Brown",
     "filename": "dog04",
-    "uniqueEntryId": "Y3F5fcfjvypECTqSm"
+    "uniqueEntryId": "Y3F5fcfjvypECTqSm",
+    "colors": ["Brown", "Brown"],
+    "styles": ["Cute", "Cute"]
   },
   {
     "sourceSheet": "Villagers",
@@ -808,12 +708,10 @@
     "personality": "Lazy",
     "birthday": "02-07",
     "catchphrase": "human",
-    "style1": "Simple",
-    "style2": "Cool",
-    "color1": "Brown",
-    "color2": "Beige",
     "filename": "pgn10",
-    "uniqueEntryId": "jqR8knKhx3kGYTSSd"
+    "uniqueEntryId": "jqR8knKhx3kGYTSSd",
+    "colors": ["Beige", "Beige"],
+    "styles": ["Cool", "Cool"]
   },
   {
     "sourceSheet": "Villagers",
@@ -824,12 +722,10 @@
     "personality": "Jock",
     "birthday": "09-12",
     "catchphrase": "baboom",
-    "style1": "Elegant",
-    "style2": "Cool",
-    "color1": "Colorful",
-    "color2": "Red",
     "filename": "gor02",
-    "uniqueEntryId": "ZgTh9dkb3k36EPZ4o"
+    "uniqueEntryId": "ZgTh9dkb3k36EPZ4o",
+    "colors": ["Red", "Red"],
+    "styles": ["Cool", "Cool"]
   },
   {
     "sourceSheet": "Villagers",
@@ -840,12 +736,10 @@
     "personality": "Jock",
     "birthday": "08-07",
     "catchphrase": "munchie",
-    "style1": "Gorgeous",
-    "style2": "Active",
-    "color1": "Colorful",
-    "color2": "Purple",
     "filename": "crd02",
-    "uniqueEntryId": "xEt4yY9KCa4KoERfM"
+    "uniqueEntryId": "xEt4yY9KCa4KoERfM",
+    "colors": ["Purple", "Purple"],
+    "styles": ["Active", "Active"]
   },
   {
     "sourceSheet": "Villagers",
@@ -856,12 +750,10 @@
     "personality": "Cranky",
     "birthday": "11-06",
     "catchphrase": "schnort",
-    "style1": "Cool",
-    "style2": "Gorgeous",
-    "color1": "Purple",
-    "color2": "Black",
     "filename": "pig09",
-    "uniqueEntryId": "KRpDTZHnRjL2jn4H6"
+    "uniqueEntryId": "KRpDTZHnRjL2jn4H6",
+    "colors": ["Black", "Black"],
+    "styles": ["Gorgeous", "Gorgeous"]
   },
   {
     "sourceSheet": "Villagers",
@@ -872,12 +764,10 @@
     "personality": "Cranky",
     "birthday": "10-01",
     "catchphrase": "uh-oh",
-    "style1": "Simple",
-    "style2": "Cool",
-    "color1": "Red",
-    "color2": "Black",
     "filename": "gor05",
-    "uniqueEntryId": "qmod2zJ2CrQtqzrxw"
+    "uniqueEntryId": "qmod2zJ2CrQtqzrxw",
+    "colors": ["Black", "Black"],
+    "styles": ["Cool", "Cool"]
   },
   {
     "sourceSheet": "Villagers",
@@ -888,12 +778,10 @@
     "personality": "Snooty",
     "birthday": "07-07",
     "catchphrase": "cheeseball",
-    "style1": "Elegant",
-    "style2": "Gorgeous",
-    "color1": "Black",
-    "color2": "Blue",
     "filename": "mus03",
-    "uniqueEntryId": "6khpEinhKwWjzZh9S"
+    "uniqueEntryId": "6khpEinhKwWjzZh9S",
+    "colors": ["Blue", "Blue"],
+    "styles": ["Gorgeous", "Gorgeous"]
   },
   {
     "sourceSheet": "Villagers",
@@ -904,12 +792,10 @@
     "personality": "Lazy",
     "birthday": "06-30",
     "catchphrase": "eat it",
-    "style1": "Simple",
-    "style2": "Cute",
-    "color1": "Colorful",
-    "color2": "Yellow",
     "filename": "mus12",
-    "uniqueEntryId": "yH5PZX3bdHRRxhCCX"
+    "uniqueEntryId": "yH5PZX3bdHRRxhCCX",
+    "colors": ["Yellow", "Yellow"],
+    "styles": ["Cute", "Cute"]
   },
   {
     "sourceSheet": "Villagers",
@@ -920,12 +806,10 @@
     "personality": "Snooty",
     "birthday": "10-24",
     "catchphrase": "cluckadoo",
-    "style1": "Gorgeous",
-    "style2": "Elegant",
-    "color1": "Black",
-    "color2": "Red",
     "filename": "chn12",
-    "uniqueEntryId": "XSjgXrChHy9Trd5Pa"
+    "uniqueEntryId": "XSjgXrChHy9Trd5Pa",
+    "colors": ["Red", "Red"],
+    "styles": ["Elegant", "Elegant"]
   },
   {
     "sourceSheet": "Villagers",
@@ -936,12 +820,10 @@
     "personality": "Cranky",
     "birthday": "05-26",
     "catchphrase": "gruff",
-    "style1": "Cool",
-    "style2": "Simple",
-    "color1": "Black",
-    "color2": "Red",
     "filename": "der03",
-    "uniqueEntryId": "dzo5NgALeJ73j3sNd"
+    "uniqueEntryId": "dzo5NgALeJ73j3sNd",
+    "colors": ["Red", "Red"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -952,12 +834,10 @@
     "personality": "Peppy",
     "birthday": "09-18",
     "catchphrase": "hipster",
-    "style1": "Active",
-    "style2": "Cute",
-    "color1": "Purple",
-    "color2": "Pink",
     "filename": "hip02",
-    "uniqueEntryId": "K4k5ieRWQieA6Fqm8"
+    "uniqueEntryId": "K4k5ieRWQieA6Fqm8",
+    "colors": ["Pink", "Pink"],
+    "styles": ["Cute", "Cute"]
   },
   {
     "sourceSheet": "Villagers",
@@ -968,12 +848,10 @@
     "personality": "Jock",
     "birthday": "04-04",
     "catchphrase": "pardner",
-    "style1": "Active",
-    "style2": "Simple",
-    "color1": "Gray",
-    "color2": "Brown",
     "filename": "hrs00",
-    "uniqueEntryId": "Xi74RYjLgeBB8vopx"
+    "uniqueEntryId": "Xi74RYjLgeBB8vopx",
+    "colors": ["Brown", "Brown"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -984,12 +862,10 @@
     "personality": "Jock",
     "birthday": "08-08",
     "catchphrase": "shredded",
-    "style1": "Active",
-    "style2": "Simple",
-    "color1": "Green",
-    "color2": "Yellow",
     "filename": "lon00",
-    "uniqueEntryId": "WhJYGJgSfLF4ySXhh"
+    "uniqueEntryId": "WhJYGJgSfLF4ySXhh",
+    "colors": ["Yellow", "Yellow"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -1000,12 +876,10 @@
     "personality": "Peppy",
     "birthday": "05-09",
     "catchphrase": "tee-hee",
-    "style1": "Cute",
-    "style2": "Cute",
-    "color1": "Green",
-    "color2": "Pink",
     "filename": "rbt00",
-    "uniqueEntryId": "XNBZBNmNXxC5bxz4t"
+    "uniqueEntryId": "XNBZBNmNXxC5bxz4t",
+    "colors": ["Pink", "Pink"],
+    "styles": ["Cute", "Cute"]
   },
   {
     "sourceSheet": "Villagers",
@@ -1016,12 +890,10 @@
     "personality": "Cranky",
     "birthday": "11-01",
     "catchphrase": "ROOOOOWF",
-    "style1": "Cool",
-    "style2": "Simple",
-    "color1": "Blue",
-    "color2": "Gray",
     "filename": "dog01",
-    "uniqueEntryId": "NPbD69TfvJAorLZ9a"
+    "uniqueEntryId": "NPbD69TfvJAorLZ9a",
+    "colors": ["Gray", "Gray"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -1032,12 +904,10 @@
     "personality": "Cranky",
     "birthday": "12-07",
     "catchphrase": "captain",
-    "style1": "Simple",
-    "style2": "Active",
-    "color1": "Yellow",
-    "color2": "Red",
     "filename": "pbr03",
-    "uniqueEntryId": "LWLRkHDisDgGdJ5ju"
+    "uniqueEntryId": "LWLRkHDisDgGdJ5ju",
+    "colors": ["Red", "Red"],
+    "styles": ["Active", "Active"]
   },
   {
     "sourceSheet": "Villagers",
@@ -1048,12 +918,10 @@
     "personality": "Normal",
     "birthday": "09-04",
     "catchphrase": "WHEE",
-    "style1": "Cute",
-    "style2": "Elegant",
-    "color1": "Red",
-    "color2": "Green",
     "filename": "squ11",
-    "uniqueEntryId": "DvkaYEh9vM2SXJLCc"
+    "uniqueEntryId": "DvkaYEh9vM2SXJLCc",
+    "colors": ["Green", "Green"],
+    "styles": ["Elegant", "Elegant"]
   },
   {
     "sourceSheet": "Villagers",
@@ -1064,12 +932,10 @@
     "personality": "Cranky",
     "birthday": "06-05",
     "catchphrase": "ten-hut",
-    "style1": "Cool",
-    "style2": "Active",
-    "color1": "Blue",
-    "color2": "White",
     "filename": "flg03",
-    "uniqueEntryId": "5akmmJeoXXhcpdf8e"
+    "uniqueEntryId": "5akmmJeoXXhcpdf8e",
+    "colors": ["White", "White"],
+    "styles": ["Active", "Active"]
   },
   {
     "sourceSheet": "Villagers",
@@ -1080,12 +946,10 @@
     "personality": "Big sister",
     "birthday": "05-14",
     "catchphrase": "nuh uh",
-    "style1": "Active",
-    "style2": "Cool",
-    "color1": "Green",
-    "color2": "Light blue",
     "filename": "kal08",
-    "uniqueEntryId": "ugiHobiK9QnmA22ym"
+    "uniqueEntryId": "ugiHobiK9QnmA22ym",
+    "colors": ["Light blue", "Light blue"],
+    "styles": ["Cool", "Cool"]
   },
   {
     "sourceSheet": "Villagers",
@@ -1096,12 +960,10 @@
     "personality": "Peppy",
     "birthday": "04-13",
     "catchphrase": "sweetie",
-    "style1": "Simple",
-    "style2": "Cute",
-    "color1": "Light blue",
-    "color2": "Yellow",
     "filename": "mus08",
-    "uniqueEntryId": "4CimNs6T9nDNQuiYH"
+    "uniqueEntryId": "4CimNs6T9nDNQuiYH",
+    "colors": ["Yellow", "Yellow"],
+    "styles": ["Cute", "Cute"]
   },
   {
     "sourceSheet": "Villagers",
@@ -1112,12 +974,10 @@
     "personality": "Peppy",
     "birthday": "01-06",
     "catchphrase": "nougat",
-    "style1": "Elegant",
-    "style2": "Cute",
-    "color1": "Green",
-    "color2": "Beige",
     "filename": "rbt16",
-    "uniqueEntryId": "pAFu4JyZ333Ysoezk"
+    "uniqueEntryId": "pAFu4JyZ333Ysoezk",
+    "colors": ["Beige", "Beige"],
+    "styles": ["Cute", "Cute"]
   },
   {
     "sourceSheet": "Villagers",
@@ -1128,12 +988,10 @@
     "personality": "Normal",
     "birthday": "07-15",
     "catchphrase": "hulaaaa",
-    "style1": "Cute",
-    "style2": "Gorgeous",
-    "color1": "Colorful",
-    "color2": "White",
     "filename": "squ06",
-    "uniqueEntryId": "Th3uHvMcYaf9eT2Df"
+    "uniqueEntryId": "Th3uHvMcYaf9eT2Df",
+    "colors": ["White", "White"],
+    "styles": ["Gorgeous", "Gorgeous"]
   },
   {
     "sourceSheet": "Villagers",
@@ -1144,12 +1002,10 @@
     "personality": "Normal",
     "birthday": "12-05",
     "catchphrase": "little one",
-    "style1": "Cute",
-    "style2": "Cute",
-    "color1": "Red",
-    "color2": "Colorful",
     "filename": "kgr02",
-    "uniqueEntryId": "igeZhX3Fqa8LdKEra"
+    "uniqueEntryId": "igeZhX3Fqa8LdKEra",
+    "colors": ["Colorful", "Colorful"],
+    "styles": ["Cute", "Cute"]
   },
   {
     "sourceSheet": "Villagers",
@@ -1160,12 +1016,10 @@
     "personality": "Snooty",
     "birthday": "04-02",
     "catchphrase": "baaaby",
-    "style1": "Gorgeous",
-    "style2": "Elegant",
-    "color1": "Purple",
-    "color2": "Beige",
     "filename": "shp04",
-    "uniqueEntryId": "dnRDXd86NcXDNHyf4"
+    "uniqueEntryId": "dnRDXd86NcXDNHyf4",
+    "colors": ["Beige", "Beige"],
+    "styles": ["Elegant", "Elegant"]
   },
   {
     "sourceSheet": "Villagers",
@@ -1176,12 +1030,10 @@
     "personality": "Normal",
     "birthday": "03-25",
     "catchphrase": "feathers",
-    "style1": "Elegant",
-    "style2": "Cute",
-    "color1": "Pink",
-    "color2": "Green",
     "filename": "pbr09",
-    "uniqueEntryId": "L8cCZBvY4JW4KsDGy"
+    "uniqueEntryId": "L8cCZBvY4JW4KsDGy",
+    "colors": ["Green", "Green"],
+    "styles": ["Cute", "Cute"]
   },
   {
     "sourceSheet": "Villagers",
@@ -1192,12 +1044,10 @@
     "personality": "Cranky",
     "birthday": "09-06",
     "catchphrase": "highness",
-    "style1": "Cool",
-    "style2": "Elegant",
-    "color1": "Blue",
-    "color2": "Light blue",
     "filename": "gor00",
-    "uniqueEntryId": "pDKMq8PfxWLXWrsvT"
+    "uniqueEntryId": "pDKMq8PfxWLXWrsvT",
+    "colors": ["Light blue", "Light blue"],
+    "styles": ["Elegant", "Elegant"]
   },
   {
     "sourceSheet": "Villagers",
@@ -1208,12 +1058,10 @@
     "personality": "Smug",
     "birthday": "12-15",
     "catchphrase": "fromage",
-    "style1": "Elegant",
-    "style2": "Gorgeous",
-    "color1": "Black",
-    "color2": "Gray",
     "filename": "mus18",
-    "uniqueEntryId": "4BLXuRhdjJ9TzvRyA"
+    "uniqueEntryId": "4BLXuRhdjJ9TzvRyA",
+    "colors": ["Gray", "Gray"],
+    "styles": ["Gorgeous", "Gorgeous"]
   },
   {
     "sourceSheet": "Villagers",
@@ -1224,12 +1072,10 @@
     "personality": "Big sister",
     "birthday": "04-17",
     "catchphrase": "urgh",
-    "style1": "Active",
-    "style2": "Cute",
-    "color1": "Red",
-    "color2": "Orange",
     "filename": "bea12",
-    "uniqueEntryId": "QqCXo64EBwXSrukSr"
+    "uniqueEntryId": "QqCXo64EBwXSrukSr",
+    "colors": ["Orange", "Orange"],
+    "styles": ["Cute", "Cute"]
   },
   {
     "sourceSheet": "Villagers",
@@ -1240,12 +1086,10 @@
     "personality": "Peppy",
     "birthday": "03-17",
     "catchphrase": "tralala",
-    "style1": "Simple",
-    "style2": "Cute",
-    "color1": "Yellow",
-    "color2": "Light blue",
     "filename": "cbr10",
-    "uniqueEntryId": "MpumYkzF382cPoRt5"
+    "uniqueEntryId": "MpumYkzF382cPoRt5",
+    "colors": ["Light blue", "Light blue"],
+    "styles": ["Cute", "Cute"]
   },
   {
     "sourceSheet": "Villagers",
@@ -1256,12 +1100,10 @@
     "personality": "Big sister",
     "birthday": "05-11",
     "catchphrase": "what what",
-    "style1": "Cool",
-    "style2": "Elegant",
-    "color1": "Black",
-    "color2": "Purple",
     "filename": "dog17",
-    "uniqueEntryId": "tafi3Cfsf4wbwC9LW"
+    "uniqueEntryId": "tafi3Cfsf4wbwC9LW",
+    "colors": ["Purple", "Purple"],
+    "styles": ["Elegant", "Elegant"]
   },
   {
     "sourceSheet": "Villagers",
@@ -1272,12 +1114,10 @@
     "personality": "Lazy",
     "birthday": "08-06",
     "catchphrase": "rookie",
-    "style1": "Simple",
-    "style2": "Simple",
-    "color1": "Yellow",
-    "color2": "Green",
     "filename": "cbr15",
-    "uniqueEntryId": "46bDn76rBA3hNjFZu"
+    "uniqueEntryId": "46bDn76rBA3hNjFZu",
+    "colors": ["Green", "Green"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -1288,12 +1128,10 @@
     "personality": "Normal",
     "birthday": "03-06",
     "catchphrase": "la baa",
-    "style1": "Cute",
-    "style2": "Elegant",
-    "color1": "Red",
-    "color2": "Pink",
     "filename": "goa00",
-    "uniqueEntryId": "XutRmNyAP4NogwPaR"
+    "uniqueEntryId": "XutRmNyAP4NogwPaR",
+    "colors": ["Pink", "Pink"],
+    "styles": ["Elegant", "Elegant"]
   },
   {
     "sourceSheet": "Villagers",
@@ -1304,12 +1142,10 @@
     "personality": "Cranky",
     "birthday": "12-19",
     "catchphrase": "harrumph",
-    "style1": "Cool",
-    "style2": "Simple",
-    "color1": "White",
-    "color2": "Gray",
     "filename": "wol00",
-    "uniqueEntryId": "d3STnZCPAxLzrEzMd"
+    "uniqueEntryId": "d3STnZCPAxLzrEzMd",
+    "colors": ["Gray", "Gray"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -1320,12 +1156,10 @@
     "personality": "Smug",
     "birthday": "10-13",
     "catchphrase": "zoink",
-    "style1": "Gorgeous",
-    "style2": "Elegant",
-    "color1": "Red",
-    "color2": "Green",
     "filename": "pig14",
-    "uniqueEntryId": "8t9Bc5vqJ2vbtcjf5"
+    "uniqueEntryId": "8t9Bc5vqJ2vbtcjf5",
+    "colors": ["Green", "Green"],
+    "styles": ["Elegant", "Elegant"]
   },
   {
     "sourceSheet": "Villagers",
@@ -1336,12 +1170,10 @@
     "personality": "Cranky",
     "birthday": "07-22",
     "catchphrase": "aiya",
-    "style1": "Cool",
-    "style2": "Gorgeous",
-    "color1": "Black",
-    "color2": "White",
     "filename": "bea03",
-    "uniqueEntryId": "M3LhuYKZCmR5K9ckA"
+    "uniqueEntryId": "M3LhuYKZCmR5K9ckA",
+    "colors": ["White", "White"],
+    "styles": ["Gorgeous", "Gorgeous"]
   },
   {
     "sourceSheet": "Villagers",
@@ -1352,12 +1184,10 @@
     "personality": "Peppy",
     "birthday": "08-28",
     "catchphrase": "sparkles",
-    "style1": "Cute",
-    "style2": "Cute",
-    "color1": "Pink",
-    "color2": "White",
     "filename": "rbt13",
-    "uniqueEntryId": "pYMsB8AHagkRht8RX"
+    "uniqueEntryId": "pYMsB8AHagkRht8RX",
+    "colors": ["White", "White"],
+    "styles": ["Cute", "Cute"]
   },
   {
     "sourceSheet": "Villagers",
@@ -1368,12 +1198,10 @@
     "personality": "Lazy",
     "birthday": "12-03",
     "catchphrase": "hopalong",
-    "style1": "Simple",
-    "style2": "Simple",
-    "color1": "Black",
-    "color2": "Colorful",
     "filename": "rbt11",
-    "uniqueEntryId": "PPFtt3uWkRQNMg2tZ"
+    "uniqueEntryId": "PPFtt3uWkRQNMg2tZ",
+    "colors": ["Colorful", "Colorful"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -1384,12 +1212,10 @@
     "personality": "Snooty",
     "birthday": "11-22",
     "catchphrase": "ooh la la",
-    "style1": "Gorgeous",
-    "style2": "Elegant",
-    "color1": "Purple",
-    "color2": "White",
     "filename": "tig05",
-    "uniqueEntryId": "xCyuFvwryTntgPgvW"
+    "uniqueEntryId": "xCyuFvwryTntgPgvW",
+    "colors": ["White", "White"],
+    "styles": ["Elegant", "Elegant"]
   },
   {
     "sourceSheet": "Villagers",
@@ -1400,12 +1226,10 @@
     "personality": "Lazy",
     "birthday": "10-19",
     "catchphrase": "thump",
-    "style1": "Elegant",
-    "style2": "Simple",
-    "color1": "Beige",
-    "color2": "Brown",
     "filename": "ham05",
-    "uniqueEntryId": "K9s2bvx54sfHw8mZ8"
+    "uniqueEntryId": "K9s2bvx54sfHw8mZ8",
+    "colors": ["Brown", "Brown"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -1416,12 +1240,10 @@
     "personality": "Snooty",
     "birthday": "02-09",
     "catchphrase": "sugar",
-    "style1": "Cute",
-    "style2": "Elegant",
-    "color1": "Light blue",
-    "color2": "White",
     "filename": "hrs07",
-    "uniqueEntryId": "XwxskQMt5rJT8EnH5"
+    "uniqueEntryId": "XwxskQMt5rJT8EnH5",
+    "colors": ["White", "White"],
+    "styles": ["Elegant", "Elegant"]
   },
   {
     "sourceSheet": "Villagers",
@@ -1432,12 +1254,10 @@
     "personality": "Lazy",
     "birthday": "05-01",
     "catchphrase": "clip clawp",
-    "style1": "Simple",
-    "style2": "Cute",
-    "color1": "Green",
-    "color2": "White",
     "filename": "hrs10",
-    "uniqueEntryId": "2iBqzRfTRaddw2EXi"
+    "uniqueEntryId": "2iBqzRfTRaddw2EXi",
+    "colors": ["White", "White"],
+    "styles": ["Cute", "Cute"]
   },
   {
     "sourceSheet": "Villagers",
@@ -1448,12 +1268,10 @@
     "personality": "Jock",
     "birthday": "04-29",
     "catchphrase": "stubble",
-    "style1": "Active",
-    "style2": "Active",
-    "color1": "Blue",
-    "color2": "Red",
     "filename": "bul07",
-    "uniqueEntryId": "mYwCLsd8MxLwWALjQ"
+    "uniqueEntryId": "mYwCLsd8MxLwWALjQ",
+    "colors": ["Red", "Red"],
+    "styles": ["Active", "Active"]
   },
   {
     "sourceSheet": "Villagers",
@@ -1464,12 +1282,10 @@
     "personality": "Jock",
     "birthday": "10-07",
     "catchphrase": "hot dog",
-    "style1": "Simple",
-    "style2": "Active",
-    "color1": "White",
-    "color2": "Blue",
     "filename": "pig08",
-    "uniqueEntryId": "mTNPvAaoYMmPndYnm"
+    "uniqueEntryId": "mTNPvAaoYMmPndYnm",
+    "colors": ["Blue", "Blue"],
+    "styles": ["Active", "Active"]
   },
   {
     "sourceSheet": "Villagers",
@@ -1480,12 +1296,10 @@
     "personality": "Normal",
     "birthday": "03-01",
     "catchphrase": "doyoing",
-    "style1": "Simple",
-    "style2": "Cute",
-    "color1": "Beige",
-    "color2": "Green",
     "filename": "rbt02",
-    "uniqueEntryId": "2g7sGcTtHcJeWtwNM"
+    "uniqueEntryId": "2g7sGcTtHcJeWtwNM",
+    "colors": ["Green", "Green"],
+    "styles": ["Cute", "Cute"]
   },
   {
     "sourceSheet": "Villagers",
@@ -1496,12 +1310,10 @@
     "personality": "Lazy",
     "birthday": "08-10",
     "catchphrase": "coooooool",
-    "style1": "Simple",
-    "style2": "Cute",
-    "color1": "Orange",
-    "color2": "Colorful",
     "filename": "rbt18",
-    "uniqueEntryId": "YaWjP3XtbFqn8YPNd"
+    "uniqueEntryId": "YaWjP3XtbFqn8YPNd",
+    "colors": ["Colorful", "Colorful"],
+    "styles": ["Cute", "Cute"]
   },
   {
     "sourceSheet": "Villagers",
@@ -1512,12 +1324,10 @@
     "personality": "Smug",
     "birthday": "05-22",
     "catchphrase": "check it",
-    "style1": "Gorgeous",
-    "style2": "Elegant",
-    "color1": "Blue",
-    "color2": "Red",
     "filename": "hrs11",
-    "uniqueEntryId": "GgsrLhmh3FL4ZiAPB"
+    "uniqueEntryId": "GgsrLhmh3FL4ZiAPB",
+    "colors": ["Red", "Red"],
+    "styles": ["Elegant", "Elegant"]
   },
   {
     "sourceSheet": "Villagers",
@@ -1528,12 +1338,10 @@
     "personality": "Peppy",
     "birthday": "06-18",
     "catchphrase": "arfer",
-    "style1": "Cute",
-    "style2": "Cute",
-    "color1": "Green",
-    "color2": "Light blue",
     "filename": "dog08",
-    "uniqueEntryId": "YvNrsTEJsqkpdRNqL"
+    "uniqueEntryId": "YvNrsTEJsqkpdRNqL",
+    "colors": ["Light blue", "Light blue"],
+    "styles": ["Cute", "Cute"]
   },
   {
     "sourceSheet": "Villagers",
@@ -1544,12 +1352,10 @@
     "personality": "Jock",
     "birthday": "12-17",
     "catchphrase": "oui oui",
-    "style1": "Elegant",
-    "style2": "Gorgeous",
-    "color1": "Green",
-    "color2": "Red",
     "filename": "flg10",
-    "uniqueEntryId": "XPhZym7Wxu926eLD8"
+    "uniqueEntryId": "XPhZym7Wxu926eLD8",
+    "colors": ["Red", "Red"],
+    "styles": ["Gorgeous", "Gorgeous"]
   },
   {
     "sourceSheet": "Villagers",
@@ -1560,12 +1366,10 @@
     "personality": "Lazy",
     "birthday": "09-23",
     "catchphrase": "sweatband",
-    "style1": "Simple",
-    "style2": "Cool",
-    "color1": "Beige",
-    "color2": "Brown",
     "filename": "ost06",
-    "uniqueEntryId": "Wbivs7b7D3NZ7q9y9"
+    "uniqueEntryId": "Wbivs7b7D3NZ7q9y9",
+    "colors": ["Brown", "Brown"],
+    "styles": ["Cool", "Cool"]
   },
   {
     "sourceSheet": "Villagers",
@@ -1576,12 +1380,10 @@
     "personality": "Cranky",
     "birthday": "07-18",
     "catchphrase": "as if",
-    "style1": "Elegant",
-    "style2": "Cool",
-    "color1": "Red",
-    "color2": "Orange",
     "filename": "flg17",
-    "uniqueEntryId": "SqHZjtuNfu7DAXYDE"
+    "uniqueEntryId": "SqHZjtuNfu7DAXYDE",
+    "colors": ["Orange", "Orange"],
+    "styles": ["Cool", "Cool"]
   },
   {
     "sourceSheet": "Villagers",
@@ -1592,12 +1394,10 @@
     "personality": "Lazy",
     "birthday": "01-29",
     "catchphrase": "brainfreeze",
-    "style1": "Simple",
-    "style2": "Cute",
-    "color1": "Yellow",
-    "color2": "Colorful",
     "filename": "pgn02",
-    "uniqueEntryId": "YskkqbSnYwCh63Sru"
+    "uniqueEntryId": "YskkqbSnYwCh63Sru",
+    "colors": ["Colorful", "Colorful"],
+    "styles": ["Cute", "Cute"]
   },
   {
     "sourceSheet": "Villagers",
@@ -1608,12 +1408,10 @@
     "personality": "Smug",
     "birthday": "05-08",
     "catchphrase": "shearly",
-    "style1": "Active",
-    "style2": "Gorgeous",
-    "color1": "Red",
-    "color2": "Green",
     "filename": "shp08",
-    "uniqueEntryId": "B6tM7dBSpcaMrAGrF"
+    "uniqueEntryId": "B6tM7dBSpcaMrAGrF",
+    "colors": ["Green", "Green"],
+    "styles": ["Gorgeous", "Gorgeous"]
   },
   {
     "sourceSheet": "Villagers",
@@ -1624,12 +1422,10 @@
     "personality": "Jock",
     "birthday": "07-26",
     "catchphrase": "nyoink",
-    "style1": "Simple",
-    "style2": "Active",
-    "color1": "Yellow",
-    "color2": "Colorful",
     "filename": "pig00",
-    "uniqueEntryId": "kRGwwKyoSLKh9g2Tk"
+    "uniqueEntryId": "kRGwwKyoSLKh9g2Tk",
+    "colors": ["Colorful", "Colorful"],
+    "styles": ["Active", "Active"]
   },
   {
     "sourceSheet": "Villagers",
@@ -1640,12 +1436,10 @@
     "personality": "Cranky",
     "birthday": "07-01",
     "catchphrase": "fuzzball",
-    "style1": "Cool",
-    "style2": "Cool",
-    "color1": "Blue",
-    "color2": "White",
     "filename": "bea02",
-    "uniqueEntryId": "w7y7v3w49B7KkDXbg"
+    "uniqueEntryId": "w7y7v3w49B7KkDXbg",
+    "colors": ["White", "White"],
+    "styles": ["Cool", "Cool"]
   },
   {
     "sourceSheet": "Villagers",
@@ -1656,12 +1450,10 @@
     "personality": "Cranky",
     "birthday": "06-09",
     "catchphrase": "rockin'",
-    "style1": "Cool",
-    "style2": "Active",
-    "color1": "Black",
-    "color2": "Yellow",
     "filename": "elp12",
-    "uniqueEntryId": "edCh8EDStBMbyskYa"
+    "uniqueEntryId": "edCh8EDStBMbyskYa",
+    "colors": ["Yellow", "Yellow"],
+    "styles": ["Active", "Active"]
   },
   {
     "sourceSheet": "Villagers",
@@ -1672,12 +1464,10 @@
     "personality": "Cranky",
     "birthday": "03-09",
     "catchphrase": "ah-CHOO",
-    "style1": "Cool",
-    "style2": "Active",
-    "color1": "Yellow",
-    "color2": "Beige",
     "filename": "ant00",
-    "uniqueEntryId": "JaNDeYdAuiJCYZbAx"
+    "uniqueEntryId": "JaNDeYdAuiJCYZbAx",
+    "colors": ["Beige", "Beige"],
+    "styles": ["Active", "Active"]
   },
   {
     "sourceSheet": "Villagers",
@@ -1688,12 +1478,10 @@
     "personality": "Normal",
     "birthday": "11-16",
     "catchphrase": "bow-WOW",
-    "style1": "Simple",
-    "style2": "Cute",
-    "color1": "Colorful",
-    "color2": "Blue",
     "filename": "dog07",
-    "uniqueEntryId": "2u92atfG2uMg2J8sS"
+    "uniqueEntryId": "2u92atfG2uMg2J8sS",
+    "colors": ["Blue", "Blue"],
+    "styles": ["Cute", "Cute"]
   },
   {
     "sourceSheet": "Villagers",
@@ -1704,12 +1492,10 @@
     "personality": "Normal",
     "birthday": "06-27",
     "catchphrase": "woowoo",
-    "style1": "Simple",
-    "style2": "Cute",
-    "color1": "Colorful",
-    "color2": "Blue",
     "filename": "duk04",
-    "uniqueEntryId": "dXBazBPxXu9QGrAzM"
+    "uniqueEntryId": "dXBazBPxXu9QGrAzM",
+    "colors": ["Blue", "Blue"],
+    "styles": ["Cute", "Cute"]
   },
   {
     "sourceSheet": "Villagers",
@@ -1720,12 +1506,10 @@
     "personality": "Big sister",
     "birthday": "05-04",
     "catchphrase": "whatevs",
-    "style1": "Simple",
-    "style2": "Simple",
-    "color1": "Orange",
-    "color2": "Orange",
     "filename": "der04",
-    "uniqueEntryId": "ibnMhhdYMGHYr9RAZ"
+    "uniqueEntryId": "ibnMhhdYMGHYr9RAZ",
+    "colors": ["Orange", "Orange"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -1736,12 +1520,10 @@
     "personality": "Cranky",
     "birthday": "05-27",
     "catchphrase": "gronk",
-    "style1": "Cool",
-    "style2": "Simple",
-    "color1": "Blue",
-    "color2": "White",
     "filename": "crd04",
-    "uniqueEntryId": "Eqn3ZXJtMBrEYtm7u"
+    "uniqueEntryId": "Eqn3ZXJtMBrEYtm7u",
+    "colors": ["White", "White"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -1752,12 +1534,10 @@
     "personality": "Lazy",
     "birthday": "05-24",
     "catchphrase": "monch",
-    "style1": "Gorgeous",
-    "style2": "Elegant",
-    "color1": "Purple",
-    "color2": "Brown",
     "filename": "mnk08",
-    "uniqueEntryId": "zh7aML2hmMKy5bbiR"
+    "uniqueEntryId": "zh7aML2hmMKy5bbiR",
+    "colors": ["Brown", "Brown"],
+    "styles": ["Elegant", "Elegant"]
   },
   {
     "sourceSheet": "Villagers",
@@ -1768,12 +1548,10 @@
     "personality": "Lazy",
     "birthday": "05-25",
     "catchphrase": "derrrr",
-    "style1": "Simple",
-    "style2": "Elegant",
-    "color1": "Yellow",
-    "color2": "Beige",
     "filename": "duk08",
-    "uniqueEntryId": "nBcDHyXheHurcisiL"
+    "uniqueEntryId": "nBcDHyXheHurcisiL",
+    "colors": ["Beige", "Beige"],
+    "styles": ["Elegant", "Elegant"]
   },
   {
     "sourceSheet": "Villagers",
@@ -1784,12 +1562,10 @@
     "personality": "Snooty",
     "birthday": "01-04",
     "catchphrase": "no doy",
-    "style1": "Elegant",
-    "style2": "Gorgeous",
-    "color1": "Purple",
-    "color2": "Pink",
     "filename": "der08",
-    "uniqueEntryId": "QGyW9QJjjxo3jta6j"
+    "uniqueEntryId": "QGyW9QJjjxo3jta6j",
+    "colors": ["Pink", "Pink"],
+    "styles": ["Gorgeous", "Gorgeous"]
   },
   {
     "sourceSheet": "Villagers",
@@ -1800,12 +1576,10 @@
     "personality": "Big sister",
     "birthday": "10-02",
     "catchphrase": "ya know",
-    "style1": "Gorgeous",
-    "style2": "Elegant",
-    "color1": "Purple",
-    "color2": "Light blue",
     "filename": "flg18",
-    "uniqueEntryId": "FmQ9x68HncTm8vdsG"
+    "uniqueEntryId": "FmQ9x68HncTm8vdsG",
+    "colors": ["Light blue", "Light blue"],
+    "styles": ["Elegant", "Elegant"]
   },
   {
     "sourceSheet": "Villagers",
@@ -1816,12 +1590,10 @@
     "personality": "Lazy",
     "birthday": "07-14",
     "catchphrase": "woo-oo",
-    "style1": "Simple",
-    "style2": "Simple",
-    "color1": "Yellow",
-    "color2": "Blue",
     "filename": "elp01",
-    "uniqueEntryId": "vthzJrsaM6Y7dykA5"
+    "uniqueEntryId": "vthzJrsaM6Y7dykA5",
+    "colors": ["Blue", "Blue"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -1832,12 +1604,10 @@
     "personality": "Cranky",
     "birthday": "02-17",
     "catchphrase": "ohmmm",
-    "style1": "Simple",
-    "style2": "Cool",
-    "color1": "Brown",
-    "color2": "Beige",
     "filename": "wol04",
-    "uniqueEntryId": "YjMXvmH5eovNYShdE"
+    "uniqueEntryId": "YjMXvmH5eovNYShdE",
+    "colors": ["Beige", "Beige"],
+    "styles": ["Cool", "Cool"]
   },
   {
     "sourceSheet": "Villagers",
@@ -1848,12 +1618,10 @@
     "personality": "Lazy",
     "birthday": "03-16",
     "catchphrase": "old bunny",
-    "style1": "Simple",
-    "style2": "Elegant",
-    "color1": "Gray",
-    "color2": "Beige",
     "filename": "rbt10",
-    "uniqueEntryId": "iasth9JRLdRvLzuQ7"
+    "uniqueEntryId": "iasth9JRLdRvLzuQ7",
+    "colors": ["Beige", "Beige"],
+    "styles": ["Elegant", "Elegant"]
   },
   {
     "sourceSheet": "Villagers",
@@ -1864,12 +1632,10 @@
     "personality": "Jock",
     "birthday": "03-18",
     "catchphrase": "indeedaroo",
-    "style1": "Active",
-    "style2": "Cute",
-    "color1": "Red",
-    "color2": "Colorful",
     "filename": "shp15",
-    "uniqueEntryId": "T6YJZ7vj2X52zmDcp"
+    "uniqueEntryId": "T6YJZ7vj2X52zmDcp",
+    "colors": ["Colorful", "Colorful"],
+    "styles": ["Cute", "Cute"]
   },
   {
     "sourceSheet": "Villagers",
@@ -1880,12 +1646,10 @@
     "personality": "Normal",
     "birthday": "02-18",
     "catchphrase": "squeaky",
-    "style1": "Simple",
-    "style2": "Elegant",
-    "color1": "Blue",
-    "color2": "Light blue",
     "filename": "mus00",
-    "uniqueEntryId": "9Qpj5fqp4E8PvGGFw"
+    "uniqueEntryId": "9Qpj5fqp4E8PvGGFw",
+    "colors": ["Light blue", "Light blue"],
+    "styles": ["Elegant", "Elegant"]
   },
   {
     "sourceSheet": "Villagers",
@@ -1896,12 +1660,10 @@
     "personality": "Peppy",
     "birthday": "03-14",
     "catchphrase": "wee one",
-    "style1": "Simple",
-    "style2": "Cute",
-    "color1": "Blue",
-    "color2": "Black",
     "filename": "rbt01",
-    "uniqueEntryId": "CRMJaAokcTnrXsQdp"
+    "uniqueEntryId": "CRMJaAokcTnrXsQdp",
+    "colors": ["Black", "Black"],
+    "styles": ["Cute", "Cute"]
   },
   {
     "sourceSheet": "Villagers",
@@ -1912,12 +1674,10 @@
     "personality": "Lazy",
     "birthday": "02-12",
     "catchphrase": "burrrn",
-    "style1": "Elegant",
-    "style2": "Gorgeous",
-    "color1": "Orange",
-    "color2": "Red",
     "filename": "crd08",
-    "uniqueEntryId": "qjqzytG4LCEoong4w"
+    "uniqueEntryId": "qjqzytG4LCEoong4w",
+    "colors": ["Red", "Red"],
+    "styles": ["Gorgeous", "Gorgeous"]
   },
   {
     "sourceSheet": "Villagers",
@@ -1928,12 +1688,10 @@
     "personality": "Lazy",
     "birthday": "06-25",
     "catchphrase": "quacko",
-    "style1": "Cool",
-    "style2": "Simple",
-    "color1": "Brown",
-    "color2": "Red",
     "filename": "duk09",
-    "uniqueEntryId": "CKAsCWnKjfQYG8R7v"
+    "uniqueEntryId": "CKAsCWnKjfQYG8R7v",
+    "colors": ["Red", "Red"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -1944,12 +1702,10 @@
     "personality": "Jock",
     "birthday": "10-09",
     "catchphrase": "dribbit",
-    "style1": "Simple",
-    "style2": "Active",
-    "color1": "Orange",
-    "color2": "Red",
     "filename": "flg04",
-    "uniqueEntryId": "gf6jM4si5zSEFjf9w"
+    "uniqueEntryId": "gf6jM4si5zSEFjf9w",
+    "colors": ["Red", "Red"],
+    "styles": ["Active", "Active"]
   },
   {
     "sourceSheet": "Villagers",
@@ -1960,12 +1716,10 @@
     "personality": "Smug",
     "birthday": "09-16",
     "catchphrase": "greenhorn",
-    "style1": "Gorgeous",
-    "style2": "Elegant",
-    "color1": "Black",
-    "color2": "Gray",
     "filename": "hrs06",
-    "uniqueEntryId": "JmHu7aFcqj9hxKupZ"
+    "uniqueEntryId": "JmHu7aFcqj9hxKupZ",
+    "colors": ["Gray", "Gray"],
+    "styles": ["Elegant", "Elegant"]
   },
   {
     "sourceSheet": "Villagers",
@@ -1976,12 +1730,10 @@
     "personality": "Lazy",
     "birthday": "10-14",
     "catchphrase": "doodle-duh",
-    "style1": "Simple",
-    "style2": "Simple",
-    "color1": "Beige",
-    "color2": "Brown",
     "filename": "chn02",
-    "uniqueEntryId": "jRwtNxCCWuznSMCZy"
+    "uniqueEntryId": "jRwtNxCCWuznSMCZy",
+    "colors": ["Brown", "Brown"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -1992,12 +1744,10 @@
     "personality": "Snooty",
     "birthday": "03-21",
     "catchphrase": "puh-lease",
-    "style1": "Elegant",
-    "style2": "Gorgeous",
-    "color1": "Purple",
-    "color2": "Red",
     "filename": "mnk05",
-    "uniqueEntryId": "taRZ4jRFMGPkxCZo4"
+    "uniqueEntryId": "taRZ4jRFMGPkxCZo4",
+    "colors": ["Red", "Red"],
+    "styles": ["Gorgeous", "Gorgeous"]
   },
   {
     "sourceSheet": "Villagers",
@@ -2008,12 +1758,10 @@
     "personality": "Normal",
     "birthday": "05-12",
     "catchphrase": "li'l one",
-    "style1": "Simple",
-    "style2": "Cute",
-    "color1": "Gray",
-    "color2": "Pink",
     "filename": "elp07",
-    "uniqueEntryId": "odt2kdswLHE2YMkQd"
+    "uniqueEntryId": "odt2kdswLHE2YMkQd",
+    "colors": ["Pink", "Pink"],
+    "styles": ["Cute", "Cute"]
   },
   {
     "sourceSheet": "Villagers",
@@ -2024,12 +1772,10 @@
     "personality": "Lazy",
     "birthday": "10-05",
     "catchphrase": "tenderfoot",
-    "style1": "Simple",
-    "style2": "Cool",
-    "color1": "Blue",
-    "color2": "White",
     "filename": "hrs03",
-    "uniqueEntryId": "LcRhQqeH8u7PboJ73"
+    "uniqueEntryId": "LcRhQqeH8u7PboJ73",
+    "colors": ["White", "White"],
+    "styles": ["Cool", "Cool"]
   },
   {
     "sourceSheet": "Villagers",
@@ -2040,12 +1786,10 @@
     "personality": "Snooty",
     "birthday": "12-08",
     "catchphrase": "tooooot",
-    "style1": "Elegant",
-    "style2": "Simple",
-    "color1": "Green",
-    "color2": "Orange",
     "filename": "elp03",
-    "uniqueEntryId": "6QughAEZFkYZ5vKpw"
+    "uniqueEntryId": "6QughAEZFkYZ5vKpw",
+    "colors": ["Orange", "Orange"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -2056,12 +1800,10 @@
     "personality": "Cranky",
     "birthday": "07-23",
     "catchphrase": "unh-hunh",
-    "style1": "Gorgeous",
-    "style2": "Elegant",
-    "color1": "Red",
-    "color2": "Black",
     "filename": "lon01",
-    "uniqueEntryId": "4jYpCpw9nooMZHR8s"
+    "uniqueEntryId": "4jYpCpw9nooMZHR8s",
+    "colors": ["Black", "Black"],
+    "styles": ["Elegant", "Elegant"]
   },
   {
     "sourceSheet": "Villagers",
@@ -2072,12 +1814,10 @@
     "personality": "Lazy",
     "birthday": "07-27",
     "catchphrase": "chow down",
-    "style1": "Simple",
-    "style2": "Simple",
-    "color1": "Beige",
-    "color2": "Red",
     "filename": "der09",
-    "uniqueEntryId": "BJcXu5LtRBo8DdZ2v"
+    "uniqueEntryId": "BJcXu5LtRBo8DdZ2v",
+    "colors": ["Red", "Red"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -2088,12 +1828,10 @@
     "personality": "Smug",
     "birthday": "10-26",
     "catchphrase": "yeah buddy",
-    "style1": "Cool",
-    "style2": "Gorgeous",
-    "color1": "Black",
-    "color2": "Gray",
     "filename": "kal10",
-    "uniqueEntryId": "2XX9mSSzxEhwXMi4f"
+    "uniqueEntryId": "2XX9mSSzxEhwXMi4f",
+    "colors": ["Gray", "Gray"],
+    "styles": ["Gorgeous", "Gorgeous"]
   },
   {
     "sourceSheet": "Villagers",
@@ -2104,12 +1842,10 @@
     "personality": "Normal",
     "birthday": "04-03",
     "catchphrase": "lambchop",
-    "style1": "Simple",
-    "style2": "Elegant",
-    "color1": "Beige",
-    "color2": "Orange",
     "filename": "shp02",
-    "uniqueEntryId": "dbAfEFetNQpXajtch"
+    "uniqueEntryId": "dbAfEFetNQpXajtch",
+    "colors": ["Orange", "Orange"],
+    "styles": ["Elegant", "Elegant"]
   },
   {
     "sourceSheet": "Villagers",
@@ -2120,12 +1856,10 @@
     "personality": "Cranky",
     "birthday": "12-18",
     "catchphrase": "cha-chomp",
-    "style1": "Simple",
-    "style2": "Cool",
-    "color1": "White",
-    "color2": "Light blue",
     "filename": "wol06",
-    "uniqueEntryId": "PFvvq6NGpsRgCwg2z"
+    "uniqueEntryId": "PFvvq6NGpsRgCwg2z",
+    "colors": ["Light blue", "Light blue"],
+    "styles": ["Cool", "Cool"]
   },
   {
     "sourceSheet": "Villagers",
@@ -2136,12 +1870,10 @@
     "personality": "Normal",
     "birthday": "03-26",
     "catchphrase": "dearie",
-    "style1": "Simple",
-    "style2": "Cute",
-    "color1": "Beige",
-    "color2": "White",
     "filename": "der00",
-    "uniqueEntryId": "kB5jGQAqkLnh8LxWy"
+    "uniqueEntryId": "kB5jGQAqkLnh8LxWy",
+    "colors": ["White", "White"],
+    "styles": ["Cute", "Cute"]
   },
   {
     "sourceSheet": "Villagers",
@@ -2152,12 +1884,10 @@
     "personality": "Peppy",
     "birthday": "03-30",
     "catchphrase": "mimimi",
-    "style1": "Cute",
-    "style2": "Cute",
-    "color1": "Yellow",
-    "color2": "Orange",
     "filename": "cat17",
-    "uniqueEntryId": "ygF99DNm88JRXvKLi"
+    "uniqueEntryId": "ygF99DNm88JRXvKLi",
+    "colors": ["Orange", "Orange"],
+    "styles": ["Cute", "Cute"]
   },
   {
     "sourceSheet": "Villagers",
@@ -2168,12 +1898,10 @@
     "personality": "Lazy",
     "birthday": "06-03",
     "catchphrase": "bucko",
-    "style1": "Simple",
-    "style2": "Cute",
-    "color1": "Blue",
-    "color2": "White",
     "filename": "squ02",
-    "uniqueEntryId": "ffo6sBoX9fkMB4bem"
+    "uniqueEntryId": "ffo6sBoX9fkMB4bem",
+    "colors": ["White", "White"],
+    "styles": ["Cute", "Cute"]
   },
   {
     "sourceSheet": "Villagers",
@@ -2184,12 +1912,10 @@
     "personality": "Jock",
     "birthday": "11-21",
     "catchphrase": "rerack",
-    "style1": "Active",
-    "style2": "Simple",
-    "color1": "Blue",
-    "color2": "Yellow",
     "filename": "mnk06",
-    "uniqueEntryId": "ADkNZkrRxdSrfGFH8"
+    "uniqueEntryId": "ADkNZkrRxdSrfGFH8",
+    "colors": ["Yellow", "Yellow"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -2200,12 +1926,10 @@
     "personality": "Big sister",
     "birthday": "09-02",
     "catchphrase": "cha",
-    "style1": "Cool",
-    "style2": "Gorgeous",
-    "color1": "Red",
-    "color2": "Purple",
     "filename": "pgn13",
-    "uniqueEntryId": "6cB5T5yZtevY6d2jp"
+    "uniqueEntryId": "6cB5T5yZtevY6d2jp",
+    "colors": ["Purple", "Purple"],
+    "styles": ["Gorgeous", "Gorgeous"]
   },
   {
     "sourceSheet": "Villagers",
@@ -2216,12 +1940,10 @@
     "personality": "Peppy",
     "birthday": "02-09",
     "catchphrase": "pinky",
-    "style1": "Cute",
-    "style2": "Active",
-    "color1": "Colorful",
-    "color2": "Pink",
     "filename": "ost09",
-    "uniqueEntryId": "eDX52Zi7H7qifrwYm"
+    "uniqueEntryId": "eDX52Zi7H7qifrwYm",
+    "colors": ["Pink", "Pink"],
+    "styles": ["Active", "Active"]
   },
   {
     "sourceSheet": "Villagers",
@@ -2232,12 +1954,10 @@
     "personality": "Normal",
     "birthday": "01-30",
     "catchphrase": "powderpuff",
-    "style1": "Elegant",
-    "style2": "Cute",
-    "color1": "Red",
-    "color2": "Pink",
     "filename": "ham06",
-    "uniqueEntryId": "B4cpBYrewfSK3WN6M"
+    "uniqueEntryId": "B4cpBYrewfSK3WN6M",
+    "colors": ["Pink", "Pink"],
+    "styles": ["Cute", "Cute"]
   },
   {
     "sourceSheet": "Villagers",
@@ -2248,12 +1968,10 @@
     "personality": "Snooty",
     "birthday": "01-22",
     "catchphrase": "karat",
-    "style1": "Elegant",
-    "style2": "Gorgeous",
-    "color1": "Blue",
-    "color2": "Black",
     "filename": "rbt12",
-    "uniqueEntryId": "eJZX7wDRYqatmKBKr"
+    "uniqueEntryId": "eJZX7wDRYqatmKBKr",
+    "colors": ["Black", "Black"],
+    "styles": ["Gorgeous", "Gorgeous"]
   },
   {
     "sourceSheet": "Villagers",
@@ -2264,12 +1982,10 @@
     "personality": "Cranky",
     "birthday": "07-30",
     "catchphrase": "crushy",
-    "style1": "Gorgeous",
-    "style2": "Cool",
-    "color1": "Brown",
-    "color2": "Yellow",
     "filename": "pbr06",
-    "uniqueEntryId": "8BgXtjz2mfGBrZwCm"
+    "uniqueEntryId": "8BgXtjz2mfGBrZwCm",
+    "colors": ["Yellow", "Yellow"],
+    "styles": ["Cool", "Cool"]
   },
   {
     "sourceSheet": "Villagers",
@@ -2280,12 +1996,10 @@
     "personality": "Peppy",
     "birthday": "02-19",
     "catchphrase": "ducky",
-    "style1": "Simple",
-    "style2": "Cute",
-    "color1": "Green",
-    "color2": "Colorful",
     "filename": "duk07",
-    "uniqueEntryId": "AcYKxih6FpRRyZDs4"
+    "uniqueEntryId": "AcYKxih6FpRRyZDs4",
+    "colors": ["Colorful", "Colorful"],
+    "styles": ["Cute", "Cute"]
   },
   {
     "sourceSheet": "Villagers",
@@ -2296,12 +2010,10 @@
     "personality": "Snooty",
     "birthday": "12-14",
     "catchphrase": "uff da",
-    "style1": "Elegant",
-    "style2": "Cool",
-    "color1": "Green",
-    "color2": "Blue",
     "filename": "wol05",
-    "uniqueEntryId": "qyoMuqvPA4Wqp3Ybn"
+    "uniqueEntryId": "qyoMuqvPA4Wqp3Ybn",
+    "colors": ["Blue", "Blue"],
+    "styles": ["Cool", "Cool"]
   },
   {
     "sourceSheet": "Villagers",
@@ -2312,12 +2024,10 @@
     "personality": "Snooty",
     "birthday": "10-16",
     "catchphrase": "brrrmph",
-    "style1": "Elegant",
-    "style2": "Gorgeous",
-    "color1": "Pink",
-    "color2": "Black",
     "filename": "pgn04",
-    "uniqueEntryId": "uk9DGWqzxRT4TEJbm"
+    "uniqueEntryId": "uk9DGWqzxRT4TEJbm",
+    "colors": ["Black", "Black"],
+    "styles": ["Gorgeous", "Gorgeous"]
   },
   {
     "sourceSheet": "Villagers",
@@ -2328,12 +2038,10 @@
     "personality": "Big sister",
     "birthday": "07-16",
     "catchphrase": "oh ewe",
-    "style1": "Active",
-    "style2": "Cute",
-    "color1": "Yellow",
-    "color2": "Red",
     "filename": "shp11",
-    "uniqueEntryId": "79EahCMHHzp3BwH7x"
+    "uniqueEntryId": "79EahCMHHzp3BwH7x",
+    "colors": ["Red", "Red"],
+    "styles": ["Cute", "Cute"]
   },
   {
     "sourceSheet": "Villagers",
@@ -2344,12 +2052,10 @@
     "personality": "Jock",
     "birthday": "02-08",
     "catchphrase": "fribbit",
-    "style1": "Active",
-    "style2": "Simple",
-    "color1": "Blue",
-    "color2": "Colorful",
     "filename": "flg02",
-    "uniqueEntryId": "YXidGR87Fi7mov7Po"
+    "uniqueEntryId": "YXidGR87Fi7mov7Po",
+    "colors": ["Colorful", "Colorful"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -2360,12 +2066,10 @@
     "personality": "Big sister",
     "birthday": "09-19",
     "catchphrase": "precious",
-    "style1": "Cool",
-    "style2": "Cool",
-    "color1": "Pink",
-    "color2": "Pink",
     "filename": "der06",
-    "uniqueEntryId": "Z98WrodjQxXZAACLA"
+    "uniqueEntryId": "Z98WrodjQxXZAACLA",
+    "colors": ["Pink", "Pink"],
+    "styles": ["Cool", "Cool"]
   },
   {
     "sourceSheet": "Villagers",
@@ -2376,12 +2080,10 @@
     "personality": "Peppy",
     "birthday": "12-16",
     "catchphrase": "honeybun",
-    "style1": "Cute",
-    "style2": "Gorgeous",
-    "color1": "Brown",
-    "color2": "Red",
     "filename": "rbt05",
-    "uniqueEntryId": "WC97mFMgiZixDfcRZ"
+    "uniqueEntryId": "WC97mFMgiZixDfcRZ",
+    "colors": ["Red", "Red"],
+    "styles": ["Gorgeous", "Gorgeous"]
   },
   {
     "sourceSheet": "Villagers",
@@ -2392,12 +2094,10 @@
     "personality": "Normal",
     "birthday": "03-05",
     "catchphrase": "snortie",
-    "style1": "Cute",
-    "style2": "Elegant",
-    "color1": "Pink",
-    "color2": "White",
     "filename": "pig13",
-    "uniqueEntryId": "84NHBxaLCDPy48Xpx"
+    "uniqueEntryId": "84NHBxaLCDPy48Xpx",
+    "colors": ["White", "White"],
+    "styles": ["Elegant", "Elegant"]
   },
   {
     "sourceSheet": "Villagers",
@@ -2408,12 +2108,10 @@
     "personality": "Cranky",
     "birthday": "10-28",
     "catchphrase": "mon chou",
-    "style1": "Simple",
-    "style2": "Gorgeous",
-    "color1": "Brown",
-    "color2": "Orange",
     "filename": "rbt04",
-    "uniqueEntryId": "5TXosg4PLkG4jZ3AD"
+    "uniqueEntryId": "5TXosg4PLkG4jZ3AD",
+    "colors": ["Orange", "Orange"],
+    "styles": ["Gorgeous", "Gorgeous"]
   },
   {
     "sourceSheet": "Villagers",
@@ -2424,12 +2122,10 @@
     "personality": "Normal",
     "birthday": "05-17",
     "catchphrase": "snacky",
-    "style1": "Cute",
-    "style2": "Cute",
-    "color1": "Pink",
-    "color2": "White",
     "filename": "crd07",
-    "uniqueEntryId": "HY5swi9u3np5LyR8Q"
+    "uniqueEntryId": "HY5swi9u3np5LyR8Q",
+    "colors": ["White", "White"],
+    "styles": ["Cute", "Cute"]
   },
   {
     "sourceSheet": "Villagers",
@@ -2440,12 +2136,10 @@
     "personality": "Jock",
     "birthday": "01-21",
     "catchphrase": "otaku",
-    "style1": "Elegant",
-    "style2": "Simple",
-    "color1": "Green",
-    "color2": "Purple",
     "filename": "rbt08",
-    "uniqueEntryId": "zFPwakzpAr8fmL4FM"
+    "uniqueEntryId": "zFPwakzpAr8fmL4FM",
+    "colors": ["Purple", "Purple"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -2456,12 +2150,10 @@
     "personality": "Snooty",
     "birthday": "08-11",
     "catchphrase": "ribbette",
-    "style1": "Gorgeous",
-    "style2": "Elegant",
-    "color1": "Black",
-    "color2": "White",
     "filename": "flg16",
-    "uniqueEntryId": "QX93pNfztrLZvLxdC"
+    "uniqueEntryId": "QX93pNfztrLZvLxdC",
+    "colors": ["White", "White"],
+    "styles": ["Elegant", "Elegant"]
   },
   {
     "sourceSheet": "Villagers",
@@ -2472,12 +2164,10 @@
     "personality": "Normal",
     "birthday": "01-15",
     "catchphrase": "stretch",
-    "style1": "Elegant",
-    "style2": "Cute",
-    "color1": "Green",
-    "color2": "Pink",
     "filename": "ost01",
-    "uniqueEntryId": "ZSLn6jgRc5W4oZA4f"
+    "uniqueEntryId": "ZSLn6jgRc5W4oZA4f",
+    "colors": ["Pink", "Pink"],
+    "styles": ["Cute", "Cute"]
   },
   {
     "sourceSheet": "Villagers",
@@ -2488,12 +2178,10 @@
     "personality": "Snooty",
     "birthday": "08-12",
     "catchphrase": "quacker",
-    "style1": "Gorgeous",
-    "style2": "Elegant",
-    "color1": "Black",
-    "color2": "Gray",
     "filename": "duk15",
-    "uniqueEntryId": "7iiegnbmMRDeDaC3t"
+    "uniqueEntryId": "7iiegnbmMRDeDaC3t",
+    "colors": ["Gray", "Gray"],
+    "styles": ["Elegant", "Elegant"]
   },
   {
     "sourceSheet": "Villagers",
@@ -2504,12 +2192,10 @@
     "personality": "Normal",
     "birthday": "12-27",
     "catchphrase": "woof",
-    "style1": "Simple",
-    "style2": "Cute",
-    "color1": "Yellow",
-    "color2": "Orange",
     "filename": "dog00",
-    "uniqueEntryId": "RdpZtkYzLeivKyx7Z"
+    "uniqueEntryId": "RdpZtkYzLeivKyx7Z",
+    "colors": ["Orange", "Orange"],
+    "styles": ["Cute", "Cute"]
   },
   {
     "sourceSheet": "Villagers",
@@ -2520,12 +2206,10 @@
     "personality": "Cranky",
     "birthday": "10-13",
     "catchphrase": "mate",
-    "style1": "Simple",
-    "style2": "Cool",
-    "color1": "Black",
-    "color2": "Green",
     "filename": "kal04",
-    "uniqueEntryId": "SFkpDu8Bxgot4ShcP"
+    "uniqueEntryId": "SFkpDu8Bxgot4ShcP",
+    "colors": ["Green", "Green"],
+    "styles": ["Cool", "Cool"]
   },
   {
     "sourceSheet": "Villagers",
@@ -2536,12 +2220,10 @@
     "personality": "Jock",
     "birthday": "10-04",
     "catchphrase": "buh-kay",
-    "style1": "Simple",
-    "style2": "Active",
-    "color1": "Blue",
-    "color2": "White",
     "filename": "chn00",
-    "uniqueEntryId": "5iSyoeFknLsoYManw"
+    "uniqueEntryId": "5iSyoeFknLsoYManw",
+    "colors": ["White", "White"],
+    "styles": ["Active", "Active"]
   },
   {
     "sourceSheet": "Villagers",
@@ -2552,12 +2234,10 @@
     "personality": "Smug",
     "birthday": "06-20",
     "catchphrase": "indeed",
-    "style1": "Simple",
-    "style2": "Cool",
-    "color1": "Green",
-    "color2": "Orange",
     "filename": "ham02",
-    "uniqueEntryId": "D86CPtiT7ssiFexPE"
+    "uniqueEntryId": "D86CPtiT7ssiFexPE",
+    "colors": ["Orange", "Orange"],
+    "styles": ["Cool", "Cool"]
   },
   {
     "sourceSheet": "Villagers",
@@ -2568,12 +2248,10 @@
     "personality": "Snooty",
     "birthday": "09-05",
     "catchphrase": "yelp",
-    "style1": "Elegant",
-    "style2": "Simple",
-    "color1": "Pink",
-    "color2": "Purple",
     "filename": "mus16",
-    "uniqueEntryId": "jKZuhKCACcaqpDCNQ"
+    "uniqueEntryId": "jKZuhKCACcaqpDCNQ",
+    "colors": ["Purple", "Purple"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -2584,12 +2262,10 @@
     "personality": "Cranky",
     "birthday": "07-31",
     "catchphrase": "grrr",
-    "style1": "Cool",
-    "style2": "Simple",
-    "color1": "Red",
-    "color2": "Black",
     "filename": "bea09",
-    "uniqueEntryId": "ePDrk4wsbfZAu4rA3"
+    "uniqueEntryId": "ePDrk4wsbfZAu4rA3",
+    "colors": ["Black", "Black"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -2600,12 +2276,10 @@
     "personality": "Cranky",
     "birthday": "10-23",
     "catchphrase": "grumble",
-    "style1": "Cool",
-    "style2": "Simple",
-    "color1": "Black",
-    "color2": "Gray",
     "filename": "bea06",
-    "uniqueEntryId": "QC3CiJqhhcm9WpAho"
+    "uniqueEntryId": "QC3CiJqhhcm9WpAho",
+    "colors": ["Gray", "Gray"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -2616,12 +2290,10 @@
     "personality": "Cranky",
     "birthday": "08-29",
     "catchphrase": "bleh eh eh",
-    "style1": "Cool",
-    "style2": "Gorgeous",
-    "color1": "Purple",
-    "color2": "Black",
     "filename": "goa04",
-    "uniqueEntryId": "oTGj76upYyWRcG34C"
+    "uniqueEntryId": "oTGj76upYyWRcG34C",
+    "colors": ["Black", "Black"],
+    "styles": ["Gorgeous", "Gorgeous"]
   },
   {
     "sourceSheet": "Villagers",
@@ -2632,12 +2304,10 @@
     "personality": "Snooty",
     "birthday": "01-23",
     "catchphrase": "h-h-h-hon",
-    "style1": "Gorgeous",
-    "style2": "Elegant",
-    "color1": "Green",
-    "color2": "White",
     "filename": "pgn05",
-    "uniqueEntryId": "jFBkwJJrXK4mJ2giR"
+    "uniqueEntryId": "jFBkwJJrXK4mJ2giR",
+    "colors": ["White", "White"],
+    "styles": ["Elegant", "Elegant"]
   },
   {
     "sourceSheet": "Villagers",
@@ -2648,12 +2318,10 @@
     "personality": "Jock",
     "birthday": "05-30",
     "catchphrase": "hammie",
-    "style1": "Simple",
-    "style2": "Active",
-    "color1": "Purple",
-    "color2": "Blue",
     "filename": "ham00",
-    "uniqueEntryId": "LA2HHrtZ6beHgmKpL"
+    "uniqueEntryId": "LA2HHrtZ6beHgmKpL",
+    "colors": ["Blue", "Blue"],
+    "styles": ["Active", "Active"]
   },
   {
     "sourceSheet": "Villagers",
@@ -2664,12 +2332,10 @@
     "personality": "Cranky",
     "birthday": "02-25",
     "catchphrase": "snort",
-    "style1": "Cool",
-    "style2": "Simple",
-    "color1": "Gray",
-    "color2": "Beige",
     "filename": "ham07",
-    "uniqueEntryId": "bp3ns8FmZnYBL7CqD"
+    "uniqueEntryId": "bp3ns8FmZnYBL7CqD",
+    "colors": ["Beige", "Beige"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -2680,12 +2346,10 @@
     "personality": "Smug",
     "birthday": "12-05",
     "catchphrase": "groovy",
-    "style1": "Elegant",
-    "style2": "Gorgeous",
-    "color1": "Gray",
-    "color2": "Blue",
     "filename": "gor10",
-    "uniqueEntryId": "rAgKSRJPoazkBPS5d"
+    "uniqueEntryId": "rAgKSRJPoazkBPS5d",
+    "colors": ["Blue", "Blue"],
+    "styles": ["Gorgeous", "Gorgeous"]
   },
   {
     "sourceSheet": "Villagers",
@@ -2696,12 +2360,10 @@
     "personality": "Cranky",
     "birthday": "01-07",
     "catchphrase": "beach bum",
-    "style1": "Cool",
-    "style2": "Simple",
-    "color1": "Green",
-    "color2": "Orange",
     "filename": "hip08",
-    "uniqueEntryId": "dtAkeJzvhPfGXH7pk"
+    "uniqueEntryId": "dtAkeJzvhPfGXH7pk",
+    "colors": ["Orange", "Orange"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -2712,12 +2374,10 @@
     "personality": "Big sister",
     "birthday": "08-30",
     "catchphrase": "uni-wow",
-    "style1": "Active",
-    "style2": "Cute",
-    "color1": "Red",
-    "color2": "Yellow",
     "filename": "squ18",
-    "uniqueEntryId": "PfTkvEmpjE2HR3SeD"
+    "uniqueEntryId": "PfTkvEmpjE2HR3SeD",
+    "colors": ["Yellow", "Yellow"],
+    "styles": ["Cute", "Cute"]
   },
   {
     "sourceSheet": "Villagers",
@@ -2728,12 +2388,10 @@
     "personality": "Smug",
     "birthday": "09-21",
     "catchphrase": "snoozit",
-    "style1": "Cool",
-    "style2": "Simple",
-    "color1": "Light blue",
-    "color2": "Blue",
     "filename": "flg19",
-    "uniqueEntryId": "RNats2ap2rGvbdcKn"
+    "uniqueEntryId": "RNats2ap2rGvbdcKn",
+    "colors": ["Blue", "Blue"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -2744,12 +2402,10 @@
     "personality": "Smug",
     "birthday": "10-15",
     "catchphrase": "natch",
-    "style1": "Elegant",
-    "style2": "Gorgeous",
-    "color1": "Brown",
-    "color2": "Green",
     "filename": "hip09",
-    "uniqueEntryId": "WjAPWpCx6bTjKiZjw"
+    "uniqueEntryId": "WjAPWpCx6bTjKiZjw",
+    "colors": ["Green", "Green"],
+    "styles": ["Gorgeous", "Gorgeous"]
   },
   {
     "sourceSheet": "Villagers",
@@ -2760,12 +2416,10 @@
     "personality": "Lazy",
     "birthday": "03-11",
     "catchphrase": "thumper",
-    "style1": "Simple",
-    "style2": "Active",
-    "color1": "Blue",
-    "color2": "Yellow",
     "filename": "rbt14",
-    "uniqueEntryId": "EeTwHAQeWyShyg7pm"
+    "uniqueEntryId": "EeTwHAQeWyShyg7pm",
+    "colors": ["Yellow", "Yellow"],
+    "styles": ["Active", "Active"]
   },
   {
     "sourceSheet": "Villagers",
@@ -2776,12 +2430,10 @@
     "personality": "Cranky",
     "birthday": "04-06",
     "catchphrase": "slushie",
-    "style1": "Cool",
-    "style2": "Simple",
-    "color1": "Yellow",
-    "color2": "Red",
     "filename": "pgn03",
-    "uniqueEntryId": "FP3bdBM2RSjWTXYHK"
+    "uniqueEntryId": "FP3bdBM2RSjWTXYHK",
+    "colors": ["Red", "Red"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -2792,12 +2444,10 @@
     "personality": "Lazy",
     "birthday": "03-20",
     "catchphrase": "schnozzle",
-    "style1": "Simple",
-    "style2": "Simple",
-    "color1": "Green",
-    "color2": "Brown",
     "filename": "rhn04",
-    "uniqueEntryId": "KuDi35nStc6mtd3F8"
+    "uniqueEntryId": "KuDi35nStc6mtd3F8",
+    "colors": ["Brown", "Brown"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -2808,12 +2458,10 @@
     "personality": "Smug",
     "birthday": "07-09",
     "catchphrase": "hopper",
-    "style1": "Simple",
-    "style2": "Cool",
-    "color1": "Green",
-    "color2": "Yellow",
     "filename": "flg11",
-    "uniqueEntryId": "KWx6zRZpPoaQy2PMD"
+    "uniqueEntryId": "KWx6zRZpPoaQy2PMD",
+    "colors": ["Yellow", "Yellow"],
+    "styles": ["Cool", "Cool"]
   },
   {
     "sourceSheet": "Villagers",
@@ -2824,12 +2472,10 @@
     "personality": "Lazy",
     "birthday": "12-30",
     "catchphrase": "snortle",
-    "style1": "Simple",
-    "style2": "Active",
-    "color1": "Beige",
-    "color2": "Yellow",
     "filename": "pig03",
-    "uniqueEntryId": "Ko7gAjWQAY3PY5DLi"
+    "uniqueEntryId": "Ko7gAjWQAY3PY5DLi",
+    "colors": ["Yellow", "Yellow"],
+    "styles": ["Active", "Active"]
   },
   {
     "sourceSheet": "Villagers",
@@ -2840,12 +2486,10 @@
     "personality": "Jock",
     "birthday": "11-02",
     "catchphrase": "waddler",
-    "style1": "Active",
-    "style2": "Simple",
-    "color1": "Red",
-    "color2": "Blue",
     "filename": "pgn11",
-    "uniqueEntryId": "qZtYZEyzeZv2qhoJD"
+    "uniqueEntryId": "qZtYZEyzeZv2qhoJD",
+    "colors": ["Blue", "Blue"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -2856,12 +2500,10 @@
     "personality": "Cranky",
     "birthday": "05-16",
     "catchphrase": "roadie",
-    "style1": "Cool",
-    "style2": "Cool",
-    "color1": "Green",
-    "color2": "Blue",
     "filename": "bea11",
-    "uniqueEntryId": "BvhNkdNxf2kJue7kp"
+    "uniqueEntryId": "BvhNkdNxf2kJue7kp",
+    "colors": ["Blue", "Blue"],
+    "styles": ["Cool", "Cool"]
   },
   {
     "sourceSheet": "Villagers",
@@ -2872,12 +2514,10 @@
     "personality": "Lazy",
     "birthday": "08-24",
     "catchphrase": "ya feel",
-    "style1": "Simple",
-    "style2": "Simple",
-    "color1": "Green",
-    "color2": "Red",
     "filename": "brd11",
-    "uniqueEntryId": "HBYP4stJTe3eGEepn"
+    "uniqueEntryId": "HBYP4stJTe3eGEepn",
+    "colors": ["Red", "Red"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -2888,12 +2528,10 @@
     "personality": "Smug",
     "birthday": "06-22",
     "catchphrase": "zut alors",
-    "style1": "Cool",
-    "style2": "Simple",
-    "color1": "Green",
-    "color2": "Black",
     "filename": "brd16",
-    "uniqueEntryId": "sXDhuuCThhtuQRDAe"
+    "uniqueEntryId": "sXDhuuCThhtuQRDAe",
+    "colors": ["Black", "Black"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -2904,12 +2542,10 @@
     "personality": "Normal",
     "birthday": "10-27",
     "catchphrase": "croak-kay",
-    "style1": "Cool",
-    "style2": "Cool",
-    "color1": "Brown",
-    "color2": "Brown",
     "filename": "flg13",
-    "uniqueEntryId": "9bG8kLsEtaodApHoX"
+    "uniqueEntryId": "9bG8kLsEtaodApHoX",
+    "colors": ["Brown", "Brown"],
+    "styles": ["Cool", "Cool"]
   },
   {
     "sourceSheet": "Villagers",
@@ -2920,12 +2556,10 @@
     "personality": "Jock",
     "birthday": "07-17",
     "catchphrase": "heeeeeyy",
-    "style1": "Active",
-    "style2": "Active",
-    "color1": "Blue",
-    "color2": "Light blue",
     "filename": "brd00",
-    "uniqueEntryId": "zv7EfaEb2TnPwmQxe"
+    "uniqueEntryId": "zv7EfaEb2TnPwmQxe",
+    "colors": ["Light blue", "Light blue"],
+    "styles": ["Active", "Active"]
   },
   {
     "sourceSheet": "Villagers",
@@ -2936,12 +2570,10 @@
     "personality": "Lazy",
     "birthday": "07-08",
     "catchphrase": "nee-deep",
-    "style1": "Simple",
-    "style2": "Simple",
-    "color1": "Orange",
-    "color2": "Yellow",
     "filename": "flg07",
-    "uniqueEntryId": "Z9mmrgQ578rPeLdjp"
+    "uniqueEntryId": "Z9mmrgQ578rPeLdjp",
+    "colors": ["Yellow", "Yellow"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -2952,12 +2584,10 @@
     "personality": "Jock",
     "birthday": "02-02",
     "catchphrase": "bzzert",
-    "style1": "Active",
-    "style2": "Active",
-    "color1": "Yellow",
-    "color2": "Orange",
     "filename": "brd04",
-    "uniqueEntryId": "TksYZm8hEYAeDWD2X"
+    "uniqueEntryId": "TksYZm8hEYAeDWD2X",
+    "colors": ["Orange", "Orange"],
+    "styles": ["Active", "Active"]
   },
   {
     "sourceSheet": "Villagers",
@@ -2968,12 +2598,10 @@
     "personality": "Lazy",
     "birthday": "01-03",
     "catchphrase": "bleeeeeck",
-    "style1": "Simple",
-    "style2": "Simple",
-    "color1": "Green",
-    "color2": "Blue",
     "filename": "duk01",
-    "uniqueEntryId": "EkpmSi299YR9BP96Y"
+    "uniqueEntryId": "EkpmSi299YR9BP96Y",
+    "colors": ["Blue", "Blue"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -2984,12 +2612,10 @@
     "personality": "Snooty",
     "birthday": "03-10",
     "catchphrase": "myohmy",
-    "style1": "Cute",
-    "style2": "Elegant",
-    "color1": "Pink",
-    "color2": "White",
     "filename": "cbr19",
-    "uniqueEntryId": "nEbMBNS4EztR8Ysxv"
+    "uniqueEntryId": "nEbMBNS4EztR8Ysxv",
+    "colors": ["White", "White"],
+    "styles": ["Elegant", "Elegant"]
   },
   {
     "sourceSheet": "Villagers",
@@ -3000,12 +2626,10 @@
     "personality": "Snooty",
     "birthday": "07-31",
     "catchphrase": "dahling",
-    "style1": "Elegant",
-    "style2": "Gorgeous",
-    "color1": "Purple",
-    "color2": "Red",
     "filename": "ost05",
-    "uniqueEntryId": "z8F5zPavZfhe6xqEi"
+    "uniqueEntryId": "z8F5zPavZfhe6xqEi",
+    "colors": ["Red", "Red"],
+    "styles": ["Gorgeous", "Gorgeous"]
   },
   {
     "sourceSheet": "Villagers",
@@ -3016,12 +2640,10 @@
     "personality": "Smug",
     "birthday": "03-15",
     "catchphrase": "glitter",
-    "style1": "Gorgeous",
-    "style2": "Cool",
-    "color1": "Purple",
-    "color2": "Blue",
     "filename": "hrs13",
-    "uniqueEntryId": "CqhXFKr8hdfYSYpRA"
+    "uniqueEntryId": "CqhXFKr8hdfYSYpRA",
+    "colors": ["Blue", "Blue"],
+    "styles": ["Cool", "Cool"]
   },
   {
     "sourceSheet": "Villagers",
@@ -3032,12 +2654,10 @@
     "personality": "Normal",
     "birthday": "05-21",
     "catchphrase": "rainbow",
-    "style1": "Cute",
-    "style2": "Simple",
-    "color1": "White",
-    "color2": "Red",
     "filename": "cbr13",
-    "uniqueEntryId": "kYaqSE3C2y7EYSXfi"
+    "uniqueEntryId": "kYaqSE3C2y7EYSXfi",
+    "colors": ["Red", "Red"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -3048,12 +2668,10 @@
     "personality": "Cranky",
     "birthday": "11-29",
     "catchphrase": "meooo-OH",
-    "style1": "Simple",
-    "style2": "Simple",
-    "color1": "Purple",
-    "color2": "Red",
     "filename": "cat09",
-    "uniqueEntryId": "d2DY8aRv5AfFtkneg"
+    "uniqueEntryId": "d2DY8aRv5AfFtkneg",
+    "colors": ["Red", "Red"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -3064,12 +2682,10 @@
     "personality": "Big sister",
     "birthday": "04-27",
     "catchphrase": "purrty",
-    "style1": "Cool",
-    "style2": "Cool",
-    "color1": "Purple",
-    "color2": "Black",
     "filename": "cat21",
-    "uniqueEntryId": "6rE8fTRLqKCERS4dQ"
+    "uniqueEntryId": "6rE8fTRLqKCERS4dQ",
+    "colors": ["Black", "Black"],
+    "styles": ["Cool", "Cool"]
   },
   {
     "sourceSheet": "Villagers",
@@ -3080,12 +2696,10 @@
     "personality": "Smug",
     "birthday": "06-01",
     "catchphrase": "wingo",
-    "style1": "Gorgeous",
-    "style2": "Cool",
-    "color1": "Blue",
-    "color2": "White",
     "filename": "pbr08",
-    "uniqueEntryId": "WRueK9fukhKgMrWZa"
+    "uniqueEntryId": "WRueK9fukhKgMrWZa",
+    "colors": ["White", "White"],
+    "styles": ["Cool", "Cool"]
   },
   {
     "sourceSheet": "Villagers",
@@ -3096,12 +2710,10 @@
     "personality": "Smug",
     "birthday": "12-23",
     "catchphrase": "no doubt",
-    "style1": "Cool",
-    "style2": "Simple",
-    "color1": "Purple",
-    "color2": "Blue",
     "filename": "chn13",
-    "uniqueEntryId": "gQZ4xwZeRvqmswoGY"
+    "uniqueEntryId": "gQZ4xwZeRvqmswoGY",
+    "colors": ["Blue", "Blue"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -3112,12 +2724,10 @@
     "personality": "Peppy",
     "birthday": "07-27",
     "catchphrase": "bitty",
-    "style1": "Cute",
-    "style2": "Cute",
-    "color1": "Light blue",
-    "color2": "White",
     "filename": "duk13",
-    "uniqueEntryId": "CaQE3xJ4A7tgQXDMW"
+    "uniqueEntryId": "CaQE3xJ4A7tgQXDMW",
+    "colors": ["White", "White"],
+    "styles": ["Cute", "Cute"]
   },
   {
     "sourceSheet": "Villagers",
@@ -3128,12 +2738,10 @@
     "personality": "Jock",
     "birthday": "04-26",
     "catchphrase": "weeweewee",
-    "style1": "Active",
-    "style2": "Simple",
-    "color1": "Black",
-    "color2": "Red",
     "filename": "pig15",
-    "uniqueEntryId": "fGznAwhaxGN66K38Q"
+    "uniqueEntryId": "fGznAwhaxGN66K38Q",
+    "colors": ["Red", "Red"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -3144,12 +2752,10 @@
     "personality": "Jock",
     "birthday": "08-01",
     "catchphrase": "psst",
-    "style1": "Active",
-    "style2": "Simple",
-    "color1": "Red",
-    "color2": "Red",
     "filename": "cat10",
-    "uniqueEntryId": "Jd6z54x98v4uJhubB"
+    "uniqueEntryId": "Jd6z54x98v4uJhubB",
+    "colors": ["Red", "Red"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -3160,12 +2766,10 @@
     "personality": "Smug",
     "birthday": "06-28",
     "catchphrase": "wut",
-    "style1": "Elegant",
-    "style2": "Cool",
-    "color1": "Gray",
-    "color2": "White",
     "filename": "goa07",
-    "uniqueEntryId": "Pv4qNLnQ4NquvddfQ"
+    "uniqueEntryId": "Pv4qNLnQ4NquvddfQ",
+    "colors": ["White", "White"],
+    "styles": ["Cool", "Cool"]
   },
   {
     "sourceSheet": "Villagers",
@@ -3176,12 +2780,10 @@
     "personality": "Normal",
     "birthday": "10-08",
     "catchphrase": "kitty cat",
-    "style1": "Simple",
-    "style2": "Simple",
-    "color1": "Brown",
-    "color2": "Beige",
     "filename": "cat04",
-    "uniqueEntryId": "QTwru2TFs99vCznLg"
+    "uniqueEntryId": "QTwru2TFs99vCznLg",
+    "colors": ["Beige", "Beige"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -3192,12 +2794,10 @@
     "personality": "Normal",
     "birthday": "10-11",
     "catchphrase": "child",
-    "style1": "Elegant",
-    "style2": "Simple",
-    "color1": "Purple",
-    "color2": "Red",
     "filename": "kgr00",
-    "uniqueEntryId": "jjReK7y42rnNZmQe6"
+    "uniqueEntryId": "jjReK7y42rnNZmQe6",
+    "colors": ["Red", "Red"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -3208,12 +2808,10 @@
     "personality": "Snooty",
     "birthday": "02-15",
     "catchphrase": "mrowrr",
-    "style1": "Elegant",
-    "style2": "Gorgeous",
-    "color1": "Green",
-    "color2": "Gray",
     "filename": "cat14",
-    "uniqueEntryId": "E6MnPthbMdNSvhHE5"
+    "uniqueEntryId": "E6MnPthbMdNSvhHE5",
+    "colors": ["Gray", "Gray"],
+    "styles": ["Gorgeous", "Gorgeous"]
   },
   {
     "sourceSheet": "Villagers",
@@ -3224,12 +2822,10 @@
     "personality": "Smug",
     "birthday": "03-31",
     "catchphrase": "strudel",
-    "style1": "Simple",
-    "style2": "Simple",
-    "color1": "Gray",
-    "color2": "White",
     "filename": "bea14",
-    "uniqueEntryId": "cFgAWnZ4nhq7DfrN7"
+    "uniqueEntryId": "cFgAWnZ4nhq7DfrN7",
+    "colors": ["White", "White"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -3240,12 +2836,10 @@
     "personality": "Cranky",
     "birthday": "11-23",
     "catchphrase": "cluckling",
-    "style1": "Elegant",
-    "style2": "Gorgeous",
-    "color1": "Brown",
-    "color2": "Red",
     "filename": "chn11",
-    "uniqueEntryId": "25GGGSHzwEnKmepJk"
+    "uniqueEntryId": "25GGGSHzwEnKmepJk",
+    "colors": ["Red", "Red"],
+    "styles": ["Gorgeous", "Gorgeous"]
   },
   {
     "sourceSheet": "Villagers",
@@ -3256,12 +2850,10 @@
     "personality": "Jock",
     "birthday": "09-28",
     "catchphrase": "grah grah",
-    "style1": "Active",
-    "style2": "Simple",
-    "color1": "Colorful",
-    "color2": "White",
     "filename": "cbr04",
-    "uniqueEntryId": "j9pPANZ9zsm6Mobh2"
+    "uniqueEntryId": "j9pPANZ9zsm6Mobh2",
+    "colors": ["White", "White"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -3272,12 +2864,10 @@
     "personality": "Smug",
     "birthday": "12-06",
     "catchphrase": "alpha",
-    "style1": "Gorgeous",
-    "style2": "Cool",
-    "color1": "Black",
-    "color2": "White",
     "filename": "wol10",
-    "uniqueEntryId": "Q68JosFG2FvzG7QC3"
+    "uniqueEntryId": "Q68JosFG2FvzG7QC3",
+    "colors": ["White", "White"],
+    "styles": ["Cool", "Cool"]
   },
   {
     "sourceSheet": "Villagers",
@@ -3288,12 +2878,10 @@
     "personality": "Jock",
     "birthday": "05-15",
     "catchphrase": "flexin'",
-    "style1": "Active",
-    "style2": "Gorgeous",
-    "color1": "Red",
-    "color2": "Blue",
     "filename": "tig04",
-    "uniqueEntryId": "bZqAHvDsp82Ptify8"
+    "uniqueEntryId": "bZqAHvDsp82Ptify8",
+    "colors": ["Blue", "Blue"],
+    "styles": ["Gorgeous", "Gorgeous"]
   },
   {
     "sourceSheet": "Villagers",
@@ -3304,12 +2892,10 @@
     "personality": "Smug",
     "birthday": "08-14",
     "catchphrase": "lion cub",
-    "style1": "Elegant",
-    "style2": "Gorgeous",
-    "color1": "Purple",
-    "color2": "Green",
     "filename": "lon04",
-    "uniqueEntryId": "nn3GdKz434cBryvyC"
+    "uniqueEntryId": "nn3GdKz434cBryvyC",
+    "colors": ["Green", "Green"],
+    "styles": ["Gorgeous", "Gorgeous"]
   },
   {
     "sourceSheet": "Villagers",
@@ -3320,12 +2906,10 @@
     "personality": "Normal",
     "birthday": "02-04",
     "catchphrase": "toady",
-    "style1": "Cute",
-    "style2": "Simple",
-    "color1": "White",
-    "color2": "Yellow",
     "filename": "flg00",
-    "uniqueEntryId": "CQG32Qp7hhepeaRbg"
+    "uniqueEntryId": "CQG32Qp7hhepeaRbg",
+    "colors": ["Yellow", "Yellow"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -3336,12 +2920,10 @@
     "personality": "Cranky",
     "birthday": "10-17",
     "catchphrase": "squinky",
-    "style1": "Simple",
-    "style2": "Cool",
-    "color1": "Green",
-    "color2": "Blue",
     "filename": "mus01",
-    "uniqueEntryId": "BnXXdXegMXE9HmZiy"
+    "uniqueEntryId": "BnXXdXegMXE9HmZiy",
+    "colors": ["Blue", "Blue"],
+    "styles": ["Cool", "Cool"]
   },
   {
     "sourceSheet": "Villagers",
@@ -3352,12 +2934,10 @@
     "personality": "Smug",
     "birthday": "07-29",
     "catchphrase": "precisely",
-    "style1": "Gorgeous",
-    "style2": "Active",
-    "color1": "Green",
-    "color2": "Gray",
     "filename": "lon08",
-    "uniqueEntryId": "EQYQEL4crTYEN9yJs"
+    "uniqueEntryId": "EQYQEL4crTYEN9yJs",
+    "colors": ["Gray", "Gray"],
+    "styles": ["Active", "Active"]
   },
   {
     "sourceSheet": "Villagers",
@@ -3368,12 +2948,10 @@
     "personality": "Cranky",
     "birthday": "11-05",
     "catchphrase": "ah-rooooo",
-    "style1": "Cool",
-    "style2": "Active",
-    "color1": "Black",
-    "color2": "Beige",
     "filename": "wol01",
-    "uniqueEntryId": "9QsHyDimk75LPvBsn"
+    "uniqueEntryId": "9QsHyDimk75LPvBsn",
+    "colors": ["Beige", "Beige"],
+    "styles": ["Active", "Active"]
   },
   {
     "sourceSheet": "Villagers",
@@ -3384,12 +2962,10 @@
     "personality": "Normal",
     "birthday": "03-27",
     "catchphrase": "bonbon",
-    "style1": "Simple",
-    "style2": "Simple",
-    "color1": "Gray",
-    "color2": "Pink",
     "filename": "cat18",
-    "uniqueEntryId": "ucvTsRXewrZsFj64Y"
+    "uniqueEntryId": "ucvTsRXewrZsFj64Y",
+    "colors": ["Pink", "Pink"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -3400,12 +2976,10 @@
     "personality": "Smug",
     "birthday": "08-20",
     "catchphrase": "badoom",
-    "style1": "Gorgeous",
-    "style2": "Gorgeous",
-    "color1": "Gray",
-    "color2": "Gray",
     "filename": "der05",
-    "uniqueEntryId": "wBJRdKXMHcPyHDPEj"
+    "uniqueEntryId": "wBJRdKXMHcPyHDPEj",
+    "colors": ["Gray", "Gray"],
+    "styles": ["Gorgeous", "Gorgeous"]
   },
   {
     "sourceSheet": "Villagers",
@@ -3416,12 +2990,10 @@
     "personality": "Jock",
     "birthday": "03-26",
     "catchphrase": "hoo hoo ha",
-    "style1": "Active",
-    "style2": "Simple",
-    "color1": "Gray",
-    "color2": "Red",
     "filename": "gor04",
-    "uniqueEntryId": "emwaesnBa9EmWvW89"
+    "uniqueEntryId": "emwaesnBa9EmWvW89",
+    "colors": ["Red", "Red"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -3432,12 +3004,10 @@
     "personality": "Smug",
     "birthday": "12-12",
     "catchphrase": "cacaw",
-    "style1": "Active",
-    "style2": "Cool",
-    "color1": "Black",
-    "color2": "Gray",
     "filename": "brd15",
-    "uniqueEntryId": "se8G8LxivnMhgBiRE"
+    "uniqueEntryId": "se8G8LxivnMhgBiRE",
+    "colors": ["Gray", "Gray"],
+    "styles": ["Cool", "Cool"]
   },
   {
     "sourceSheet": "Villagers",
@@ -3448,12 +3018,10 @@
     "personality": "Lazy",
     "birthday": "11-04",
     "catchphrase": "rrr-owch",
-    "style1": "Simple",
-    "style2": "Simple",
-    "color1": "Beige",
-    "color2": "White",
     "filename": "dog02",
-    "uniqueEntryId": "WtvwKvChcpgZ4WcQB"
+    "uniqueEntryId": "WtvwKvChcpgZ4WcQB",
+    "colors": ["White", "White"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -3464,12 +3032,10 @@
     "personality": "Normal",
     "birthday": "06-02",
     "catchphrase": "snoooink",
-    "style1": "Cute",
-    "style2": "Elegant",
-    "color1": "Pink",
-    "color2": "Red",
     "filename": "pig04",
-    "uniqueEntryId": "8FpMvE2W6YJtmTpiQ"
+    "uniqueEntryId": "8FpMvE2W6YJtmTpiQ",
+    "colors": ["Red", "Red"],
+    "styles": ["Elegant", "Elegant"]
   },
   {
     "sourceSheet": "Villagers",
@@ -3480,12 +3046,10 @@
     "personality": "Jock",
     "birthday": "10-12",
     "catchphrase": "chips",
-    "style1": "Simple",
-    "style2": "Active",
-    "color1": "Light blue",
-    "color2": "Yellow",
     "filename": "kal09",
-    "uniqueEntryId": "cnByupc7McZQg8sNJ"
+    "uniqueEntryId": "cnByupc7McZQg8sNJ",
+    "colors": ["Yellow", "Yellow"],
+    "styles": ["Active", "Active"]
   },
   {
     "sourceSheet": "Villagers",
@@ -3496,12 +3060,10 @@
     "personality": "Jock",
     "birthday": "11-11",
     "catchphrase": "woo woof",
-    "style1": "Active",
-    "style2": "Cool",
-    "color1": "Red",
-    "color2": "Black",
     "filename": "dog14",
-    "uniqueEntryId": "bLyixhvrCHgBYzvoX"
+    "uniqueEntryId": "bLyixhvrCHgBYzvoX",
+    "colors": ["Black", "Black"],
+    "styles": ["Cool", "Cool"]
   },
   {
     "sourceSheet": "Villagers",
@@ -3512,12 +3074,10 @@
     "personality": "Peppy",
     "birthday": "01-11",
     "catchphrase": "yippee",
-    "style1": "Simple",
-    "style2": "Cute",
-    "color1": "Purple",
-    "color2": "Pink",
     "filename": "dog09",
-    "uniqueEntryId": "ebHEDLT4WnnnPtDzK"
+    "uniqueEntryId": "ebHEDLT4WnnnPtDzK",
+    "colors": ["Pink", "Pink"],
+    "styles": ["Cute", "Cute"]
   },
   {
     "sourceSheet": "Villagers",
@@ -3528,12 +3088,10 @@
     "personality": "Snooty",
     "birthday": "04-08",
     "catchphrase": "duckling",
-    "style1": "Cool",
-    "style2": "Simple",
-    "color1": "Pink",
-    "color2": "White",
     "filename": "duk03",
-    "uniqueEntryId": "bHTDLovALeQz9PK4z"
+    "uniqueEntryId": "bHTDLovALeQz9PK4z",
+    "colors": ["White", "White"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -3544,12 +3102,10 @@
     "personality": "Normal",
     "birthday": "09-03",
     "catchphrase": "schep",
-    "style1": "Cute",
-    "style2": "Elegant",
-    "color1": "Green",
-    "color2": "Yellow",
     "filename": "pig10",
-    "uniqueEntryId": "ByLM9r2q7mRAMbgXs"
+    "uniqueEntryId": "ByLM9r2q7mRAMbgXs",
+    "colors": ["Yellow", "Yellow"],
+    "styles": ["Elegant", "Elegant"]
   },
   {
     "sourceSheet": "Villagers",
@@ -3560,12 +3116,10 @@
     "personality": "Snooty",
     "birthday": "11-17",
     "catchphrase": "quackpth",
-    "style1": "Cool",
-    "style2": "Gorgeous",
-    "color1": "Blue",
-    "color2": "White",
     "filename": "duk06",
-    "uniqueEntryId": "jhXJGTWpk3ycr6kZC"
+    "uniqueEntryId": "jhXJGTWpk3ycr6kZC",
+    "colors": ["White", "White"],
+    "styles": ["Gorgeous", "Gorgeous"]
   },
   {
     "sourceSheet": "Villagers",
@@ -3576,12 +3130,10 @@
     "personality": "Normal",
     "birthday": "06-15",
     "catchphrase": "honey",
-    "style1": "Simple",
-    "style2": "Cute",
-    "color1": "Beige",
-    "color2": "Green",
     "filename": "cbr01",
-    "uniqueEntryId": "xgPhy4TnDmnzSkZ6o"
+    "uniqueEntryId": "xgPhy4TnDmnzSkZ6o",
+    "colors": ["Green", "Green"],
+    "styles": ["Cute", "Cute"]
   },
   {
     "sourceSheet": "Villagers",
@@ -3592,12 +3144,10 @@
     "personality": "Lazy",
     "birthday": "12-31",
     "catchphrase": "non",
-    "style1": "Simple",
-    "style2": "Cool",
-    "color1": "Green",
-    "color2": "Blue",
     "filename": "dog15",
-    "uniqueEntryId": "63FsmgrS7QPpFvL3N"
+    "uniqueEntryId": "63FsmgrS7QPpFvL3N",
+    "colors": ["Blue", "Blue"],
+    "styles": ["Cool", "Cool"]
   },
   {
     "sourceSheet": "Villagers",
@@ -3608,12 +3158,10 @@
     "personality": "Normal",
     "birthday": "05-31",
     "catchphrase": "pouches",
-    "style1": "Cute",
-    "style2": "Elegant",
-    "color1": "Pink",
-    "color2": "Beige",
     "filename": "kgr10",
-    "uniqueEntryId": "mSJuJRK54zTu3BkHr"
+    "uniqueEntryId": "mSJuJRK54zTu3BkHr",
+    "colors": ["Beige", "Beige"],
+    "styles": ["Elegant", "Elegant"]
   },
   {
     "sourceSheet": "Villagers",
@@ -3624,12 +3172,10 @@
     "personality": "Normal",
     "birthday": "01-28",
     "catchphrase": "tootie",
-    "style1": "Elegant",
-    "style2": "Cute",
-    "color1": "Pink",
-    "color2": "Red",
     "filename": "elp04",
-    "uniqueEntryId": "rnFzZ3Z4gFAv6ouqG"
+    "uniqueEntryId": "rnFzZ3Z4gFAv6ouqG",
+    "colors": ["Red", "Red"],
+    "styles": ["Cute", "Cute"]
   },
   {
     "sourceSheet": "Villagers",
@@ -3640,12 +3186,10 @@
     "personality": "Normal",
     "birthday": "06-26",
     "catchphrase": "blurp",
-    "style1": "Cute",
-    "style2": "Cute",
-    "color1": "Pink",
-    "color2": "Red",
     "filename": "ocp01",
-    "uniqueEntryId": "BQCu2GxBFFTuigDAY"
+    "uniqueEntryId": "BQCu2GxBFFTuigDAY",
+    "colors": ["Red", "Red"],
+    "styles": ["Cute", "Cute"]
   },
   {
     "sourceSheet": "Villagers",
@@ -3656,12 +3200,10 @@
     "personality": "Smug",
     "birthday": "09-29",
     "catchphrase": "sulky",
-    "style1": "Elegant",
-    "style2": "Cool",
-    "color1": "Light blue",
-    "color2": "Blue",
     "filename": "squ17",
-    "uniqueEntryId": "ZZJJbE5zFrcDXfLEF"
+    "uniqueEntryId": "ZZJJbE5zFrcDXfLEF",
+    "colors": ["Blue", "Blue"],
+    "styles": ["Cool", "Cool"]
   },
   {
     "sourceSheet": "Villagers",
@@ -3672,12 +3214,10 @@
     "personality": "Snooty",
     "birthday": "11-12",
     "catchphrase": "wee baby",
-    "style1": "Cool",
-    "style2": "Gorgeous",
-    "color1": "White",
-    "color2": "Red",
     "filename": "kgr01",
-    "uniqueEntryId": "GSsfXWFSF3FEdbcjA"
+    "uniqueEntryId": "GSsfXWFSF3FEdbcjA",
+    "colors": ["Red", "Red"],
+    "styles": ["Gorgeous", "Gorgeous"]
   },
   {
     "sourceSheet": "Villagers",
@@ -3688,12 +3228,10 @@
     "personality": "Normal",
     "birthday": "03-13",
     "catchphrase": "sundae",
-    "style1": "Cute",
-    "style2": "Simple",
-    "color1": "Yellow",
-    "color2": "Light blue",
     "filename": "bea15",
-    "uniqueEntryId": "tgsKz4BX3wxFRFrFZ"
+    "uniqueEntryId": "tgsKz4BX3wxFRFrFZ",
+    "colors": ["Light blue", "Light blue"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -3704,12 +3242,10 @@
     "personality": "Normal",
     "birthday": "04-12",
     "catchphrase": "toasty",
-    "style1": "Cute",
-    "style2": "Cute",
-    "color1": "White",
-    "color2": "Green",
     "filename": "kal02",
-    "uniqueEntryId": "sLBs68aveqtjT8HZJ"
+    "uniqueEntryId": "sLBs68aveqtjT8HZJ",
+    "colors": ["Green", "Green"],
+    "styles": ["Cute", "Cute"]
   },
   {
     "sourceSheet": "Villagers",
@@ -3720,12 +3256,10 @@
     "personality": "Normal",
     "birthday": "03-19",
     "catchphrase": "shortcake",
-    "style1": "Cute",
-    "style2": "Simple",
-    "color1": "White",
-    "color2": "Red",
     "filename": "rhn07",
-    "uniqueEntryId": "qxaecyD6f6aHuNZKK"
+    "uniqueEntryId": "qxaecyD6f6aHuNZKK",
+    "colors": ["Red", "Red"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -3736,12 +3270,10 @@
     "personality": "Peppy",
     "birthday": "06-29",
     "catchphrase": "mweee",
-    "style1": "Cute",
-    "style2": "Cute",
-    "color1": "Pink",
-    "color2": "Light blue",
     "filename": "cat16",
-    "uniqueEntryId": "uhd4aEuBudwu9pM6E"
+    "uniqueEntryId": "uhd4aEuBudwu9pM6E",
+    "colors": ["Light blue", "Light blue"],
+    "styles": ["Cute", "Cute"]
   },
   {
     "sourceSheet": "Villagers",
@@ -3752,12 +3284,10 @@
     "personality": "Normal",
     "birthday": "03-12",
     "catchphrase": "tweedledee",
-    "style1": "Cute",
-    "style2": "Simple",
-    "color1": "Pink",
-    "color2": "Pink",
     "filename": "brd08",
-    "uniqueEntryId": "WSnecxx3DREYtZ3p3"
+    "uniqueEntryId": "WSnecxx3DREYtZ3p3",
+    "colors": ["Pink", "Pink"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -3768,12 +3298,10 @@
     "personality": "Snooty",
     "birthday": "05-02",
     "catchphrase": "ahhhhhh",
-    "style1": "Gorgeous",
-    "style2": "Cute",
-    "color1": "Pink",
-    "color2": "Purple",
     "filename": "squ09",
-    "uniqueEntryId": "TgwEuBB4kt96EXAvt"
+    "uniqueEntryId": "TgwEuBB4kt96EXAvt",
+    "colors": ["Purple", "Purple"],
+    "styles": ["Cute", "Cute"]
   },
   {
     "sourceSheet": "Villagers",
@@ -3784,12 +3312,10 @@
     "personality": "Big sister",
     "birthday": "07-06",
     "catchphrase": "cottontail",
-    "style1": "Active",
-    "style2": "Cool",
-    "color1": "Red",
-    "color2": "Yellow",
     "filename": "rbt19",
-    "uniqueEntryId": "ycquvbgfbCzktuLvn"
+    "uniqueEntryId": "ycquvbgfbCzktuLvn",
+    "colors": ["Yellow", "Yellow"],
+    "styles": ["Cool", "Cool"]
   },
   {
     "sourceSheet": "Villagers",
@@ -3800,12 +3326,10 @@
     "personality": "Snooty",
     "birthday": "04-23",
     "catchphrase": "quackulous",
-    "style1": "Elegant",
-    "style2": "Gorgeous",
-    "color1": "Blue",
-    "color2": "Purple",
     "filename": "duk12",
-    "uniqueEntryId": "9AE7bEWmthdc7kZ4m"
+    "uniqueEntryId": "9AE7bEWmthdc7kZ4m",
+    "colors": ["Purple", "Purple"],
+    "styles": ["Gorgeous", "Gorgeous"]
   },
   {
     "sourceSheet": "Villagers",
@@ -3816,12 +3340,10 @@
     "personality": "Normal",
     "birthday": "09-25",
     "catchphrase": "mew",
-    "style1": "Simple",
-    "style2": "Simple",
-    "color1": "Brown",
-    "color2": "Beige",
     "filename": "cat01",
-    "uniqueEntryId": "4DpkbYXeoySwonvkS"
+    "uniqueEntryId": "4DpkbYXeoySwonvkS",
+    "colors": ["Beige", "Beige"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -3832,12 +3354,10 @@
     "personality": "Lazy",
     "birthday": "01-12",
     "catchphrase": "myawn",
-    "style1": "Active",
-    "style2": "Simple",
-    "color1": "Black",
-    "color2": "Gray",
     "filename": "cat08",
-    "uniqueEntryId": "EYRuj39J5cS5eYuPD"
+    "uniqueEntryId": "EYRuj39J5cS5eYuPD",
+    "colors": ["Gray", "Gray"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -3848,12 +3368,10 @@
     "personality": "Normal",
     "birthday": "03-07",
     "catchphrase": "quackidee",
-    "style1": "Cute",
-    "style2": "Simple",
-    "color1": "Yellow",
-    "color2": "Pink",
     "filename": "duk16",
-    "uniqueEntryId": "4RLK74MDFhcXAQeuL"
+    "uniqueEntryId": "4RLK74MDFhcXAQeuL",
+    "colors": ["Pink", "Pink"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -3864,12 +3382,10 @@
     "personality": "Snooty",
     "birthday": "09-30",
     "catchphrase": "pffffft",
-    "style1": "Gorgeous",
-    "style2": "Elegant",
-    "color1": "Purple",
-    "color2": "Pink",
     "filename": "cat11",
-    "uniqueEntryId": "6rhSBCp2M4wcM9cRG"
+    "uniqueEntryId": "6rhSBCp2M4wcM9cRG",
+    "colors": ["Pink", "Pink"],
+    "styles": ["Elegant", "Elegant"]
   },
   {
     "sourceSheet": "Villagers",
@@ -3880,12 +3396,10 @@
     "personality": "Cranky",
     "birthday": "12-07",
     "catchphrase": "g'tang",
-    "style1": "Cool",
-    "style2": "Cool",
-    "color1": "Yellow",
-    "color2": "Gray",
     "filename": "mnk04",
-    "uniqueEntryId": "AB2WWajw4nPsxsQ5h"
+    "uniqueEntryId": "AB2WWajw4nPsxsQ5h",
+    "colors": ["Gray", "Gray"],
+    "styles": ["Cool", "Cool"]
   },
   {
     "sourceSheet": "Villagers",
@@ -3896,12 +3410,10 @@
     "personality": "Jock",
     "birthday": "09-13",
     "catchphrase": "shorty",
-    "style1": "Cool",
-    "style2": "Gorgeous",
-    "color1": "Purple",
-    "color2": "Red",
     "filename": "mus14",
-    "uniqueEntryId": "bqireWGDZg56QP8JF"
+    "uniqueEntryId": "bqireWGDZg56QP8JF",
+    "colors": ["Red", "Red"],
+    "styles": ["Gorgeous", "Gorgeous"]
   },
   {
     "sourceSheet": "Villagers",
@@ -3912,12 +3424,10 @@
     "personality": "Jock",
     "birthday": "07-10",
     "catchphrase": "cagey",
-    "style1": "Active",
-    "style2": "Elegant",
-    "color1": "Blue",
-    "color2": "Green",
     "filename": "lon06",
-    "uniqueEntryId": "upZ67GQyTzKPGCLm8"
+    "uniqueEntryId": "upZ67GQyTzKPGCLm8",
+    "colors": ["Green", "Green"],
+    "styles": ["Elegant", "Elegant"]
   },
   {
     "sourceSheet": "Villagers",
@@ -3928,12 +3438,10 @@
     "personality": "Big sister",
     "birthday": "02-14",
     "catchphrase": "nightshade",
-    "style1": "Gorgeous",
-    "style2": "Elegant",
-    "color1": "Black",
-    "color2": "Purple",
     "filename": "shp12",
-    "uniqueEntryId": "BMbfDZTTqMr8T4Jvt"
+    "uniqueEntryId": "BMbfDZTTqMr8T4Jvt",
+    "colors": ["Purple", "Purple"],
+    "styles": ["Elegant", "Elegant"]
   },
   {
     "sourceSheet": "Villagers",
@@ -3944,12 +3452,10 @@
     "personality": "Cranky",
     "birthday": "12-29",
     "catchphrase": "malarkey",
-    "style1": "Simple",
-    "style2": "Cool",
-    "color1": "Blue",
-    "color2": "White",
     "filename": "cbr07",
-    "uniqueEntryId": "Nw4ojqKpHxBQfEqqo"
+    "uniqueEntryId": "Nw4ojqKpHxBQfEqqo",
+    "colors": ["White", "White"],
+    "styles": ["Cool", "Cool"]
   },
   {
     "sourceSheet": "Villagers",
@@ -3960,12 +3466,10 @@
     "personality": "Normal",
     "birthday": "08-24",
     "catchphrase": "kid",
-    "style1": "Simple",
-    "style2": "Elegant",
-    "color1": "Orange",
-    "color2": "Yellow",
     "filename": "goa01",
-    "uniqueEntryId": "oGFWxL6p7g9Hq5LWK"
+    "uniqueEntryId": "oGFWxL6p7g9Hq5LWK",
+    "colors": ["Yellow", "Yellow"],
+    "styles": ["Elegant", "Elegant"]
   },
   {
     "sourceSheet": "Villagers",
@@ -3976,12 +3480,10 @@
     "personality": "Normal",
     "birthday": "08-23",
     "catchphrase": "po po",
-    "style1": "Cute",
-    "style2": "Cute",
-    "color1": "Pink",
-    "color2": "White",
     "filename": "mnk01",
-    "uniqueEntryId": "z95tvdzwWsxjXbpqP"
+    "uniqueEntryId": "z95tvdzwWsxjXbpqP",
+    "colors": ["White", "White"],
+    "styles": ["Cute", "Cute"]
   },
   {
     "sourceSheet": "Villagers",
@@ -3992,12 +3494,10 @@
     "personality": "Snooty",
     "birthday": "02-28",
     "catchphrase": "moolah",
-    "style1": "Elegant",
-    "style2": "Gorgeous",
-    "color1": "Colorful",
-    "color2": "Purple",
     "filename": "cow07",
-    "uniqueEntryId": "3EXPYiDinngndhDng"
+    "uniqueEntryId": "3EXPYiDinngndhDng",
+    "colors": ["Purple", "Purple"],
+    "styles": ["Gorgeous", "Gorgeous"]
   },
   {
     "sourceSheet": "Villagers",
@@ -4008,12 +3508,10 @@
     "personality": "Lazy",
     "birthday": "08-16",
     "catchphrase": "yawwwn",
-    "style1": "Simple",
-    "style2": "Simple",
-    "color1": "White",
-    "color2": "Green",
     "filename": "bea05",
-    "uniqueEntryId": "h2nAg5RGkR7NEnSQq"
+    "uniqueEntryId": "h2nAg5RGkR7NEnSQq",
+    "colors": ["Green", "Green"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -4024,12 +3522,10 @@
     "personality": "Peppy",
     "birthday": "07-19",
     "catchphrase": "niblet",
-    "style1": "Cute",
-    "style2": "Active",
-    "color1": "Red",
-    "color2": "Yellow",
     "filename": "squ04",
-    "uniqueEntryId": "Moh8bkfxWaxEa97mG"
+    "uniqueEntryId": "Moh8bkfxWaxEa97mG",
+    "colors": ["Yellow", "Yellow"],
+    "styles": ["Active", "Active"]
   },
   {
     "sourceSheet": "Villagers",
@@ -4040,12 +3536,10 @@
     "personality": "Normal",
     "birthday": "09-20",
     "catchphrase": "hoof hoo",
-    "style1": "Cute",
-    "style2": "Simple",
-    "color1": "White",
-    "color2": "Light blue",
     "filename": "cow06",
-    "uniqueEntryId": "fwgBojtt5KTvk3TL5"
+    "uniqueEntryId": "fwgBojtt5KTvk3TL5",
+    "colors": ["Light blue", "Light blue"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -4056,12 +3550,10 @@
     "personality": "Smug",
     "birthday": "07-24",
     "catchphrase": "amigo",
-    "style1": "Active",
-    "style2": "Cool",
-    "color1": "Blue",
-    "color2": "Light blue",
     "filename": "rbt15",
-    "uniqueEntryId": "WDB4w6DdNpdhCvEuj"
+    "uniqueEntryId": "WDB4w6DdNpdhCvEuj",
+    "colors": ["Light blue", "Light blue"],
+    "styles": ["Cool", "Cool"]
   },
   {
     "sourceSheet": "Villagers",
@@ -4072,12 +3564,10 @@
     "personality": "Cranky",
     "birthday": "09-20",
     "catchphrase": "sucker",
-    "style1": "Cool",
-    "style2": "Simple",
-    "color1": "Black",
-    "color2": "White",
     "filename": "ocp00",
-    "uniqueEntryId": "nLsc5geQY78JR7j4S"
+    "uniqueEntryId": "nLsc5geQY78JR7j4S",
+    "colors": ["White", "White"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -4088,12 +3578,10 @@
     "personality": "Smug",
     "birthday": "05-19",
     "catchphrase": "whiffa",
-    "style1": "Elegant",
-    "style2": "Gorgeous",
-    "color1": "Red",
-    "color2": "Black",
     "filename": "ant09",
-    "uniqueEntryId": "ar73BhCacgwhTNYnX"
+    "uniqueEntryId": "ar73BhCacgwhTNYnX",
+    "colors": ["Black", "Black"],
+    "styles": ["Gorgeous", "Gorgeous"]
   },
   {
     "sourceSheet": "Villagers",
@@ -4104,12 +3592,10 @@
     "personality": "Normal",
     "birthday": "07-12",
     "catchphrase": "sweet pea",
-    "style1": "Simple",
-    "style2": "Simple",
-    "color1": "Brown",
-    "color2": "Yellow",
     "filename": "cbr09",
-    "uniqueEntryId": "7ZynzrsbeH5fMqvLu"
+    "uniqueEntryId": "7ZynzrsbeH5fMqvLu",
+    "colors": ["Yellow", "Yellow"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -4120,12 +3606,10 @@
     "personality": "Snooty",
     "birthday": "02-03",
     "catchphrase": "purrr",
-    "style1": "Cool",
-    "style2": "Elegant",
-    "color1": "White",
-    "color2": "Black",
     "filename": "cat03",
-    "uniqueEntryId": "9TaBZpKSgb9nEWwtH"
+    "uniqueEntryId": "9TaBZpKSgb9nEWwtH",
+    "colors": ["Black", "Black"],
+    "styles": ["Elegant", "Elegant"]
   },
   {
     "sourceSheet": "Villagers",
@@ -4136,12 +3620,10 @@
     "personality": "Snooty",
     "birthday": "01-20",
     "catchphrase": "snoot",
-    "style1": "Elegant",
-    "style2": "Cool",
-    "color1": "Black",
-    "color2": "Orange",
     "filename": "elp00",
-    "uniqueEntryId": "FYopCfP6LEKMEAP7F"
+    "uniqueEntryId": "FYopCfP6LEKMEAP7F",
+    "colors": ["Orange", "Orange"],
+    "styles": ["Cool", "Cool"]
   },
   {
     "sourceSheet": "Villagers",
@@ -4152,12 +3634,10 @@
     "personality": "Lazy",
     "birthday": "05-07",
     "catchphrase": "ol' bear",
-    "style1": "Simple",
-    "style2": "Cute",
-    "color1": "Yellow",
-    "color2": "Orange",
     "filename": "kal05",
-    "uniqueEntryId": "jn3GZEfXoGm3ahwd3"
+    "uniqueEntryId": "jn3GZEfXoGm3ahwd3",
+    "colors": ["Orange", "Orange"],
+    "styles": ["Cute", "Cute"]
   },
   {
     "sourceSheet": "Villagers",
@@ -4168,12 +3648,10 @@
     "personality": "Snooty",
     "birthday": "11-14",
     "catchphrase": "sooey",
-    "style1": "Cute",
-    "style2": "Gorgeous",
-    "color1": "Red",
-    "color2": "Yellow",
     "filename": "pig16",
-    "uniqueEntryId": "bjvvbcuiiN9pYiZA9"
+    "uniqueEntryId": "bjvvbcuiiN9pYiZA9",
+    "colors": ["Yellow", "Yellow"],
+    "styles": ["Gorgeous", "Gorgeous"]
   },
   {
     "sourceSheet": "Villagers",
@@ -4184,12 +3662,10 @@
     "personality": "Peppy",
     "birthday": "11-09",
     "catchphrase": "snooooof",
-    "style1": "Elegant",
-    "style2": "Cool",
-    "color1": "Orange",
-    "color2": "Purple",
     "filename": "ant02",
-    "uniqueEntryId": "dz29mEXmHc8mM3q7R"
+    "uniqueEntryId": "dz29mEXmHc8mM3q7R",
+    "colors": ["Purple", "Purple"],
+    "styles": ["Cool", "Cool"]
   },
   {
     "sourceSheet": "Villagers",
@@ -4200,12 +3676,10 @@
     "personality": "Lazy",
     "birthday": "05-05",
     "catchphrase": "pal",
-    "style1": "Simple",
-    "style2": "Elegant",
-    "color1": "Gray",
-    "color2": "Light blue",
     "filename": "elp05",
-    "uniqueEntryId": "jH9AH2BeLRwtsFwHQ"
+    "uniqueEntryId": "jH9AH2BeLRwtsFwHQ",
+    "colors": ["Light blue", "Light blue"],
+    "styles": ["Elegant", "Elegant"]
   },
   {
     "sourceSheet": "Villagers",
@@ -4216,12 +3690,10 @@
     "personality": "Lazy",
     "birthday": "01-10",
     "catchphrase": "haaay",
-    "style1": "Simple",
-    "style2": "Simple",
-    "color1": "Orange",
-    "color2": "Light blue",
     "filename": "hrs12",
-    "uniqueEntryId": "miKjvBKFawhzBB8rW"
+    "uniqueEntryId": "miKjvBKFawhzBB8rW",
+    "colors": ["Light blue", "Light blue"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -4232,12 +3704,10 @@
     "personality": "Big sister",
     "birthday": "12-26",
     "catchphrase": "kidders",
-    "style1": "Cool",
-    "style2": "Elegant",
-    "color1": "Red",
-    "color2": "Colorful",
     "filename": "goa08",
-    "uniqueEntryId": "hftL8Ep8ffr3PWTuE"
+    "uniqueEntryId": "hftL8Ep8ffr3PWTuE",
+    "colors": ["Colorful", "Colorful"],
+    "styles": ["Elegant", "Elegant"]
   },
   {
     "sourceSheet": "Villagers",
@@ -4248,12 +3718,10 @@
     "personality": "Peppy",
     "birthday": "02-23",
     "catchphrase": "quackle",
-    "style1": "Simple",
-    "style2": "Cute",
-    "color1": "Yellow",
-    "color2": "White",
     "filename": "duk02",
-    "uniqueEntryId": "DHBvGmtvAKgcEQiLx"
+    "uniqueEntryId": "DHBvGmtvAKgcEQiLx",
+    "colors": ["White", "White"],
+    "styles": ["Cute", "Cute"]
   },
   {
     "sourceSheet": "Villagers",
@@ -4264,12 +3732,10 @@
     "personality": "Peppy",
     "birthday": "05-10",
     "catchphrase": "how-now",
-    "style1": "Simple",
-    "style2": "Cute",
-    "color1": "Orange",
-    "color2": "Red",
     "filename": "cow00",
-    "uniqueEntryId": "WwWCGiveKwyuntnBe"
+    "uniqueEntryId": "WwWCGiveKwyuntnBe",
+    "colors": ["Red", "Red"],
+    "styles": ["Cute", "Cute"]
   },
   {
     "sourceSheet": "Villagers",
@@ -4280,12 +3746,10 @@
     "personality": "Big sister",
     "birthday": "03-22",
     "catchphrase": "yodelay",
-    "style1": "Cute",
-    "style2": "Active",
-    "color1": "Orange",
-    "color2": "Green",
     "filename": "bea10",
-    "uniqueEntryId": "mt4oJ6k5CJTCGJXAZ"
+    "uniqueEntryId": "mt4oJ6k5CJTCGJXAZ",
+    "colors": ["Green", "Green"],
+    "styles": ["Active", "Active"]
   },
   {
     "sourceSheet": "Villagers",
@@ -4296,12 +3760,10 @@
     "personality": "Normal",
     "birthday": "11-28",
     "catchphrase": "neighbor",
-    "style1": "Cute",
-    "style2": "Simple",
-    "color1": "Colorful",
-    "color2": "Light blue",
     "filename": "hrs08",
-    "uniqueEntryId": "SRuoS7z66df8wdynd"
+    "uniqueEntryId": "SRuoS7z66df8wdynd",
+    "colors": ["Light blue", "Light blue"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -4312,12 +3774,10 @@
     "personality": "Peppy",
     "birthday": "06-08",
     "catchphrase": "slacker",
-    "style1": "Cute",
-    "style2": "Cute",
-    "color1": "Red",
-    "color2": "Colorful",
     "filename": "squ00",
-    "uniqueEntryId": "ZcdcgJXwiH4rJg2JK"
+    "uniqueEntryId": "ZcdcgJXwiH4rJg2JK",
+    "colors": ["Colorful", "Colorful"],
+    "styles": ["Cute", "Cute"]
   },
   {
     "sourceSheet": "Villagers",
@@ -4328,12 +3788,10 @@
     "personality": "Snooty",
     "birthday": "09-10",
     "catchphrase": "chipmunk",
-    "style1": "Elegant",
-    "style2": "Gorgeous",
-    "color1": "Purple",
-    "color2": "Beige",
     "filename": "squ03",
-    "uniqueEntryId": "qJmNiqamwRRxHc4fY"
+    "uniqueEntryId": "qJmNiqamwRRxHc4fY",
+    "colors": ["Beige", "Beige"],
+    "styles": ["Gorgeous", "Gorgeous"]
   },
   {
     "sourceSheet": "Villagers",
@@ -4344,12 +3802,10 @@
     "personality": "Jock",
     "birthday": "07-25",
     "catchphrase": "crunch",
-    "style1": "Simple",
-    "style2": "Active",
-    "color1": "Beige",
-    "color2": "Red",
     "filename": "brd17",
-    "uniqueEntryId": "TC9QnMpcjfskBGzwB"
+    "uniqueEntryId": "TC9QnMpcjfskBGzwB",
+    "colors": ["Red", "Red"],
+    "styles": ["Active", "Active"]
   },
   {
     "sourceSheet": "Villagers",
@@ -4360,12 +3816,10 @@
     "personality": "Cranky",
     "birthday": "09-11",
     "catchphrase": "li'l bitty baby",
-    "style1": "Active",
-    "style2": "Cool",
-    "color1": "Orange",
-    "color2": "Blue",
     "filename": "gor01",
-    "uniqueEntryId": "HAeZAgW5pywjmCBeu"
+    "uniqueEntryId": "HAeZAgW5pywjmCBeu",
+    "colors": ["Blue", "Blue"],
+    "styles": ["Cool", "Cool"]
   },
   {
     "sourceSheet": "Villagers",
@@ -4376,12 +3830,10 @@
     "personality": "Peppy",
     "birthday": "05-23",
     "catchphrase": "shweetie",
-    "style1": "Cute",
-    "style2": "Active",
-    "color1": "Blue",
-    "color2": "Red",
     "filename": "pig11",
-    "uniqueEntryId": "YReGwLNQoegR9PhZx"
+    "uniqueEntryId": "YReGwLNQoegR9PhZx",
+    "colors": ["Red", "Red"],
+    "styles": ["Active", "Active"]
   },
   {
     "sourceSheet": "Villagers",
@@ -4392,12 +3844,10 @@
     "personality": "Normal",
     "birthday": "05-18",
     "catchphrase": "bud",
-    "style1": "Elegant",
-    "style2": "Cute",
-    "color1": "Red",
-    "color2": "Beige",
     "filename": "cbr14",
-    "uniqueEntryId": "QvWvWxjFtNLCnZES5"
+    "uniqueEntryId": "QvWvWxjFtNLCnZES5",
+    "colors": ["Beige", "Beige"],
+    "styles": ["Cute", "Cute"]
   },
   {
     "sourceSheet": "Villagers",
@@ -4408,12 +3858,10 @@
     "personality": "Peppy",
     "birthday": "02-05",
     "catchphrase": "oh bow",
-    "style1": "Cute",
-    "style2": "Gorgeous",
-    "color1": "Pink",
-    "color2": "Red",
     "filename": "mus17",
-    "uniqueEntryId": "L9mYm8tvKg32G85cv"
+    "uniqueEntryId": "L9mYm8tvKg32G85cv",
+    "colors": ["Red", "Red"],
+    "styles": ["Gorgeous", "Gorgeous"]
   },
   {
     "sourceSheet": "Villagers",
@@ -4424,12 +3872,10 @@
     "personality": "Smug",
     "birthday": "11-27",
     "catchphrase": "hurk",
-    "style1": "Elegant",
-    "style2": "Cool",
-    "color1": "Green",
-    "color2": "Red",
     "filename": "ost07",
-    "uniqueEntryId": "rCHTjrbTz7pejGT8J"
+    "uniqueEntryId": "rCHTjrbTz7pejGT8J",
+    "colors": ["Red", "Red"],
+    "styles": ["Cool", "Cool"]
   },
   {
     "sourceSheet": "Villagers",
@@ -4440,12 +3886,10 @@
     "personality": "Big sister",
     "birthday": "04-22",
     "catchphrase": "sparky",
-    "style1": "Gorgeous",
-    "style2": "Cool",
-    "color1": "Black",
-    "color2": "Red",
     "filename": "ost10",
-    "uniqueEntryId": "HYJxoDdCoLS7uPdz9"
+    "uniqueEntryId": "HYJxoDdCoLS7uPdz9",
+    "colors": ["Red", "Red"],
+    "styles": ["Cool", "Cool"]
   },
   {
     "sourceSheet": "Villagers",
@@ -4456,12 +3900,10 @@
     "personality": "Jock",
     "birthday": "01-08",
     "catchphrase": "hawkeye",
-    "style1": "Elegant",
-    "style2": "Active",
-    "color1": "Orange",
-    "color2": "Yellow",
     "filename": "pbr02",
-    "uniqueEntryId": "aavqm5o5TcTxgrBs6"
+    "uniqueEntryId": "aavqm5o5TcTxgrBs6",
+    "colors": ["Yellow", "Yellow"],
+    "styles": ["Active", "Active"]
   },
   {
     "sourceSheet": "Villagers",
@@ -4472,12 +3914,10 @@
     "personality": "Smug",
     "birthday": "04-19",
     "catchphrase": "honk honk",
-    "style1": "Gorgeous",
-    "style2": "Simple",
-    "color1": "Colorful",
-    "color2": "Red",
     "filename": "shp13",
-    "uniqueEntryId": "fLBrHLToMTBrc5Was"
+    "uniqueEntryId": "fLBrHLToMTBrc5Was",
+    "colors": ["Red", "Red"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -4488,12 +3928,10 @@
     "personality": "Peppy",
     "birthday": "09-09",
     "catchphrase": "wah",
-    "style1": "Cute",
-    "style2": "Simple",
-    "color1": "Red",
-    "color2": "Pink",
     "filename": "bea01",
-    "uniqueEntryId": "CLQDMiLJYw9de8t7c"
+    "uniqueEntryId": "CLQDMiLJYw9de8t7c",
+    "colors": ["Pink", "Pink"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -4504,12 +3942,10 @@
     "personality": "Peppy",
     "birthday": "04-18",
     "catchphrase": "chickadee",
-    "style1": "Elegant",
-    "style2": "Gorgeous",
-    "color1": "Black",
-    "color2": "White",
     "filename": "brd05",
-    "uniqueEntryId": "B9nGDw29C3MeZeiob"
+    "uniqueEntryId": "B9nGDw29C3MeZeiob",
+    "colors": ["White", "White"],
+    "styles": ["Gorgeous", "Gorgeous"]
   },
   {
     "sourceSheet": "Villagers",
@@ -4520,12 +3956,10 @@
     "personality": "Peppy",
     "birthday": "06-14",
     "catchphrase": "li'l hare",
-    "style1": "Cute",
-    "style2": "Simple",
-    "color1": "Green",
-    "color2": "Brown",
     "filename": "rbt06",
-    "uniqueEntryId": "zRveogN878Fugd5ga"
+    "uniqueEntryId": "zRveogN878Fugd5ga",
+    "colors": ["Brown", "Brown"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -4536,12 +3970,10 @@
     "personality": "Big sister",
     "birthday": "10-12",
     "catchphrase": "chicky-poo",
-    "style1": "Cool",
-    "style2": "Simple",
-    "color1": "Light blue",
-    "color2": "Yellow",
     "filename": "chn10",
-    "uniqueEntryId": "8v54MppXDZwDS2viK"
+    "uniqueEntryId": "8v54MppXDZwDS2viK",
+    "colors": ["Yellow", "Yellow"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -4552,12 +3984,10 @@
     "personality": "Peppy",
     "birthday": "02-11",
     "catchphrase": "rah rah",
-    "style1": "Cute",
-    "style2": "Simple",
-    "color1": "Pink",
-    "color2": "Light blue",
     "filename": "duk05",
-    "uniqueEntryId": "D4EfZuiFQqxXAaxa5"
+    "uniqueEntryId": "D4EfZuiFQqxXAaxa5",
+    "colors": ["Light blue", "Light blue"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -4568,12 +3998,10 @@
     "personality": "Jock",
     "birthday": "01-02",
     "catchphrase": "li'l bear",
-    "style1": "Simple",
-    "style2": "Simple",
-    "color1": "Orange",
-    "color2": "Yellow",
     "filename": "cbr02",
-    "uniqueEntryId": "2yyqShsyFuek2xsPq"
+    "uniqueEntryId": "2yyqShsyFuek2xsPq",
+    "colors": ["Yellow", "Yellow"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -4584,12 +4012,10 @@
     "personality": "Normal",
     "birthday": "08-05",
     "catchphrase": "nutty",
-    "style1": "Cute",
-    "style2": "Elegant",
-    "color1": "Green",
-    "color2": "Yellow",
     "filename": "squ15",
-    "uniqueEntryId": "NaP65qNMvxYTzTXrs"
+    "uniqueEntryId": "NaP65qNMvxYTzTXrs",
+    "colors": ["Yellow", "Yellow"],
+    "styles": ["Elegant", "Elegant"]
   },
   {
     "sourceSheet": "Villagers",
@@ -4600,12 +4026,10 @@
     "personality": "Snooty",
     "birthday": "10-25",
     "catchphrase": "ruffian",
-    "style1": "Elegant",
-    "style2": "Gorgeous",
-    "color1": "Purple",
-    "color2": "Black",
     "filename": "dog05",
-    "uniqueEntryId": "XAP6AcqdXDufCkTAd"
+    "uniqueEntryId": "XAP6AcqdXDufCkTAd",
+    "colors": ["Black", "Black"],
+    "styles": ["Gorgeous", "Gorgeous"]
   },
   {
     "sourceSheet": "Villagers",
@@ -4616,12 +4040,10 @@
     "personality": "Lazy",
     "birthday": "07-21",
     "catchphrase": "burrup",
-    "style1": "Simple",
-    "style2": "Active",
-    "color1": "Yellow",
-    "color2": "White",
     "filename": "flg12",
-    "uniqueEntryId": "3YQrrLRvCYt62wMLi"
+    "uniqueEntryId": "3YQrrLRvCYt62wMLi",
+    "colors": ["White", "White"],
+    "styles": ["Active", "Active"]
   },
   {
     "sourceSheet": "Villagers",
@@ -4632,12 +4054,10 @@
     "personality": "Lazy",
     "birthday": "02-21",
     "catchphrase": "brrrrrrrrr",
-    "style1": "Active",
-    "style2": "Simple",
-    "color1": "Blue",
-    "color2": "Red",
     "filename": "pgn06",
-    "uniqueEntryId": "qnejmf3Q7jvCoBvw7"
+    "uniqueEntryId": "qnejmf3Q7jvCoBvw7",
+    "colors": ["Red", "Red"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -4648,12 +4068,10 @@
     "personality": "Peppy",
     "birthday": "01-13",
     "catchphrase": "splish",
-    "style1": "Cute",
-    "style2": "Gorgeous",
-    "color1": "Green",
-    "color2": "Pink",
     "filename": "flg06",
-    "uniqueEntryId": "TuEiYBT2nG3qNT2RX"
+    "uniqueEntryId": "TuEiYBT2nG3qNT2RX",
+    "colors": ["Pink", "Pink"],
+    "styles": ["Gorgeous", "Gorgeous"]
   },
   {
     "sourceSheet": "Villagers",
@@ -4664,12 +4082,10 @@
     "personality": "Lazy",
     "birthday": "06-11",
     "catchphrase": "pudgy",
-    "style1": "Simple",
-    "style2": "Simple",
-    "color1": "Green",
-    "color2": "Blue",
     "filename": "cbr03",
-    "uniqueEntryId": "QGD2qdJ8oyu4SS7To"
+    "uniqueEntryId": "QGD2qdJ8oyu4SS7To",
+    "colors": ["Blue", "Blue"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -4680,12 +4096,10 @@
     "personality": "Lazy",
     "birthday": "04-11",
     "catchphrase": "mrmpht",
-    "style1": "Simple",
-    "style2": "Simple",
-    "color1": "Blue",
-    "color2": "Light blue",
     "filename": "cat06",
-    "uniqueEntryId": "Q8Qds8CMWMnXTGbqf"
+    "uniqueEntryId": "Q8Qds8CMWMnXTGbqf",
+    "colors": ["Light blue", "Light blue"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -4696,12 +4110,10 @@
     "personality": "Snooty",
     "birthday": "05-29",
     "catchphrase": "kitten",
-    "style1": "Cool",
-    "style2": "Elegant",
-    "color1": "Gray",
-    "color2": "Blue",
     "filename": "cat07",
-    "uniqueEntryId": "ZgpbeQ6LW63qq2yok"
+    "uniqueEntryId": "ZgpbeQ6LW63qq2yok",
+    "colors": ["Blue", "Blue"],
+    "styles": ["Elegant", "Elegant"]
   },
   {
     "sourceSheet": "Villagers",
@@ -4712,12 +4124,10 @@
     "personality": "Snooty",
     "birthday": "11-13",
     "catchphrase": "chicken",
-    "style1": "Gorgeous",
-    "style2": "Elegant",
-    "color1": "Black",
-    "color2": "Gray",
     "filename": "ost00",
-    "uniqueEntryId": "4vYPTrcRBimNwXmcC"
+    "uniqueEntryId": "4vYPTrcRBimNwXmcC",
+    "colors": ["Gray", "Gray"],
+    "styles": ["Elegant", "Elegant"]
   },
   {
     "sourceSheet": "Villagers",
@@ -4728,12 +4138,10 @@
     "personality": "Smug",
     "birthday": "12-22",
     "catchphrase": "ridukulous",
-    "style1": "Elegant",
-    "style2": "Cool",
-    "color1": "Beige",
-    "color2": "Orange",
     "filename": "duk17",
-    "uniqueEntryId": "tdfJ4MAeE2pKDxxNd"
+    "uniqueEntryId": "tdfJ4MAeE2pKDxxNd",
+    "colors": ["Orange", "Orange"],
+    "styles": ["Cool", "Cool"]
   },
   {
     "sourceSheet": "Villagers",
@@ -4744,12 +4152,10 @@
     "personality": "Lazy",
     "birthday": "06-06",
     "catchphrase": "aaach—",
-    "style1": "Elegant",
-    "style2": "Simple",
-    "color1": "White",
-    "color2": "Gray",
     "filename": "flg15",
-    "uniqueEntryId": "Xi6NDcp6NptRB9WDz"
+    "uniqueEntryId": "Xi6NDcp6NptRB9WDz",
+    "colors": ["Gray", "Gray"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -4760,12 +4166,10 @@
     "personality": "Cranky",
     "birthday": "04-07",
     "catchphrase": "swine",
-    "style1": "Cool",
-    "style2": "Simple",
-    "color1": "Blue",
-    "color2": "Black",
     "filename": "pig02",
-    "uniqueEntryId": "vhd6ReEt63uAnpYsq"
+    "uniqueEntryId": "vhd6ReEt63uAnpYsq",
+    "colors": ["Black", "Black"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -4776,12 +4180,10 @@
     "personality": "Smug",
     "birthday": "10-01",
     "catchphrase": "crisp",
-    "style1": "Elegant",
-    "style2": "Cool",
-    "color1": "Black",
-    "color2": "Gray",
     "filename": "cat23",
-    "uniqueEntryId": "2nbzgWsuDBSN2LeEj"
+    "uniqueEntryId": "2nbzgWsuDBSN2LeEj",
+    "colors": ["Gray", "Gray"],
+    "styles": ["Cool", "Cool"]
   },
   {
     "sourceSheet": "Villagers",
@@ -4792,12 +4194,10 @@
     "personality": "Big sister",
     "birthday": "05-28",
     "catchphrase": "yo yo yo",
-    "style1": "Cool",
-    "style2": "Active",
-    "color1": "Purple",
-    "color2": "Yellow",
     "filename": "rhn08",
-    "uniqueEntryId": "ZyeqzXyxABEFXsS5c"
+    "uniqueEntryId": "ZyeqzXyxABEFXsS5c",
+    "colors": ["Yellow", "Yellow"],
+    "styles": ["Active", "Active"]
   },
   {
     "sourceSheet": "Villagers",
@@ -4808,12 +4208,10 @@
     "personality": "Big sister",
     "birthday": "06-04",
     "catchphrase": "ayup yup",
-    "style1": "Cool",
-    "style2": "Gorgeous",
-    "color1": "Black",
-    "color2": "Purple",
     "filename": "hrs16",
-    "uniqueEntryId": "4rRW9HkPYfAWBQvWC"
+    "uniqueEntryId": "4rRW9HkPYfAWBQvWC",
+    "colors": ["Purple", "Purple"],
+    "styles": ["Gorgeous", "Gorgeous"]
   },
   {
     "sourceSheet": "Villagers",
@@ -4824,12 +4222,10 @@
     "personality": "Lazy",
     "birthday": "07-24",
     "catchphrase": "cool cat",
-    "style1": "Simple",
-    "style2": "Cute",
-    "color1": "Blue",
-    "color2": "Light blue",
     "filename": "lon02",
-    "uniqueEntryId": "umQmbALHn7dbiMrYL"
+    "uniqueEntryId": "umQmbALHn7dbiMrYL",
+    "colors": ["Light blue", "Light blue"],
+    "styles": ["Cute", "Cute"]
   },
   {
     "sourceSheet": "Villagers",
@@ -4840,12 +4236,10 @@
     "personality": "Normal",
     "birthday": "01-24",
     "catchphrase": "bigfoot",
-    "style1": "Elegant",
-    "style2": "Gorgeous",
-    "color1": "Purple",
-    "color2": "Black",
     "filename": "rhn01",
-    "uniqueEntryId": "BjYi6hQsSg6sQcxhm"
+    "uniqueEntryId": "BjYi6hQsSg6sQcxhm",
+    "colors": ["Black", "Black"],
+    "styles": ["Gorgeous", "Gorgeous"]
   },
   {
     "sourceSheet": "Villagers",
@@ -4856,12 +4250,10 @@
     "personality": "Jock",
     "birthday": "02-13",
     "catchphrase": "zzrrbbitt",
-    "style1": "Simple",
-    "style2": "Active",
-    "color1": "Blue",
-    "color2": "Light blue",
     "filename": "flg01",
-    "uniqueEntryId": "vg2BFTmhyyhbiHtbC"
+    "uniqueEntryId": "vg2BFTmhyyhbiHtbC",
+    "colors": ["Light blue", "Light blue"],
+    "styles": ["Active", "Active"]
   },
   {
     "sourceSheet": "Villagers",
@@ -4872,12 +4264,10 @@
     "personality": "Cranky",
     "birthday": "09-14",
     "catchphrase": "nutcase",
-    "style1": "Cool",
-    "style2": "Simple",
-    "color1": "Blue",
-    "color2": "Red",
     "filename": "squ10",
-    "uniqueEntryId": "g5JArfBAeNAXb8rFX"
+    "uniqueEntryId": "g5JArfBAeNAXb8rFX",
+    "colors": ["Red", "Red"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -4888,12 +4278,10 @@
     "personality": "Cranky",
     "birthday": "01-17",
     "catchphrase": "squee",
-    "style1": "Simple",
-    "style2": "Cool",
-    "color1": "Black",
-    "color2": "Gray",
     "filename": "mus09",
-    "uniqueEntryId": "vmbvXTtjpswNLkcpi"
+    "uniqueEntryId": "vmbvXTtjpswNLkcpi",
+    "colors": ["Gray", "Gray"],
+    "styles": ["Cool", "Cool"]
   },
   {
     "sourceSheet": "Villagers",
@@ -4904,12 +4292,10 @@
     "personality": "Jock",
     "birthday": "01-05",
     "catchphrase": "b-b-buddy",
-    "style1": "Active",
-    "style2": "Simple",
-    "color1": "Red",
-    "color2": "Yellow",
     "filename": "pgn01",
-    "uniqueEntryId": "kxpZTdDuacHxQA3An"
+    "uniqueEntryId": "kxpZTdDuacHxQA3An",
+    "colors": ["Yellow", "Yellow"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -4920,12 +4306,10 @@
     "personality": "Snooty",
     "birthday": "12-04",
     "catchphrase": "la-di-da",
-    "style1": "Elegant",
-    "style2": "Cool",
-    "color1": "Light blue",
-    "color2": "Purple",
     "filename": "brd01",
-    "uniqueEntryId": "xK49Rcb2Lnm5P4aLM"
+    "uniqueEntryId": "xK49Rcb2Lnm5P4aLM",
+    "colors": ["Purple", "Purple"],
+    "styles": ["Cool", "Cool"]
   },
   {
     "sourceSheet": "Villagers",
@@ -4936,12 +4320,10 @@
     "personality": "Cranky",
     "birthday": "08-18",
     "catchphrase": "hippie",
-    "style1": "Simple",
-    "style2": "Cool",
-    "color1": "Yellow",
-    "color2": "Black",
     "filename": "hip00",
-    "uniqueEntryId": "vfET6L7B9ruRApyMb"
+    "uniqueEntryId": "vfET6L7B9ruRApyMb",
+    "colors": ["Black", "Black"],
+    "styles": ["Cool", "Cool"]
   },
   {
     "sourceSheet": "Villagers",
@@ -4952,12 +4334,10 @@
     "personality": "Big sister",
     "birthday": "04-14",
     "catchphrase": "vroom",
-    "style1": "Active",
-    "style2": "Cool",
-    "color1": "Pink",
-    "color2": "Red",
     "filename": "gor09",
-    "uniqueEntryId": "eJNBB5SYzfj5DaWjx"
+    "uniqueEntryId": "eJNBB5SYzfj5DaWjx",
+    "colors": ["Red", "Red"],
+    "styles": ["Cool", "Cool"]
   },
   {
     "sourceSheet": "Villagers",
@@ -4968,12 +4348,10 @@
     "personality": "Jock",
     "birthday": "08-14",
     "catchphrase": "ace",
-    "style1": "Active",
-    "style2": "Cool",
-    "color1": "Blue",
-    "color2": "Light blue",
     "filename": "mus05",
-    "uniqueEntryId": "ezLuGMubv35hSamPr"
+    "uniqueEntryId": "ezLuGMubv35hSamPr",
+    "colors": ["Light blue", "Light blue"],
+    "styles": ["Cool", "Cool"]
   },
   {
     "sourceSheet": "Villagers",
@@ -4984,12 +4362,10 @@
     "personality": "Lazy",
     "birthday": "10-29",
     "catchphrase": "chaps",
-    "style1": "Simple",
-    "style2": "Cool",
-    "color1": "Black",
-    "color2": "Red",
     "filename": "bul01",
-    "uniqueEntryId": "QNT5F2pjZixKpiD4D"
+    "uniqueEntryId": "QNT5F2pjZixKpiD4D",
+    "colors": ["Red", "Red"],
+    "styles": ["Cool", "Cool"]
   },
   {
     "sourceSheet": "Villagers",
@@ -5000,12 +4376,10 @@
     "personality": "Smug",
     "birthday": "11-10",
     "catchphrase": "le ham",
-    "style1": "Gorgeous",
-    "style2": "Cool",
-    "color1": "Pink",
-    "color2": "Colorful",
     "filename": "ham03",
-    "uniqueEntryId": "AnFmctYx65LkTaFGu"
+    "uniqueEntryId": "AnFmctYx65LkTaFGu",
+    "colors": ["Colorful", "Colorful"],
+    "styles": ["Cool", "Cool"]
   },
   {
     "sourceSheet": "Villagers",
@@ -5016,12 +4390,10 @@
     "personality": "Cranky",
     "birthday": "08-22",
     "catchphrase": "grrrolf",
-    "style1": "Cool",
-    "style2": "Active",
-    "color1": "Blue",
-    "color2": "Black",
     "filename": "tig00",
-    "uniqueEntryId": "MA2wxkE7cEyD4f4hz"
+    "uniqueEntryId": "MA2wxkE7cEyD4f4hz",
+    "colors": ["Black", "Black"],
+    "styles": ["Active", "Active"]
   },
   {
     "sourceSheet": "Villagers",
@@ -5032,12 +4404,10 @@
     "personality": "Cranky",
     "birthday": "12-01",
     "catchphrase": "punches",
-    "style1": "Active",
-    "style2": "Active",
-    "color1": "Gray",
-    "color2": "Black",
     "filename": "kgr09",
-    "uniqueEntryId": "9wnSweJyqfd4izW4M"
+    "uniqueEntryId": "9wnSweJyqfd4izW4M",
+    "colors": ["Black", "Black"],
+    "styles": ["Active", "Active"]
   },
   {
     "sourceSheet": "Villagers",
@@ -5048,12 +4418,10 @@
     "personality": "Jock",
     "birthday": "08-07",
     "catchphrase": "capital",
-    "style1": "Simple",
-    "style2": "Active",
-    "color1": "Blue",
-    "color2": "Red",
     "filename": "lon07",
-    "uniqueEntryId": "hAfSborD4JtyNGFd6"
+    "uniqueEntryId": "hAfSborD4JtyNGFd6",
+    "colors": ["Red", "Red"],
+    "styles": ["Active", "Active"]
   },
   {
     "sourceSheet": "Villagers",
@@ -5064,12 +4432,10 @@
     "personality": "Cranky",
     "birthday": "06-16",
     "catchphrase": "nay",
-    "style1": "Cool",
-    "style2": "Gorgeous",
-    "color1": "Black",
-    "color2": "Gray",
     "filename": "hrs04",
-    "uniqueEntryId": "RKAg95c8nosL8fNec"
+    "uniqueEntryId": "RKAg95c8nosL8fNec",
+    "colors": ["Gray", "Gray"],
+    "styles": ["Gorgeous", "Gorgeous"]
   },
   {
     "sourceSheet": "Villagers",
@@ -5080,12 +4446,10 @@
     "personality": "Peppy",
     "birthday": "02-27",
     "catchphrase": "silly",
-    "style1": "Cute",
-    "style2": "Cute",
-    "color1": "Pink",
-    "color2": "Red",
     "filename": "cat02",
-    "uniqueEntryId": "NTwyXi4RAX4EKTcW6"
+    "uniqueEntryId": "NTwyXi4RAX4EKTcW6",
+    "colors": ["Red", "Red"],
+    "styles": ["Cute", "Cute"]
   },
   {
     "sourceSheet": "Villagers",
@@ -5096,12 +4460,10 @@
     "personality": "Jock",
     "birthday": "08-26",
     "catchphrase": "mango",
-    "style1": "Active",
-    "style2": "Simple",
-    "color1": "Light blue",
-    "color2": "Gray",
     "filename": "tig01",
-    "uniqueEntryId": "WqtXZv8CLheckbHoF"
+    "uniqueEntryId": "WqtXZv8CLheckbHoF",
+    "colors": ["Gray", "Gray"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -5112,12 +4474,10 @@
     "personality": "Peppy",
     "birthday": "12-25",
     "catchphrase": "li'l ears",
-    "style1": "Cute",
-    "style2": "Active",
-    "color1": "Light blue",
-    "color2": "Pink",
     "filename": "rbt09",
-    "uniqueEntryId": "rjbSmp6a8PdsEw9BM"
+    "uniqueEntryId": "rjbSmp6a8PdsEw9BM",
+    "colors": ["Pink", "Pink"],
+    "styles": ["Active", "Active"]
   },
   {
     "sourceSheet": "Villagers",
@@ -5128,12 +4488,10 @@
     "personality": "Jock",
     "birthday": "12-20",
     "catchphrase": "mush",
-    "style1": "Active",
-    "style2": "Simple",
-    "color1": "Yellow",
-    "color2": "Beige",
     "filename": "cat20",
-    "uniqueEntryId": "TqXTvnySgEac3iEt7"
+    "uniqueEntryId": "TqXTvnySgEac3iEt7",
+    "colors": ["Beige", "Beige"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -5144,12 +4502,10 @@
     "personality": "Normal",
     "birthday": "06-19",
     "catchphrase": "nutmeg",
-    "style1": "Simple",
-    "style2": "Elegant",
-    "color1": "White",
-    "color2": "Beige",
     "filename": "squ07",
-    "uniqueEntryId": "jtXMvWWbQ9qN2iw7S"
+    "uniqueEntryId": "jtXMvWWbQ9qN2iw7S",
+    "colors": ["Beige", "Beige"],
+    "styles": ["Elegant", "Elegant"]
   },
   {
     "sourceSheet": "Villagers",
@@ -5160,12 +4516,10 @@
     "personality": "Jock",
     "birthday": "07-05",
     "catchphrase": "pipsqueak",
-    "style1": "Simple",
-    "style2": "Active",
-    "color1": "Red",
-    "color2": "Yellow",
     "filename": "mus04",
-    "uniqueEntryId": "XFzdPqYwq4n98EpuF"
+    "uniqueEntryId": "XFzdPqYwq4n98EpuF",
+    "colors": ["Yellow", "Yellow"],
+    "styles": ["Active", "Active"]
   },
   {
     "sourceSheet": "Villagers",
@@ -5176,12 +4530,10 @@
     "personality": "Normal",
     "birthday": "10-21",
     "catchphrase": "speedy",
-    "style1": "Simple",
-    "style2": "Cool",
-    "color1": "Light blue",
-    "color2": "White",
     "filename": "ost02",
-    "uniqueEntryId": "6t3MfdfbyRKwjgNPd"
+    "uniqueEntryId": "6t3MfdfbyRKwjgNPd",
+    "colors": ["White", "White"],
+    "styles": ["Cool", "Cool"]
   },
   {
     "sourceSheet": "Villagers",
@@ -5192,12 +4544,10 @@
     "personality": "Normal",
     "birthday": "01-25",
     "catchphrase": "y'all",
-    "style1": "Cool",
-    "style2": "Simple",
-    "color1": "Light blue",
-    "color2": "Blue",
     "filename": "hrs02",
-    "uniqueEntryId": "Mquwz8gbb3EEmazyF"
+    "uniqueEntryId": "Mquwz8gbb3EEmazyF",
+    "colors": ["Blue", "Blue"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -5208,12 +4558,10 @@
     "personality": "Jock",
     "birthday": "06-13",
     "catchphrase": "zip zoom",
-    "style1": "Active",
-    "style2": "Simple",
-    "color1": "Beige",
-    "color2": "Blue",
     "filename": "duk10",
-    "uniqueEntryId": "wanb7GiQ9fe6puXe8"
+    "uniqueEntryId": "wanb7GiQ9fe6puXe8",
+    "colors": ["Blue", "Blue"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -5224,12 +4572,10 @@
     "personality": "Big sister",
     "birthday": "04-10",
     "catchphrase": "cheeky",
-    "style1": "Cute",
-    "style2": "Active",
-    "color1": "Light blue",
-    "color2": "Yellow",
     "filename": "mnk07",
-    "uniqueEntryId": "sR4EndxJk6uqcQKxB"
+    "uniqueEntryId": "sR4EndxJk6uqcQKxB",
+    "colors": ["Yellow", "Yellow"],
+    "styles": ["Active", "Active"]
   },
   {
     "sourceSheet": "Villagers",
@@ -5240,12 +4586,10 @@
     "personality": "Jock",
     "birthday": "02-26",
     "catchphrase": "cardio",
-    "style1": "Active",
-    "style2": "Cool",
-    "color1": "Green",
-    "color2": "Yellow",
     "filename": "squ16",
-    "uniqueEntryId": "KQG9B6Yp57KhnDiZ9"
+    "uniqueEntryId": "KQG9B6Yp57KhnDiZ9",
+    "colors": ["Yellow", "Yellow"],
+    "styles": ["Cool", "Cool"]
   },
   {
     "sourceSheet": "Villagers",
@@ -5256,12 +4600,10 @@
     "personality": "Smug",
     "birthday": "11-24",
     "catchphrase": "baa baa baa",
-    "style1": "Simple",
-    "style2": "Cool",
-    "color1": "Light blue",
-    "color2": "Blue",
     "filename": "dog18",
-    "uniqueEntryId": "P4FqMoZg2EJQ6EzAb"
+    "uniqueEntryId": "P4FqMoZg2EJQ6EzAb",
+    "colors": ["Blue", "Blue"],
+    "styles": ["Cool", "Cool"]
   },
   {
     "sourceSheet": "Villagers",
@@ -5272,12 +4614,10 @@
     "personality": "Lazy",
     "birthday": "01-18",
     "catchphrase": "bawwww",
-    "style1": "Simple",
-    "style2": "Cute",
-    "color1": "Gray",
-    "color2": "Blue",
     "filename": "goa09",
-    "uniqueEntryId": "XaaDkAfHynrEY2YS4"
+    "uniqueEntryId": "XaaDkAfHynrEY2YS4",
+    "colors": ["Blue", "Blue"],
+    "styles": ["Cute", "Cute"]
   },
   {
     "sourceSheet": "Villagers",
@@ -5288,12 +4628,10 @@
     "personality": "Lazy",
     "birthday": "01-19",
     "catchphrase": "zzzook",
-    "style1": "Simple",
-    "style2": "Active",
-    "color1": "Red",
-    "color2": "Colorful",
     "filename": "mnk02",
-    "uniqueEntryId": "mTk2qZXe4XwP3WzNT"
+    "uniqueEntryId": "mTk2qZXe4XwP3WzNT",
+    "colors": ["Colorful", "Colorful"],
+    "styles": ["Active", "Active"]
   },
   {
     "sourceSheet": "Villagers",
@@ -5304,12 +4642,10 @@
     "personality": "Normal",
     "birthday": "03-24",
     "catchphrase": "airmail",
-    "style1": "Cute",
-    "style2": "Cute",
-    "color1": "Blue",
-    "color2": "White",
     "filename": "wol09",
-    "uniqueEntryId": "y8Mi2cSB26qfaxCa3"
+    "uniqueEntryId": "y8Mi2cSB26qfaxCa3",
+    "colors": ["White", "White"],
+    "styles": ["Cute", "Cute"]
   },
   {
     "sourceSheet": "Villagers",
@@ -5320,12 +4656,10 @@
     "personality": "Jock",
     "birthday": "11-15",
     "catchphrase": "hoo-rah",
-    "style1": "Cool",
-    "style2": "Simple",
-    "color1": "Brown",
-    "color2": "Green",
     "filename": "crd06",
-    "uniqueEntryId": "GbXz3ZAtzig3qyKd5"
+    "uniqueEntryId": "GbXz3ZAtzig3qyKd5",
+    "colors": ["Green", "Green"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -5336,12 +4670,10 @@
     "personality": "Jock",
     "birthday": "11-03",
     "catchphrase": "bunyip",
-    "style1": "Active",
-    "style2": "Simple",
-    "color1": "Black",
-    "color2": "Blue",
     "filename": "rbt03",
-    "uniqueEntryId": "LZcGjneEs8xmxNE3q"
+    "uniqueEntryId": "LZcGjneEs8xmxNE3q",
+    "colors": ["Blue", "Blue"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -5352,12 +4684,10 @@
     "personality": "Snooty",
     "birthday": "10-24",
     "catchphrase": "sniffff",
-    "style1": "Simple",
-    "style2": "Simple",
-    "color1": "Green",
-    "color2": "Yellow",
     "filename": "ant06",
-    "uniqueEntryId": "hZmkhmRhK7xgM6BhP"
+    "uniqueEntryId": "hZmkhmRhK7xgM6BhP",
+    "colors": ["Yellow", "Yellow"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -5368,12 +4698,10 @@
     "personality": "Snooty",
     "birthday": "08-09",
     "catchphrase": "tarnation",
-    "style1": "Cool",
-    "style2": "Gorgeous",
-    "color1": "Red",
-    "color2": "Yellow",
     "filename": "ham04",
-    "uniqueEntryId": "EzZzup4KP8t2FvL8f"
+    "uniqueEntryId": "EzZzup4KP8t2FvL8f",
+    "colors": ["Yellow", "Yellow"],
+    "styles": ["Gorgeous", "Gorgeous"]
   },
   {
     "sourceSheet": "Villagers",
@@ -5384,12 +4712,10 @@
     "personality": "Jock",
     "birthday": "11-20",
     "catchphrase": "like whoa",
-    "style1": "Active",
-    "style2": "Simple",
-    "color1": "Green",
-    "color2": "Gray",
     "filename": "brd18",
-    "uniqueEntryId": "kyF7bCcryEzaErcTJ"
+    "uniqueEntryId": "kyF7bCcryEzaErcTJ",
+    "colors": ["Gray", "Gray"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -5400,12 +4726,10 @@
     "personality": "Cranky",
     "birthday": "06-17",
     "catchphrase": "punk",
-    "style1": "Cool",
-    "style2": "Gorgeous",
-    "color1": "Black",
-    "color2": "Gray",
     "filename": "rhn02",
-    "uniqueEntryId": "e8bJbKYBcretqhbuR"
+    "uniqueEntryId": "e8bJbKYBcretqhbuR",
+    "colors": ["Gray", "Gray"],
+    "styles": ["Gorgeous", "Gorgeous"]
   },
   {
     "sourceSheet": "Villagers",
@@ -5416,12 +4740,10 @@
     "personality": "Lazy",
     "birthday": "09-03",
     "catchphrase": "snork",
-    "style1": "Simple",
-    "style2": "Active",
-    "color1": "Green",
-    "color2": "Colorful",
     "filename": "pig05",
-    "uniqueEntryId": "NeqP5jCsuLugbA2PW"
+    "uniqueEntryId": "NeqP5jCsuLugbA2PW",
+    "colors": ["Colorful", "Colorful"],
+    "styles": ["Active", "Active"]
   },
   {
     "sourceSheet": "Villagers",
@@ -5432,12 +4754,10 @@
     "personality": "Peppy",
     "birthday": "02-20",
     "catchphrase": "frappe",
-    "style1": "Cute",
-    "style2": "Elegant",
-    "color1": "Light blue",
-    "color2": "White",
     "filename": "pgn14",
-    "uniqueEntryId": "5ffTHHjgjsXGAcsb3"
+    "uniqueEntryId": "5ffTHHjgjsXGAcsb3",
+    "colors": ["White", "White"],
+    "styles": ["Elegant", "Elegant"]
   },
   {
     "sourceSheet": "Villagers",
@@ -5448,12 +4768,10 @@
     "personality": "Jock",
     "birthday": "12-01",
     "catchphrase": "zort",
-    "style1": "Simple",
-    "style2": "Active",
-    "color1": "Orange",
-    "color2": "Green",
     "filename": "ost03",
-    "uniqueEntryId": "mFq536yZgoy7zEbKd"
+    "uniqueEntryId": "mFq536yZgoy7zEbKd",
+    "colors": ["Green", "Green"],
+    "styles": ["Active", "Active"]
   },
   {
     "sourceSheet": "Villagers",
@@ -5464,12 +4782,10 @@
     "personality": "Cranky",
     "birthday": "07-09",
     "catchphrase": "krzzt",
-    "style1": "Cool",
-    "style2": "Active",
-    "color1": "Black",
-    "color2": "Yellow",
     "filename": "squ08",
-    "uniqueEntryId": "vqPjvoChWTNpj2t6E"
+    "uniqueEntryId": "vqPjvoChWTNpj2t6E",
+    "colors": ["Yellow", "Yellow"],
+    "styles": ["Active", "Active"]
   },
   {
     "sourceSheet": "Villagers",
@@ -5480,12 +4796,10 @@
     "personality": "Normal",
     "birthday": "04-09",
     "catchphrase": "baa-dabing",
-    "style1": "Simple",
-    "style2": "Simple",
-    "color1": "Yellow",
-    "color2": "Beige",
     "filename": "shp03",
-    "uniqueEntryId": "PnrARfxc8picdtvL8"
+    "uniqueEntryId": "PnrARfxc8picdtvL8",
+    "colors": ["Beige", "Beige"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -5496,12 +4810,10 @@
     "personality": "Jock",
     "birthday": "12-11",
     "catchphrase": "skraaaaw",
-    "style1": "Simple",
-    "style2": "Elegant",
-    "color1": "Blue",
-    "color2": "Red",
     "filename": "pbr07",
-    "uniqueEntryId": "u7tJskupjfv3Ejedt"
+    "uniqueEntryId": "u7tJskupjfv3Ejedt",
+    "colors": ["Red", "Red"],
+    "styles": ["Elegant", "Elegant"]
   },
   {
     "sourceSheet": "Villagers",
@@ -5512,12 +4824,10 @@
     "personality": "Jock",
     "birthday": "08-17",
     "catchphrase": "GAAHHH",
-    "style1": "Active",
-    "style2": "Simple",
-    "color1": "Red",
-    "color2": "Blue",
     "filename": "cat13",
-    "uniqueEntryId": "daE2wDXCWHDJZBkD4"
+    "uniqueEntryId": "daE2wDXCWHDJZBkD4",
+    "colors": ["Blue", "Blue"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -5528,12 +4838,10 @@
     "personality": "Lazy",
     "birthday": "02-10",
     "catchphrase": "stuffin'",
-    "style1": "Simple",
-    "style2": "Cute",
-    "color1": "Colorful",
-    "color2": "White",
     "filename": "cbr05",
-    "uniqueEntryId": "SfGuc8givs3kR8kvM"
+    "uniqueEntryId": "SfGuc8givs3kR8kvM",
+    "colors": ["White", "White"],
+    "styles": ["Cute", "Cute"]
   },
   {
     "sourceSheet": "Villagers",
@@ -5544,12 +4852,10 @@
     "personality": "Lazy",
     "birthday": "04-20",
     "catchphrase": "mrooooo",
-    "style1": "Simple",
-    "style2": "Simple",
-    "color1": "Brown",
-    "color2": "Beige",
     "filename": "bul03",
-    "uniqueEntryId": "rcPtvvvscvkEWG7AF"
+    "uniqueEntryId": "rcPtvvvscvkEWG7AF",
+    "colors": ["Beige", "Beige"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -5560,12 +4866,10 @@
     "personality": "Normal",
     "birthday": "06-21",
     "catchphrase": "sunshine",
-    "style1": "Cute",
-    "style2": "Simple",
-    "color1": "Beige",
-    "color2": "Yellow",
     "filename": "kal03",
-    "uniqueEntryId": "crrWmmqsC9RfmZNCS"
+    "uniqueEntryId": "crrWmmqsC9RfmZNCS",
+    "colors": ["Yellow", "Yellow"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -5576,12 +4880,10 @@
     "personality": "Normal",
     "birthday": "10-22",
     "catchphrase": "hubbub",
-    "style1": "Cute",
-    "style2": "Simple",
-    "color1": "Green",
-    "color2": "Purple",
     "filename": "squ14",
-    "uniqueEntryId": "MBkrN9pXkoACmfPdE"
+    "uniqueEntryId": "MBkrN9pXkoACmfPdE",
+    "colors": ["Purple", "Purple"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -5592,12 +4894,10 @@
     "personality": "Big sister",
     "birthday": "05-03",
     "catchphrase": "boing",
-    "style1": "Simple",
-    "style2": "Gorgeous",
-    "color1": "Yellow",
-    "color2": "Green",
     "filename": "kgr06",
-    "uniqueEntryId": "PZsBTkeYBg5ACE5xB"
+    "uniqueEntryId": "PZsBTkeYBg5ACE5xB",
+    "colors": ["Green", "Green"],
+    "styles": ["Gorgeous", "Gorgeous"]
   },
   {
     "sourceSheet": "Villagers",
@@ -5608,12 +4908,10 @@
     "personality": "Cranky",
     "birthday": "05-20",
     "catchphrase": "moocher",
-    "style1": "Cool",
-    "style2": "Simple",
-    "color1": "Blue",
-    "color2": "Black",
     "filename": "bul05",
-    "uniqueEntryId": "QLPX4QqjhiPwCLcko"
+    "uniqueEntryId": "QLPX4QqjhiPwCLcko",
+    "colors": ["Black", "Black"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -5624,12 +4922,10 @@
     "personality": "Peppy",
     "birthday": "08-13",
     "catchphrase": "me-WOW",
-    "style1": "Active",
-    "style2": "Cool",
-    "color1": "Black",
-    "color2": "Gray",
     "filename": "cat12",
-    "uniqueEntryId": "P3ouRnR3NRSch3LaC"
+    "uniqueEntryId": "P3ouRnR3NRSch3LaC",
+    "colors": ["Gray", "Gray"],
+    "styles": ["Cool", "Cool"]
   },
   {
     "sourceSheet": "Villagers",
@@ -5640,12 +4936,10 @@
     "personality": "Jock",
     "birthday": "08-03",
     "catchphrase": "sluuuurp",
-    "style1": "Active",
-    "style2": "Simple",
-    "color1": "Yellow",
-    "color2": "Colorful",
     "filename": "flg09",
-    "uniqueEntryId": "v74Hs9XT2zRC6gDjE"
+    "uniqueEntryId": "v74Hs9XT2zRC6gDjE",
+    "colors": ["Colorful", "Colorful"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -5656,12 +4950,10 @@
     "personality": "Peppy",
     "birthday": "04-02",
     "catchphrase": "chimpy",
-    "style1": "Cute",
-    "style2": "Active",
-    "color1": "Purple",
-    "color2": "Green",
     "filename": "mnk03",
-    "uniqueEntryId": "vYWvCyge46SGeHfHH"
+    "uniqueEntryId": "vYWvCyge46SGeHfHH",
+    "colors": ["Green", "Green"],
+    "styles": ["Active", "Active"]
   },
   {
     "sourceSheet": "Villagers",
@@ -5672,12 +4964,10 @@
     "personality": "Big sister",
     "birthday": "06-23",
     "catchphrase": "ya heard",
-    "style1": "Cool",
-    "style2": "Active",
-    "color1": "Red",
-    "color2": "Purple",
     "filename": "cbr17",
-    "uniqueEntryId": "vw7ussv29jkjDdnJ7"
+    "uniqueEntryId": "vw7ussv29jkjDdnJ7",
+    "colors": ["Purple", "Purple"],
+    "styles": ["Active", "Active"]
   },
   {
     "sourceSheet": "Villagers",
@@ -5688,12 +4978,10 @@
     "personality": "Peppy",
     "birthday": "06-17",
     "catchphrase": "reeeeOWR",
-    "style1": "Simple",
-    "style2": "Cute",
-    "color1": "Green",
-    "color2": "Yellow",
     "filename": "cat05",
-    "uniqueEntryId": "eeMEC83wHWmKuHNvh"
+    "uniqueEntryId": "eeMEC83wHWmKuHNvh",
+    "colors": ["Yellow", "Yellow"],
+    "styles": ["Cute", "Cute"]
   },
   {
     "sourceSheet": "Villagers",
@@ -5704,12 +4992,10 @@
     "personality": "Jock",
     "birthday": "05-06",
     "catchphrase": "kerPOW",
-    "style1": "Active",
-    "style2": "Simple",
-    "color1": "Red",
-    "color2": "Green",
     "filename": "rhn00",
-    "uniqueEntryId": "tq4TfLyNJx7un4h2m"
+    "uniqueEntryId": "tq4TfLyNJx7un4h2m",
+    "colors": ["Green", "Green"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -5720,12 +5006,10 @@
     "personality": "Snooty",
     "birthday": "11-30",
     "catchphrase": "nice nice",
-    "style1": "Elegant",
-    "style2": "Gorgeous",
-    "color1": "Beige",
-    "color2": "Gray",
     "filename": "squ13",
-    "uniqueEntryId": "i3FzxyjfuBzy7Fnv3"
+    "uniqueEntryId": "i3FzxyjfuBzy7Fnv3",
+    "colors": ["Gray", "Gray"],
+    "styles": ["Gorgeous", "Gorgeous"]
   },
   {
     "sourceSheet": "Villagers",
@@ -5736,12 +5020,10 @@
     "personality": "Jock",
     "birthday": "09-26",
     "catchphrase": "grooof",
-    "style1": "Simple",
-    "style2": "Simple",
-    "color1": "Yellow",
-    "color2": "Orange",
     "filename": "bea00",
-    "uniqueEntryId": "JhB2GSBmZCpaqRGDv"
+    "uniqueEntryId": "JhB2GSBmZCpaqRGDv",
+    "colors": ["Orange", "Orange"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -5752,12 +5034,10 @@
     "personality": "Smug",
     "birthday": "10-06",
     "catchphrase": "picante",
-    "style1": "Cool",
-    "style2": "Elegant",
-    "color1": "Black",
-    "color2": "Gray",
     "filename": "pgn12",
-    "uniqueEntryId": "99QcysqkrEZ7ycBWs"
+    "uniqueEntryId": "99QcysqkrEZ7ycBWs",
+    "colors": ["Gray", "Gray"],
+    "styles": ["Elegant", "Elegant"]
   },
   {
     "sourceSheet": "Villagers",
@@ -5768,12 +5048,10 @@
     "personality": "Normal",
     "birthday": "11-18",
     "catchphrase": "teacup",
-    "style1": "Cute",
-    "style2": "Elegant",
-    "color1": "Black",
-    "color2": "White",
     "filename": "elp10",
-    "uniqueEntryId": "2SK8tjSB8JvYLgPn9"
+    "uniqueEntryId": "2SK8tjSB8JvYLgPn9",
+    "colors": ["White", "White"],
+    "styles": ["Elegant", "Elegant"]
   },
   {
     "sourceSheet": "Villagers",
@@ -5784,12 +5062,10 @@
     "personality": "Snooty",
     "birthday": "01-09",
     "catchphrase": "bunbun",
-    "style1": "Gorgeous",
-    "style2": "Cool",
-    "color1": "Black",
-    "color2": "Red",
     "filename": "rbt07",
-    "uniqueEntryId": "yhaDSkcEFYP6urwjN"
+    "uniqueEntryId": "yhaDSkcEFYP6urwjN",
+    "colors": ["Red", "Red"],
+    "styles": ["Cool", "Cool"]
   },
   {
     "sourceSheet": "Villagers",
@@ -5800,12 +5076,10 @@
     "personality": "Snooty",
     "birthday": "10-21",
     "catchphrase": "pine nut",
-    "style1": "Elegant",
-    "style2": "Gorgeous",
-    "color1": "Green",
-    "color2": "Brown",
     "filename": "shp10",
-    "uniqueEntryId": "yafB94xabfKKPPNSp"
+    "uniqueEntryId": "yafB94xabfKKPPNSp",
+    "colors": ["Brown", "Brown"],
+    "styles": ["Gorgeous", "Gorgeous"]
   },
   {
     "sourceSheet": "Villagers",
@@ -5816,12 +5090,10 @@
     "personality": "Snooty",
     "birthday": "08-25",
     "catchphrase": "pushy",
-    "style1": "Gorgeous",
-    "style2": "Cute",
-    "color1": "Colorful",
-    "color2": "Pink",
     "filename": "cow01",
-    "uniqueEntryId": "ZWevBdWKRpz7DC7B4"
+    "uniqueEntryId": "ZWevBdWKRpz7DC7B4",
+    "colors": ["Pink", "Pink"],
+    "styles": ["Cute", "Cute"]
   },
   {
     "sourceSheet": "Villagers",
@@ -5832,12 +5104,10 @@
     "personality": "Cranky",
     "birthday": "12-10",
     "catchphrase": "me-YOWZA",
-    "style1": "Cool",
-    "style2": "Simple",
-    "color1": "Black",
-    "color2": "Gray",
     "filename": "cat15",
-    "uniqueEntryId": "2vHKegY3XyX2DBc6G"
+    "uniqueEntryId": "2vHKegY3XyX2DBc6G",
+    "colors": ["Gray", "Gray"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -5848,12 +5118,10 @@
     "personality": "Peppy",
     "birthday": "07-28",
     "catchphrase": "snoutie",
-    "style1": "Cute",
-    "style2": "Gorgeous",
-    "color1": "Green",
-    "color2": "Red",
     "filename": "pig01",
-    "uniqueEntryId": "3oNZnyk4zv3zJD2m5"
+    "uniqueEntryId": "3oNZnyk4zv3zJD2m5",
+    "colors": ["Red", "Red"],
+    "styles": ["Gorgeous", "Gorgeous"]
   },
   {
     "sourceSheet": "Villagers",
@@ -5864,12 +5132,10 @@
     "personality": "Lazy",
     "birthday": "09-07",
     "catchphrase": "fuzzers",
-    "style1": "Active",
-    "style2": "Simple",
-    "color1": "Yellow",
-    "color2": "Orange",
     "filename": "elp09",
-    "uniqueEntryId": "96HCsK6H2c7J2ARMa"
+    "uniqueEntryId": "96HCsK6H2c7J2ARMa",
+    "colors": ["Orange", "Orange"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -5880,12 +5146,10 @@
     "personality": "Peppy",
     "birthday": "09-15",
     "catchphrase": "twinkles",
-    "style1": "Cute",
-    "style2": "Simple",
-    "color1": "Pink",
-    "color2": "Red",
     "filename": "bea07",
-    "uniqueEntryId": "HqboYio5a8bRbKtcL"
+    "uniqueEntryId": "HqboYio5a8bRbKtcL",
+    "colors": ["Red", "Red"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -5896,12 +5160,10 @@
     "personality": "Peppy",
     "birthday": "07-13",
     "catchphrase": "cheepers",
-    "style1": "Simple",
-    "style2": "Cute",
-    "color1": "Pink",
-    "color2": "Blue",
     "filename": "brd03",
-    "uniqueEntryId": "P6sD4cQvXFHHvNcz8"
+    "uniqueEntryId": "P6sD4cQvXFHHvNcz8",
+    "colors": ["Blue", "Blue"],
+    "styles": ["Cute", "Cute"]
   },
   {
     "sourceSheet": "Villagers",
@@ -5912,12 +5174,10 @@
     "personality": "Jock",
     "birthday": "08-19",
     "catchphrase": "grrrRAH",
-    "style1": "Active",
-    "style2": "Simple",
-    "color1": "Blue",
-    "color2": "Purple",
     "filename": "tig02",
-    "uniqueEntryId": "Q49mH4FY3BrgFDoyN"
+    "uniqueEntryId": "Q49mH4FY3BrgFDoyN",
+    "colors": ["Purple", "Purple"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -5928,12 +5188,10 @@
     "personality": "Big sister",
     "birthday": "01-16",
     "catchphrase": "grooomph",
-    "style1": "Simple",
-    "style2": "Cute",
-    "color1": "Red",
-    "color2": "Orange",
     "filename": "bea08",
-    "uniqueEntryId": "zodRh39TrqXPbGW49"
+    "uniqueEntryId": "zodRh39TrqXPbGW49",
+    "colors": ["Orange", "Orange"],
+    "styles": ["Cute", "Cute"]
   },
   {
     "sourceSheet": "Villagers",
@@ -5944,12 +5202,10 @@
     "personality": "Snooty",
     "birthday": "01-14",
     "catchphrase": "blih",
-    "style1": "Elegant",
-    "style2": "Gorgeous",
-    "color1": "Light blue",
-    "color2": "Purple",
     "filename": "goa06",
-    "uniqueEntryId": "PkAYXk745ZHBE69a9"
+    "uniqueEntryId": "PkAYXk745ZHBE69a9",
+    "colors": ["Purple", "Purple"],
+    "styles": ["Gorgeous", "Gorgeous"]
   },
   {
     "sourceSheet": "Villagers",
@@ -5960,12 +5216,10 @@
     "personality": "Normal",
     "birthday": "04-16",
     "catchphrase": "baaaffo",
-    "style1": "Simple",
-    "style2": "Cute",
-    "color1": "Orange",
-    "color2": "Red",
     "filename": "shp00",
-    "uniqueEntryId": "pkzxW9Pmtd39TMdDH"
+    "uniqueEntryId": "pkzxW9Pmtd39TMdDH",
+    "colors": ["Red", "Red"],
+    "styles": ["Cute", "Cute"]
   },
   {
     "sourceSheet": "Villagers",
@@ -5976,12 +5230,10 @@
     "personality": "Cranky",
     "birthday": "12-29",
     "catchphrase": "cud",
-    "style1": "Cool",
-    "style2": "Active",
-    "color1": "Light blue",
-    "color2": "Blue",
     "filename": "bul08",
-    "uniqueEntryId": "9ouwtyzDNP65WJv77"
+    "uniqueEntryId": "9ouwtyzDNP65WJv77",
+    "colors": ["Blue", "Blue"],
+    "styles": ["Active", "Active"]
   },
   {
     "sourceSheet": "Villagers",
@@ -5992,12 +5244,10 @@
     "personality": "Peppy",
     "birthday": "07-11",
     "catchphrase": "sugar cube",
-    "style1": "Active",
-    "style2": "Simple",
-    "color1": "Yellow",
-    "color2": "Orange",
     "filename": "hrs01",
-    "uniqueEntryId": "R5zfwZxyxaa6gue4d"
+    "uniqueEntryId": "R5zfwZxyxaa6gue4d",
+    "colors": ["Orange", "Orange"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -6008,12 +5258,10 @@
     "personality": "Snooty",
     "birthday": "09-01",
     "catchphrase": "sweetie",
-    "style1": "Gorgeous",
-    "style2": "Cool",
-    "color1": "Purple",
-    "color2": "Pink",
     "filename": "gor07",
-    "uniqueEntryId": "z7N6aubfytXa7Z4Me"
+    "uniqueEntryId": "z7N6aubfytXa7Z4Me",
+    "colors": ["Pink", "Pink"],
+    "styles": ["Cool", "Cool"]
   },
   {
     "sourceSheet": "Villagers",
@@ -6024,12 +5272,10 @@
     "personality": "Snooty",
     "birthday": "01-26",
     "catchphrase": "piffle",
-    "style1": "Gorgeous",
-    "style2": "Elegant",
-    "color1": "Gray",
-    "color2": "Purple",
     "filename": "wol08",
-    "uniqueEntryId": "tWyG3bE5fwvNNGpWM"
+    "uniqueEntryId": "tWyG3bE5fwvNNGpWM",
+    "colors": ["Purple", "Purple"],
+    "styles": ["Elegant", "Elegant"]
   },
   {
     "sourceSheet": "Villagers",
@@ -6040,12 +5286,10 @@
     "personality": "Cranky",
     "birthday": "08-02",
     "catchphrase": "nyet",
-    "style1": "Simple",
-    "style2": "Cool",
-    "color1": "Yellow",
-    "color2": "Colorful",
     "filename": "cbr06",
-    "uniqueEntryId": "Eskwc34f2x6Qx6ZNT"
+    "uniqueEntryId": "Eskwc34f2x6Qx6ZNT",
+    "colors": ["Colorful", "Colorful"],
+    "styles": ["Cool", "Cool"]
   },
   {
     "sourceSheet": "Villagers",
@@ -6056,12 +5300,10 @@
     "personality": "Lazy",
     "birthday": "10-30",
     "catchphrase": "so it goes",
-    "style1": "Simple",
-    "style2": "Gorgeous",
-    "color1": "Light blue",
-    "color2": "Blue",
     "filename": "pgn09",
-    "uniqueEntryId": "cy2hRtipGaiHEBPd8"
+    "uniqueEntryId": "cy2hRtipGaiHEBPd8",
+    "colors": ["Blue", "Blue"],
+    "styles": ["Gorgeous", "Gorgeous"]
   },
   {
     "sourceSheet": "Villagers",
@@ -6072,12 +5314,10 @@
     "personality": "Lazy",
     "birthday": "06-10",
     "catchphrase": "wuh",
-    "style1": "Simple",
-    "style2": "Simple",
-    "color1": "Orange",
-    "color2": "Red",
     "filename": "dog06",
-    "uniqueEntryId": "rh6PGwW3Lg6EFcfo6"
+    "uniqueEntryId": "rh6PGwW3Lg6EFcfo6",
+    "colors": ["Red", "Red"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -6088,12 +5328,10 @@
     "personality": "Cranky",
     "birthday": "04-24",
     "catchphrase": "pockets",
-    "style1": "Cool",
-    "style2": "Cool",
-    "color1": "Black",
-    "color2": "Gray",
     "filename": "kgr08",
-    "uniqueEntryId": "wN36ADi7MxiLNJ3Eu"
+    "uniqueEntryId": "wN36ADi7MxiLNJ3Eu",
+    "colors": ["Gray", "Gray"],
+    "styles": ["Cool", "Cool"]
   },
   {
     "sourceSheet": "Villagers",
@@ -6104,12 +5342,10 @@
     "personality": "Cranky",
     "birthday": "08-21",
     "catchphrase": "grr-ribbit",
-    "style1": "Simple",
-    "style2": "Simple",
-    "color1": "Blue",
-    "color2": "Purple",
     "filename": "flg05",
-    "uniqueEntryId": "HCbj4RPsBexGWd2Sy"
+    "uniqueEntryId": "HCbj4RPsBexGWd2Sy",
+    "colors": ["Purple", "Purple"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -6120,12 +5356,10 @@
     "personality": "Lazy",
     "birthday": "06-30",
     "catchphrase": "quaa",
-    "style1": "Cool",
-    "style2": "Simple",
-    "color1": "Blue",
-    "color2": "Black",
     "filename": "duk11",
-    "uniqueEntryId": "QrbKSTR4H9tFKBofW"
+    "uniqueEntryId": "QrbKSTR4H9tFKBofW",
+    "colors": ["Black", "Black"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -6136,12 +5370,10 @@
     "personality": "Peppy",
     "birthday": "08-15",
     "catchphrase": "lambkins",
-    "style1": "Cool",
-    "style2": "Gorgeous",
-    "color1": "Red",
-    "color2": "Green",
     "filename": "shp09",
-    "uniqueEntryId": "YyW9WdsWe6EgMF4Mq"
+    "uniqueEntryId": "YyW9WdsWe6EgMF4Mq",
+    "colors": ["Green", "Green"],
+    "styles": ["Gorgeous", "Gorgeous"]
   },
   {
     "sourceSheet": "Villagers",
@@ -6152,12 +5384,10 @@
     "personality": "Snooty",
     "birthday": "09-17",
     "catchphrase": "snappy",
-    "style1": "Elegant",
-    "style2": "Cool",
-    "color1": "Blue",
-    "color2": "Light blue",
     "filename": "wol03",
-    "uniqueEntryId": "KbixDxCFpoWTimarv"
+    "uniqueEntryId": "KbixDxCFpoWTimarv",
+    "colors": ["Light blue", "Light blue"],
+    "styles": ["Cool", "Cool"]
   },
   {
     "sourceSheet": "Villagers",
@@ -6168,12 +5398,10 @@
     "personality": "Snooty",
     "birthday": "11-26",
     "catchphrase": "bo peep",
-    "style1": "Cute",
-    "style2": "Gorgeous",
-    "color1": "White",
-    "color2": "Pink",
     "filename": "shp07",
-    "uniqueEntryId": "HT58xc2w7ootdCRWb"
+    "uniqueEntryId": "HT58xc2w7ootdCRWb",
+    "colors": ["Pink", "Pink"],
+    "styles": ["Gorgeous", "Gorgeous"]
   },
   {
     "sourceSheet": "Villagers",
@@ -6184,12 +5412,10 @@
     "personality": "Peppy",
     "birthday": "01-31",
     "catchphrase": "hay-OK",
-    "style1": "Cool",
-    "style2": "Simple",
-    "color1": "White",
-    "color2": "Gray",
     "filename": "hrs05",
-    "uniqueEntryId": "b4HwfyvThyipScSAv"
+    "uniqueEntryId": "b4HwfyvThyipScSAv",
+    "colors": ["Gray", "Gray"],
+    "styles": ["Simple", "Simple"]
   },
   {
     "sourceSheet": "Villagers",
@@ -6200,12 +5426,10 @@
     "personality": "Cranky",
     "birthday": "11-25",
     "catchphrase": "snarrrl",
-    "style1": "Cool",
-    "style2": "Active",
-    "color1": "Black",
-    "color2": "Green",
     "filename": "wol02",
-    "uniqueEntryId": "RbF2wcn6jRxtgLDRd"
+    "uniqueEntryId": "RbF2wcn6jRxtgLDRd",
+    "colors": ["Green", "Green"],
+    "styles": ["Active", "Active"]
   },
   {
     "sourceSheet": "Villagers",
@@ -6216,12 +5440,10 @@
     "personality": "Snooty",
     "birthday": "07-20",
     "catchphrase": "tsk tsk",
-    "style1": "Cool",
-    "style2": "Elegant",
-    "color1": "Orange",
-    "color2": "Yellow",
     "filename": "kal00",
-    "uniqueEntryId": "QDcxk3dCNT6yeD9hk"
+    "uniqueEntryId": "QDcxk3dCNT6yeD9hk",
+    "colors": ["Yellow", "Yellow"],
+    "styles": ["Elegant", "Elegant"]
   },
   {
     "sourceSheet": "Villagers",
@@ -6232,12 +5454,10 @@
     "personality": "Smug",
     "birthday": "06-07",
     "catchphrase": "pronk",
-    "style1": "Cool",
-    "style2": "Gorgeous",
-    "color1": "Purple",
-    "color2": "Gray",
     "filename": "der02",
-    "uniqueEntryId": "LodBWtdMRZbjFNga9"
+    "uniqueEntryId": "LodBWtdMRZbjFNga9",
+    "colors": ["Gray", "Gray"],
+    "styles": ["Gorgeous", "Gorgeous"]
   },
   {
     "sourceSheet": "Villagers",
@@ -6248,11 +5468,9 @@
     "personality": "Lazy",
     "birthday": "03-08",
     "catchphrase": "bloop",
-    "style1": "Simple",
-    "style2": "Cute",
-    "color1": "Blue",
-    "color2": "Yellow",
     "filename": "ocp02",
-    "uniqueEntryId": "2F5tipHqgmWvWXTLC"
+    "uniqueEntryId": "2F5tipHqgmWvWXTLC",
+    "colors": ["Yellow", "Yellow"],
+    "styles": ["Cute", "Cute"]
   }
 ]

@@ -2,7 +2,7 @@ export interface Items {
   sourceSheet: Category;
   name: string;
   patternTitle?: null | string;
-  diy?: boolean | null;
+  diy?: boolean;
   patternCustomize?: boolean | null;
   kitCost?: number | null;
   size?: Size;
@@ -26,16 +26,19 @@ export interface Items {
   curtainType?: CurtainType | null;
   curtainColor?: null | string;
   ceilingType?: CeilingType | null;
-  customize?: boolean | null;
+  customize?: boolean;
   uses?: number;
+  seasonalAvailability?: SeasonalAvailability | null;
   style?: Style;
   primaryShape?: PrimaryShape;
   secondaryShape?: SecondaryShape | null;
   framedImage?: null | string;
   albumImage?: null | string;
+  inventoryImage?: string;
   category?: Category;
   realArtworkTitle?: string;
   artist?: string;
+  museumDescription?: string;
 }
 
 export enum Catalog {
@@ -112,6 +115,12 @@ export enum PrimaryShape {
   Salopette = 'Salopette',
 }
 
+export enum SeasonalAvailability {
+  AllYear = 'All Year',
+  Summer = 'Summer',
+  Winter = 'Winter',
+}
+
 export enum SecondaryShape {
   H = 'H',
   L = 'L',
@@ -149,12 +158,13 @@ export enum Style {
   Cool = 'Cool',
   Cute = 'Cute',
   Elegant = 'Elegant',
+  EverydayComfy = 'everyday; comfy',
   Gorgeous = 'Gorgeous',
   Simple = 'Simple',
 }
 
 export interface Variant {
-  image?: null | string;
+  image?: string;
   variation?: number | null | string;
   filename: string;
   variantId?: VariantID | null;
@@ -169,7 +179,7 @@ export interface Variant {
   sell: number | null;
   themes: Theme[];
   closetImage?: string;
-  storageImage?: string;
+  storageImage?: null | string;
   labelThemes?: LabelTheme[];
   genuine?: boolean;
   highResTexture?: null;

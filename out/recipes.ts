@@ -1,10 +1,11 @@
 export interface Recipes {
   sourceSheet: SourceSheet;
   name: string;
-  sources: string;
+  sources: null | string;
   sourceNotes: SourceNotes | null;
+  version: Version;
   category: Category;
-  internalId: null;
+  internalId: number;
   uniqueEntryId: string;
   materials: {[key: string]: number};
 }
@@ -38,9 +39,16 @@ export enum SourceNotes {
   OnlyAvailableDuringMushroomSeason = 'Only available during Mushroom Season',
   OnlyAvailableDuringSpring = 'Only available during Spring',
   OnlyAvailableDuringSummer = 'Only available during Summer',
+  OnlyAvailableDuringWeddingSeason = 'Only available during Wedding Season',
   OnlyAvailableDuringWinter = 'Only available during Winter',
 }
 
 export enum SourceSheet {
   Recipes = 'Recipes',
+}
+
+export enum Version {
+  The100 = '1.0.0',
+  The110A = '1.1.0a',
+  The120 = '1.2.0',
 }

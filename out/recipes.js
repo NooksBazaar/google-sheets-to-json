@@ -30,10 +30,17 @@ var SourceNotes;
     SourceNotes["OnlyAvailableDuringMushroomSeason"] = "Only available during Mushroom Season";
     SourceNotes["OnlyAvailableDuringSpring"] = "Only available during Spring";
     SourceNotes["OnlyAvailableDuringSummer"] = "Only available during Summer";
+    SourceNotes["OnlyAvailableDuringWeddingSeason"] = "Only available during Wedding Season";
     SourceNotes["OnlyAvailableDuringWinter"] = "Only available during Winter";
 })(SourceNotes = exports.SourceNotes || (exports.SourceNotes = {}));
 var SourceSheet;
 (function (SourceSheet) {
     SourceSheet["Recipes"] = "Recipes";
 })(SourceSheet = exports.SourceSheet || (exports.SourceSheet = {}));
+var Version;
+(function (Version) {
+    Version["The100"] = "1.0.0";
+    Version["The110A"] = "1.1.0a";
+    Version["The120"] = "1.2.0";
+})(Version = exports.Version || (exports.Version = {}));
 //# sourceMappingURL=recipes.js.map

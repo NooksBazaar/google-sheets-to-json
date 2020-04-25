@@ -4,8 +4,9 @@
     "name": "acorn pochette",
     "sources": "Balloons",
     "sourceNotes": "Only available during Fall",
+    "version": "1.0.0",
     "category": "Bags",
-    "internalId": null,
+    "internalId": 632,
     "uniqueEntryId": "a9FFbP64fTcJ3Cn5E",
     "materials": {
       "acorn": 6
@@ -16,8 +17,9 @@
     "name": "acoustic guitar",
     "sources": "Smug villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 44,
     "uniqueEntryId": "Y62RymJYgbmZEyQon",
     "materials": {
       "softwood": 8,
@@ -29,8 +31,9 @@
     "name": "angled signpost",
     "sources": "Lazy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 510,
     "uniqueEntryId": "BNiDaivRjGNzCckWw",
     "materials": {
       "hardwood": 2,
@@ -42,8 +45,9 @@
     "name": "apple chair",
     "sources": "Big sister villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 189,
     "uniqueEntryId": "HB55bMQf4D57ekNf4",
     "materials": {
       "apple": 10,
@@ -55,8 +59,9 @@
     "name": "apple dress",
     "sources": "Big sister villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Dresses",
-    "internalId": null,
+    "internalId": 621,
     "uniqueEntryId": "KmfTvhh3qeyd6WcFJ",
     "materials": {
       "apple": 8
@@ -67,8 +72,9 @@
     "name": "apple hat",
     "sources": "Big sister villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Headwear",
-    "internalId": null,
+    "internalId": 622,
     "uniqueEntryId": "5ABmQxkN3SatETcEg",
     "materials": {
       "apple": 5
@@ -79,8 +85,9 @@
     "name": "apple rug",
     "sources": "Big sister villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Rugs",
-    "internalId": null,
+    "internalId": 542,
     "uniqueEntryId": "5noTnXTTPzBfbsaz2",
     "materials": {
       "apple": 6
@@ -91,8 +98,9 @@
     "name": "apple umbrella",
     "sources": "Big sister villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Umbrellas",
-    "internalId": null,
+    "internalId": 623,
     "uniqueEntryId": "N2aQCn6hYqjw2ijPX",
     "materials": {
       "apple": 7
@@ -103,8 +111,9 @@
     "name": "apple wall",
     "sources": "Big sister villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wallpaper",
-    "internalId": null,
+    "internalId": 304,
     "uniqueEntryId": "7azjirioafcXyzPHB",
     "materials": {
       "apple": 20
@@ -115,8 +124,9 @@
     "name": "Aquarius urn",
     "sources": "Celeste",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 366,
     "uniqueEntryId": "NGfmzz4ndL9MvLG2F",
     "materials": {
       "star fragment": 3,
@@ -130,8 +140,9 @@
     "name": "Aries rocking chair",
     "sources": "Celeste",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 367,
     "uniqueEntryId": "XXJwFRCG4m9Q4xe6y",
     "materials": {
       "star fragment": 3,
@@ -145,8 +156,9 @@
     "name": "armor shoes",
     "sources": "Cranky villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Shoes",
-    "internalId": null,
+    "internalId": 642,
     "uniqueEntryId": "zbzh6s369wZ3anypo",
     "materials": {
       "iron nugget": 4
@@ -157,8 +169,9 @@
     "name": "aroma pot",
     "sources": "Snooty villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Miscellaneous",
-    "internalId": null,
+    "internalId": 30,
     "uniqueEntryId": "BTu3bRj64f2dwdDXa",
     "materials": {
       "clay": 3
@@ -169,8 +182,9 @@
     "name": "asteroid",
     "sources": "Celeste",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 235,
     "uniqueEntryId": "BPNHraJWRXYZahLoJ",
     "materials": {
       "star fragment": 5,
@@ -182,8 +196,9 @@
     "name": "astronaut suit",
     "sources": "Celeste",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 236,
     "uniqueEntryId": "sczENjHH7XW8e2n3Q",
     "materials": {
       "star fragment": 5,
@@ -195,8 +210,9 @@
     "name": "autumn wall",
     "sources": "Balloons",
     "sourceNotes": "Only available during Maple Leaf Season",
+    "version": "1.0.0",
     "category": "Wallpaper",
-    "internalId": null,
+    "internalId": 290,
     "uniqueEntryId": "vjyWT27sydFDoYjhF",
     "materials": {
       "maple leaf": 10,
@@ -209,8 +225,9 @@
     "name": "axe",
     "sources": "Nook Miles Exchange",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Tools",
-    "internalId": null,
+    "internalId": 271,
     "uniqueEntryId": "b3QE9sXE7w5KCXkS5",
     "materials": {
       "flimsy axe": 1,
@@ -223,8 +240,9 @@
     "name": "backyard lawn",
     "sources": "Peppy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Floors",
-    "internalId": null,
+    "internalId": 487,
     "uniqueEntryId": "pCoJi3w8hqsWKsBvz",
     "materials": {
       "clump of weeds": 30
@@ -235,8 +253,9 @@
     "name": "bamboo basket",
     "sources": "Snooty villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 152,
     "uniqueEntryId": "y7Zjyax97JJo6k4oJ",
     "materials": {
       "bamboo piece": 7
@@ -247,8 +266,9 @@
     "name": "bamboo bench",
     "sources": "Normal villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 46,
     "uniqueEntryId": "iRBcw227DDdksTz3J",
     "materials": {
       "bamboo piece": 8
@@ -259,8 +279,9 @@
     "name": "bamboo candleholder",
     "sources": "Snooty villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Miscellaneous",
-    "internalId": null,
+    "internalId": 153,
     "uniqueEntryId": "9FCcnLSsxLXkR2NEA",
     "materials": {
       "bamboo piece": 3,
@@ -272,8 +293,9 @@
     "name": "bamboo doll",
     "sources": "Balloons",
     "sourceNotes": "Only available during Spring",
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 158,
     "uniqueEntryId": "gc6yP5HuqTxEGBK48",
     "materials": {
       "young spring bamboo": 6
@@ -284,8 +306,9 @@
     "name": "bamboo drum",
     "sources": "Jock villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Miscellaneous",
-    "internalId": null,
+    "internalId": 397,
     "uniqueEntryId": "K5pwygoJtxAXbj7db",
     "materials": {
       "bamboo piece": 3,
@@ -297,8 +320,9 @@
     "name": "bamboo floor lamp",
     "sources": "Normal villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 159,
     "uniqueEntryId": "47AeakgHNdNvSvLRb",
     "materials": {
       "bamboo piece": 8
@@ -309,8 +333,9 @@
     "name": "bamboo flooring",
     "sources": "Cranky villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Floors",
-    "internalId": null,
+    "internalId": 485,
     "uniqueEntryId": "JyK3oMGwWg46SZ7M6",
     "materials": {
       "bamboo piece": 15
@@ -321,8 +346,9 @@
     "name": "bamboo hat",
     "sources": "Cranky villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Headwear",
-    "internalId": null,
+    "internalId": 607,
     "uniqueEntryId": "p6dWvgRwv6574A7md",
     "materials": {
       "clump of weeds": 10
@@ -333,8 +359,9 @@
     "name": "bamboo lattice fence",
     "sources": "Nook Miles Exchange",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Fencing",
-    "internalId": null,
+    "internalId": 101,
     "uniqueEntryId": "kFi2XW9eoPkAoWdS5",
     "materials": {
       "bamboo piece": 6
@@ -345,8 +372,9 @@
     "name": "bamboo lunch box",
     "sources": "Snooty villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Miscellaneous",
-    "internalId": null,
+    "internalId": 421,
     "uniqueEntryId": "ejw8RfXvq8vPJuLod",
     "materials": {
       "bamboo piece": 4
@@ -357,8 +385,9 @@
     "name": "bamboo noodle slide",
     "sources": "Balloons; Isabelle",
     "sourceNotes": "Only available during Spring",
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 424,
     "uniqueEntryId": "P9SmzDkYdcYuPmRop",
     "materials": {
       "young spring bamboo": 7,
@@ -370,8 +399,9 @@
     "name": "bamboo partition",
     "sources": "Cranky villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 157,
     "uniqueEntryId": "6B3A3RrMHHYeGnDR4",
     "materials": {
       "bamboo piece": 7,
@@ -383,8 +413,9 @@
     "name": "bamboo shelf",
     "sources": "Snooty villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 155,
     "uniqueEntryId": "ATFSAKswogCggcGbd",
     "materials": {
       "bamboo piece": 15
@@ -395,8 +426,9 @@
     "name": "bamboo speaker",
     "sources": "Snooty villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 591,
     "uniqueEntryId": "59rwk7hPFaeWEX7AY",
     "materials": {
       "bamboo piece": 3,
@@ -408,8 +440,9 @@
     "name": "bamboo sphere",
     "sources": "Normal villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Miscellaneous",
-    "internalId": null,
+    "internalId": 420,
     "uniqueEntryId": "4DSiABqB4KvShtQdM",
     "materials": {
       "bamboo piece": 3
@@ -420,8 +453,9 @@
     "name": "bamboo stool",
     "sources": "Snooty villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 590,
     "uniqueEntryId": "cSywc8qQTGtF5PTqT",
     "materials": {
       "bamboo piece": 5
@@ -432,8 +466,9 @@
     "name": "bamboo stopblock",
     "sources": "Jock villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 154,
     "uniqueEntryId": "g6cSM6je3YN47KiMD",
     "materials": {
       "bamboo piece": 3
@@ -444,8 +479,9 @@
     "name": "bamboo wall",
     "sources": "Cranky villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wallpaper",
-    "internalId": null,
+    "internalId": 322,
     "uniqueEntryId": "BYCNmo3a3HZQXWqHK",
     "materials": {
       "bamboo piece": 15
@@ -456,8 +492,9 @@
     "name": "bamboo wall decoration",
     "sources": "Jock villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wall-Mounted",
-    "internalId": null,
+    "internalId": 151,
     "uniqueEntryId": "Xb2ywJv5tsDeSKG2H",
     "materials": {
       "bamboo piece": 1
@@ -468,8 +505,9 @@
     "name": "bamboo wand",
     "sources": "Balloons",
     "sourceNotes": "Only available during Spring",
+    "version": "1.0.0",
     "category": "Tools",
-    "internalId": null,
+    "internalId": 538,
     "uniqueEntryId": "Z5FSewP6wM2McqRCJ",
     "materials": {
       "young spring bamboo": 6,
@@ -481,8 +519,9 @@
     "name": "bamboo-grove wall",
     "sources": "Balloons",
     "sourceNotes": "Only available during Spring",
+    "version": "1.0.0",
     "category": "Wallpaper",
-    "internalId": null,
+    "internalId": 300,
     "uniqueEntryId": "YEqTcFmBecj7pp4XX",
     "materials": {
       "young spring bamboo": 7,
@@ -494,8 +533,9 @@
     "name": "bamboo-shoot lamp",
     "sources": "Balloons",
     "sourceNotes": "Only available during Spring",
+    "version": "1.0.0",
     "category": "Miscellaneous",
-    "internalId": null,
+    "internalId": 385,
     "uniqueEntryId": "kdfzcoLwkhis8mbtR",
     "materials": {
       "young spring bamboo": 4,
@@ -508,8 +548,9 @@
     "name": "barbed-wire fence",
     "sources": "Nook Miles Exchange",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Fencing",
-    "internalId": null,
+    "internalId": 561,
     "uniqueEntryId": "dgW8J3q4JWsyyrDxP",
     "materials": {
       "hardwood": 3,
@@ -521,8 +562,9 @@
     "name": "barbell",
     "sources": "Jock villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 395,
     "uniqueEntryId": "A3fKpbNzYnRZwYMbx",
     "materials": {
       "iron nugget": 10
@@ -533,8 +575,9 @@
     "name": "barrel",
     "sources": "Villager House Development (Tom Nook); Cranky villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 165,
     "uniqueEntryId": "QBxsHQZ8DpGYE7d8S",
     "materials": {
       "wood": 5,
@@ -546,8 +589,9 @@
     "name": "basement flooring",
     "sources": "Smug villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Floors",
-    "internalId": null,
+    "internalId": 474,
     "uniqueEntryId": "RdpaWYGrZLzQWtKDJ",
     "materials": {
       "stone": 10
@@ -558,8 +602,9 @@
     "name": "basket pack",
     "sources": "Balloons",
     "sourceNotes": "Only available during Spring",
+    "version": "1.0.0",
     "category": "Bags",
-    "internalId": null,
+    "internalId": 645,
     "uniqueEntryId": "j2a3p7Gtpy8fW2Z5S",
     "materials": {
       "young spring bamboo": 6
@@ -570,8 +615,9 @@
     "name": "beekeeper's hive",
     "sources": "Jock villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 204,
     "uniqueEntryId": "nxtm2DdtRcHzAyrZX",
     "materials": {
       "wasp nest": 3,
@@ -583,8 +629,9 @@
     "name": "big festive tree",
     "sources": "Balloons",
     "sourceNotes": "Only available during Festive Season",
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 273,
     "uniqueEntryId": "xArzFHH3vK5tq4r6y",
     "materials": {
       "red ornament": 6,
@@ -599,8 +646,9 @@
     "name": "birdbath",
     "sources": "Villager House Development (Tom Nook); Snooty villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 42,
     "uniqueEntryId": "73BAmDLcYdhSDnHLR",
     "materials": {
       "stone": 6
@@ -611,8 +659,9 @@
     "name": "birdcage",
     "sources": "Big sister villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 216,
     "uniqueEntryId": "Dm56HseZexdC2ctda",
     "materials": {
       "wood": 8
@@ -623,8 +672,9 @@
     "name": "birdhouse",
     "sources": "Tom Nook; Peppy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 41,
     "uniqueEntryId": "cDe3r9tficCbWgmH4",
     "materials": {
       "wood": 2,
@@ -636,8 +686,9 @@
     "name": "blossom-viewing lantern",
     "sources": "Balloons",
     "sourceNotes": "Only available during Cherry-Blossom Season",
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 427,
     "uniqueEntryId": "7dxFMY3pjTmv4D3QX",
     "materials": {
       "cherry-blossom petal": 6,
@@ -649,8 +700,9 @@
     "name": "blue rose crown",
     "sources": "All Villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Headwear",
-    "internalId": null,
+    "internalId": 459,
     "uniqueEntryId": "5oscGctPhHbHFeSHY",
     "materials": {
       "blue roses": 6
@@ -661,8 +713,9 @@
     "name": "blue rose wreath",
     "sources": "All Villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wall-Mounted",
-    "internalId": null,
+    "internalId": 447,
     "uniqueEntryId": "XbGbAr5htMNb6h4mr",
     "materials": {
       "blue roses": 10
@@ -673,8 +726,9 @@
     "name": "bone doorplate",
     "sources": "Lazy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wall-Mounted",
-    "internalId": null,
+    "internalId": 467,
     "uniqueEntryId": "jbvhjbWecrky57s9e",
     "materials": {
       "softwood": 3
@@ -685,8 +739,9 @@
     "name": "bonfire",
     "sources": "Tom Nook; Cranky villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 34,
     "uniqueEntryId": "JxApKgoud4gfvEcwk",
     "materials": {
       "campfire": 1,
@@ -698,8 +753,9 @@
     "name": "bonsai shelf",
     "sources": "Cranky villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 593,
     "uniqueEntryId": "ybNj2deAkSr4AkbXf",
     "materials": {
       "cherry-blossom bonsai": 1,
@@ -712,8 +768,9 @@
     "name": "boomerang",
     "sources": "Lazy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wall-Mounted",
-    "internalId": null,
+    "internalId": 171,
     "uniqueEntryId": "rMasSCDby69z84Fai",
     "materials": {
       "hardwood": 3
@@ -724,8 +781,9 @@
     "name": "brick fence",
     "sources": "Nook Miles Exchange",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Fencing",
-    "internalId": null,
+    "internalId": 99,
     "uniqueEntryId": "F7bg775Kh6niY7gcZ",
     "materials": {
       "clay": 6
@@ -736,8 +794,9 @@
     "name": "brick oven",
     "sources": "Nook's Cranny",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 58,
     "uniqueEntryId": "HKzfxMGvbz6Xhni9E",
     "materials": {
       "clay": 8,
@@ -750,8 +809,9 @@
     "name": "brick well",
     "sources": "Nook Miles Exchange",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 408,
     "uniqueEntryId": "MZhaSK4GZ9D3jkRMw",
     "materials": {
       "clay": 8,
@@ -764,8 +824,9 @@
     "name": "bridge construction kit",
     "sources": "Tom Nook (Story)",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Other",
-    "internalId": null,
+    "internalId": 458,
     "uniqueEntryId": "5aMdJ9fqw3nFtTSYR",
     "materials": {
       "log stakes": 4,
@@ -778,8 +839,9 @@
     "name": "brown herringbone wall",
     "sources": "Big sister villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wallpaper",
-    "internalId": null,
+    "internalId": 312,
     "uniqueEntryId": "YXiuGMDZmkG7wbuQn",
     "materials": {
       "softwood": 15
@@ -790,8 +852,9 @@
     "name": "Bunny Day arch",
     "sources": "Zipper after collecting all 6 egg types",
     "sourceNotes": "Only available during Bunny Day",
+    "version": "1.1.0a",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 695,
     "uniqueEntryId": "LnuCzHYJaAs4HNMdm",
     "materials": {
       "earth egg": 2,
@@ -807,8 +870,9 @@
     "name": "Bunny Day bag",
     "sources": "All villagers",
     "sourceNotes": "Only available during Bunny Day",
+    "version": "1.1.0a",
     "category": "Bags",
-    "internalId": null,
+    "internalId": 694,
     "uniqueEntryId": "9njGw9d2nxaB5RiGR",
     "materials": {
       "earth egg": 1,
@@ -824,8 +888,9 @@
     "name": "Bunny Day bed",
     "sources": "Egg bottle; Egg balloon",
     "sourceNotes": "Only available during Bunny Day",
+    "version": "1.1.0a",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 698,
     "uniqueEntryId": "FiJ85ZKnHbkjNQ7FF",
     "materials": {
       "earth egg": 1,
@@ -841,8 +906,9 @@
     "name": "Bunny Day crown",
     "sources": "All villagers",
     "sourceNotes": "Only available during Bunny Day",
+    "version": "1.1.0a",
     "category": "Headwear",
-    "internalId": null,
+    "internalId": 693,
     "uniqueEntryId": "ARB6gWR7MFyiPoP3b",
     "materials": {
       "earth egg": 1,
@@ -858,8 +924,9 @@
     "name": "Bunny Day fence",
     "sources": "Egg bottle; Egg balloon",
     "sourceNotes": "Only available during Bunny Day",
+    "version": "1.1.0a",
     "category": "Fencing",
-    "internalId": null,
+    "internalId": 712,
     "uniqueEntryId": "4Kdig9tWPTr4Xx6Kv",
     "materials": {
       "earth egg": 1,
@@ -875,8 +942,9 @@
     "name": "Bunny Day festive balloons",
     "sources": "Egg bottle; Egg balloon",
     "sourceNotes": "Only available during Bunny Day",
+    "version": "1.1.0a",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 704,
     "uniqueEntryId": "gSFqr84aRRt85bwzj",
     "materials": {
       "stone egg": 1,
@@ -889,8 +957,9 @@
     "name": "Bunny Day flooring",
     "sources": "Egg bottle; Egg balloon",
     "sourceNotes": "Only available during Bunny Day",
+    "version": "1.1.0a",
     "category": "Floors",
-    "internalId": null,
+    "internalId": 710,
     "uniqueEntryId": "niHGKnTgXRGTbpEwc",
     "materials": {
       "earth egg": 2,
@@ -906,8 +975,9 @@
     "name": "Bunny Day glowy garland",
     "sources": "Egg bottle; Egg balloon",
     "sourceNotes": "Only available during Bunny Day",
+    "version": "1.1.0a",
     "category": "Wall-Mounted",
-    "internalId": null,
+    "internalId": 700,
     "uniqueEntryId": "o4dxxDMeguMH8zQzx",
     "materials": {
       "earth egg": 1,
@@ -923,8 +993,9 @@
     "name": "Bunny Day lamp",
     "sources": "Egg bottle; Egg balloon",
     "sourceNotes": "Only available during Bunny Day",
+    "version": "1.1.0a",
     "category": "Miscellaneous",
-    "internalId": null,
+    "internalId": 697,
     "uniqueEntryId": "aJAmvizpFhDespKHb",
     "materials": {
       "wood egg": 4
@@ -935,8 +1006,9 @@
     "name": "Bunny Day merry balloons",
     "sources": "Egg bottle; Egg balloon",
     "sourceNotes": "Only available during Bunny Day",
+    "version": "1.1.0a",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 702,
     "uniqueEntryId": "8JL8MamAW5zYTfT3J",
     "materials": {
       "earth egg": 1,
@@ -949,8 +1021,9 @@
     "name": "Bunny Day rug",
     "sources": "Egg bottle; Egg balloon",
     "sourceNotes": "Only available during Bunny Day",
+    "version": "1.1.0a",
     "category": "Rugs",
-    "internalId": null,
+    "internalId": 709,
     "uniqueEntryId": "qhQxRtRZztg72hh23",
     "materials": {
       "earth egg": 1,
@@ -966,8 +1039,9 @@
     "name": "Bunny Day stool",
     "sources": "Egg bottle; Egg balloon",
     "sourceNotes": "Only available during Bunny Day",
+    "version": "1.1.0a",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 699,
     "uniqueEntryId": "wa4bcffdYLswPfJ2B",
     "materials": {
       "water egg": 3
@@ -978,8 +1052,9 @@
     "name": "Bunny Day table",
     "sources": "Egg bottle; Egg balloon",
     "sourceNotes": "Only available during Bunny Day",
+    "version": "1.1.0a",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 705,
     "uniqueEntryId": "9aQh9Qrq3vpQdqueu",
     "materials": {
       "earth egg": 4
@@ -990,8 +1065,9 @@
     "name": "Bunny Day vanity",
     "sources": "Egg bottle; Egg balloon",
     "sourceNotes": "Only available during Bunny Day",
+    "version": "1.1.0a",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 703,
     "uniqueEntryId": "NnTWBXepctfiLMjnL",
     "materials": {
       "leaf egg": 4
@@ -1002,8 +1078,9 @@
     "name": "Bunny Day wall",
     "sources": "Egg bottle; Egg balloon",
     "sourceNotes": "Only available during Bunny Day",
+    "version": "1.1.0a",
     "category": "Wallpaper",
-    "internalId": null,
+    "internalId": 708,
     "uniqueEntryId": "fJWKvdNQwBqRaKjsz",
     "materials": {
       "earth egg": 2,
@@ -1019,8 +1096,9 @@
     "name": "Bunny Day wall clock",
     "sources": "Egg bottle; Egg balloon",
     "sourceNotes": "Only available during Bunny Day",
+    "version": "1.1.0a",
     "category": "Wall-Mounted",
-    "internalId": null,
+    "internalId": 701,
     "uniqueEntryId": "CYdX8kEStsmMXX96v",
     "materials": {
       "sky egg": 3
@@ -1031,8 +1109,9 @@
     "name": "Bunny Day wand",
     "sources": "Zipper after crafting wobbling Zipper toy",
     "sourceNotes": "Only available during Bunny Day",
+    "version": "1.1.0a",
     "category": "Tools",
-    "internalId": null,
+    "internalId": 711,
     "uniqueEntryId": "ySsGKkX7k5TFeytzQ",
     "materials": {
       "wobbling Zipper toy": 1,
@@ -1044,8 +1123,9 @@
     "name": "Bunny Day wardrobe",
     "sources": "Egg bottle; Egg balloon",
     "sourceNotes": "Only available during Bunny Day",
+    "version": "1.1.0a",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 706,
     "uniqueEntryId": "CNAhe3aeGYQ22Q7LG",
     "materials": {
       "stone egg": 4
@@ -1056,8 +1136,9 @@
     "name": "Bunny Day wreath",
     "sources": "Egg bottle; Egg balloon",
     "sourceNotes": "Only available during Bunny Day",
+    "version": "1.1.0a",
     "category": "Wall-Mounted",
-    "internalId": null,
+    "internalId": 707,
     "uniqueEntryId": "296Ws5ikbL8hMv3ZC",
     "materials": {
       "earth egg": 1,
@@ -1073,8 +1154,9 @@
     "name": "butter churn",
     "sources": "Snooty villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 508,
     "uniqueEntryId": "zAPyFGPvmSTCdivgm",
     "materials": {
       "wood": 4,
@@ -1086,8 +1168,9 @@
     "name": "cabin wall",
     "sources": "Peppy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wallpaper",
-    "internalId": null,
+    "internalId": 315,
     "uniqueEntryId": "vYePWAqNbmHCX2n7u",
     "materials": {
       "hardwood": 15
@@ -1098,8 +1181,9 @@
     "name": "campfire",
     "sources": "Tom Nook",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 13,
     "uniqueEntryId": "YDCiZFYQHNweKWYcz",
     "materials": {
       "tree branch": 3
@@ -1110,8 +1194,9 @@
     "name": "campsite construction kit",
     "sources": "Tom Nook (Story)",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Other",
-    "internalId": null,
+    "internalId": 461,
     "uniqueEntryId": "r2Hct8GMigwWDdwc8",
     "materials": {
       "wood": 15,
@@ -1125,8 +1210,9 @@
     "name": "Cancer table",
     "sources": "Celeste",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 371,
     "uniqueEntryId": "FvH6DXMtKuuXbmRdS",
     "materials": {
       "star fragment": 3,
@@ -1140,8 +1226,9 @@
     "name": "Capricorn ornament",
     "sources": "Celeste",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 370,
     "uniqueEntryId": "WzAvFzPD5oa7ZijeY",
     "materials": {
       "star fragment": 3,
@@ -1155,8 +1242,9 @@
     "name": "cardboard bed",
     "sources": "Lazy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 497,
     "uniqueEntryId": "egMT9pGzXF4tW2TcQ",
     "materials": {
       "cardboard box": 4
@@ -1167,8 +1255,9 @@
     "name": "cardboard chair",
     "sources": "Lazy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 498,
     "uniqueEntryId": "keFZfoTQf5ShhZn7b",
     "materials": {
       "cardboard box": 1
@@ -1179,8 +1268,9 @@
     "name": "cardboard sofa",
     "sources": "Peppy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 500,
     "uniqueEntryId": "XfuFR6TygpGsHECLn",
     "materials": {
       "cardboard box": 2
@@ -1191,8 +1281,9 @@
     "name": "cardboard table",
     "sources": "Peppy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 496,
     "uniqueEntryId": "nXCaiKb8ZKtRdFrps",
     "materials": {
       "cardboard box": 4
@@ -1203,8 +1294,9 @@
     "name": "cherry dress",
     "sources": "Peppy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Dresses",
-    "internalId": null,
+    "internalId": 612,
     "uniqueEntryId": "XeA7zE2nkf38vLXR2",
     "materials": {
       "cherry": 8
@@ -1215,8 +1307,9 @@
     "name": "cherry hat",
     "sources": "Peppy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Headwear",
-    "internalId": null,
+    "internalId": 613,
     "uniqueEntryId": "t7SsbKgRAa6GWgjR8",
     "materials": {
       "cherry": 5
@@ -1227,8 +1320,9 @@
     "name": "cherry lamp",
     "sources": "Peppy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wall-Mounted",
-    "internalId": null,
+    "internalId": 162,
     "uniqueEntryId": "6hBjge6rn7Sxd5sr7",
     "materials": {
       "cherry": 10,
@@ -1240,8 +1334,9 @@
     "name": "cherry rug",
     "sources": "Peppy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Rugs",
-    "internalId": null,
+    "internalId": 543,
     "uniqueEntryId": "pMnYDcm7v9cjAdLj2",
     "materials": {
       "cherry": 6
@@ -1252,8 +1347,9 @@
     "name": "cherry speakers",
     "sources": "Peppy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Miscellaneous",
-    "internalId": null,
+    "internalId": 161,
     "uniqueEntryId": "TtSKEhTt2uf2P9Mcj",
     "materials": {
       "cherry": 10,
@@ -1265,8 +1361,9 @@
     "name": "cherry umbrella",
     "sources": "Peppy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Umbrellas",
-    "internalId": null,
+    "internalId": 614,
     "uniqueEntryId": "pKzsdzbBmNX3hZd7R",
     "materials": {
       "cherry": 7
@@ -1277,8 +1374,9 @@
     "name": "cherry wall",
     "sources": "Peppy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wallpaper",
-    "internalId": null,
+    "internalId": 307,
     "uniqueEntryId": "c4EyTmXti6TusMbGF",
     "materials": {
       "cherry": 20
@@ -1289,8 +1387,9 @@
     "name": "cherry-blossom bonsai",
     "sources": "Balloons",
     "sourceNotes": "Only available during Cherry-Blossom Season",
+    "version": "1.0.0",
     "category": "Miscellaneous",
-    "internalId": null,
+    "internalId": 375,
     "uniqueEntryId": "ToGQibiXb4sB3pT7B",
     "materials": {
       "cherry-blossom petal": 6,
@@ -1304,8 +1403,9 @@
     "name": "cherry-blossom branches",
     "sources": "Balloons",
     "sourceNotes": "Only available during Cherry-Blossom Season",
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 419,
     "uniqueEntryId": "6P3zgNBfKCc3vZxjJ",
     "materials": {
       "cherry-blossom petal": 8,
@@ -1318,8 +1418,9 @@
     "name": "cherry-blossom clock",
     "sources": "Balloons",
     "sourceNotes": "Only available during Cherry-Blossom Season",
+    "version": "1.0.0",
     "category": "Wall-Mounted",
-    "internalId": null,
+    "internalId": 426,
     "uniqueEntryId": "9kPKbzAAQzJTu9758",
     "materials": {
       "cherry-blossom petal": 5
@@ -1330,8 +1431,9 @@
     "name": "cherry-blossom flooring",
     "sources": "Balloons",
     "sourceNotes": "Only available during Cherry-Blossom Season",
+    "version": "1.0.0",
     "category": "Floors",
-    "internalId": null,
+    "internalId": 479,
     "uniqueEntryId": "Bthw6qsrWMxRp4L2J",
     "materials": {
       "cherry-blossom petal": 10,
@@ -1343,8 +1445,9 @@
     "name": "cherry-blossom pochette",
     "sources": "Balloons",
     "sourceNotes": "Only available during Cherry-Blossom Season",
+    "version": "1.0.0",
     "category": "Bags",
-    "internalId": null,
+    "internalId": 630,
     "uniqueEntryId": "vh9iLeDKLo3LR8T4G",
     "materials": {
       "cherry-blossom petal": 6
@@ -1355,8 +1458,9 @@
     "name": "cherry-blossom pond stone",
     "sources": "Balloons",
     "sourceNotes": "Only available during Cherry-Blossom Season",
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 511,
     "uniqueEntryId": "5kPZxufBzifksrFoK",
     "materials": {
       "stone": 10,
@@ -1368,8 +1472,9 @@
     "name": "cherry-blossom umbrella",
     "sources": "Balloons",
     "sourceNotes": "Only available during Cherry-Blossom Season",
+    "version": "1.0.0",
     "category": "Umbrellas",
-    "internalId": null,
+    "internalId": 629,
     "uniqueEntryId": "Ss2QnC4nP26NFyexM",
     "materials": {
       "cherry-blossom petal": 7
@@ -1380,8 +1485,9 @@
     "name": "cherry-blossom wand",
     "sources": "Balloons",
     "sourceNotes": "Only available during Cherry-Blossom Season",
+    "version": "1.0.0",
     "category": "Tools",
-    "internalId": null,
+    "internalId": 537,
     "uniqueEntryId": "TRZ2p8L58k3FvGpPJ",
     "materials": {
       "cherry-blossom petal": 3,
@@ -1393,8 +1499,9 @@
     "name": "cherry-blossom-petal pile",
     "sources": "Balloons",
     "sourceNotes": "Only available during Cherry-Blossom Season",
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 418,
     "uniqueEntryId": "Brh7tns5YQ2rzkYLN",
     "materials": {
       "cherry-blossom petal": 5
@@ -1405,8 +1512,9 @@
     "name": "cherry-blossom-trees wall",
     "sources": "Balloons",
     "sourceNotes": "Only available during Cherry-Blossom Season",
+    "version": "1.0.0",
     "category": "Wallpaper",
-    "internalId": null,
+    "internalId": 480,
     "uniqueEntryId": "C4v4pT2hwNJdB82tD",
     "materials": {
       "cherry-blossom petal": 10,
@@ -1418,8 +1526,9 @@
     "name": "chic cosmos wreath",
     "sources": "All Villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wall-Mounted",
-    "internalId": null,
+    "internalId": 444,
     "uniqueEntryId": "XgThrnxG75cqkssWt",
     "materials": {
       "black cosmos": 10
@@ -1430,8 +1539,9 @@
     "name": "chic mum crown",
     "sources": "All Villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Headwear",
-    "internalId": null,
+    "internalId": 259,
     "uniqueEntryId": "tZEt9aNRec7gTZDjp",
     "materials": {
       "purple mums": 3,
@@ -1443,8 +1553,9 @@
     "name": "chic rose crown",
     "sources": "All Villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Headwear",
-    "internalId": null,
+    "internalId": 254,
     "uniqueEntryId": "af3PHSYfriLmgvb8b",
     "materials": {
       "purple roses": 3,
@@ -1456,8 +1567,9 @@
     "name": "chic tulip crown",
     "sources": "All Villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Headwear",
-    "internalId": null,
+    "internalId": 244,
     "uniqueEntryId": "AWo72X4YM3PnWSL2P",
     "materials": {
       "purple tulips": 2,
@@ -1470,8 +1582,9 @@
     "name": "chic windflower wreath",
     "sources": "All Villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wall-Mounted",
-    "internalId": null,
+    "internalId": 440,
     "uniqueEntryId": "2W5Pa9MKWHhknBENu",
     "materials": {
       "purple windflowers": 10
@@ -1482,8 +1595,9 @@
     "name": "chocolate herringbone wall",
     "sources": "Smug villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wallpaper",
-    "internalId": null,
+    "internalId": 313,
     "uniqueEntryId": "TvTxY9NBsDvQfXAJH",
     "materials": {
       "softwood": 15
@@ -1494,8 +1608,9 @@
     "name": "clackercart",
     "sources": "Lazy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 164,
     "uniqueEntryId": "EqWJqEqcpki2TCTXS",
     "materials": {
       "hardwood": 2,
@@ -1507,8 +1622,9 @@
     "name": "classic pitcher",
     "sources": "Villager House Development (Tom Nook); Snooty villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Miscellaneous",
-    "internalId": null,
+    "internalId": 192,
     "uniqueEntryId": "jtdnvzuzyxYDa6xov",
     "materials": {
       "clay": 4
@@ -1519,8 +1635,9 @@
     "name": "classic-library wall",
     "sources": "Normal villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wallpaper",
-    "internalId": null,
+    "internalId": 317,
     "uniqueEntryId": "tWZXois4WZ3ztMwv6",
     "materials": {
       "book": 10
@@ -1531,8 +1648,9 @@
     "name": "clothesline",
     "sources": "Villager House Development (Tom Nook); Cranky villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 457,
     "uniqueEntryId": "kQm8o92yBJJPNpM2o",
     "materials": {
       "tree branch": 10
@@ -1543,8 +1661,9 @@
     "name": "coconut juice",
     "sources": "Snooty villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Miscellaneous",
-    "internalId": null,
+    "internalId": 163,
     "uniqueEntryId": "43ztxc7D5XHDmAMXA",
     "materials": {
       "coconut": 1
@@ -1555,8 +1674,9 @@
     "name": "coconut wall planter",
     "sources": "Snooty villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wall-Mounted",
-    "internalId": null,
+    "internalId": 405,
     "uniqueEntryId": "tw8LKPHQrkMZwgAua",
     "materials": {
       "coconut": 1,
@@ -1568,8 +1688,9 @@
     "name": "colored-leaves flooring",
     "sources": "Balloons",
     "sourceNotes": "Only available during Maple Leaf Season",
+    "version": "1.0.0",
     "category": "Floors",
-    "internalId": null,
+    "internalId": 476,
     "uniqueEntryId": "ENEvnncek9KfcwS9G",
     "materials": {
       "maple leaf": 10,
@@ -1581,8 +1702,9 @@
     "name": "cool hyacinth crown",
     "sources": "All Villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Headwear",
-    "internalId": null,
+    "internalId": 238,
     "uniqueEntryId": "zRzWiZwk8nTjaPxy7",
     "materials": {
       "blue hyacinths": 4,
@@ -1595,8 +1717,9 @@
     "name": "cool hyacinth wreath",
     "sources": "All Villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wall-Mounted",
-    "internalId": null,
+    "internalId": 453,
     "uniqueEntryId": "HaC5frhoXCDpy5YYj",
     "materials": {
       "orange hyacinths": 3,
@@ -1609,8 +1732,9 @@
     "name": "cool pansy crown",
     "sources": "All Villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Headwear",
-    "internalId": null,
+    "internalId": 247,
     "uniqueEntryId": "HH3M3xNAeCLsHTZRj",
     "materials": {
       "orange pansies": 3,
@@ -1622,8 +1746,9 @@
     "name": "cool pansy wreath",
     "sources": "All Villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wall-Mounted",
-    "internalId": null,
+    "internalId": 450,
     "uniqueEntryId": "RxiJe64ebSZy3dsHg",
     "materials": {
       "purple pansies": 10
@@ -1634,8 +1759,9 @@
     "name": "cool windflower crown",
     "sources": "All Villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Headwear",
-    "internalId": null,
+    "internalId": 241,
     "uniqueEntryId": "8KsLNr5dskMACBgmg",
     "materials": {
       "blue windflowers": 3,
@@ -1647,8 +1773,9 @@
     "name": "cool windflower wreath",
     "sources": "All Villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wall-Mounted",
-    "internalId": null,
+    "internalId": 441,
     "uniqueEntryId": "Aer6cEdrENAWFD4TP",
     "materials": {
       "blue windflowers": 3,
@@ -1661,8 +1788,9 @@
     "name": "corral fence",
     "sources": "Nook Miles Exchange",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Fencing",
-    "internalId": null,
+    "internalId": 269,
     "uniqueEntryId": "MRhMdwsDKNuaDfi8s",
     "materials": {
       "wood": 6
@@ -1673,8 +1801,9 @@
     "name": "cosmos crown",
     "sources": "All Villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Headwear",
-    "internalId": null,
+    "internalId": 249,
     "uniqueEntryId": "RBhKgvizEg6uocZvQ",
     "materials": {
       "red cosmos": 2,
@@ -1687,8 +1816,9 @@
     "name": "cosmos shower",
     "sources": "Snooty villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 501,
     "uniqueEntryId": "WqnkcGJydxs7ueTdr",
     "materials": {
       "pink cosmos": 5,
@@ -1700,8 +1830,9 @@
     "name": "cosmos wand",
     "sources": "Celeste",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Tools",
-    "internalId": null,
+    "internalId": 528,
     "uniqueEntryId": "qw6sc7YjNoXFjQt7J",
     "materials": {
       "white cosmos": 1,
@@ -1713,8 +1844,9 @@
     "name": "cosmos wreath",
     "sources": "All Villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wall-Mounted",
-    "internalId": null,
+    "internalId": 227,
     "uniqueEntryId": "KwujCjwLcpr42PGb3",
     "materials": {
       "yellow cosmos": 3,
@@ -1727,8 +1859,9 @@
     "name": "country fence",
     "sources": "Nook Miles Exchange",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Fencing",
-    "internalId": null,
+    "internalId": 268,
     "uniqueEntryId": "Wy3TCH3APTHJrpDhg",
     "materials": {
       "hardwood": 6
@@ -1739,8 +1872,9 @@
     "name": "crescent-moon chair",
     "sources": "Celeste",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 432,
     "uniqueEntryId": "3FcpSCLM9gcJrNhMu",
     "materials": {
       "star fragment": 7,
@@ -1752,8 +1886,9 @@
     "name": "crest doorplate",
     "sources": "Smug villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wall-Mounted",
-    "internalId": null,
+    "internalId": 469,
     "uniqueEntryId": "rBCZK2XaMKZ4jXrNH",
     "materials": {
       "iron nugget": 4
@@ -1764,8 +1899,9 @@
     "name": "crewed spaceship",
     "sources": "Celeste",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 434,
     "uniqueEntryId": "2SBnbqnymBq9DczP6",
     "materials": {
       "star fragment": 10,
@@ -1777,8 +1913,9 @@
     "name": "cute lily crown",
     "sources": "All Villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Headwear",
-    "internalId": null,
+    "internalId": 256,
     "uniqueEntryId": "WNR9mPLvre4qtfrnQ",
     "materials": {
       "pink lilies": 2,
@@ -1791,8 +1928,9 @@
     "name": "cute rose crown",
     "sources": "All Villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Headwear",
-    "internalId": null,
+    "internalId": 253,
     "uniqueEntryId": "GqacSkmPu6G4u43tR",
     "materials": {
       "pink roses": 3,
@@ -1804,8 +1942,9 @@
     "name": "cutting board",
     "sources": "Normal villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Miscellaneous",
-    "internalId": null,
+    "internalId": 284,
     "uniqueEntryId": "ebxdGKznZzRDMMccg",
     "materials": {
       "hardwood": 2,
@@ -1817,8 +1956,9 @@
     "name": "dark bamboo rug",
     "sources": "Cranky villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Rugs",
-    "internalId": null,
+    "internalId": 672,
     "uniqueEntryId": "4FRs7iQAhxjseeyWP",
     "materials": {
       "bamboo piece": 6
@@ -1829,8 +1969,9 @@
     "name": "dark cosmos crown",
     "sources": "All Villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Headwear",
-    "internalId": null,
+    "internalId": 251,
     "uniqueEntryId": "yoXYwWGZ7xpNi9P4W",
     "materials": {
       "black cosmos": 7
@@ -1841,8 +1982,9 @@
     "name": "dark lily crown",
     "sources": "All Villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Headwear",
-    "internalId": null,
+    "internalId": 257,
     "uniqueEntryId": "Fr3oaQMDbkQ9N9i8t",
     "materials": {
       "black lilies": 6
@@ -1853,8 +1995,9 @@
     "name": "dark lily wreath",
     "sources": "All Villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wall-Mounted",
-    "internalId": null,
+    "internalId": 454,
     "uniqueEntryId": "ExWh3urifQgJTCCH3",
     "materials": {
       "black lilies": 10
@@ -1865,8 +2008,9 @@
     "name": "dark rose wreath",
     "sources": "All Villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wall-Mounted",
-    "internalId": null,
+    "internalId": 446,
     "uniqueEntryId": "utyr7MwFDwd8syFcW",
     "materials": {
       "black roses": 3,
@@ -1878,8 +2022,9 @@
     "name": "dark tulip crown",
     "sources": "All Villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Headwear",
-    "internalId": null,
+    "internalId": 245,
     "uniqueEntryId": "xJjpphgWJpHubYFET",
     "materials": {
       "black tulips": 5
@@ -1890,8 +2035,9 @@
     "name": "dark tulip wreath",
     "sources": "All Villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wall-Mounted",
-    "internalId": null,
+    "internalId": 362,
     "uniqueEntryId": "oCnpF6D3PyAJ5kGz8",
     "materials": {
       "black tulips": 10
@@ -1902,8 +2048,9 @@
     "name": "dark wooden-mosaic wall",
     "sources": "Big sister villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wallpaper",
-    "internalId": null,
+    "internalId": 311,
     "uniqueEntryId": "sEZQCkucygfgPphNu",
     "materials": {
       "wood": 15
@@ -1914,8 +2061,9 @@
     "name": "decoy duck",
     "sources": "Smug villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Miscellaneous",
-    "internalId": null,
+    "internalId": 390,
     "uniqueEntryId": "Rb8PSLPkNwP7hCk8G",
     "materials": {
       "softwood": 4
@@ -1926,8 +2074,9 @@
     "name": "deer decoration",
     "sources": "Lazy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wall-Mounted",
-    "internalId": null,
+    "internalId": 378,
     "uniqueEntryId": "BTF82ckDtSkknQmua",
     "materials": {
       "softwood": 8
@@ -1938,8 +2087,9 @@
     "name": "deer scare",
     "sources": "Cranky villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 359,
     "uniqueEntryId": "Tdhp7ADcciKJj7y3H",
     "materials": {
       "bamboo piece": 3,
@@ -1952,8 +2102,9 @@
     "name": "destinations signpost",
     "sources": "Nook Miles Exchange",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 383,
     "uniqueEntryId": "39ryJtTNCrokaosYW",
     "materials": {
       "hardwood": 4,
@@ -1965,8 +2116,9 @@
     "name": "DIY workbench",
     "sources": "Big sister villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 263,
     "uniqueEntryId": "sjr8rh3ZujiLscc3C",
     "materials": {
       "wood": 5,
@@ -1981,8 +2133,9 @@
     "name": "document stack",
     "sources": "Smug villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Miscellaneous",
-    "internalId": null,
+    "internalId": 462,
     "uniqueEntryId": "rLvnyoEj48NFgsNpX",
     "materials": {
       "scattered papers": 1
@@ -1993,8 +2146,9 @@
     "name": "doghouse",
     "sources": "Jock villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 14,
     "uniqueEntryId": "vMF3FP2steT4gaJ9u",
     "materials": {
       "wood": 10,
@@ -2006,8 +2160,9 @@
     "name": "drinking fountain",
     "sources": "Nook Miles Exchange",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 77,
     "uniqueEntryId": "tsTxksskAQtbvJMWB",
     "materials": {
       "stone": 8,
@@ -2019,8 +2174,9 @@
     "name": "earth-egg outfit",
     "sources": "Collecting earth eggs",
     "sourceNotes": "Only available during Bunny Day",
+    "version": "1.1.0a",
     "category": "Dresses",
-    "internalId": null,
+    "internalId": 674,
     "uniqueEntryId": "7Mt6bHNy79mjNGipa",
     "materials": {
       "earth egg": 3
@@ -2031,8 +2187,9 @@
     "name": "earth-egg shell",
     "sources": "Collecting earth eggs",
     "sourceNotes": "Only available during Bunny Day",
+    "version": "1.1.0a",
     "category": "Headwear",
-    "internalId": null,
+    "internalId": 673,
     "uniqueEntryId": "C9wvFR7fBGccZDyWa",
     "materials": {
       "earth egg": 2
@@ -2043,8 +2200,9 @@
     "name": "earth-egg shoes",
     "sources": "Collecting earth eggs",
     "sourceNotes": "Only available during Bunny Day",
+    "version": "1.1.0a",
     "category": "Shoes",
-    "internalId": null,
+    "internalId": 675,
     "uniqueEntryId": "usLoxmkjFnPhxs9nr",
     "materials": {
       "earth egg": 2
@@ -2055,8 +2213,9 @@
     "name": "egg party dress",
     "sources": "Learning all egg outfit DIYs",
     "sourceNotes": "Only available during Bunny Day",
+    "version": "1.1.0a",
     "category": "Dresses",
-    "internalId": null,
+    "internalId": 692,
     "uniqueEntryId": "zNdwTbYA7G3MRrqkE",
     "materials": {
       "earth egg": 3,
@@ -2072,8 +2231,9 @@
     "name": "egg party hat",
     "sources": "Learning all egg outfit DIYs",
     "sourceNotes": "Only available during Bunny Day",
+    "version": "1.1.0a",
     "category": "Headwear",
-    "internalId": null,
+    "internalId": 691,
     "uniqueEntryId": "SCBtDqCaR7QLCprjw",
     "materials": {
       "earth egg": 2,
@@ -2089,8 +2249,9 @@
     "name": "fancy lily wreath",
     "sources": "All Villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wall-Mounted",
-    "internalId": null,
+    "internalId": 455,
     "uniqueEntryId": "yj4Z2oGDi6Thvm89d",
     "materials": {
       "orange lilies": 3,
@@ -2103,8 +2264,9 @@
     "name": "fancy mum wreath",
     "sources": "All Villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wall-Mounted",
-    "internalId": null,
+    "internalId": 443,
     "uniqueEntryId": "qW3wgimoN7XhG5BvD",
     "materials": {
       "pink mums": 3,
@@ -2117,8 +2279,9 @@
     "name": "fancy rose wreath",
     "sources": "All Villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wall-Mounted",
-    "internalId": null,
+    "internalId": 448,
     "uniqueEntryId": "vr9dDrXLQuDSwfDdy",
     "materials": {
       "orange roses": 3,
@@ -2131,8 +2294,9 @@
     "name": "festive top set",
     "sources": "Balloons",
     "sourceNotes": "Only available during Festive Season",
+    "version": "1.0.0",
     "category": "Miscellaneous",
-    "internalId": null,
+    "internalId": 650,
     "uniqueEntryId": "tyq7gwEQhneN7ret4",
     "materials": {
       "gold ornament": 2,
@@ -2144,8 +2308,9 @@
     "name": "festive tree",
     "sources": "Balloons",
     "sourceNotes": "Only available during Festive Season",
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 274,
     "uniqueEntryId": "vtwGE69N2Z3GppKwx",
     "materials": {
       "red ornament": 3,
@@ -2159,8 +2324,9 @@
     "name": "firewood",
     "sources": "Jock villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Miscellaneous",
-    "internalId": null,
+    "internalId": 402,
     "uniqueEntryId": "yDibbjkFgmEuJtdS6",
     "materials": {
       "wood": 8
@@ -2171,8 +2337,9 @@
     "name": "fish bait",
     "sources": "Digging up clams",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Other",
-    "internalId": null,
+    "internalId": 191,
     "uniqueEntryId": "XSQzMk4R5tzbPbToi",
     "materials": {
       "manila clam": 1
@@ -2183,8 +2350,9 @@
     "name": "fishing rod",
     "sources": "Nook Miles Exchange",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Tools",
-    "internalId": null,
+    "internalId": 282,
     "uniqueEntryId": "FeccEGBoFMHyMM75Q",
     "materials": {
       "flimsy fishing rod": 1,
@@ -2196,8 +2364,9 @@
     "name": "flat garden rock",
     "sources": "Snooty villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 646,
     "uniqueEntryId": "JFxaTW3m9gD8zWTyQ",
     "materials": {
       "stone": 20
@@ -2208,8 +2377,9 @@
     "name": "flimsy axe",
     "sources": "Tom Nook; Nook's Cranny",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Tools",
-    "internalId": null,
+    "internalId": 10,
     "uniqueEntryId": "6WFHd6r74ZDND9eCx",
     "materials": {
       "tree branch": 5,
@@ -2221,8 +2391,9 @@
     "name": "flimsy fishing rod",
     "sources": "Tom Nook",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Tools",
-    "internalId": null,
+    "internalId": 21,
     "uniqueEntryId": "9JboJHudaWqqbQxbZ",
     "materials": {
       "tree branch": 5
@@ -2233,8 +2404,9 @@
     "name": "flimsy net",
     "sources": "Tom Nook",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Tools",
-    "internalId": null,
+    "internalId": 22,
     "uniqueEntryId": "jF9AD5TZekwWomWwJ",
     "materials": {
       "tree branch": 5
@@ -2245,8 +2417,9 @@
     "name": "flimsy shovel",
     "sources": "Blathers; Nook's Cranny",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Tools",
-    "internalId": null,
+    "internalId": 19,
     "uniqueEntryId": "bPp3TpiueJDRte9wT",
     "materials": {
       "hardwood": 5
@@ -2257,8 +2430,9 @@
     "name": "flimsy watering can",
     "sources": "Tom Nook; Nook's Cranny",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Tools",
-    "internalId": null,
+    "internalId": 20,
     "uniqueEntryId": "FnnhLbn7KQdg2Xqey",
     "materials": {
       "softwood": 5
@@ -2269,8 +2443,9 @@
     "name": "floral swag",
     "sources": "Normal villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wall-Mounted",
-    "internalId": null,
+    "internalId": 121,
     "uniqueEntryId": "d2brTtEXPaFRfbcFh",
     "materials": {
       "clump of weeds": 10
@@ -2281,8 +2456,9 @@
     "name": "flower stand",
     "sources": "Big sister villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 608,
     "uniqueEntryId": "faN686NpjrFkDricn",
     "materials": {
       "red roses": 1,
@@ -2298,8 +2474,9 @@
     "name": "flying saucer",
     "sources": "Celeste",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 233,
     "uniqueEntryId": "JDCn8zkKX2JwHBxBh",
     "materials": {
       "star fragment": 15,
@@ -2311,8 +2488,9 @@
     "name": "forest flooring",
     "sources": "Balloons",
     "sourceNotes": "Only available during Mushroom Season",
+    "version": "1.0.0",
     "category": "Floors",
-    "internalId": null,
+    "internalId": 488,
     "uniqueEntryId": "Qb6n9omuBxypP7aje",
     "materials": {
       "rare mushroom": 1,
@@ -2327,8 +2505,9 @@
     "name": "forest wall",
     "sources": "Balloons",
     "sourceNotes": "Only available during Mushroom Season",
+    "version": "1.0.0",
     "category": "Wallpaper",
-    "internalId": null,
+    "internalId": 484,
     "uniqueEntryId": "dtfYZqMNT9jsPDwTj",
     "materials": {
       "elegant mushroom": 2,
@@ -2343,8 +2522,9 @@
     "name": "fossil doorplate",
     "sources": "Jock villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wall-Mounted",
-    "internalId": null,
+    "internalId": 464,
     "uniqueEntryId": "eig2yBncaDeGLkfKP",
     "materials": {
       "fossil": 1,
@@ -2356,8 +2536,9 @@
     "name": "fountain",
     "sources": "Nook Miles Exchange",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 599,
     "uniqueEntryId": "LWAeuHiDEv25pHRQx",
     "materials": {
       "drinking fountain": 1,
@@ -2370,8 +2551,9 @@
     "name": "frozen arch",
     "sources": "Making a perfect Snowboy",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 140,
     "uniqueEntryId": "FqCNQ69DMLvgxruE9",
     "materials": {
       "large snowflake": 1,
@@ -2383,8 +2565,9 @@
     "name": "frozen bed",
     "sources": "Making a perfect Snowboy",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 149,
     "uniqueEntryId": "zBcsrLsdydLH3xHNE",
     "materials": {
       "large snowflake": 1,
@@ -2396,8 +2579,9 @@
     "name": "frozen chair",
     "sources": "Making a perfect Snowboy",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 142,
     "uniqueEntryId": "jJq4Bjw6SaE7S8mnT",
     "materials": {
       "large snowflake": 1,
@@ -2409,8 +2593,9 @@
     "name": "frozen counter",
     "sources": "Making a perfect Snowboy",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 143,
     "uniqueEntryId": "p76DgzdnhT9SCNipu",
     "materials": {
       "large snowflake": 1,
@@ -2422,8 +2607,9 @@
     "name": "frozen partition",
     "sources": "Making a perfect Snowboy",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 147,
     "uniqueEntryId": "8MAAQxYSHaQBQ6A2t",
     "materials": {
       "large snowflake": 1,
@@ -2435,8 +2621,9 @@
     "name": "frozen pillar",
     "sources": "Making a perfect Snowboy",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 148,
     "uniqueEntryId": "NLsTNAekFvRenddKs",
     "materials": {
       "large snowflake": 1,
@@ -2448,8 +2635,9 @@
     "name": "frozen sculpture",
     "sources": "Making a perfect Snowboy",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 141,
     "uniqueEntryId": "GGrDCvwPHpbzRnhzi",
     "materials": {
       "large snowflake": 1,
@@ -2461,8 +2649,9 @@
     "name": "frozen table",
     "sources": "Making a perfect Snowboy",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 146,
     "uniqueEntryId": "ERiC3P6oPfo8EgJcb",
     "materials": {
       "large snowflake": 1,
@@ -2474,8 +2663,9 @@
     "name": "frozen tree",
     "sources": "Making a perfect Snowboy",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 145,
     "uniqueEntryId": "CiiuZA9ZJhtjTrD8C",
     "materials": {
       "large snowflake": 1,
@@ -2487,8 +2677,9 @@
     "name": "frozen-treat set",
     "sources": "Making a perfect Snowboy",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Miscellaneous",
-    "internalId": null,
+    "internalId": 194,
     "uniqueEntryId": "ygrBuPoB8ZKRjnXXD",
     "materials": {
       "large snowflake": 1,
@@ -2500,8 +2691,9 @@
     "name": "fruit basket",
     "sources": "Cranky villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Miscellaneous",
-    "internalId": null,
+    "internalId": 56,
     "uniqueEntryId": "sAtJ8kdcam2FX5MJb",
     "materials": {
       "apple": 1,
@@ -2516,8 +2708,9 @@
     "name": "fruit wreath",
     "sources": "Cranky villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wall-Mounted",
-    "internalId": null,
+    "internalId": 223,
     "uniqueEntryId": "FPCNEvg2aBDZZkjxu",
     "materials": {
       "apple": 2,
@@ -2532,8 +2725,9 @@
     "name": "frying pan",
     "sources": "Nook's Cranny",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Miscellaneous",
-    "internalId": null,
+    "internalId": 199,
     "uniqueEntryId": "bgMKMNGmxjKPXaDNp",
     "materials": {
       "iron nugget": 2
@@ -2544,8 +2738,9 @@
     "name": "galaxy flooring",
     "sources": "Celeste",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Floors",
-    "internalId": null,
+    "internalId": 482,
     "uniqueEntryId": "e3XyJ7j4bQYXSRDBW",
     "materials": {
       "star fragment": 5,
@@ -2557,8 +2752,9 @@
     "name": "garbage-heap flooring",
     "sources": "Fishing up trash",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Floors",
-    "internalId": null,
+    "internalId": 486,
     "uniqueEntryId": "Ksn3xwxp4aqcty4Z6",
     "materials": {
       "empty can": 2,
@@ -2571,8 +2767,9 @@
     "name": "garbage-heap wall",
     "sources": "Fishing up trash",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wallpaper",
-    "internalId": null,
+    "internalId": 301,
     "uniqueEntryId": "pmFETBqn6JQFmXnA3",
     "materials": {
       "empty can": 2,
@@ -2585,8 +2782,9 @@
     "name": "garden bench",
     "sources": "Snooty villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 124,
     "uniqueEntryId": "AToP4B59FCDjcpbHj",
     "materials": {
       "wood": 12,
@@ -2598,8 +2796,9 @@
     "name": "garden rock",
     "sources": "Lazy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 48,
     "uniqueEntryId": "gH69947Ybie3us6SB",
     "materials": {
       "stone": 15
@@ -2610,8 +2809,9 @@
     "name": "garden wagon",
     "sources": "Peppy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 571,
     "uniqueEntryId": "4g5iFxN9TFG7KwndZ",
     "materials": {
       "white hyacinths": 3,
@@ -2626,8 +2826,9 @@
     "name": "Gemini closet",
     "sources": "Celeste",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 377,
     "uniqueEntryId": "jD3cfJDgrgBozKYnz",
     "materials": {
       "star fragment": 3,
@@ -2641,8 +2842,9 @@
     "name": "giant teddy bear",
     "sources": "Peppy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 577,
     "uniqueEntryId": "jPYidbBoH7RNB4jRQ",
     "materials": {
       "Papa bear": 1,
@@ -2655,8 +2857,9 @@
     "name": "gold armor",
     "sources": "Smug villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Dresses",
-    "internalId": null,
+    "internalId": 566,
     "uniqueEntryId": "9ThvdcF6fyMHcpzx2",
     "materials": {
       "gold nugget": 8
@@ -2667,8 +2870,9 @@
     "name": "gold bars",
     "sources": "Snooty villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Miscellaneous",
-    "internalId": null,
+    "internalId": 81,
     "uniqueEntryId": "3DtQMaiAHW8XDdX4c",
     "materials": {
       "gold nugget": 3
@@ -2679,8 +2883,9 @@
     "name": "gold helmet",
     "sources": "Smug villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Headwear",
-    "internalId": null,
+    "internalId": 644,
     "uniqueEntryId": "ihpryTYADPJmMyH3G",
     "materials": {
       "gold nugget": 5
@@ -2691,8 +2896,9 @@
     "name": "gold rose crown",
     "sources": "All Villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Headwear",
-    "internalId": null,
+    "internalId": 460,
     "uniqueEntryId": "RAj5rwhgZgfNLzsTh",
     "materials": {
       "gold roses": 6
@@ -2703,8 +2909,9 @@
     "name": "gold rose wreath",
     "sources": "All Villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wall-Mounted",
-    "internalId": null,
+    "internalId": 449,
     "uniqueEntryId": "fYHqu9bGpt2ivTWRt",
     "materials": {
       "gold roses": 10
@@ -2715,8 +2922,9 @@
     "name": "gold-armor shoes",
     "sources": "Smug villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Shoes",
-    "internalId": null,
+    "internalId": 643,
     "uniqueEntryId": "4nY6xoTSqFMjzsTLp",
     "materials": {
       "gold nugget": 4
@@ -2727,8 +2935,9 @@
     "name": "gold-screen wall",
     "sources": "Smug villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wallpaper",
-    "internalId": null,
+    "internalId": 298,
     "uniqueEntryId": "oCeLPYajbm2MHZyGn",
     "materials": {
       "gold nugget": 2,
@@ -2740,8 +2949,9 @@
     "name": "golden arowana model",
     "sources": "Lazy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Miscellaneous",
-    "internalId": null,
+    "internalId": 602,
     "uniqueEntryId": "TG3z4Bf2ju3Wo5tRK",
     "materials": {
       "gold nugget": 3
@@ -2752,8 +2962,9 @@
     "name": "golden axe",
     "sources": "Breaking 100 axes",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Tools",
-    "internalId": null,
+    "internalId": 663,
     "uniqueEntryId": "M67DJhFjbWusf3xXk",
     "materials": {
       "axe": 1,
@@ -2765,8 +2976,9 @@
     "name": "golden candlestick",
     "sources": "Smug villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Miscellaneous",
-    "internalId": null,
+    "internalId": 130,
     "uniqueEntryId": "F78p9Pkj6X2TRfpDT",
     "materials": {
       "gold nugget": 2
@@ -2777,8 +2989,9 @@
     "name": "golden casket",
     "sources": "Smug villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 569,
     "uniqueEntryId": "erQLwMgyX6NwbpNmG",
     "materials": {
       "gold nugget": 8
@@ -2789,8 +3002,9 @@
     "name": "golden dishes",
     "sources": "Snooty villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Miscellaneous",
-    "internalId": null,
+    "internalId": 131,
     "uniqueEntryId": "NX2ZZ8qZnEqqWtSGH",
     "materials": {
       "gold nugget": 1
@@ -2801,8 +3015,9 @@
     "name": "golden dung beetle",
     "sources": "Lazy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Miscellaneous",
-    "internalId": null,
+    "internalId": 601,
     "uniqueEntryId": "XhKhDoMTgc8eAoJna",
     "materials": {
       "gold nugget": 3
@@ -2813,8 +3028,9 @@
     "name": "golden flooring",
     "sources": "Smug villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Floors",
-    "internalId": null,
+    "internalId": 475,
     "uniqueEntryId": "Xju8kS2TB7B9EXbDG",
     "materials": {
       "gold nugget": 4
@@ -2825,8 +3041,9 @@
     "name": "golden gears",
     "sources": "Smug villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wall-Mounted",
-    "internalId": null,
+    "internalId": 595,
     "uniqueEntryId": "5JDaCQoYazbP4QkGN",
     "materials": {
       "gold nugget": 1,
@@ -2838,8 +3055,9 @@
     "name": "golden net",
     "sources": "Completing bug Critterpedia",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Tools",
-    "internalId": null,
+    "internalId": 658,
     "uniqueEntryId": "cnQ4qLNgFDK7F4NQJ",
     "materials": {
       "net": 1,
@@ -2851,8 +3069,9 @@
     "name": "golden rod",
     "sources": "Completing fish Critterpedia",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Tools",
-    "internalId": null,
+    "internalId": 662,
     "uniqueEntryId": "FTWgTtoCgm3jNGhM4",
     "materials": {
       "fishing rod": 1,
@@ -2864,8 +3083,9 @@
     "name": "golden seat",
     "sources": "Snooty villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 133,
     "uniqueEntryId": "EgGa9re6PRbpcCESz",
     "materials": {
       "gold nugget": 5
@@ -2876,8 +3096,9 @@
     "name": "golden shovel",
     "sources": "Helping Gulliver 30 times",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Tools",
-    "internalId": null,
+    "internalId": 660,
     "uniqueEntryId": "aEtPEYkwgj9BJ48Et",
     "materials": {
       "shovel": 1,
@@ -2889,8 +3110,9 @@
     "name": "golden slingshot",
     "sources": "Shooting 300 balloons",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Tools",
-    "internalId": null,
+    "internalId": 661,
     "uniqueEntryId": "W7WY5fpjB4Lc36YYs",
     "materials": {
       "slingshot": 1,
@@ -2902,8 +3124,9 @@
     "name": "golden toilet",
     "sources": "Snooty villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 262,
     "uniqueEntryId": "LExLS6QXyLuhewyZm",
     "materials": {
       "gold nugget": 6
@@ -2914,8 +3137,9 @@
     "name": "golden wall",
     "sources": "Smug villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wallpaper",
-    "internalId": null,
+    "internalId": 299,
     "uniqueEntryId": "u7gdHaAk5nbB4p5Ru",
     "materials": {
       "gold nugget": 4
@@ -2926,8 +3150,9 @@
     "name": "golden wand",
     "sources": "Celeste",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Tools",
-    "internalId": null,
+    "internalId": 539,
     "uniqueEntryId": "RgNWgCdnAK2qjJTmo",
     "materials": {
       "gold nugget": 2,
@@ -2939,8 +3164,9 @@
     "name": "golden watering can",
     "sources": "5-star town evaluation",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Tools",
-    "internalId": null,
+    "internalId": 659,
     "uniqueEntryId": "HShnyCLB3cPL5xNTx",
     "materials": {
       "watering can": 1,
@@ -2952,8 +3178,9 @@
     "name": "gong",
     "sources": "Cranky villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 393,
     "uniqueEntryId": "sLG4MSw3ReWmoBQNf",
     "materials": {
       "iron nugget": 6,
@@ -2965,8 +3192,9 @@
     "name": "grass skirt",
     "sources": "Normal villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Bottoms",
-    "internalId": null,
+    "internalId": 603,
     "uniqueEntryId": "zuxKqmoD6WAAzheNq",
     "materials": {
       "clump of weeds": 7
@@ -2977,8 +3205,9 @@
     "name": "grass standee",
     "sources": "Normal villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 582,
     "uniqueEntryId": "Q7M9H8k9C9iTsWafA",
     "materials": {
       "wood": 2,
@@ -2990,8 +3219,9 @@
     "name": "green grass skirt",
     "sources": "Peppy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Bottoms",
-    "internalId": null,
+    "internalId": 605,
     "uniqueEntryId": "mzQREt22Mh8reP5WY",
     "materials": {
       "clump of weeds": 7
@@ -3002,8 +3232,9 @@
     "name": "green-leaf pile",
     "sources": "Balloons",
     "sourceNotes": "Only available during Spring",
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 587,
     "uniqueEntryId": "yN7Ly9tsMKDvKqHu8",
     "materials": {
       "young spring bamboo": 1,
@@ -3015,8 +3246,9 @@
     "name": "hanging terrarium",
     "sources": "Peppy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wall-Mounted",
-    "internalId": null,
+    "internalId": 396,
     "uniqueEntryId": "GNtJWEuH8EoLwwi2a",
     "materials": {
       "clump of weeds": 10,
@@ -3028,8 +3260,9 @@
     "name": "hay bed",
     "sources": "Nook's Cranny",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 167,
     "uniqueEntryId": "7TFmXPG98wdcvvQe6",
     "materials": {
       "clump of weeds": 20
@@ -3040,8 +3273,9 @@
     "name": "hearth",
     "sources": "Nook's Cranny",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 217,
     "uniqueEntryId": "HwZwNAuYqaBbwS2YL",
     "materials": {
       "bamboo piece": 2,
@@ -3052,11 +3286,27 @@
   },
   {
     "sourceSheet": "Recipes",
+    "name": "hedge",
+    "sources": null,
+    "sourceNotes": null,
+    "version": "1.2.0",
+    "category": "Fencing",
+    "internalId": 713,
+    "uniqueEntryId": "m9LpprrQ6sP6EnArD",
+    "materials": {
+      "weed": 10,
+      "branch": 5,
+      "stone": 2
+    }
+  },
+  {
+    "sourceSheet": "Recipes",
     "name": "hedge standee",
     "sources": "Normal villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 583,
     "uniqueEntryId": "6Gq4PMmcJqzJySt7G",
     "materials": {
       "wood": 2,
@@ -3068,8 +3318,9 @@
     "name": "holiday candle",
     "sources": "Balloons",
     "sourceNotes": "Only available during Festive Season",
+    "version": "1.0.0",
     "category": "Miscellaneous",
-    "internalId": null,
+    "internalId": 372,
     "uniqueEntryId": "5f7xR7Kvm2mMwpGjz",
     "materials": {
       "red ornament": 5,
@@ -3081,8 +3332,9 @@
     "name": "honeycomb flooring",
     "sources": "Jock villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Floors",
-    "internalId": null,
+    "internalId": 472,
     "uniqueEntryId": "Yq6j7ppP9e4k6GuSz",
     "materials": {
       "wasp nest": 5
@@ -3093,8 +3345,9 @@
     "name": "honeycomb wall",
     "sources": "Jock villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wallpaper",
-    "internalId": null,
+    "internalId": 296,
     "uniqueEntryId": "XJZCow9k2yrtvYDSc",
     "materials": {
       "wasp nest": 6
@@ -3105,8 +3358,9 @@
     "name": "hyacinth crown",
     "sources": "All Villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Headwear",
-    "internalId": null,
+    "internalId": 237,
     "uniqueEntryId": "wChSX5vstYGQaWma7",
     "materials": {
       "red hyacinths": 4,
@@ -3119,8 +3373,9 @@
     "name": "hyacinth lamp",
     "sources": "Big sister villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Miscellaneous",
-    "internalId": null,
+    "internalId": 506,
     "uniqueEntryId": "fBKmq2YprMreQQrYo",
     "materials": {
       "purple hyacinths": 5,
@@ -3132,8 +3387,9 @@
     "name": "hyacinth wand",
     "sources": "Celeste",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Tools",
-    "internalId": null,
+    "internalId": 524,
     "uniqueEntryId": "SfyT7DJYnMvjQmSRX",
     "materials": {
       "pink hyacinths": 1,
@@ -3145,8 +3401,9 @@
     "name": "hyacinth wreath",
     "sources": "All Villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wall-Mounted",
-    "internalId": null,
+    "internalId": 232,
     "uniqueEntryId": "ysyo8kjy4NBvj929M",
     "materials": {
       "white hyacinths": 3,
@@ -3159,8 +3416,9 @@
     "name": "ice flooring",
     "sources": "Making a perfect Snowboy",
     "sourceNotes": "Only available during Winter",
+    "version": "1.0.0",
     "category": "Floors",
-    "internalId": null,
+    "internalId": 288,
     "uniqueEntryId": "r4NnQCo7BTJX7QwLd",
     "materials": {
       "large snowflake": 1,
@@ -3172,8 +3430,9 @@
     "name": "ice wall",
     "sources": "Making a perfect Snowboy",
     "sourceNotes": "Only available during Winter",
+    "version": "1.0.0",
     "category": "Wallpaper",
-    "internalId": null,
+    "internalId": 293,
     "uniqueEntryId": "An3uWvJLZrfNtdewM",
     "materials": {
       "large snowflake": 1,
@@ -3185,8 +3444,9 @@
     "name": "ice wand",
     "sources": "Making a perfect Snowboy",
     "sourceNotes": "Only available during Winter",
+    "version": "1.0.0",
     "category": "Tools",
-    "internalId": null,
+    "internalId": 533,
     "uniqueEntryId": "pfuLcy3eLoxPsFMQy",
     "materials": {
       "large snowflake": 1,
@@ -3198,8 +3458,9 @@
     "name": "iceberg flooring",
     "sources": "Balloons",
     "sourceNotes": "Only available during Winter",
+    "version": "1.0.0",
     "category": "Floors",
-    "internalId": null,
+    "internalId": 289,
     "uniqueEntryId": "hbGr49z9cKw5qeryp",
     "materials": {
       "snowflake": 10
@@ -3210,8 +3471,9 @@
     "name": "iceberg wall",
     "sources": "Balloons",
     "sourceNotes": "Only available during Winter",
+    "version": "1.0.0",
     "category": "Wallpaper",
-    "internalId": null,
+    "internalId": 302,
     "uniqueEntryId": "89NQTyckGsnbPBcxX",
     "materials": {
       "large snowflake": 1,
@@ -3223,8 +3485,9 @@
     "name": "illuminated present",
     "sources": "Balloons",
     "sourceNotes": "Only available during Festive Season",
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 401,
     "uniqueEntryId": "ZC8ykvryfN44HMCiJ",
     "materials": {
       "red ornament": 3,
@@ -3237,8 +3500,9 @@
     "name": "illuminated reindeer",
     "sources": "Balloons",
     "sourceNotes": "Only available during Festive Season",
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 392,
     "uniqueEntryId": "PWkTWdSn5n9DncHBJ",
     "materials": {
       "gold ornament": 6,
@@ -3250,8 +3514,9 @@
     "name": "illuminated snowflakes",
     "sources": "Balloons",
     "sourceNotes": "Only available during Festive Season",
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 406,
     "uniqueEntryId": "R2G2JJGg5deoW7GxT",
     "materials": {
       "blue ornament": 9,
@@ -3263,8 +3528,9 @@
     "name": "illuminated tree",
     "sources": "Balloons",
     "sourceNotes": "Only available during Festive Season",
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 203,
     "uniqueEntryId": "S8meymsrnGbZRN5XM",
     "materials": {
       "red ornament": 3,
@@ -3277,8 +3543,9 @@
     "name": "imperial fence",
     "sources": "Nook Miles Exchange",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Fencing",
-    "internalId": null,
+    "internalId": 550,
     "uniqueEntryId": "6xscDDXokkLGARAzw",
     "materials": {
       "wood": 6,
@@ -3290,8 +3557,9 @@
     "name": "infused-water dispenser",
     "sources": "Cranky villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Miscellaneous",
-    "internalId": null,
+    "internalId": 400,
     "uniqueEntryId": "t24vHrtE8fyRkzyWK",
     "materials": {
       "apple": 2,
@@ -3307,8 +3575,9 @@
     "name": "iron armor",
     "sources": "Cranky villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Dresses",
-    "internalId": null,
+    "internalId": 640,
     "uniqueEntryId": "qMDWWFfXPFTMpGTpQ",
     "materials": {
       "iron nugget": 8
@@ -3319,8 +3588,9 @@
     "name": "iron closet",
     "sources": "Big sister villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 573,
     "uniqueEntryId": "PamdzQi8BcNbAqHmL",
     "materials": {
       "iron nugget": 12
@@ -3331,8 +3601,9 @@
     "name": "iron doorplate",
     "sources": "Big sister villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wall-Mounted",
-    "internalId": null,
+    "internalId": 468,
     "uniqueEntryId": "ckD6nctsXhWjtaRmJ",
     "materials": {
       "iron nugget": 2
@@ -3343,8 +3614,9 @@
     "name": "iron fence",
     "sources": "Nook Miles Exchange",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Fencing",
-    "internalId": null,
+    "internalId": 267,
     "uniqueEntryId": "6b9c3c3cRkfK3sqXu",
     "materials": {
       "iron nugget": 6
@@ -3355,8 +3627,9 @@
     "name": "iron frame",
     "sources": "Jock villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 79,
     "uniqueEntryId": "hzFGkyKC77m5kAHSA",
     "materials": {
       "iron nugget": 20
@@ -3367,8 +3640,9 @@
     "name": "iron garden bench",
     "sources": "Big sister villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 63,
     "uniqueEntryId": "oDze7K3AbxFpni27M",
     "materials": {
       "iron nugget": 8
@@ -3379,8 +3653,9 @@
     "name": "iron garden chair",
     "sources": "Villager House Development (Tom Nook); Big sister villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 64,
     "uniqueEntryId": "GTMdcZkxvPs6tDdQZ",
     "materials": {
       "iron nugget": 3
@@ -3391,8 +3666,9 @@
     "name": "iron garden table",
     "sources": "Villager House Development (Tom Nook); Big sister villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 65,
     "uniqueEntryId": "LfmT6j46no2RNRXDi",
     "materials": {
       "iron nugget": 5
@@ -3403,8 +3679,9 @@
     "name": "iron hanger stand",
     "sources": "Cranky villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 365,
     "uniqueEntryId": "sFNTL2NeXckRLskP7",
     "materials": {
       "iron nugget": 3
@@ -3415,8 +3692,9 @@
     "name": "iron shelf",
     "sources": "Big sister villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 128,
     "uniqueEntryId": "McdRNpxXrk9xKkK4S",
     "materials": {
       "iron nugget": 14
@@ -3427,8 +3705,9 @@
     "name": "iron wall lamp",
     "sources": "Nook's Cranny",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wall-Mounted",
-    "internalId": null,
+    "internalId": 122,
     "uniqueEntryId": "b9KAgbNSetaJieTKp",
     "materials": {
       "iron nugget": 4,
@@ -3440,8 +3719,9 @@
     "name": "iron wall rack",
     "sources": "Smug villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wall-Mounted",
-    "internalId": null,
+    "internalId": 123,
     "uniqueEntryId": "DYTTSvnJoQAtBqSpL",
     "materials": {
       "iron nugget": 3,
@@ -3453,8 +3733,9 @@
     "name": "iron wand",
     "sources": "Celeste",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Tools",
-    "internalId": null,
+    "internalId": 540,
     "uniqueEntryId": "MYYovLTdmLov8y2hL",
     "materials": {
       "iron nugget": 3,
@@ -3466,8 +3747,9 @@
     "name": "iron worktable",
     "sources": "Big sister villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 126,
     "uniqueEntryId": "yoWsZbmhYnfeXhTgr",
     "materials": {
       "iron nugget": 10
@@ -3478,8 +3760,9 @@
     "name": "iron-and-stone fence",
     "sources": "Nook Miles Exchange",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Fencing",
-    "internalId": null,
+    "internalId": 555,
     "uniqueEntryId": "qe9qWWJB7wDbMLKTG",
     "materials": {
       "stone": 6,
@@ -3491,8 +3774,9 @@
     "name": "ironwood bed",
     "sources": "Smug villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 87,
     "uniqueEntryId": "Gs6r4jNYwqfyjcBAQ",
     "materials": {
       "wood": 20,
@@ -3504,8 +3788,9 @@
     "name": "ironwood cart",
     "sources": "Smug villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 85,
     "uniqueEntryId": "MdPCQSxd8CnBRe9Ac",
     "materials": {
       "wood": 6,
@@ -3517,8 +3802,9 @@
     "name": "ironwood chair",
     "sources": "Smug villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 83,
     "uniqueEntryId": "geDcbiFqc4L4eZojy",
     "materials": {
       "wood": 3,
@@ -3530,8 +3816,9 @@
     "name": "ironwood clock",
     "sources": "Smug villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wall-Mounted",
-    "internalId": null,
+    "internalId": 94,
     "uniqueEntryId": "vWYzQ9pTSBH5Wbmmk",
     "materials": {
       "wood": 2,
@@ -3543,8 +3830,9 @@
     "name": "ironwood cupboard",
     "sources": "Snooty villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 92,
     "uniqueEntryId": "bFD87nMsrphrQcGhi",
     "materials": {
       "wood": 12,
@@ -3557,8 +3845,9 @@
     "name": "ironwood DIY workbench",
     "sources": "Cranky villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 125,
     "uniqueEntryId": "qfemQxWGxbseGW4pR",
     "materials": {
       "wood": 12,
@@ -3571,8 +3860,9 @@
     "name": "ironwood dresser",
     "sources": "Snooty villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 86,
     "uniqueEntryId": "zHZA38BSSukQPvfAx",
     "materials": {
       "wood": 7,
@@ -3584,8 +3874,9 @@
     "name": "ironwood kitchenette",
     "sources": "Nook's Cranny",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 91,
     "uniqueEntryId": "Aws83WvmsMbK8mamt",
     "materials": {
       "wood": 4,
@@ -3599,8 +3890,9 @@
     "name": "ironwood low table",
     "sources": "Snooty villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 84,
     "uniqueEntryId": "hZCJc27R4RDJwNj6y",
     "materials": {
       "wood": 6,
@@ -3612,8 +3904,9 @@
     "name": "ironwood table",
     "sources": "Cranky villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 35,
     "uniqueEntryId": "kWp7B34ACYfXs4HEk",
     "materials": {
       "wood": 12,
@@ -3625,8 +3918,9 @@
     "name": "jail bars",
     "sources": "Cranky villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 435,
     "uniqueEntryId": "cQRevEHviBPSXaDRz",
     "materials": {
       "iron nugget": 5
@@ -3637,8 +3931,9 @@
     "name": "Jingle wall",
     "sources": "Balloons",
     "sourceNotes": "Only available during Festive Season",
+    "version": "1.0.0",
     "category": "Wallpaper",
-    "internalId": null,
+    "internalId": 291,
     "uniqueEntryId": "yHZv2YNkbKzqaCich",
     "materials": {
       "red ornament": 5,
@@ -3652,8 +3947,9 @@
     "name": "juicy-apple TV",
     "sources": "Big sister villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 6,
     "uniqueEntryId": "gjc7Wju56JYDhkwvJ",
     "materials": {
       "apple": 10,
@@ -3665,8 +3961,9 @@
     "name": "jungle flooring",
     "sources": "Jock villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Floors",
-    "internalId": null,
+    "internalId": 470,
     "uniqueEntryId": "8Dg67mD5L3628ZfXP",
     "materials": {
       "clump of weeds": 10,
@@ -3678,8 +3975,9 @@
     "name": "jungle wall",
     "sources": "Jock villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wallpaper",
-    "internalId": null,
+    "internalId": 326,
     "uniqueEntryId": "sKFxDKgEMLzZtPu7K",
     "materials": {
       "clump of weeds": 15,
@@ -3693,8 +3991,9 @@
     "name": "kettle bathtub",
     "sources": "Cranky villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 490,
     "uniqueEntryId": "WJQG9QKBGGGyAiGxk",
     "materials": {
       "iron nugget": 8,
@@ -3707,8 +4006,9 @@
     "name": "kettlebell",
     "sources": "Jock villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Miscellaneous",
-    "internalId": null,
+    "internalId": 600,
     "uniqueEntryId": "Mmspyi3WpibXgBh2u",
     "materials": {
       "iron nugget": 5
@@ -3719,8 +4019,9 @@
     "name": "key holder",
     "sources": "Big sister villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wall-Mounted",
-    "internalId": null,
+    "internalId": 437,
     "uniqueEntryId": "cXTKSu7vAHz2c3tmD",
     "materials": {
       "wood": 3,
@@ -3732,8 +4033,9 @@
     "name": "knight's helmet",
     "sources": "Cranky villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Headwear",
-    "internalId": null,
+    "internalId": 641,
     "uniqueEntryId": "3u8tk4SyAemkHTRzz",
     "materials": {
       "iron nugget": 5
@@ -3744,8 +4046,9 @@
     "name": "knitted-grass backpack",
     "sources": "Normal villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Bags",
-    "internalId": null,
+    "internalId": 636,
     "uniqueEntryId": "CoEssbnPs7xhuMbTF",
     "materials": {
       "clump of weeds": 20
@@ -3756,8 +4059,9 @@
     "name": "ladder",
     "sources": "Villager House Development (Tom Nook); Nook's Cranny",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Tools",
-    "internalId": null,
+    "internalId": 107,
     "uniqueEntryId": "QHAFqRRLE65RSvmQh",
     "materials": {
       "wood": 4,
@@ -3770,8 +4074,9 @@
     "name": "large cardboard boxes",
     "sources": "Lazy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 611,
     "uniqueEntryId": "6eBT8zf9Fv2GWbZRk",
     "materials": {
       "cardboard box": 5
@@ -3782,8 +4087,9 @@
     "name": "lattice fence",
     "sources": "Nook Miles Exchange",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Fencing",
-    "internalId": null,
+    "internalId": 657,
     "uniqueEntryId": "LRSdBoRQia8MgkGRg",
     "materials": {
       "softwood": 8
@@ -3794,8 +4100,9 @@
     "name": "leaf",
     "sources": "Jock villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Accessories",
-    "internalId": null,
+    "internalId": 261,
     "uniqueEntryId": "cJ9rqxsr9oZKrjHXJ",
     "materials": {
       "clump of weeds": 5
@@ -3806,8 +4113,9 @@
     "name": "leaf campfire",
     "sources": "Balloons",
     "sourceNotes": "Only available during Fall",
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 509,
     "uniqueEntryId": "ziEwyR6mTntmTaKfX",
     "materials": {
       "pine cone": 3,
@@ -3820,8 +4128,9 @@
     "name": "leaf mask",
     "sources": "Peppy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Headwear",
-    "internalId": null,
+    "internalId": 635,
     "uniqueEntryId": "ng67WBZo7rRfQSWDa",
     "materials": {
       "clump of weeds": 10
@@ -3832,8 +4141,9 @@
     "name": "leaf stool",
     "sources": "Balloons",
     "sourceNotes": "Only available during Maple Leaf Season",
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 519,
     "uniqueEntryId": "u2hwyRwKoRYdCHrHY",
     "materials": {
       "maple leaf": 3,
@@ -3845,8 +4155,9 @@
     "name": "leaf umbrella",
     "sources": "Big sister villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Umbrellas",
-    "internalId": null,
+    "internalId": 456,
     "uniqueEntryId": "DyPomQRjemr3vjDQt",
     "materials": {
       "clump of weeds": 15
@@ -3857,8 +4168,9 @@
     "name": "leaf-egg outfit",
     "sources": "Collecting leaf eggs",
     "sourceNotes": "Only available during Bunny Day",
+    "version": "1.1.0a",
     "category": "Dresses",
-    "internalId": null,
+    "internalId": 680,
     "uniqueEntryId": "iJeXo3dJrybEpPEHw",
     "materials": {
       "leaf egg": 3
@@ -3869,8 +4181,9 @@
     "name": "leaf-egg shell",
     "sources": "Collecting leaf eggs",
     "sourceNotes": "Only available during Bunny Day",
+    "version": "1.1.0a",
     "category": "Headwear",
-    "internalId": null,
+    "internalId": 679,
     "uniqueEntryId": "9Bf5xhQJQHvW8n8Jc",
     "materials": {
       "leaf egg": 2
@@ -3881,8 +4194,9 @@
     "name": "leaf-egg shoes",
     "sources": "Collecting leaf eggs",
     "sourceNotes": "Only available during Bunny Day",
+    "version": "1.1.0a",
     "category": "Shoes",
-    "internalId": null,
+    "internalId": 681,
     "uniqueEntryId": "wKxwrd3MDWZDidSGp",
     "materials": {
       "leaf egg": 2
@@ -3893,8 +4207,9 @@
     "name": "Leo sculpture",
     "sources": "Celeste",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wall-Mounted",
-    "internalId": null,
+    "internalId": 407,
     "uniqueEntryId": "5QHREHAwKLPzLmmDi",
     "materials": {
       "star fragment": 3,
@@ -3908,8 +4223,9 @@
     "name": "Libra scale",
     "sources": "Celeste",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Miscellaneous",
-    "internalId": null,
+    "internalId": 132,
     "uniqueEntryId": "td7wJhwym4yZKy6tQ",
     "materials": {
       "star fragment": 3,
@@ -3922,8 +4238,9 @@
     "name": "light bamboo rug",
     "sources": "Balloons",
     "sourceNotes": "Only available during Spring",
+    "version": "1.0.0",
     "category": "Rugs",
-    "internalId": null,
+    "internalId": 671,
     "uniqueEntryId": "QfT9N8GGPr4x3u9hH",
     "materials": {
       "young spring bamboo": 6
@@ -3934,8 +4251,9 @@
     "name": "lily crown",
     "sources": "All Villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Headwear",
-    "internalId": null,
+    "internalId": 255,
     "uniqueEntryId": "kAqnCE6oFFAeZvYXN",
     "materials": {
       "red lilies": 2,
@@ -3948,8 +4266,9 @@
     "name": "lily record player",
     "sources": "Cranky villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 515,
     "uniqueEntryId": "Y9NXrLeRe8XHPFRDN",
     "materials": {
       "white lilies": 5,
@@ -3962,8 +4281,9 @@
     "name": "lily wand",
     "sources": "Celeste",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Tools",
-    "internalId": null,
+    "internalId": 530,
     "uniqueEntryId": "sKXdSX9eDXe7mEpxG",
     "materials": {
       "white lilies": 1,
@@ -3975,8 +4295,9 @@
     "name": "lily wreath",
     "sources": "All Villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wall-Mounted",
-    "internalId": null,
+    "internalId": 438,
     "uniqueEntryId": "T79DghfmPpWspJ9Eq",
     "materials": {
       "white lilies": 3,
@@ -3989,8 +4310,9 @@
     "name": "log bed",
     "sources": "Villager House Development (Tom Nook); Peppy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 119,
     "uniqueEntryId": "kCWnjzgmGXnkRY4Ww",
     "materials": {
       "hardwood": 30
@@ -4001,8 +4323,9 @@
     "name": "log bench",
     "sources": "Villager House Development (Tom Nook); Normal villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 112,
     "uniqueEntryId": "AQwJbwnFqY9yQ2XJ4",
     "materials": {
       "hardwood": 5
@@ -4010,11 +4333,25 @@
   },
   {
     "sourceSheet": "Recipes",
+    "name": "log chair",
+    "sources": "Normal villagers",
+    "sourceNotes": null,
+    "version": "1.0.0",
+    "category": "Housewares",
+    "internalId": 117,
+    "uniqueEntryId": "JiLieKMNcaY7QF8Zb",
+    "materials": {
+      "hardwood": 8
+    }
+  },
+  {
+    "sourceSheet": "Recipes",
     "name": "log decorative shelves",
     "sources": "Normal villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 114,
     "uniqueEntryId": "fKdr6A8t6WiZxXqco",
     "materials": {
       "log bench": 2,
@@ -4026,8 +4363,9 @@
     "name": "log dining table",
     "sources": "Villager House Development (Tom Nook); Cranky villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 118,
     "uniqueEntryId": "TeyLyttsCPPGxsfgu",
     "materials": {
       "hardwood": 15
@@ -4038,11 +4376,12 @@
     "name": "log extra-long sofa",
     "sources": "Normal villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 110,
     "uniqueEntryId": "LbsREdAkxGBWWFja2",
     "materials": {
-      "log sofa": 2
+      "log chair": 2
     }
   },
   {
@@ -4050,8 +4389,9 @@
     "name": "log garden lounge",
     "sources": "Villager House Development (Tom Nook); Peppy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 113,
     "uniqueEntryId": "PDwJZtp2PN93N3NfZ",
     "materials": {
       "hardwood": 12
@@ -4062,8 +4402,9 @@
     "name": "log pack",
     "sources": "Jock villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Bags",
-    "internalId": null,
+    "internalId": 638,
     "uniqueEntryId": "fGoNxEDmgeZRehXXj",
     "materials": {
       "wood": 3,
@@ -4075,8 +4416,9 @@
     "name": "log round table",
     "sources": "Peppy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 111,
     "uniqueEntryId": "aveZx5Dz7zLGfBiS7",
     "materials": {
       "hardwood": 15
@@ -4084,23 +4426,12 @@
   },
   {
     "sourceSheet": "Recipes",
-    "name": "log sofa",
-    "sources": "Normal villagers",
-    "sourceNotes": null,
-    "category": "Housewares",
-    "internalId": null,
-    "uniqueEntryId": "JiLieKMNcaY7QF8Zb",
-    "materials": {
-      "hardwood": 8
-    }
-  },
-  {
-    "sourceSheet": "Recipes",
     "name": "log stakes",
     "sources": "Tom Nook; Smug villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 412,
     "uniqueEntryId": "Wwp2YdfmcWaY9LdHK",
     "materials": {
       "wood": 3
@@ -4111,8 +4442,9 @@
     "name": "log stool",
     "sources": "Villager House Development (Tom Nook); Peppy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 116,
     "uniqueEntryId": "KCkvMzSKZoAGpFFvX",
     "materials": {
       "wood": 4
@@ -4123,8 +4455,9 @@
     "name": "log wall-mounted clock",
     "sources": "Lazy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wall-Mounted",
-    "internalId": null,
+    "internalId": 115,
     "uniqueEntryId": "qAiYovJGN6oxwXWqY",
     "materials": {
       "hardwood": 2,
@@ -4136,8 +4469,9 @@
     "name": "lovely cosmos crown",
     "sources": "All Villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Headwear",
-    "internalId": null,
+    "internalId": 250,
     "uniqueEntryId": "ud57HYkDcb9fpS3jN",
     "materials": {
       "pink cosmos": 3,
@@ -4149,8 +4483,9 @@
     "name": "lucky gold cat",
     "sources": "Snooty villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Miscellaneous",
-    "internalId": null,
+    "internalId": 578,
     "uniqueEntryId": "bKrB5YcmewKR5AWot",
     "materials": {
       "gold nugget": 2,
@@ -4162,8 +4497,9 @@
     "name": "lunar lander",
     "sources": "Celeste",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 386,
     "uniqueEntryId": "jsL7MwKFFov5eWgcg",
     "materials": {
       "star fragment": 10,
@@ -4175,8 +4511,9 @@
     "name": "lunar rover",
     "sources": "Celeste",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 373,
     "uniqueEntryId": "bu2WXQC6ajuQYYejk",
     "materials": {
       "star fragment": 10,
@@ -4189,8 +4526,9 @@
     "name": "lunar surface",
     "sources": "Celeste",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Floors",
-    "internalId": null,
+    "internalId": 478,
     "uniqueEntryId": "AbKXzqwJaJDmWnB9o",
     "materials": {
       "star fragment": 5,
@@ -4202,8 +4540,9 @@
     "name": "magazine rack",
     "sources": "Peppy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Miscellaneous",
-    "internalId": null,
+    "internalId": 413,
     "uniqueEntryId": "8xG78nXxXkRwPuhqX",
     "materials": {
       "magazine": 2,
@@ -4215,8 +4554,9 @@
     "name": "manga-library wall",
     "sources": "Peppy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wallpaper",
-    "internalId": null,
+    "internalId": 316,
     "uniqueEntryId": "8JLp8kSxRMRChTXaT",
     "materials": {
       "magazine": 10
@@ -4227,8 +4567,9 @@
     "name": "manhole cover",
     "sources": "Nook Miles Exchange",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 277,
     "uniqueEntryId": "6Zi8pyz29evu2n464",
     "materials": {
       "iron nugget": 3
@@ -4239,8 +4580,9 @@
     "name": "maple-leaf pochette",
     "sources": "Balloons (Maple Leaf Season)",
     "sourceNotes": "Only available during Maple Leaf Season",
+    "version": "1.0.0",
     "category": "Bags",
-    "internalId": null,
+    "internalId": 631,
     "uniqueEntryId": "7uFqbJaQoW2doC3B3",
     "materials": {
       "maple leaf": 6
@@ -4251,8 +4593,9 @@
     "name": "maple-leaf pond stone",
     "sources": "Balloons (Maple Leaf Season)",
     "sourceNotes": "Only available during Maple Leaf Season",
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 512,
     "uniqueEntryId": "eJQMX98oYAmryvgps",
     "materials": {
       "stone": 10,
@@ -4264,8 +4607,9 @@
     "name": "maple-leaf umbrella",
     "sources": "Balloons (Maple Leaf Season)",
     "sourceNotes": "Only available during Maple Leaf Season",
+    "version": "1.0.0",
     "category": "Umbrellas",
-    "internalId": null,
+    "internalId": 541,
     "uniqueEntryId": "MWAN27apJPewSFHiR",
     "materials": {
       "maple leaf": 7
@@ -4276,8 +4620,9 @@
     "name": "matryoshka",
     "sources": "Lazy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Miscellaneous",
-    "internalId": null,
+    "internalId": 403,
     "uniqueEntryId": "ogWXGmNDThxbXqgMG",
     "materials": {
       "softwood": 5
@@ -4288,8 +4633,9 @@
     "name": "medicine",
     "sources": "All Villagers (while stung)",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Other",
-    "internalId": null,
+    "internalId": 567,
     "uniqueEntryId": "WLudgvjM44qWLprre",
     "materials": {
       "wasp nest": 1,
@@ -4301,8 +4647,9 @@
     "name": "medium cardboard boxes",
     "sources": "Lazy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 610,
     "uniqueEntryId": "Q9uBnt9n4okWbCgvg",
     "materials": {
       "cardboard box": 4
@@ -4313,8 +4660,9 @@
     "name": "mini DIY workbench",
     "sources": "Nook's Cranny",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 82,
     "uniqueEntryId": "sLGJoXrKyqJ4bdhxb",
     "materials": {
       "wood": 3,
@@ -4328,8 +4676,9 @@
     "name": "modeling clay",
     "sources": "Cranky villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Miscellaneous",
-    "internalId": null,
+    "internalId": 574,
     "uniqueEntryId": "Z7ycbJwgAh8HWaaSm",
     "materials": {
       "clay": 2
@@ -4340,8 +4689,9 @@
     "name": "modern wood wall",
     "sources": "Snooty villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wallpaper",
-    "internalId": null,
+    "internalId": 320,
     "uniqueEntryId": "LqPaTaPEXdwvFhGKC",
     "materials": {
       "wood": 5,
@@ -4354,8 +4704,9 @@
     "name": "money flooring",
     "sources": "Snooty villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Floors",
-    "internalId": null,
+    "internalId": 473,
     "uniqueEntryId": "6HtNgH3LKjQA5kxtg",
     "materials": {
       "bells": 50000
@@ -4366,8 +4717,9 @@
     "name": "moon",
     "sources": "Celeste",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 234,
     "uniqueEntryId": "5GevvAMTu6Lf7ueyE",
     "materials": {
       "star fragment": 15,
@@ -4379,8 +4731,9 @@
     "name": "mossy garden rock",
     "sources": "Lazy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 647,
     "uniqueEntryId": "Fn45YxZCtsHx5u3t2",
     "materials": {
       "stone": 15,
@@ -4392,8 +4745,9 @@
     "name": "mountain standee",
     "sources": "Jock villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 584,
     "uniqueEntryId": "zAFMi693PuR7nPnMs",
     "materials": {
       "wood": 4,
@@ -4405,8 +4759,9 @@
     "name": "mum crown",
     "sources": "All Villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Headwear",
-    "internalId": null,
+    "internalId": 258,
     "uniqueEntryId": "dm3bTGBfDYLSzWDHR",
     "materials": {
       "red mums": 2,
@@ -4419,8 +4774,9 @@
     "name": "mum cushion",
     "sources": "Peppy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 505,
     "uniqueEntryId": "fEBdSdvEG86vXefum",
     "materials": {
       "yellow mums": 3,
@@ -4432,8 +4788,9 @@
     "name": "mum wreath",
     "sources": "All Villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wall-Mounted",
-    "internalId": null,
+    "internalId": 231,
     "uniqueEntryId": "LS93qbKCcMQLExqMG",
     "materials": {
       "white mums": 3,
@@ -4446,8 +4803,9 @@
     "name": "mums wand",
     "sources": "Celeste",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Tools",
-    "internalId": null,
+    "internalId": 531,
     "uniqueEntryId": "jbWRPr9kP6jXS3SLW",
     "materials": {
       "yellow mums": 1
@@ -4458,8 +4816,9 @@
     "name": "mush lamp",
     "sources": "Balloons",
     "sourceNotes": "Only available during Mushroom Season",
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 51,
     "uniqueEntryId": "vTR3yJt55jtNGdprm",
     "materials": {
       "skinny mushroom": 1,
@@ -4471,8 +4830,9 @@
     "name": "mush log",
     "sources": "Balloons",
     "sourceNotes": "Only available during Mushroom Season",
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 136,
     "uniqueEntryId": "FMN3xak2uqjTCo47s",
     "materials": {
       "skinny mushroom": 2,
@@ -4484,8 +4844,9 @@
     "name": "mush low stool",
     "sources": "Balloons",
     "sourceNotes": "Only available during Mushroom Season",
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 220,
     "uniqueEntryId": "RZwmANPWaM7jntL5R",
     "materials": {
       "round mushroom": 2
@@ -4496,8 +4857,9 @@
     "name": "mush parasol",
     "sources": "Balloons",
     "sourceNotes": "Only available during Mushroom Season",
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 139,
     "uniqueEntryId": "WwaYiBvDKvBJzD3Bg",
     "materials": {
       "flat mushroom": 3
@@ -4508,8 +4870,9 @@
     "name": "mush partition",
     "sources": "Balloons",
     "sourceNotes": "Only available during Mushroom Season",
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 138,
     "uniqueEntryId": "J89MsT5JKW43XJ4r8",
     "materials": {
       "skinny mushroom": 3
@@ -4520,8 +4883,9 @@
     "name": "mush table",
     "sources": "Balloons",
     "sourceNotes": "Only available during Mushroom Season",
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 32,
     "uniqueEntryId": "cECL9PSx9yNfPWNvW",
     "materials": {
       "flat mushroom": 2,
@@ -4533,8 +4897,9 @@
     "name": "mush umbrella",
     "sources": "Balloons",
     "sourceNotes": "Only available during Mushroom Season",
+    "version": "1.0.0",
     "category": "Umbrellas",
-    "internalId": null,
+    "internalId": 648,
     "uniqueEntryId": "PT3wRG87hdFbt8kgG",
     "materials": {
       "flat mushroom": 3
@@ -4545,8 +4910,9 @@
     "name": "mush wall",
     "sources": "Balloons",
     "sourceNotes": "Only available during Mushroom Season",
+    "version": "1.0.0",
     "category": "Wallpaper",
-    "internalId": null,
+    "internalId": 308,
     "uniqueEntryId": "6HKBjFrzRdfY5PArn",
     "materials": {
       "elegant mushroom": 1,
@@ -4560,8 +4926,9 @@
     "name": "mushroom wand",
     "sources": "Balloons",
     "sourceNotes": "Only available during Mushroom Season",
+    "version": "1.0.0",
     "category": "Tools",
-    "internalId": null,
+    "internalId": 536,
     "uniqueEntryId": "N9He3qRD3RjrqQeGG",
     "materials": {
       "skinny mushroom": 3,
@@ -4573,8 +4940,9 @@
     "name": "mushroom wreath",
     "sources": "Balloons",
     "sourceNotes": "Only available during Mushroom Season",
+    "version": "1.0.0",
     "category": "Wall-Mounted",
-    "internalId": null,
+    "internalId": 221,
     "uniqueEntryId": "5XfaKLorByDHGp9pi",
     "materials": {
       "tree branch": 10,
@@ -4588,8 +4956,9 @@
     "name": "music stand",
     "sources": "Lazy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 215,
     "uniqueEntryId": "ZxTX2kZjDvZA3aT95",
     "materials": {
       "hardwood": 8
@@ -4600,8 +4969,9 @@
     "name": "natural garden chair",
     "sources": "Villager House Development (Tom Nook); Peppy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 80,
     "uniqueEntryId": "jaDD9msGTLXHRu2cB",
     "materials": {
       "hardwood": 6,
@@ -4613,8 +4983,9 @@
     "name": "natural garden table",
     "sources": "Villager House Development (Tom Nook); Normal villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 224,
     "uniqueEntryId": "gRf7qMpExewtthEWH",
     "materials": {
       "hardwood": 9,
@@ -4626,8 +4997,9 @@
     "name": "natural mum wreath",
     "sources": "All Villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wall-Mounted",
-    "internalId": null,
+    "internalId": 442,
     "uniqueEntryId": "p7kG7qim9jPGSwxtz",
     "materials": {
       "green mums": 10
@@ -4638,8 +5010,9 @@
     "name": "natural square table",
     "sources": "Normal villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 670,
     "uniqueEntryId": "4nASdZyjax8qv3B8T",
     "materials": {
       "hardwood": 4,
@@ -4651,8 +5024,9 @@
     "name": "net",
     "sources": "Nook Miles Exchange",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Tools",
-    "internalId": null,
+    "internalId": 283,
     "uniqueEntryId": "FZBFrFQRtepzzWPFp",
     "materials": {
       "flimsy net": 1,
@@ -4664,8 +5038,9 @@
     "name": "nova light",
     "sources": "Celeste",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Miscellaneous",
-    "internalId": null,
+    "internalId": 429,
     "uniqueEntryId": "5RHPeNZ2mgin65Ny5",
     "materials": {
       "star fragment": 5
@@ -4676,8 +5051,9 @@
     "name": "ocarina",
     "sources": "Nook's Cranny",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Tools",
-    "internalId": null,
+    "internalId": 218,
     "uniqueEntryId": "QzhL3j8Tgv2cNDZQe",
     "materials": {
       "clay": 5
@@ -4688,8 +5064,9 @@
     "name": "oil-barrel bathtub",
     "sources": "Jock villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 394,
     "uniqueEntryId": "kvTajEX5oeZ2DDyjt",
     "materials": {
       "oil barrel": 1,
@@ -4702,8 +5079,9 @@
     "name": "old-fashioned washtub",
     "sources": "Nook's Cranny",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Miscellaneous",
-    "internalId": null,
+    "internalId": 195,
     "uniqueEntryId": "ebzFXSHFr3vGLoDSb",
     "materials": {
       "softwood": 3
@@ -4714,8 +5092,9 @@
     "name": "orange dress",
     "sources": "Lazy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Dresses",
-    "internalId": null,
+    "internalId": 626,
     "uniqueEntryId": "kdDWtuakgMkxF8ohK",
     "materials": {
       "orange": 8
@@ -4726,8 +5105,9 @@
     "name": "orange end table",
     "sources": "Lazy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 185,
     "uniqueEntryId": "XsnyjhPAFhghBQj7r",
     "materials": {
       "orange": 10,
@@ -4739,8 +5119,9 @@
     "name": "orange hat",
     "sources": "Lazy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Headwear",
-    "internalId": null,
+    "internalId": 624,
     "uniqueEntryId": "yqpHcrzwzywbANi6S",
     "materials": {
       "orange": 5
@@ -4751,8 +5132,9 @@
     "name": "orange rug",
     "sources": "Lazy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Rugs",
-    "internalId": null,
+    "internalId": 544,
     "uniqueEntryId": "ACfErxWo9j2zKTe47",
     "materials": {
       "orange": 6
@@ -4763,8 +5145,9 @@
     "name": "orange umbrella",
     "sources": "Lazy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Umbrellas",
-    "internalId": null,
+    "internalId": 625,
     "uniqueEntryId": "ZFxY5TXjBeThpDkjy",
     "materials": {
       "orange": 7
@@ -4775,8 +5158,9 @@
     "name": "orange wall",
     "sources": "Lazy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wallpaper",
-    "internalId": null,
+    "internalId": 303,
     "uniqueEntryId": "8rnfwGyLMaw5FTMQb",
     "materials": {
       "orange": 20
@@ -4787,8 +5171,9 @@
     "name": "orange wall-mounted clock",
     "sources": "Lazy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wall-Mounted",
-    "internalId": null,
+    "internalId": 184,
     "uniqueEntryId": "rJaAL5N8CQQ5dPd9y",
     "materials": {
       "orange": 10,
@@ -4800,8 +5185,9 @@
     "name": "ornament mobile",
     "sources": "Balloons",
     "sourceNotes": "Only available during Festive Season",
+    "version": "1.0.0",
     "category": "Wall-Mounted",
-    "internalId": null,
+    "internalId": 433,
     "uniqueEntryId": "RaotMSgnPsgG6PKLu",
     "materials": {
       "red ornament": 1,
@@ -4815,8 +5201,9 @@
     "name": "ornament wreath",
     "sources": "Balloons",
     "sourceNotes": "Only available during Festive Season",
+    "version": "1.0.0",
     "category": "Wall-Mounted",
-    "internalId": null,
+    "internalId": 226,
     "uniqueEntryId": "rLcgugWkG2sntC7Lh",
     "materials": {
       "blue ornament": 6,
@@ -4828,8 +5215,9 @@
     "name": "outdoor bath",
     "sources": "Nook Miles Exchange",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 410,
     "uniqueEntryId": "9odpMYcPqYJvqQ9qs",
     "materials": {
       "stone": 20,
@@ -4841,8 +5229,9 @@
     "name": "outdoor picnic set",
     "sources": "Balloons; Isabelle",
     "sourceNotes": "Only available during Cherry-Blossom Season",
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 422,
     "uniqueEntryId": "uG5LkajvrX63DoMwC",
     "materials": {
       "cherry-blossom petal": 10
@@ -4853,8 +5242,9 @@
     "name": "palm-tree lamp",
     "sources": "Snooty villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 575,
     "uniqueEntryId": "FcvtqX5qPrfTkDm7Z",
     "materials": {
       "coconut": 4,
@@ -4867,8 +5257,9 @@
     "name": "pan flute",
     "sources": "Balloons",
     "sourceNotes": "Only available during Spring",
+    "version": "1.0.0",
     "category": "Tools",
-    "internalId": null,
+    "internalId": 398,
     "uniqueEntryId": "oEeGqoaMP9XdQE3NF",
     "materials": {
       "young spring bamboo": 7
@@ -4879,8 +5270,9 @@
     "name": "pansy crown",
     "sources": "All Villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Headwear",
-    "internalId": null,
+    "internalId": 246,
     "uniqueEntryId": "X8taQdT4nzX6wvY3S",
     "materials": {
       "red pansies": 2,
@@ -4893,8 +5285,9 @@
     "name": "pansy table",
     "sources": "Normal villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 516,
     "uniqueEntryId": "7iYZ6YuJGjETcGF8A",
     "materials": {
       "yellow pansies": 5,
@@ -4906,8 +5299,9 @@
     "name": "pansy wand",
     "sources": "Celeste",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Tools",
-    "internalId": null,
+    "internalId": 527,
     "uniqueEntryId": "5NPaTGzE9ZCAryFmE",
     "materials": {
       "yellow pansies": 1,
@@ -4919,8 +5313,9 @@
     "name": "pansy wreath",
     "sources": "All Villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wall-Mounted",
-    "internalId": null,
+    "internalId": 230,
     "uniqueEntryId": "qPZnLEKoAZbQxXQiG",
     "materials": {
       "yellow pansies": 3,
@@ -4933,8 +5328,9 @@
     "name": "paw-print doorplate",
     "sources": "Peppy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wall-Mounted",
-    "internalId": null,
+    "internalId": 466,
     "uniqueEntryId": "S3f74cedig2pCxFHu",
     "materials": {
       "wood": 3
@@ -4945,8 +5341,9 @@
     "name": "peach chair",
     "sources": "Normal villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 187,
     "uniqueEntryId": "nCJGnLxvqbshrxxxD",
     "materials": {
       "peach": 10,
@@ -4958,8 +5355,9 @@
     "name": "peach dress",
     "sources": "Normal villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Dresses",
-    "internalId": null,
+    "internalId": 618,
     "uniqueEntryId": "zmPZEvBG6yYGmeFBx",
     "materials": {
       "peach": 8
@@ -4970,8 +5368,9 @@
     "name": "peach hat",
     "sources": "Normal villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Headwear",
-    "internalId": null,
+    "internalId": 619,
     "uniqueEntryId": "iSQTJwDAeiFowjbt5",
     "materials": {
       "peach": 5
@@ -4982,8 +5381,9 @@
     "name": "peach rug",
     "sources": "Normal villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Rugs",
-    "internalId": null,
+    "internalId": 545,
     "uniqueEntryId": "qYQTQktpoWBckW63d",
     "materials": {
       "peach": 6
@@ -4994,8 +5394,9 @@
     "name": "peach surprise box",
     "sources": "Normal villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Miscellaneous",
-    "internalId": null,
+    "internalId": 188,
     "uniqueEntryId": "47GdZP9FTse2XqXCv",
     "materials": {
       "peach": 10,
@@ -5007,8 +5408,9 @@
     "name": "peach umbrella",
     "sources": "Normal villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Umbrellas",
-    "internalId": null,
+    "internalId": 620,
     "uniqueEntryId": "bpoAgczMK3d6dmtte",
     "materials": {
       "peach": 7
@@ -5019,8 +5421,9 @@
     "name": "peach wall",
     "sources": "Normal villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wallpaper",
-    "internalId": null,
+    "internalId": 306,
     "uniqueEntryId": "EtpBMH46crTvLrLrn",
     "materials": {
       "peach": 6
@@ -5031,8 +5434,9 @@
     "name": "pear bed",
     "sources": "Jock villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 186,
     "uniqueEntryId": "cGN8QeEJjgtfZJnqv",
     "materials": {
       "pear": 10,
@@ -5044,8 +5448,9 @@
     "name": "pear dress",
     "sources": "Jock villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Dresses",
-    "internalId": null,
+    "internalId": 615,
     "uniqueEntryId": "Gc8pnkWgCZcMbeJnk",
     "materials": {
       "pear": 8
@@ -5056,8 +5461,9 @@
     "name": "pear hat",
     "sources": "Jock villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Headwear",
-    "internalId": null,
+    "internalId": 616,
     "uniqueEntryId": "u6hqbCNXEpdwk5TyW",
     "materials": {
       "pear": 5
@@ -5068,8 +5474,9 @@
     "name": "pear rug",
     "sources": "Jock villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Rugs",
-    "internalId": null,
+    "internalId": 546,
     "uniqueEntryId": "eEcepcMqPiijQzjta",
     "materials": {
       "pear": 6
@@ -5080,8 +5487,9 @@
     "name": "pear umbrella",
     "sources": "Jock villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Umbrellas",
-    "internalId": null,
+    "internalId": 617,
     "uniqueEntryId": "Z4yN2HWQNGM9HYBZo",
     "materials": {
       "pear": 7
@@ -5092,8 +5500,9 @@
     "name": "pear wall",
     "sources": "Jock villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wallpaper",
-    "internalId": null,
+    "internalId": 305,
     "uniqueEntryId": "es6hFYQ5DneXyj8od",
     "materials": {
       "pear": 20
@@ -5104,8 +5513,9 @@
     "name": "pear wardrobe",
     "sources": "Jock villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 9,
     "uniqueEntryId": "ruECmxoLmFHpjeKau",
     "materials": {
       "pear": 10,
@@ -5117,8 +5527,9 @@
     "name": "pile of leaves",
     "sources": "Balloons",
     "sourceNotes": "Only available during Fall",
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 586,
     "uniqueEntryId": "4DfamX3gvgQKPaGYi",
     "materials": {
       "pine cone": 3,
@@ -5130,8 +5541,9 @@
     "name": "pile of zen cushions",
     "sources": "Cranky villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 521,
     "uniqueEntryId": "2CGSv5apJjzb9AZS5",
     "materials": {
       "zen cushion": 3
@@ -5142,8 +5554,9 @@
     "name": "pine bonsai tree",
     "sources": "Balloons",
     "sourceNotes": "Only available during Fall",
+    "version": "1.0.0",
     "category": "Miscellaneous",
-    "internalId": null,
+    "internalId": 592,
     "uniqueEntryId": "ifZ8RQ4kxXgJawABR",
     "materials": {
       "pine cone": 8,
@@ -5155,8 +5568,9 @@
     "name": "Pisces lamp",
     "sources": "Celeste",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 399,
     "uniqueEntryId": "WkqrKtCEaK8GTwQ6L",
     "materials": {
       "star fragment": 3,
@@ -5170,8 +5584,9 @@
     "name": "pitfall seed",
     "sources": "Jock villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Other",
-    "internalId": null,
+    "internalId": 264,
     "uniqueEntryId": "QB33ur4L2mq5CvL4X",
     "materials": {
       "clump of weeds": 4,
@@ -5183,8 +5598,9 @@
     "name": "plain sink",
     "sources": "Nook's Cranny",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 174,
     "uniqueEntryId": "2ep7S8GmDoqMHTzTo",
     "materials": {
       "wood": 6,
@@ -5197,8 +5613,9 @@
     "name": "plain wooden shop sign",
     "sources": "Jock villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 166,
     "uniqueEntryId": "q5Gq6yTqh25mfP83A",
     "materials": {
       "wood": 6
@@ -5209,8 +5626,9 @@
     "name": "pond stone",
     "sources": "Snooty villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 513,
     "uniqueEntryId": "LqSfpSHJgQyAJDHkJ",
     "materials": {
       "stone": 10
@@ -5221,8 +5639,9 @@
     "name": "pot",
     "sources": "Villager House Development (Tom Nook); Cranky villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Miscellaneous",
-    "internalId": null,
+    "internalId": 37,
     "uniqueEntryId": "4kNto6azXBJEzDZvA",
     "materials": {
       "clay": 5
@@ -5233,8 +5652,9 @@
     "name": "potted ivy",
     "sources": "Nook's Cranny",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wall-Mounted",
-    "internalId": null,
+    "internalId": 214,
     "uniqueEntryId": "PRZpskqoyoPoT6g3c",
     "materials": {
       "clump of weeds": 5,
@@ -5246,8 +5666,9 @@
     "name": "pretty cosmos wreath",
     "sources": "All Villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wall-Mounted",
-    "internalId": null,
+    "internalId": 445,
     "uniqueEntryId": "sSXrhgXnaQfP53KFk",
     "materials": {
       "orange cosmos": 3,
@@ -5260,8 +5681,9 @@
     "name": "pretty tulip wreath",
     "sources": "All Villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wall-Mounted",
-    "internalId": null,
+    "internalId": 361,
     "uniqueEntryId": "z4k9YXZrLp9x6TXXF",
     "materials": {
       "orange tulips": 3,
@@ -5274,8 +5696,9 @@
     "name": "purple hyacinth crown",
     "sources": "All Villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Headwear",
-    "internalId": null,
+    "internalId": 239,
     "uniqueEntryId": "aHwaJQnuBTPrrjRtM",
     "materials": {
       "purple hyacinths": 6
@@ -5286,8 +5709,9 @@
     "name": "purple hyacinth wreath",
     "sources": "All Villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wall-Mounted",
-    "internalId": null,
+    "internalId": 452,
     "uniqueEntryId": "QXWyxbAncQeicP3xY",
     "materials": {
       "purple hyacinths": 10
@@ -5298,8 +5722,9 @@
     "name": "purple pansy crown",
     "sources": "All Villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Headwear",
-    "internalId": null,
+    "internalId": 248,
     "uniqueEntryId": "NJ8nZjXNYWmYkzzGA",
     "materials": {
       "purple pansies": 6
@@ -5310,8 +5735,9 @@
     "name": "purple windflower crown",
     "sources": "All Villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Headwear",
-    "internalId": null,
+    "internalId": 242,
     "uniqueEntryId": "kz9eW99mbZKy5QZSA",
     "materials": {
       "purple windflowers": 6
@@ -5322,8 +5748,9 @@
     "name": "raccoon figurine",
     "sources": "Cranky villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 520,
     "uniqueEntryId": "c3iADXgcRcQv3cTF3",
     "materials": {
       "clay": 6
@@ -5334,8 +5761,9 @@
     "name": "recycled boots",
     "sources": "Fishing up a boot",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Shoes",
-    "internalId": null,
+    "internalId": 664,
     "uniqueEntryId": "yqYz3fPAdv4nDcv9X",
     "materials": {
       "boot": 2
@@ -5346,8 +5774,9 @@
     "name": "recycled-can thumb piano",
     "sources": "Fishing up an empty can",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Miscellaneous",
-    "internalId": null,
+    "internalId": 504,
     "uniqueEntryId": "Wg8fZ2B2HqkvzvHDP",
     "materials": {
       "empty can": 1,
@@ -5360,8 +5789,9 @@
     "name": "red-leaf pile",
     "sources": "Balloons; Isabelle",
     "sourceNotes": "Only available during Maple Leaf Season",
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 589,
     "uniqueEntryId": "mLrdRGTNsXKuekHhN",
     "materials": {
       "maple leaf": 3,
@@ -5373,8 +5803,9 @@
     "name": "ringtoss",
     "sources": "Nook's Cranny",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Miscellaneous",
-    "internalId": null,
+    "internalId": 43,
     "uniqueEntryId": "oADtSa2zmTwZ9NMQz",
     "materials": {
       "wood": 2,
@@ -5386,8 +5817,9 @@
     "name": "robot hero",
     "sources": "Nook Miles Exchange",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 594,
     "uniqueEntryId": "4AjeuiarF5T2AAKSG",
     "materials": {
       "rocket": 1,
@@ -5402,8 +5834,9 @@
     "name": "rocket",
     "sources": "Celeste",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 409,
     "uniqueEntryId": "xMbimsjjXPKdPSXxF",
     "materials": {
       "star fragment": 10,
@@ -5415,8 +5848,9 @@
     "name": "rocking chair",
     "sources": "Nook's Cranny",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 57,
     "uniqueEntryId": "8iX4opSXHjcJBorzj",
     "materials": {
       "wood": 3,
@@ -5428,8 +5862,9 @@
     "name": "rocking horse",
     "sources": "Normal villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 102,
     "uniqueEntryId": "mYp7N7KfrH4GprNif",
     "materials": {
       "softwood": 5
@@ -5440,8 +5875,9 @@
     "name": "rope fence",
     "sources": "Nook Miles Exchange",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Fencing",
-    "internalId": null,
+    "internalId": 549,
     "uniqueEntryId": "376NtDBZyAE9mDtSo",
     "materials": {
       "iron nugget": 4
@@ -5452,8 +5888,9 @@
     "name": "rose bed",
     "sources": "Smug villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 507,
     "uniqueEntryId": "7JwEWxhn5RhmvkgpS",
     "materials": {
       "red roses": 10,
@@ -5465,8 +5902,9 @@
     "name": "rose crown",
     "sources": "All Villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Headwear",
-    "internalId": null,
+    "internalId": 252,
     "uniqueEntryId": "nn5Ax694CmD7dzkDZ",
     "materials": {
       "red roses": 2,
@@ -5479,8 +5917,9 @@
     "name": "rose wand",
     "sources": "Celeste",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Tools",
-    "internalId": null,
+    "internalId": 529,
     "uniqueEntryId": "hH9qJNGJpxbY2TYTt",
     "materials": {
       "red roses": 1,
@@ -5492,8 +5931,9 @@
     "name": "rose wreath",
     "sources": "All Villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wall-Mounted",
-    "internalId": null,
+    "internalId": 229,
     "uniqueEntryId": "Swx6c6NHk94Htn86t",
     "materials": {
       "red roses": 3,
@@ -5506,8 +5946,9 @@
     "name": "rustic-stone wall",
     "sources": "Snooty villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wallpaper",
-    "internalId": null,
+    "internalId": 324,
     "uniqueEntryId": "MmjudYWMYWwucKrMG",
     "materials": {
       "stone": 5,
@@ -5519,8 +5960,9 @@
     "name": "Sagittarius arrow",
     "sources": "Celeste",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wall-Mounted",
-    "internalId": null,
+    "internalId": 376,
     "uniqueEntryId": "E3TJjo97BMNgHWPAH",
     "materials": {
       "star fragment": 3,
@@ -5533,8 +5975,9 @@
     "name": "sakura-wood flooring",
     "sources": "Balloons",
     "sourceNotes": "Only available during Cherry-Blossom Season",
+    "version": "1.0.0",
     "category": "Floors",
-    "internalId": null,
+    "internalId": 649,
     "uniqueEntryId": "fPZCc3qyHmip4YE4o",
     "materials": {
       "cherry-blossom petal": 5,
@@ -5546,8 +5989,9 @@
     "name": "sakura-wood wall",
     "sources": "Balloons",
     "sourceNotes": "Only available during Cherry-Blossom Season",
+    "version": "1.0.0",
     "category": "Wallpaper",
-    "internalId": null,
+    "internalId": 321,
     "uniqueEntryId": "qweZmh7LNTLp9FDiY",
     "materials": {
       "cherry-blossom petal": 5,
@@ -5559,8 +6003,9 @@
     "name": "sandy-beach flooring",
     "sources": "Jock villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Floors",
-    "internalId": null,
+    "internalId": 669,
     "uniqueEntryId": "39nh7pMHJthnDFjYE",
     "materials": {
       "sea snail": 1,
@@ -5576,8 +6021,9 @@
     "name": "satellite",
     "sources": "Celeste",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 379,
     "uniqueEntryId": "LZgRMaLeBJvSmGPGu",
     "materials": {
       "star fragment": 10,
@@ -5589,8 +6035,9 @@
     "name": "sauna heater",
     "sources": "Lazy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 374,
     "uniqueEntryId": "LmA3DipMGKZb35bBf",
     "materials": {
       "stone": 6,
@@ -5603,8 +6050,9 @@
     "name": "scarecrow",
     "sources": "Cranky villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 655,
     "uniqueEntryId": "MWhpvNPWowwPKTPb3",
     "materials": {
       "tree branch": 3,
@@ -5616,8 +6064,9 @@
     "name": "scattered papers",
     "sources": "Smug villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 463,
     "uniqueEntryId": "inzHEDTLeK6KZoiqa",
     "materials": {
       "document stack": 1
@@ -5628,8 +6077,9 @@
     "name": "sci-fi flooring",
     "sources": "Celeste",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Floors",
-    "internalId": null,
+    "internalId": 477,
     "uniqueEntryId": "HYS6oTgQ85xyP8cuv",
     "materials": {
       "star fragment": 5,
@@ -5641,8 +6091,9 @@
     "name": "sci-fi wall",
     "sources": "Celeste",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wallpaper",
-    "internalId": null,
+    "internalId": 292,
     "uniqueEntryId": "e4h5PiReE4wkz2mvY",
     "materials": {
       "star fragment": 5,
@@ -5654,8 +6105,9 @@
     "name": "Scorpio lamp",
     "sources": "Celeste",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Miscellaneous",
-    "internalId": null,
+    "internalId": 380,
     "uniqueEntryId": "nJbz3cz3Adu75WTG4",
     "materials": {
       "star fragment": 3,
@@ -5669,8 +6121,9 @@
     "name": "shell arch",
     "sources": "Lazy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 175,
     "uniqueEntryId": "o6M2coQ6bLoDQsWBm",
     "materials": {
       "sea snail": 3,
@@ -5686,8 +6139,9 @@
     "name": "shell bed",
     "sources": "Peppy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 181,
     "uniqueEntryId": "PQaCd4ohLujJeKoLQ",
     "materials": {
       "giant clam": 5,
@@ -5700,8 +6154,9 @@
     "name": "shell fountain",
     "sources": "Lazy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 180,
     "uniqueEntryId": "FQcXcbtASXK7kdQ9Q",
     "materials": {
       "giant clam": 5,
@@ -5713,8 +6168,9 @@
     "name": "shell lamp",
     "sources": "Big sister villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Miscellaneous",
-    "internalId": null,
+    "internalId": 182,
     "uniqueEntryId": "27oeQoY4DhhmPaEWS",
     "materials": {
       "giant clam": 2,
@@ -5726,8 +6182,9 @@
     "name": "shell partition",
     "sources": "Big sister villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 176,
     "uniqueEntryId": "JnmHHHWXPk99xRkwD",
     "materials": {
       "venus comb": 4,
@@ -5739,8 +6196,9 @@
     "name": "shell rug",
     "sources": "Peppy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Rugs",
-    "internalId": null,
+    "internalId": 668,
     "uniqueEntryId": "pJJzEZ9zTJQvgRdLu",
     "materials": {
       "giant clam": 3
@@ -5751,8 +6209,9 @@
     "name": "shell speaker",
     "sources": "Big sister villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Miscellaneous",
-    "internalId": null,
+    "internalId": 200,
     "uniqueEntryId": "WdK7LJ8fbgXe9kfBv",
     "materials": {
       "conch": 3,
@@ -5764,8 +6223,9 @@
     "name": "shell stool",
     "sources": "Big sister villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 177,
     "uniqueEntryId": "f4wdMHhuARgmQfdnB",
     "materials": {
       "cowrie": 5
@@ -5776,8 +6236,9 @@
     "name": "shell table",
     "sources": "Peppy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 178,
     "uniqueEntryId": "RXY6M4BmsWFJNqHAt",
     "materials": {
       "sand dollar": 7,
@@ -5789,8 +6250,9 @@
     "name": "shell wand",
     "sources": "Balloons",
     "sourceNotes": "Only available during Summer",
+    "version": "1.0.0",
     "category": "Tools",
-    "internalId": null,
+    "internalId": 534,
     "uniqueEntryId": "ZTaYhxtmS2F575QLd",
     "materials": {
       "summer shell": 3,
@@ -5802,8 +6264,9 @@
     "name": "shell wreath",
     "sources": "Balloons",
     "sourceNotes": "Only available during Summer",
+    "version": "1.0.0",
     "category": "Wall-Mounted",
-    "internalId": null,
+    "internalId": 219,
     "uniqueEntryId": "k7dondWtbpmYBYHaX",
     "materials": {
       "summer shell": 1,
@@ -5819,8 +6282,9 @@
     "name": "shellfish pochette",
     "sources": "Balloons",
     "sourceNotes": "Only available during Summer",
+    "version": "1.0.0",
     "category": "Bags",
-    "internalId": null,
+    "internalId": 634,
     "uniqueEntryId": "yArwqRFy5soMedxMk",
     "materials": {
       "giant clam": 2,
@@ -5832,8 +6296,9 @@
     "name": "shovel",
     "sources": "Nook Miles Exchange",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Tools",
-    "internalId": null,
+    "internalId": 281,
     "uniqueEntryId": "M3RrgtikixGSNWq24",
     "materials": {
       "flimsy shovel": 1,
@@ -5845,8 +6310,9 @@
     "name": "signpost",
     "sources": "Lazy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 213,
     "uniqueEntryId": "Z6H8xP4vNMznirGDX",
     "materials": {
       "hardwood": 2,
@@ -5858,8 +6324,9 @@
     "name": "silo",
     "sources": "Nook Miles Exchange",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 598,
     "uniqueEntryId": "6czwDvwNcJ6aLqsPm",
     "materials": {
       "iron nugget": 12,
@@ -5873,8 +6340,9 @@
     "name": "simple DIY workbench",
     "sources": "Jock villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 494,
     "uniqueEntryId": "BBHuZzdLe6H7GEw2R",
     "materials": {
       "hardwood": 5,
@@ -5886,8 +6354,9 @@
     "name": "simple mum crown",
     "sources": "All Villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Headwear",
-    "internalId": null,
+    "internalId": 260,
     "uniqueEntryId": "Pib8R6Z4czejLxJK3",
     "materials": {
       "green mums": 6
@@ -5898,8 +6367,9 @@
     "name": "simple well",
     "sources": "Nook Miles Exchange",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 36,
     "uniqueEntryId": "bFSWqMEdNJZBRALME",
     "materials": {
       "stone": 15,
@@ -5911,8 +6381,9 @@
     "name": "simple wooden fence",
     "sources": "Nook Miles Exchange",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Fencing",
-    "internalId": null,
+    "internalId": 656,
     "uniqueEntryId": "ZGyfJBiFPk58dPFfn",
     "materials": {
       "softwood": 6
@@ -5923,8 +6394,9 @@
     "name": "ski-slope flooring",
     "sources": "Balloons",
     "sourceNotes": "Only available during Winter",
+    "version": "1.0.0",
     "category": "Floors",
-    "internalId": null,
+    "internalId": 483,
     "uniqueEntryId": "obRJkb8TbaWbaBxAt",
     "materials": {
       "snowflake": 8
@@ -5935,8 +6407,9 @@
     "name": "ski-slope wall",
     "sources": "Balloons",
     "sourceNotes": "Only available during Winter",
+    "version": "1.0.0",
     "category": "Wallpaper",
-    "internalId": null,
+    "internalId": 295,
     "uniqueEntryId": "GpPrFGQc3wjpPYh2C",
     "materials": {
       "snowflake": 8
@@ -5947,8 +6420,9 @@
     "name": "sky-egg outfit",
     "sources": "Collecting sky eggs",
     "sourceNotes": "Only available during Bunny Day",
+    "version": "1.1.0a",
     "category": "Dresses",
-    "internalId": null,
+    "internalId": 686,
     "uniqueEntryId": "weRPdpf2rNKk5M6To",
     "materials": {
       "sky egg": 3
@@ -5959,8 +6433,9 @@
     "name": "sky-egg shell",
     "sources": "Collecting sky eggs",
     "sourceNotes": "Only available during Bunny Day",
+    "version": "1.1.0a",
     "category": "Headwear",
-    "internalId": null,
+    "internalId": 685,
     "uniqueEntryId": "dvaSzuxBdqGoQsQtn",
     "materials": {
       "sky egg": 2
@@ -5971,8 +6446,9 @@
     "name": "sky-egg shoes",
     "sources": "Collecting sky eggs",
     "sourceNotes": "Only available during Bunny Day",
+    "version": "1.1.0a",
     "category": "Shoes",
-    "internalId": null,
+    "internalId": 687,
     "uniqueEntryId": "EHXPk3QeW6EZy7pF9",
     "materials": {
       "sky egg": 2
@@ -5983,8 +6459,9 @@
     "name": "sleigh",
     "sources": "Cranky villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 580,
     "uniqueEntryId": "vQCpvpCFNYENPhuKK",
     "materials": {
       "wood": 8
@@ -5995,8 +6472,9 @@
     "name": "slingshot",
     "sources": "Nook's Cranny",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Tools",
-    "internalId": null,
+    "internalId": 29,
     "uniqueEntryId": "Bbew7NAtvtH9wLJrD",
     "materials": {
       "hardwood": 5
@@ -6007,8 +6485,9 @@
     "name": "small cardboard boxes",
     "sources": "Peppy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 609,
     "uniqueEntryId": "5dYMgBRhSgGpHNRcW",
     "materials": {
       "cardboard box": 2
@@ -6019,8 +6498,9 @@
     "name": "snazzy pansy wreath",
     "sources": "All Villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wall-Mounted",
-    "internalId": null,
+    "internalId": 451,
     "uniqueEntryId": "vyxRpZbkGm3iZo9FG",
     "materials": {
       "orange pansies": 3,
@@ -6033,8 +6513,9 @@
     "name": "snowflake pochette",
     "sources": "Balloons",
     "sourceNotes": "Only available during Winter",
+    "version": "1.0.0",
     "category": "Bags",
-    "internalId": null,
+    "internalId": 633,
     "uniqueEntryId": "8b7zapAg4LJDda6Tk",
     "materials": {
       "snowflake": 6
@@ -6045,8 +6526,9 @@
     "name": "snowflake wall",
     "sources": "Balloons",
     "sourceNotes": "Only available during Winter",
+    "version": "1.0.0",
     "category": "Wallpaper",
-    "internalId": null,
+    "internalId": 323,
     "uniqueEntryId": "m8fufjb9uRvsqguGC",
     "materials": {
       "snowflake": 12
@@ -6057,8 +6539,9 @@
     "name": "snowflake wreath",
     "sources": "Balloons; Isabelle",
     "sourceNotes": "Only available during Winter",
+    "version": "1.0.0",
     "category": "Wall-Mounted",
-    "internalId": null,
+    "internalId": 222,
     "uniqueEntryId": "syeDkgGnge76zBJ5y",
     "materials": {
       "snowflake": 4
@@ -6069,8 +6552,9 @@
     "name": "snowperson head",
     "sources": "Making a perfect Snowboy",
     "sourceNotes": "Only available during Winter",
+    "version": "1.0.0",
     "category": "Headwear",
-    "internalId": null,
+    "internalId": 637,
     "uniqueEntryId": "6TuttvHpXz8cBQAqa",
     "materials": {
       "large snowflake": 1,
@@ -6082,8 +6566,9 @@
     "name": "space shuttle",
     "sources": "Celeste",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 381,
     "uniqueEntryId": "rh4nYL67r9Cy33pxj",
     "materials": {
       "star fragment": 5,
@@ -6095,8 +6580,9 @@
     "name": "spiky fence",
     "sources": "Nook Miles Exchange",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Fencing",
-    "internalId": null,
+    "internalId": 553,
     "uniqueEntryId": "KwQDAafZxyPRLtYFn",
     "materials": {
       "hardwood": 8
@@ -6107,8 +6593,9 @@
     "name": "stack of books",
     "sources": "Lazy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Miscellaneous",
-    "internalId": null,
+    "internalId": 196,
     "uniqueEntryId": "wRs5mmgErDd3guzAD",
     "materials": {
       "book": 5
@@ -6119,8 +6606,9 @@
     "name": "stacked magazines",
     "sources": "Peppy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Miscellaneous",
-    "internalId": null,
+    "internalId": 197,
     "uniqueEntryId": "3gMLM9p6vJS37zTZe",
     "materials": {
       "magazine": 6
@@ -6131,8 +6619,9 @@
     "name": "stacked-wood wall",
     "sources": "Jock villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wallpaper",
-    "internalId": null,
+    "internalId": 314,
     "uniqueEntryId": "NNmn5yJHFnwDWkcRN",
     "materials": {
       "hardwood": 15
@@ -6143,8 +6632,9 @@
     "name": "stall",
     "sources": "Nook Miles Exchange",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 596,
     "uniqueEntryId": "Et4TyaGdqojFhBPej",
     "materials": {
       "wood": 12
@@ -6155,8 +6645,9 @@
     "name": "standard umbrella stand",
     "sources": "Cranky villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 169,
     "uniqueEntryId": "vXFQZrMwx56imYidt",
     "materials": {
       "iron nugget": 3
@@ -6167,8 +6658,9 @@
     "name": "star clock",
     "sources": "Celeste",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Miscellaneous",
-    "internalId": null,
+    "internalId": 514,
     "uniqueEntryId": "2svknEfP5LbMe6Qur",
     "materials": {
       "star fragment": 3,
@@ -6180,8 +6672,9 @@
     "name": "star head",
     "sources": "Celeste",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Headwear",
-    "internalId": null,
+    "internalId": 628,
     "uniqueEntryId": "ruy96poyPqtxc5K4Y",
     "materials": {
       "star fragment": 5
@@ -6192,8 +6685,9 @@
     "name": "star pochette",
     "sources": "Celeste",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Bags",
-    "internalId": null,
+    "internalId": 627,
     "uniqueEntryId": "4fJpnNtzwpyCgJcNg",
     "materials": {
       "star fragment": 6
@@ -6204,8 +6698,9 @@
     "name": "star wand",
     "sources": "Celeste",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Tools",
-    "internalId": null,
+    "internalId": 523,
     "uniqueEntryId": "yv5a3yQPS9tmBjhaP",
     "materials": {
       "large star fragment": 1,
@@ -6217,8 +6712,9 @@
     "name": "starry garland",
     "sources": "Celeste",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wall-Mounted",
-    "internalId": null,
+    "internalId": 430,
     "uniqueEntryId": "9LShEjECc39Sdyxzt",
     "materials": {
       "star fragment": 10
@@ -6229,8 +6725,9 @@
     "name": "starry wall",
     "sources": "Celeste",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wallpaper",
-    "internalId": null,
+    "internalId": 286,
     "uniqueEntryId": "dZ74auFDK9GYNkEnK",
     "materials": {
       "star fragment": 5,
@@ -6242,8 +6739,9 @@
     "name": "starry-sands flooring",
     "sources": "Balloons",
     "sourceNotes": "Only available during Summer",
+    "version": "1.0.0",
     "category": "Floors",
-    "internalId": null,
+    "internalId": 667,
     "uniqueEntryId": "eR5A2YsGKuygX85s2",
     "materials": {
       "summer shell": 3,
@@ -6255,8 +6753,9 @@
     "name": "starry-sky wall",
     "sources": "Celeste",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wallpaper",
-    "internalId": null,
+    "internalId": 294,
     "uniqueEntryId": "k4Fuy56j7X2gnPbhq",
     "materials": {
       "star fragment": 5,
@@ -6268,8 +6767,9 @@
     "name": "steamer-basket set",
     "sources": "Balloons",
     "sourceNotes": "Only available during Spring",
+    "version": "1.0.0",
     "category": "Miscellaneous",
-    "internalId": null,
+    "internalId": 382,
     "uniqueEntryId": "Z7Bb4ApKb6B8pNne2",
     "materials": {
       "young spring bamboo": 6
@@ -6280,8 +6780,9 @@
     "name": "steel flooring",
     "sources": "Smug villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Floors",
-    "internalId": null,
+    "internalId": 489,
     "uniqueEntryId": "9ey59kSpvYXFaFzLz",
     "materials": {
       "iron nugget": 7
@@ -6292,8 +6793,9 @@
     "name": "steel-frame wall",
     "sources": "Smug villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wallpaper",
-    "internalId": null,
+    "internalId": 325,
     "uniqueEntryId": "zStKcz96GL8oDdLW9",
     "materials": {
       "iron nugget": 8
@@ -6304,8 +6806,9 @@
     "name": "stone arch",
     "sources": "Nook Miles Exchange",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 652,
     "uniqueEntryId": "6nZpvNEdHwxMgNtYC",
     "materials": {
       "stone": 90
@@ -6316,8 +6819,9 @@
     "name": "stone axe",
     "sources": "Nook Miles Exchange",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Tools",
-    "internalId": null,
+    "internalId": 285,
     "uniqueEntryId": "RYD96qHETZn2ex3EP",
     "materials": {
       "flimsy axe": 1,
@@ -6329,8 +6833,9 @@
     "name": "stone fence",
     "sources": "Nook Miles Exchange",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Fencing",
-    "internalId": null,
+    "internalId": 266,
     "uniqueEntryId": "SeyEuJLjP22oEeN2x",
     "materials": {
       "stone": 4
@@ -6341,8 +6846,9 @@
     "name": "stone lion-dog",
     "sources": "Smug villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 570,
     "uniqueEntryId": "qLZ2ZtquCBHWMF9Ke",
     "materials": {
       "stone": 24
@@ -6353,8 +6859,9 @@
     "name": "stone stool",
     "sources": "Nook's Cranny",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 104,
     "uniqueEntryId": "zAdsd8FZE7z3BzvJz",
     "materials": {
       "stone": 3
@@ -6365,8 +6872,9 @@
     "name": "stone table",
     "sources": "Villager House Development (Tom Nook); Lazy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 105,
     "uniqueEntryId": "4ieu6E9Qf95NaSJGc",
     "materials": {
       "stone": 8
@@ -6377,8 +6885,9 @@
     "name": "stone tablet",
     "sources": "Nook Miles Exchange",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 651,
     "uniqueEntryId": "DoFhuq2qKsiTHz6T6",
     "materials": {
       "stone": 12
@@ -6389,8 +6898,9 @@
     "name": "stone wall",
     "sources": "Smug villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wallpaper",
-    "internalId": null,
+    "internalId": 318,
     "uniqueEntryId": "jkx7FkcrQdSWPqno2",
     "materials": {
       "stone": 10
@@ -6401,8 +6911,9 @@
     "name": "stone-egg outfit",
     "sources": "Collecting stone eggs",
     "sourceNotes": "Only available during Bunny Day",
+    "version": "1.1.0a",
     "category": "Dresses",
-    "internalId": null,
+    "internalId": 677,
     "uniqueEntryId": "xrQW5CeTyHda2fcut",
     "materials": {
       "stone egg": 3
@@ -6413,8 +6924,9 @@
     "name": "stone-egg shell",
     "sources": "Collecting stone eggs",
     "sourceNotes": "Only available during Bunny Day",
+    "version": "1.1.0a",
     "category": "Headwear",
-    "internalId": null,
+    "internalId": 676,
     "uniqueEntryId": "bC74Ws22wnGThm6Mh",
     "materials": {
       "stone egg": 2
@@ -6425,8 +6937,9 @@
     "name": "stone-egg shoes",
     "sources": "Collecting stone eggs",
     "sourceNotes": "Only available during Bunny Day",
+    "version": "1.1.0a",
     "category": "Shoes",
-    "internalId": null,
+    "internalId": 678,
     "uniqueEntryId": "qjuG3PA8rJWbnu5Qp",
     "materials": {
       "stone egg": 2
@@ -6437,8 +6950,9 @@
     "name": "straw fence",
     "sources": "Nook Miles Exchange",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Fencing",
-    "internalId": null,
+    "internalId": 552,
     "uniqueEntryId": "WpBzuYymcgmxSCn2m",
     "materials": {
       "clump of weeds": 10,
@@ -6450,8 +6964,9 @@
     "name": "straw umbrella hat",
     "sources": "Smug villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Headwear",
-    "internalId": null,
+    "internalId": 606,
     "uniqueEntryId": "ADu83C55zHi4DfoFp",
     "materials": {
       "clump of weeds": 10
@@ -6462,8 +6977,9 @@
     "name": "street piano",
     "sources": "Big sister villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 654,
     "uniqueEntryId": "fXE4EShKRk3pRX58g",
     "materials": {
       "upright piano": 1,
@@ -6475,8 +6991,9 @@
     "name": "succulent plant",
     "sources": "Fishing up an empty can",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Miscellaneous",
-    "internalId": null,
+    "internalId": 190,
     "uniqueEntryId": "YyxnntEPTDukJaRfY",
     "materials": {
       "clump of weeds": 10,
@@ -6488,8 +7005,9 @@
     "name": "swinging bench",
     "sources": "Nook's Cranny",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 59,
     "uniqueEntryId": "8PYT8EbpS8exL2Px8",
     "materials": {
       "wood": 5,
@@ -6501,8 +7019,9 @@
     "name": "tabletop festive tree",
     "sources": "Balloons",
     "sourceNotes": "Only available during Festive Season",
+    "version": "1.0.0",
     "category": "Miscellaneous",
-    "internalId": null,
+    "internalId": 388,
     "uniqueEntryId": "kNa25SiznwzDANzYb",
     "materials": {
       "gold ornament": 5,
@@ -6515,8 +7034,9 @@
     "name": "tall garden rock",
     "sources": "Snooty villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 49,
     "uniqueEntryId": "MqsHscjkCtGhwnPXc",
     "materials": {
       "stone": 60
@@ -6527,8 +7047,9 @@
     "name": "tall lantern",
     "sources": "Smug villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 653,
     "uniqueEntryId": "5LkbaD7PpwzSvzERR",
     "materials": {
       "stone": 18
@@ -6539,8 +7060,9 @@
     "name": "Taurus bathtub",
     "sources": "Celeste",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 384,
     "uniqueEntryId": "tCQiMeCmYy7QeEP2K",
     "materials": {
       "star fragment": 3,
@@ -6554,8 +7076,9 @@
     "name": "tea table",
     "sources": "Cranky villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 33,
     "uniqueEntryId": "k7Auf6dj296Eyu2QP",
     "materials": {
       "hardwood": 12
@@ -6566,8 +7089,9 @@
     "name": "terrarium",
     "sources": "Normal villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Miscellaneous",
-    "internalId": null,
+    "internalId": 391,
     "uniqueEntryId": "d7WN5879xto3Q7egY",
     "materials": {
       "clump of weeds": 12,
@@ -6579,8 +7103,9 @@
     "name": "three-tiered snowperson",
     "sources": "Making a perfect Snowboy",
     "sourceNotes": "Only available during Winter",
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 364,
     "uniqueEntryId": "XhwGfK9fy9iaq8qwt",
     "materials": {
       "large snowflake": 1,
@@ -6593,8 +7118,9 @@
     "name": "tiki torch",
     "sources": "Tom Nook; Cranky villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 103,
     "uniqueEntryId": "cLXnJ7cnYZc8Pbh2T",
     "materials": {
       "tree branch": 5,
@@ -6606,8 +7132,9 @@
     "name": "timber doorplate",
     "sources": "Snooty villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wall-Mounted",
-    "internalId": null,
+    "internalId": 465,
     "uniqueEntryId": "bk8JqAgdSKtw6EdC8",
     "materials": {
       "wood": 2,
@@ -6619,8 +7146,9 @@
     "name": "tiny library",
     "sources": "Normal villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 278,
     "uniqueEntryId": "rMWDf7X5P5jp8TnjK",
     "materials": {
       "book": 3,
@@ -6632,8 +7160,9 @@
     "name": "tire stack",
     "sources": "Fishing up three old tires",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 60,
     "uniqueEntryId": "tNsxG387ihB4YLsx6",
     "materials": {
       "old tire": 3
@@ -6644,8 +7173,9 @@
     "name": "tire toy",
     "sources": "Fishing up an old tire",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 78,
     "uniqueEntryId": "2bNpWkbwsHyXGCGb5",
     "materials": {
       "old tire": 1
@@ -6656,8 +7186,9 @@
     "name": "traditional balancing toy",
     "sources": "Balloons",
     "sourceNotes": "Only available during Fall",
+    "version": "1.0.0",
     "category": "Miscellaneous",
-    "internalId": null,
+    "internalId": 411,
     "uniqueEntryId": "8jd6NZ7MD7hJjAgbw",
     "materials": {
       "acorn": 4,
@@ -6669,8 +7200,9 @@
     "name": "traditional straw coat",
     "sources": "Normal villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Tops",
-    "internalId": null,
+    "internalId": 604,
     "uniqueEntryId": "ofx4zP9Qj2tovbm3G",
     "materials": {
       "clump of weeds": 8
@@ -6681,8 +7213,9 @@
     "name": "trash bags",
     "sources": "Fishing up all 3 trash items",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Miscellaneous",
-    "internalId": null,
+    "internalId": 66,
     "uniqueEntryId": "yofDbWxuR2q36otG4",
     "materials": {
       "empty can": 1,
@@ -6695,8 +7228,9 @@
     "name": "tree branch wreath",
     "sources": "Big sister villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wall-Mounted",
-    "internalId": null,
+    "internalId": 225,
     "uniqueEntryId": "JnbW5panqjR2iWknX",
     "materials": {
       "tree branch": 10
@@ -6707,8 +7241,9 @@
     "name": "tree standee",
     "sources": "Jock villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 585,
     "uniqueEntryId": "QnPjCxDRTXoQDHYqZ",
     "materials": {
       "wood": 5,
@@ -6720,8 +7255,9 @@
     "name": "tree-branch wand",
     "sources": "Celeste",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Tools",
-    "internalId": null,
+    "internalId": 535,
     "uniqueEntryId": "8WNAJXXX3Dn4Ggv5T",
     "materials": {
       "tree branch": 5,
@@ -6733,8 +7269,9 @@
     "name": "tree's bounty arch",
     "sources": "Balloons",
     "sourceNotes": "Only available during Maple Leaf Season",
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 423,
     "uniqueEntryId": "WQSMn7PgNkGiLjJaT",
     "materials": {
       "pine cone": 4,
@@ -6748,8 +7285,9 @@
     "name": "tree's bounty big tree",
     "sources": "Balloons",
     "sourceNotes": "Only available during Maple Leaf Season",
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 417,
     "uniqueEntryId": "WruuvjyZLeuYLkpca",
     "materials": {
       "pine cone": 5,
@@ -6764,8 +7302,9 @@
     "name": "tree's bounty lamp",
     "sources": "Balloons",
     "sourceNotes": "Only available during Fall",
+    "version": "1.0.0",
     "category": "Miscellaneous",
-    "internalId": null,
+    "internalId": 415,
     "uniqueEntryId": "fSYJ4F4BMefmKNXLT",
     "materials": {
       "acorn": 6,
@@ -6777,8 +7316,9 @@
     "name": "tree's bounty little tree",
     "sources": "Balloons; Isabelle",
     "sourceNotes": "Only available during Fall",
+    "version": "1.0.0",
     "category": "Miscellaneous",
-    "internalId": null,
+    "internalId": 416,
     "uniqueEntryId": "RgkwpSJpTC2nEc6vB",
     "materials": {
       "pine cone": 6,
@@ -6791,8 +7331,9 @@
     "name": "tree's bounty mobile",
     "sources": "Balloons",
     "sourceNotes": "Only available during Fall",
+    "version": "1.0.0",
     "category": "Wall-Mounted",
-    "internalId": null,
+    "internalId": 414,
     "uniqueEntryId": "F6WehkKZG7sSwRLBo",
     "materials": {
       "pine cone": 2,
@@ -6805,8 +7346,9 @@
     "name": "trophy case",
     "sources": "Jock villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 576,
     "uniqueEntryId": "jtaKPkvSoNZGcDrNt",
     "materials": {
       "hardwood": 24,
@@ -6819,8 +7361,9 @@
     "name": "tropical vista",
     "sources": "Balloons",
     "sourceNotes": "Only available during Summer",
+    "version": "1.0.0",
     "category": "Wallpaper",
-    "internalId": null,
+    "internalId": 666,
     "uniqueEntryId": "5mypRC2jBZnq6ywTT",
     "materials": {
       "summer shell": 5
@@ -6831,8 +7374,9 @@
     "name": "tulip crown",
     "sources": "All Villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Headwear",
-    "internalId": null,
+    "internalId": 243,
     "uniqueEntryId": "Ltt8w4xYy5Qfp9R9b",
     "materials": {
       "red tulips": 2,
@@ -6845,8 +7389,9 @@
     "name": "tulip surprise box",
     "sources": "Jock villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 495,
     "uniqueEntryId": "vn4G8vMx3426p84wv",
     "materials": {
       "red tulips": 5,
@@ -6858,8 +7403,9 @@
     "name": "tulip wand",
     "sources": "Celeste",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Tools",
-    "internalId": null,
+    "internalId": 526,
     "uniqueEntryId": "Hzq4v5JtEKASys3vY",
     "materials": {
       "red tulips": 1,
@@ -6871,8 +7417,9 @@
     "name": "tulip wreath",
     "sources": "All Villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wall-Mounted",
-    "internalId": null,
+    "internalId": 360,
     "uniqueEntryId": "jpfWEEc78PXeP26Js",
     "materials": {
       "red tulips": 3,
@@ -6885,8 +7432,9 @@
     "name": "ukulele",
     "sources": "Smug villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Miscellaneous",
-    "internalId": null,
+    "internalId": 45,
     "uniqueEntryId": "ERCKXc8shWWqxzNdA",
     "materials": {
       "hardwood": 5
@@ -6897,8 +7445,9 @@
     "name": "underwater flooring",
     "sources": "Balloons",
     "sourceNotes": "Only available during Summer",
+    "version": "1.0.0",
     "category": "Floors",
-    "internalId": null,
+    "internalId": 564,
     "uniqueEntryId": "LXFkgER59WZAvCPKn",
     "materials": {
       "summer shell": 3,
@@ -6910,8 +7459,9 @@
     "name": "underwater wall",
     "sources": "Balloons",
     "sourceNotes": "Only available during Summer",
+    "version": "1.0.0",
     "category": "Wallpaper",
-    "internalId": null,
+    "internalId": 665,
     "uniqueEntryId": "EXDyLjtfBny7Nfg2W",
     "materials": {
       "summer shell": 3,
@@ -6923,8 +7473,9 @@
     "name": "unglazed dish set",
     "sources": "Snooty villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Miscellaneous",
-    "internalId": null,
+    "internalId": 120,
     "uniqueEntryId": "sWuKis4QjZNYnPDXK",
     "materials": {
       "clay": 3
@@ -6935,8 +7486,9 @@
     "name": "vaulting pole",
     "sources": "Blathers; Nook's Cranny",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Tools",
-    "internalId": null,
+    "internalId": 183,
     "uniqueEntryId": "osL5JbW5XpPxQZR6b",
     "materials": {
       "softwood": 5
@@ -6947,8 +7499,9 @@
     "name": "vertical-board fence",
     "sources": "Nook Miles Exchange",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Fencing",
-    "internalId": null,
+    "internalId": 100,
     "uniqueEntryId": "gJHaHfwkn4dANzaTt",
     "materials": {
       "wood": 8
@@ -6959,8 +7512,9 @@
     "name": "Virgo harp",
     "sources": "Celeste",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 368,
     "uniqueEntryId": "kWfYtKDBGdFbzayNq",
     "materials": {
       "star fragment": 3,
@@ -6974,8 +7528,9 @@
     "name": "wand",
     "sources": "Celeste",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Tools",
-    "internalId": null,
+    "internalId": 532,
     "uniqueEntryId": "8vcfcHLWY7MLbb9Hn",
     "materials": {
       "star fragment": 2
@@ -6986,8 +7541,9 @@
     "name": "water flooring",
     "sources": "Balloons",
     "sourceNotes": "Only available during Summer",
+    "version": "1.0.0",
     "category": "Floors",
-    "internalId": null,
+    "internalId": 565,
     "uniqueEntryId": "pQvujBn8X2sq6j5FS",
     "materials": {
       "summer shell": 6
@@ -6998,8 +7554,9 @@
     "name": "water pump",
     "sources": "Villager House Development (Tom Nook); Lazy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 389,
     "uniqueEntryId": "2T8NEjxqcfXPGLYby",
     "materials": {
       "iron nugget": 2,
@@ -7011,8 +7568,9 @@
     "name": "water-egg outfit",
     "sources": "Collecting water eggs",
     "sourceNotes": "Only available during Bunny Day",
+    "version": "1.1.0a",
     "category": "Dresses",
-    "internalId": null,
+    "internalId": 689,
     "uniqueEntryId": "7iGNX78irzAu3Z5rw",
     "materials": {
       "water egg": 3
@@ -7023,8 +7581,9 @@
     "name": "water-egg shell",
     "sources": "Collecting water eggs",
     "sourceNotes": "Only available during Bunny Day",
+    "version": "1.1.0a",
     "category": "Headwear",
-    "internalId": null,
+    "internalId": 688,
     "uniqueEntryId": "YqZedKTDWgjDWcTR4",
     "materials": {
       "water egg": 2
@@ -7035,8 +7594,9 @@
     "name": "water-egg shoes",
     "sources": "Collecting water eggs",
     "sourceNotes": "Only available during Bunny Day",
+    "version": "1.1.0a",
     "category": "Shoes",
-    "internalId": null,
+    "internalId": 690,
     "uniqueEntryId": "Bg9geKwGApyACyXEx",
     "materials": {
       "water egg": 2
@@ -7047,8 +7607,9 @@
     "name": "watering can",
     "sources": "Nook Miles Exchange",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Tools",
-    "internalId": null,
+    "internalId": 280,
     "uniqueEntryId": "2AGD3mCFzDSDNNZoK",
     "materials": {
       "flimsy watering can": 1,
@@ -7060,8 +7621,9 @@
     "name": "wave breaker",
     "sources": "Nook Miles Exchange",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 55,
     "uniqueEntryId": "CruEkwMoLo3LcnyG4",
     "materials": {
       "stone": 10,
@@ -7070,11 +7632,40 @@
   },
   {
     "sourceSheet": "Recipes",
+    "name": "wedding fence",
+    "sources": "Harvey",
+    "sourceNotes": "Only available during Wedding Season",
+    "version": "1.2.0",
+    "category": "Fencing",
+    "internalId": 714,
+    "uniqueEntryId": "yZNfKe6dESLFFQ8J4",
+    "materials": {
+      "iron nugget": 5,
+      "softwood": 3
+    }
+  },
+  {
+    "sourceSheet": "Recipes",
+    "name": "wedding wand",
+    "sources": "Cyrus",
+    "sourceNotes": "Only available during Wedding Season",
+    "version": "1.2.0",
+    "category": "Tools",
+    "internalId": 715,
+    "uniqueEntryId": "LokHc5XaxADprKGWJ",
+    "materials": {
+      "wedding flower stand": 1,
+      "star fragment": 3
+    }
+  },
+  {
+    "sourceSheet": "Recipes",
     "name": "western-style stone",
     "sources": "Normal villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 518,
     "uniqueEntryId": "5BDsJhPKYRpxFjyvz",
     "materials": {
       "stone": 30
@@ -7085,8 +7676,9 @@
     "name": "wild log bench",
     "sources": "Jock villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 436,
     "uniqueEntryId": "ZGWN8wsv7hgjbLvdM",
     "materials": {
       "hardwood": 8
@@ -7097,8 +7689,9 @@
     "name": "wild-wood wall",
     "sources": "Cranky villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wallpaper",
-    "internalId": null,
+    "internalId": 309,
     "uniqueEntryId": "RQL2msCcNbX2Nyvqg",
     "materials": {
       "wood": 15
@@ -7109,8 +7702,9 @@
     "name": "windflower crown",
     "sources": "All Villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Headwear",
-    "internalId": null,
+    "internalId": 240,
     "uniqueEntryId": "2bHpYXqeSKyRgCsHx",
     "materials": {
       "red windflowers": 2,
@@ -7123,8 +7717,9 @@
     "name": "windflower fan",
     "sources": "Lazy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Miscellaneous",
-    "internalId": null,
+    "internalId": 503,
     "uniqueEntryId": "6Fz77bGPrTCrYNffT",
     "materials": {
       "red windflowers": 3,
@@ -7136,8 +7731,9 @@
     "name": "windflower wand",
     "sources": "Celeste",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Tools",
-    "internalId": null,
+    "internalId": 525,
     "uniqueEntryId": "GFM7MzdiDKiqhBb9X",
     "materials": {
       "orange windflowers": 1,
@@ -7149,8 +7745,9 @@
     "name": "windflower wreath",
     "sources": "All Villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wall-Mounted",
-    "internalId": null,
+    "internalId": 228,
     "uniqueEntryId": "xGTRnSEqPTzYGDwjT",
     "materials": {
       "red windflowers": 3,
@@ -7163,8 +7760,9 @@
     "name": "Wobbling Zipper toy",
     "sources": "Zipper after crafting all Bunny Day recipes",
     "sourceNotes": "Only available during Bunny Day",
+    "version": "1.1.0a",
     "category": "Miscellaneous",
-    "internalId": null,
+    "internalId": 696,
     "uniqueEntryId": "3HBkSreJ3Rz7689K7",
     "materials": {
       "earth egg": 4,
@@ -7180,8 +7778,9 @@
     "name": "wood-egg outfit",
     "sources": "Collecting wood eggs",
     "sourceNotes": "Only available during Bunny Day",
+    "version": "1.1.0a",
     "category": "Dresses",
-    "internalId": null,
+    "internalId": 683,
     "uniqueEntryId": "Cqe6TyaE38gnjAtmr",
     "materials": {
       "wood egg": 3
@@ -7192,8 +7791,9 @@
     "name": "wood-egg shell",
     "sources": "Collecting wood eggs",
     "sourceNotes": "Only available during Bunny Day",
+    "version": "1.1.0a",
     "category": "Headwear",
-    "internalId": null,
+    "internalId": 682,
     "uniqueEntryId": "Dokk8EnqpoFPBXD8R",
     "materials": {
       "wood egg": 2
@@ -7204,8 +7804,9 @@
     "name": "wood-egg shoes",
     "sources": "Collecting wood eggs",
     "sourceNotes": "Only available during Bunny Day",
+    "version": "1.1.0a",
     "category": "Shoes",
-    "internalId": null,
+    "internalId": 684,
     "uniqueEntryId": "cEawPHH27B36anZsf",
     "materials": {
       "wood egg": 2
@@ -7216,8 +7817,9 @@
     "name": "wooden bookshelf",
     "sources": "Lazy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 404,
     "uniqueEntryId": "XE27aTmxufH84fcWf",
     "materials": {
       "book": 5,
@@ -7229,8 +7831,9 @@
     "name": "wooden bucket",
     "sources": "Villager House Development (Tom Nook); Smug villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 16,
     "uniqueEntryId": "8ckCy9CHdL6iXXptE",
     "materials": {
       "wood": 3,
@@ -7242,8 +7845,9 @@
     "name": "wooden chair",
     "sources": "Villager House Development (Tom Nook); Snooty villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 15,
     "uniqueEntryId": "e2Z5K68fA23E9FcdT",
     "materials": {
       "wood": 6
@@ -7254,8 +7858,9 @@
     "name": "wooden chest",
     "sources": "Lazy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 17,
     "uniqueEntryId": "hAgLHeuw7xfkbzjpu",
     "materials": {
       "wood": 16
@@ -7266,8 +7871,9 @@
     "name": "wooden double bed",
     "sources": "Smug villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 493,
     "uniqueEntryId": "z3TPTghmTbEFZE2mw",
     "materials": {
       "wood": 30
@@ -7278,8 +7884,9 @@
     "name": "wooden end table",
     "sources": "Snooty villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 170,
     "uniqueEntryId": "nJDFrN9LmyK3FN7ZT",
     "materials": {
       "wood": 8
@@ -7290,8 +7897,9 @@
     "name": "wooden fish",
     "sources": "Nook's Cranny",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Miscellaneous",
-    "internalId": null,
+    "internalId": 193,
     "uniqueEntryId": "2ZuPfoHnSXBEwWfPL",
     "materials": {
       "wood": 3
@@ -7302,8 +7910,9 @@
     "name": "wooden full-length mirror",
     "sources": "Peppy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 502,
     "uniqueEntryId": "dn4EDHGArXPGhs2Mx",
     "materials": {
       "wood": 5,
@@ -7315,8 +7924,9 @@
     "name": "wooden low table",
     "sources": "Smug villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 491,
     "uniqueEntryId": "xA3hY8ZZd3qm9SqmP",
     "materials": {
       "wood": 10
@@ -7327,8 +7937,9 @@
     "name": "wooden mini table",
     "sources": "Big sister villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 492,
     "uniqueEntryId": "qt5zRMx9nJShGjxyY",
     "materials": {
       "wood": 6
@@ -7339,8 +7950,9 @@
     "name": "wooden simple bed",
     "sources": "Villager House Development (Tom Nook); Lazy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 18,
     "uniqueEntryId": "ayWFNoe5BBmR5JDde",
     "materials": {
       "wood": 18
@@ -7351,8 +7963,9 @@
     "name": "wooden stool",
     "sources": "Peppy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 168,
     "uniqueEntryId": "tCZg7fdKsKoJ2Ca6y",
     "materials": {
       "wood": 4
@@ -7363,8 +7976,9 @@
     "name": "wooden table",
     "sources": "Big sister villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 201,
     "uniqueEntryId": "vXEY4HbrHoAoiQn9s",
     "materials": {
       "wood": 15
@@ -7375,8 +7989,9 @@
     "name": "wooden table mirror",
     "sources": "Big sister villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Miscellaneous",
-    "internalId": null,
+    "internalId": 572,
     "uniqueEntryId": "7QmfhABkJayiuyPTt",
     "materials": {
       "wood": 3,
@@ -7388,8 +8003,9 @@
     "name": "wooden toolbox",
     "sources": "Normal villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Miscellaneous",
-    "internalId": null,
+    "internalId": 579,
     "uniqueEntryId": "qaHmYYCti572DQqW8",
     "materials": {
       "softwood": 4,
@@ -7401,8 +8017,9 @@
     "name": "wooden wardrobe",
     "sources": "Tom Nook",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 172,
     "uniqueEntryId": "ZnX2CrjCz5F2be4Ke",
     "materials": {
       "wood": 12
@@ -7413,8 +8030,9 @@
     "name": "wooden waste bin",
     "sources": "Big sister villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 173,
     "uniqueEntryId": "kJHkBWB2YyDQwJWDN",
     "materials": {
       "wood": 4
@@ -7425,8 +8043,9 @@
     "name": "wooden-block bed",
     "sources": "Normal villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 61,
     "uniqueEntryId": "jojeuDRs9dnhhtrNE",
     "materials": {
       "wooden-block toy": 1,
@@ -7438,8 +8057,9 @@
     "name": "wooden-block bench",
     "sources": "Big sister villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 23,
     "uniqueEntryId": "6X3d6utgMWpykB6cp",
     "materials": {
       "wooden-block toy": 1,
@@ -7451,8 +8071,9 @@
     "name": "wooden-block bookshelf",
     "sources": "Nook's Cranny",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 62,
     "uniqueEntryId": "ncMTEpvQfe9SGvipJ",
     "materials": {
       "wooden-block toy": 1,
@@ -7464,8 +8085,9 @@
     "name": "wooden-block chair",
     "sources": "Nook's Cranny",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 160,
     "uniqueEntryId": "NxDA47H5aq9g6Ssty",
     "materials": {
       "wooden-block toy": 1,
@@ -7477,8 +8099,9 @@
     "name": "wooden-block chest",
     "sources": "Normal villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 24,
     "uniqueEntryId": "9cAfAFEhqMFHTefLC",
     "materials": {
       "wooden-block toy": 1,
@@ -7490,8 +8113,9 @@
     "name": "wooden-block stereo",
     "sources": "Nook's Cranny",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 89,
     "uniqueEntryId": "xC4riKsFQjbPpK8Ty",
     "materials": {
       "wooden-block toy": 1,
@@ -7504,8 +8128,9 @@
     "name": "wooden-block stool",
     "sources": "Peppy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 387,
     "uniqueEntryId": "ZWWM3P5WD6kPS7JNK",
     "materials": {
       "wooden-block toy": 1,
@@ -7517,8 +8142,9 @@
     "name": "wooden-block table",
     "sources": "Villager House Development (Tom Nook); Big sister villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 26,
     "uniqueEntryId": "XT35v4Sb4K3QH2dWC",
     "materials": {
       "wooden-block toy": 1,
@@ -7530,8 +8156,9 @@
     "name": "wooden-block toy",
     "sources": "Nook's Cranny",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Miscellaneous",
-    "internalId": null,
+    "internalId": 38,
     "uniqueEntryId": "uKX4pS9YuAJPSqAGX",
     "materials": {
       "softwood": 3
@@ -7542,8 +8169,9 @@
     "name": "wooden-block wall clock",
     "sources": "Peppy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wall-Mounted",
-    "internalId": null,
+    "internalId": 90,
     "uniqueEntryId": "g9N9eFwC48vsPWz5e",
     "materials": {
       "wooden-block toy": 1,
@@ -7556,8 +8184,9 @@
     "name": "wooden-knot wall",
     "sources": "Smug villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wallpaper",
-    "internalId": null,
+    "internalId": 319,
     "uniqueEntryId": "6aNph3fACbZjxyaWp",
     "materials": {
       "hardwood": 15
@@ -7568,8 +8197,9 @@
     "name": "wooden-mosaic wall",
     "sources": "Normal villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wallpaper",
-    "internalId": null,
+    "internalId": 310,
     "uniqueEntryId": "TYGjpCGthu9jgA5ty",
     "materials": {
       "wood": 15
@@ -7580,8 +8210,9 @@
     "name": "wooden-plank sign",
     "sources": "Cranky villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wall-Mounted",
-    "internalId": null,
+    "internalId": 279,
     "uniqueEntryId": "EbrmatJDLMcc2oexh",
     "materials": {
       "hardwood": 5
@@ -7592,8 +8223,9 @@
     "name": "woodland wall",
     "sources": "Normal villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Wallpaper",
-    "internalId": null,
+    "internalId": 471,
     "uniqueEntryId": "JaqMjuzXa8t426jeT",
     "materials": {
       "clump of weeds": 15,
@@ -7605,8 +8237,9 @@
     "name": "yellow-leaf pile",
     "sources": "Balloons",
     "sourceNotes": "Only available during Fall",
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 588,
     "uniqueEntryId": "tFckEAxEjrgkrc3ga",
     "materials": {
       "acorn": 3,
@@ -7618,8 +8251,9 @@
     "name": "zen fence",
     "sources": "Nook Miles Exchange",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Fencing",
-    "internalId": null,
+    "internalId": 556,
     "uniqueEntryId": "i3NJEKs5tNY9dJSCX",
     "materials": {
       "iron nugget": 3,
@@ -7632,8 +8266,9 @@
     "name": "zen-style stone",
     "sources": "Lazy villagers",
     "sourceNotes": null,
+    "version": "1.0.0",
     "category": "Housewares",
-    "internalId": null,
+    "internalId": 568,
     "uniqueEntryId": "236xGcHiXbpCRfWba",
     "materials": {
       "stone": 30

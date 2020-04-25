@@ -20,6 +20,7 @@
     "rewardTier5": 3000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "QvQq6d4qJgCiBkMLX"
   },
   {
@@ -43,6 +44,7 @@
     "rewardTier5": 3000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "wkj9WzycBpxtq6CDG"
   },
   {
@@ -66,6 +68,7 @@
     "rewardTier5": 3000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "Ajpkv8wXcZLqM8bMT"
   },
   {
@@ -89,6 +92,7 @@
     "rewardTier5": 3000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "syoxyxWL7ymwpKpGN"
   },
   {
@@ -112,6 +116,7 @@
     "rewardTier5": 3000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "weJ4f9MDdBuzLBrBM"
   },
   {
@@ -135,6 +140,7 @@
     "rewardTier5": 3000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "ttRSm74XC4MzSHgnX"
   },
   {
@@ -158,6 +164,7 @@
     "rewardTier5": 3000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "fsanquagmfwNCY8wW"
   },
   {
@@ -181,6 +188,7 @@
     "rewardTier5": 3000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "6k5CnRgbm55m93jMT"
   },
   {
@@ -204,6 +212,7 @@
     "rewardTier5": 3000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "TprrYjwsCvZbDdcvK"
   },
   {
@@ -227,6 +236,7 @@
     "rewardTier5": 3000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "viHJXo8XB8C3h259Q"
   },
   {
@@ -250,6 +260,7 @@
     "rewardTier5": 3000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "btjGeCA3qDRLwhuZE"
   },
   {
@@ -273,6 +284,7 @@
     "rewardTier5": 3000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "YhhXqkerTwLu4ewXi"
   },
   {
@@ -296,6 +308,7 @@
     "rewardTier5": 3000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "hgxFRczyFtmSmiTEG"
   },
   {
@@ -319,6 +332,7 @@
     "rewardTier5": 3000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "za7CbkxtzEysWCFJg"
   },
   {
@@ -342,6 +356,7 @@
     "rewardTier5": 3000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "SYs89hReg8PJPhi7b"
   },
   {
@@ -365,6 +380,7 @@
     "rewardTier5": 3000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "MRjh6LGccgw56xxca"
   },
   {
@@ -388,6 +404,7 @@
     "rewardTier5": 3000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "aub4aeJa7i4ps92vt"
   },
   {
@@ -411,6 +428,7 @@
     "rewardTier5": 3000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "8JeajqbS7bHbJ4KPH"
   },
   {
@@ -434,6 +452,7 @@
     "rewardTier5": 3000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "eeDWd35DjuJy7CsM5"
   },
   {
@@ -457,6 +476,7 @@
     "rewardTier5": 3000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "tGg8gEWooCRFAn2Km"
   },
   {
@@ -480,13 +500,38 @@
     "rewardTier5": 700,
     "rewardTier6": 1000,
     "sequential": false,
+    "version": "1.0.0",
     "uniqueEntryId": "tNSnLaumH2MbDMSqK"
+  },
+  {
+    "sourceSheet": "Achievements",
+    "name": "Shrubbery Hububbery",
+    "awardCriteria": "Number of shrub starts you've planted (replanting existing shrubs)",
+    "num": 22,
+    "internalId": 92,
+    "internalName": "PlantBushSeedling",
+    "internalCategory": "Plant",
+    "numOfTiers": 3,
+    "tier1": 1,
+    "tier2": 2,
+    "tier3": 20,
+    "tier4": 0,
+    "tier5": 0,
+    "rewardTier1": 300,
+    "rewardTier2": 500,
+    "rewardTier3": 1000,
+    "rewardTier4": 0,
+    "rewardTier5": 0,
+    "rewardTier6": 0,
+    "sequential": true,
+    "version": "1.2.0",
+    "uniqueEntryId": "kosAYGQuM92yWsRZx"
   },
   {
     "sourceSheet": "Achievements",
     "name": "Go Ahead. Be Shellfish!",
     "awardCriteria": "Number of seashells you've sold to the shop",
-    "num": 22,
+    "num": 23,
     "internalId": 69,
     "internalName": "SellShell",
     "internalCategory": "Fish",
@@ -503,13 +548,14 @@
     "rewardTier5": 3000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "eycL6Ntub97uvKwgB"
   },
   {
     "sourceSheet": "Achievements",
     "name": "Clam and Collected",
     "awardCriteria": "Number of clams you've dug up",
-    "num": 23,
+    "num": 24,
     "internalId": 63,
     "internalName": "DigShell",
     "internalCategory": "Fish",
@@ -526,13 +572,14 @@
     "rewardTier5": 3000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "MsKyNAx2BBitXF4SQ"
   },
   {
     "sourceSheet": "Achievements",
     "name": "Trash Fishin'",
     "awardCriteria": "Number of trash items (cans, tires, or boots) you've fished up",
-    "num": 24,
+    "num": 25,
     "internalId": 32,
     "internalName": "CatchTrash",
     "internalCategory": "Fish",
@@ -549,13 +596,14 @@
     "rewardTier5": 3000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "gYpEcg4qf7X46Svfz"
   },
   {
     "sourceSheet": "Achievements",
     "name": "Cast Master",
     "awardCriteria": "Number of fish you've caught in a single streak without any getting away",
-    "num": 25,
+    "num": 26,
     "internalId": 2,
     "internalName": "CatchFishContinuously",
     "internalCategory": "Fish",
@@ -572,13 +620,14 @@
     "rewardTier5": 3000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "PcXyzjRR7mMRJMpWA"
   },
   {
     "sourceSheet": "Achievements",
     "name": "Dream House",
     "awardCriteria": "Number of times you've expanded your home",
-    "num": 26,
+    "num": 27,
     "internalId": 82,
     "internalName": "ExtendMyHome",
     "internalCategory": "Event",
@@ -595,13 +644,14 @@
     "rewardTier5": 5000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "FLDPYLE7KWu8S9uPg"
   },
   {
     "sourceSheet": "Achievements",
     "name": "Decorated Decorator",
     "awardCriteria": "Awarded the first time you get an \"S\" ranking from the HHA",
-    "num": 27,
+    "num": 28,
     "internalId": 40,
     "internalName": "GetSRankonHHA",
     "internalCategory": "Event",
@@ -618,13 +668,14 @@
     "rewardTier5": 3000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "kzJaqFiCaRivejX2x"
   },
   {
     "sourceSheet": "Achievements",
     "name": "Hoard Reward",
     "awardCriteria": "Number of furniture pieces you've placed in your house",
-    "num": 28,
+    "num": 29,
     "internalId": 78,
     "internalName": "PlaceFurnitureMyHouse",
     "internalCategory": "Event",
@@ -641,13 +692,14 @@
     "rewardTier5": 5000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "k6RF4XJhEdk3DWupM"
   },
   {
     "sourceSheet": "Achievements",
     "name": "Good Things in Store!",
     "awardCriteria": "Number of items you've placed in your home storage",
-    "num": 29,
+    "num": 30,
     "internalId": 77,
     "internalName": "HouseStorageItem",
     "internalCategory": "Event",
@@ -664,13 +716,14 @@
     "rewardTier5": 5000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "vmFkmQFGyKNS6gPdo"
   },
   {
     "sourceSheet": "Achievements",
     "name": "Remarkable Remodeler",
     "awardCriteria": "Number of times you've remodeled the outside appearance of your home",
-    "num": 30,
+    "num": 31,
     "internalId": 81,
     "internalName": "ReformMyHome",
     "internalCategory": "Event",
@@ -687,13 +740,14 @@
     "rewardTier5": 5000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "ZqLiA9gGSKTBGZQgZ"
   },
   {
     "sourceSheet": "Achievements",
     "name": "Smile Isle",
     "awardCriteria": "Number of villager requests you've fulfilled (such as returning lost items)",
-    "num": 31,
+    "num": 32,
     "internalId": 59,
     "internalName": "AchieveVillagersQuest",
     "internalCategory": "Communication",
@@ -710,13 +764,14 @@
     "rewardTier5": 3000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "2Cf5yBG3NFSeozMg2"
   },
   {
     "sourceSheet": "Achievements",
     "name": "Reaction Ruler",
     "awardCriteria": "Number of reactions you've learned",
-    "num": 32,
+    "num": 33,
     "internalId": 31,
     "internalName": "FillReactionList",
     "internalCategory": "Communication",
@@ -733,13 +788,14 @@
     "rewardTier5": 3000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "GRKenaH9cZf7SF3io"
   },
   {
     "sourceSheet": "Achievements",
     "name": "Island Shutterbug",
     "awardCriteria": "Awarded the first time you take a photo using the camera app on the NookPhone (screenshot button does not count, must use the app)",
-    "num": 33,
+    "num": 34,
     "internalId": 75,
     "internalName": "TakePicture",
     "internalCategory": "Smartphone",
@@ -756,13 +812,14 @@
     "rewardTier5": 3000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "amPim5PB25MTaEnZH"
   },
   {
     "sourceSheet": "Achievements",
     "name": "Edit Credit",
     "awardCriteria": "Awarded the first time you edit your Passport (title, comment, or photo)",
-    "num": 34,
+    "num": 35,
     "internalId": 87,
     "internalName": "UpdatePassport",
     "internalCategory": "Smartphone",
@@ -779,13 +836,14 @@
     "rewardTier5": 5000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "97AnkL7nAoQsXaCR8"
   },
   {
     "sourceSheet": "Achievements",
     "name": "NookPhone Life",
     "awardCriteria": "Awarded after the 10th time you open your NookPhone",
-    "num": 35,
+    "num": 36,
     "internalId": 76,
     "internalName": "BootPhoneBeginner",
     "internalCategory": "Smartphone",
@@ -802,13 +860,14 @@
     "rewardTier5": 3000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "38g3QBF9r9HdzdhA5"
   },
   {
     "sourceSheet": "Achievements",
     "name": "That's One Smart Phone",
     "awardCriteria": "Awarded after the 1000th time you open your NookPhone",
-    "num": 36,
+    "num": 37,
     "internalId": 56,
     "internalName": "BootPhone",
     "internalCategory": "Smartphone",
@@ -825,13 +884,14 @@
     "rewardTier5": 3000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "usRtbx9sTQwpwKzT3"
   },
   {
     "sourceSheet": "Achievements",
     "name": "Shop to It",
     "awardCriteria": "Number of times you've ordered from the Nook Shopping catalog",
-    "num": 37,
+    "num": 38,
     "internalId": 16,
     "internalName": "BuyItemCatalog",
     "internalCategory": "Smartphone",
@@ -848,13 +908,14 @@
     "rewardTier5": 3000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "7rQbwihnNhEFFZmQo"
   },
   {
     "sourceSheet": "Achievements",
     "name": "Growing Collection",
     "awardCriteria": "Number of unique furniture pieces you've added to your catalog",
-    "num": 38,
+    "num": 39,
     "internalId": 15,
     "internalName": "FillCatalog",
     "internalCategory": "Smartphone",
@@ -871,13 +932,14 @@
     "rewardTier5": 3000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "nbEPYsfFJzwG8bozx"
   },
   {
     "sourceSheet": "Achievements",
     "name": "Nook Miles for Miles!",
     "awardCriteria": "Number of Nook Miles+ goals you've completed",
-    "num": 39,
+    "num": 40,
     "internalId": 58,
     "internalName": "AchieveAppQuest",
     "internalCategory": "Smartphone",
@@ -894,13 +956,14 @@
     "rewardTier5": 3000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "6Qsg6ca6qcXfQJvd9"
   },
   {
     "sourceSheet": "Achievements",
     "name": "First-Time Buyer",
     "awardCriteria": "Awarded the first time you purchase an item from a shop",
-    "num": 40,
+    "num": 41,
     "internalId": 12,
     "internalName": "BuyItemRcm",
     "internalCategory": "Money",
@@ -917,13 +980,14 @@
     "rewardTier5": 3000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "dRgaFTqnG9WJ3nDPj"
   },
   {
     "sourceSheet": "Achievements",
     "name": "Seller of Unwanted Stuff",
     "awardCriteria": "Awarded the first time you sell and item to a shop",
-    "num": 41,
+    "num": 42,
     "internalId": 13,
     "internalName": "SellItemRcm",
     "internalCategory": "Money",
@@ -940,13 +1004,14 @@
     "rewardTier5": 3000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "SaJbYEBdon4j2HiML"
   },
   {
     "sourceSheet": "Achievements",
     "name": "Moving Fees Paid!",
     "awardCriteria": "Awarded when you pay off your initial loan using Nook Miles",
-    "num": 42,
+    "num": 43,
     "internalId": 33,
     "internalName": "PayImmigrationCost",
     "internalCategory": "Money",
@@ -963,13 +1028,14 @@
     "rewardTier5": 3000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "rQJoK5E25RSskQeW5"
   },
   {
     "sourceSheet": "Achievements",
     "name": "Bell Ringer",
     "awardCriteria": "Number of total bells you've spent in shops",
-    "num": 43,
+    "num": 44,
     "internalId": 11,
     "internalName": "HowmuchBuyItem",
     "internalCategory": "Money",
@@ -986,13 +1052,14 @@
     "rewardTier5": 3000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "r5mJC5k8vYuZRkXJT"
   },
   {
     "sourceSheet": "Achievements",
     "name": "Miles for Stalkholders",
     "awardCriteria": "Awarded the first time you purchase turnips",
-    "num": 44,
+    "num": 45,
     "internalId": 9,
     "internalName": "BuyKabu",
     "internalCategory": "Money",
@@ -1009,13 +1076,14 @@
     "rewardTier5": 3000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "AzYYmDqvumcZwmqFf"
   },
   {
     "sourceSheet": "Achievements",
     "name": "Cornering the Stalk Market",
     "awardCriteria": "Number of total bells you've profited from selling turnips",
-    "num": 45,
+    "num": 46,
     "internalId": 10,
     "internalName": "HowmuchSellKabu",
     "internalCategory": "Money",
@@ -1032,13 +1100,14 @@
     "rewardTier5": 3000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "gvMPEpKkGPLmEeDPe"
   },
   {
     "sourceSheet": "Achievements",
     "name": "No More Loan Payments!",
     "awardCriteria": "Awarded after paying off your first house loan with bells",
-    "num": 46,
+    "num": 47,
     "internalId": 34,
     "internalName": "RepayLoan",
     "internalCategory": "Money",
@@ -1055,13 +1124,14 @@
     "rewardTier5": 3000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "uhbojHTBeM2Cnfkuh"
   },
   {
     "sourceSheet": "Achievements",
     "name": "Bulletin-Board Benefit",
     "awardCriteria": "Awarded the first time you post a message on your town bulletin board",
-    "num": 47,
+    "num": 48,
     "internalId": 83,
     "internalName": "PostMessageBoard",
     "internalCategory": "Communication",
@@ -1078,13 +1148,14 @@
     "rewardTier5": 5000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "rZLyEe6QGk9G7sLTP"
   },
   {
     "sourceSheet": "Achievements",
     "name": "Popular Pen Pal",
     "awardCriteria": "Number of letters you've sent",
-    "num": 48,
+    "num": 49,
     "internalId": 50,
     "internalName": "SendLetter",
     "internalCategory": "Communication",
@@ -1101,13 +1172,14 @@
     "rewardTier5": 3000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "EJMKZDs8N5xGkfduP"
   },
   {
     "sourceSheet": "Achievements",
     "name": "Flea Flicker",
     "awardCriteria": "Number of times you've caught fleas off a villager",
-    "num": 49,
+    "num": 50,
     "internalId": 26,
     "internalName": "CatchNomi",
     "internalCategory": "Insect",
@@ -1124,13 +1196,14 @@
     "rewardTier5": 3000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "WRvG4EsvYQbqJupxi"
   },
   {
     "sourceSheet": "Achievements",
     "name": "Cicada Memories",
     "awardCriteria": "Awarded the first time you catch a cicada shell",
-    "num": 50,
+    "num": 51,
     "internalId": 25,
     "internalName": "CatchSeminonukegara",
     "internalCategory": "Insect",
@@ -1147,13 +1220,14 @@
     "rewardTier5": 3000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "t9vayZu88rPHrY79j"
   },
   {
     "sourceSheet": "Achievements",
     "name": "Netting Better!",
     "awardCriteria": "Awarded the first time you catch five wasps in a row without running away or getting stung",
-    "num": 51,
+    "num": 52,
     "internalId": 71,
     "internalName": "CatchBeeContinuously",
     "internalCategory": "Insect",
@@ -1170,13 +1244,14 @@
     "rewardTier5": 3000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "ojjJY4tQvSCs3BYda"
   },
   {
     "sourceSheet": "Achievements",
     "name": "Pit-y Party!",
     "awardCriteria": "Awarded the first time you bury a pitfall seed",
-    "num": 52,
+    "num": 53,
     "internalId": 51,
     "internalName": "MakePitfall",
     "internalCategory": "HHA",
@@ -1193,13 +1268,14 @@
     "rewardTier5": 3000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "MwQQ43gFXFky4Z2hG"
   },
   {
     "sourceSheet": "Achievements",
     "name": "Taking the Sting Out",
     "awardCriteria": "Awarded the first time you get stung by a wasp",
-    "num": 53,
+    "num": 54,
     "internalId": 24,
     "internalName": "BeStungbyWasp",
     "internalCategory": "Negative",
@@ -1216,13 +1292,14 @@
     "rewardTier5": 3000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "P82MkAcpWY9ZAQTnD"
   },
   {
     "sourceSheet": "Achievements",
     "name": "Faint of Heart",
     "awardCriteria": "Awarded the first time you get knocked out by a Scorpion or Tarantula",
-    "num": 54,
+    "num": 55,
     "internalId": 27,
     "internalName": "BeStungbyPoisonousInsect",
     "internalCategory": "Negative",
@@ -1239,13 +1316,14 @@
     "rewardTier5": 3000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "NwntrWkuaxtB8NoL9"
   },
   {
     "sourceSheet": "Achievements",
     "name": "Overcoming Pitfalls",
     "awardCriteria": "Awarded the first time you fall into a pitfall hole",
-    "num": 55,
+    "num": 56,
     "internalId": 52,
     "internalName": "FallintoPitfall",
     "internalCategory": "Negative",
@@ -1262,13 +1340,38 @@
     "rewardTier5": 3000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "DhKzQBem5HZytprbC"
+  },
+  {
+    "sourceSheet": "Achievements",
+    "name": "Faked Out!",
+    "awardCriteria": "Donated a fake piece of art",
+    "num": 57,
+    "internalId": 90,
+    "internalName": "DonateFake",
+    "internalCategory": "Negative",
+    "numOfTiers": 1,
+    "tier1": 1,
+    "tier2": 0,
+    "tier3": 0,
+    "tier4": 0,
+    "tier5": 0,
+    "rewardTier1": 500,
+    "rewardTier2": 0,
+    "rewardTier3": 0,
+    "rewardTier4": 0,
+    "rewardTier5": 0,
+    "rewardTier6": 0,
+    "sequential": false,
+    "version": "1.2.0",
+    "uniqueEntryId": "vakbzK5ihWAQR2aux"
   },
   {
     "sourceSheet": "Achievements",
     "name": "Lost Treasure",
     "awardCriteria": "Awarded the first time a balloon present you shot lands in a body of water",
-    "num": 56,
+    "num": 58,
     "internalId": 80,
     "internalName": "DropPresentinWater",
     "internalCategory": "Negative",
@@ -1285,13 +1388,14 @@
     "rewardTier5": 5000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "Y2kKBHN6kT7zxkTbm"
   },
   {
     "sourceSheet": "Achievements",
     "name": "It's Raining Treasure!",
     "awardCriteria": "Number of balloons you've shot down with a slingshot",
-    "num": 57,
+    "num": 59,
     "internalId": 5,
     "internalName": "ShootDownBalloon",
     "internalCategory": "LandMaking",
@@ -1308,13 +1412,14 @@
     "rewardTier5": 3000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "EEocBnCSkNM9ukMic"
   },
   {
     "sourceSheet": "Achievements",
     "name": "Fun with Fences",
     "awardCriteria": "Awarded the first time you place a fence",
-    "num": 58,
+    "num": 60,
     "internalId": 89,
     "internalName": "BuildFence",
     "internalCategory": "LandMaking",
@@ -1331,13 +1436,14 @@
     "rewardTier5": 5000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "fNCiNgcTMxFwqAzxN"
   },
   {
     "sourceSheet": "Achievements",
     "name": "Snowmaestro",
     "awardCriteria": "Number of perfect snow-people you've built",
-    "num": 59,
+    "num": 61,
     "internalId": 45,
     "internalName": "MakePerfectSnowball",
     "internalCategory": "LandMaking",
@@ -1354,13 +1460,14 @@
     "rewardTier5": 3000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "XcwvgbKXNWiLjmJDX"
   },
   {
     "sourceSheet": "Achievements",
     "name": "Wishes Come True",
     "awardCriteria": "Number of shooting stars you've wished on.",
-    "num": 60,
+    "num": 62,
     "internalId": 85,
     "internalName": "PrayShootingStar",
     "internalCategory": "LandMaking",
@@ -1377,13 +1484,14 @@
     "rewardTier5": 5000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "WcKhJsbYhwKKkCLqd"
   },
   {
     "sourceSheet": "Achievements",
     "name": "Exterior Decorator",
     "awardCriteria": "Awarded the first time you place some furniture outside",
-    "num": 61,
+    "num": 63,
     "internalId": 64,
     "internalName": "PutFurnitureOutside",
     "internalCategory": "LandMaking",
@@ -1400,13 +1508,14 @@
     "rewardTier5": 3000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "TW2jrhLDvtDhjZAKx"
   },
   {
     "sourceSheet": "Achievements",
     "name": "(island name) Icons",
     "awardCriteria": "Awarded for changing your town tune and island flag for the first time",
-    "num": 62,
+    "num": 64,
     "internalId": 86,
     "internalName": "ChangeSymbol",
     "internalCategory": "LandMaking",
@@ -1423,13 +1532,14 @@
     "rewardTier5": 5000,
     "rewardTier6": 0,
     "sequential": false,
+    "version": "1.0.0",
     "uniqueEntryId": "umpcvH5jtsWEir4rR"
   },
   {
     "sourceSheet": "Achievements",
     "name": "Island Designer",
     "awardCriteria": "Awarded the first time you use the Island Designer app to place a path, add/remove water, and build/destroy a cliff",
-    "num": 63,
+    "num": 65,
     "internalId": 88,
     "internalName": "ModifyIsland",
     "internalCategory": "LandMaking",
@@ -1446,13 +1556,14 @@
     "rewardTier5": 5000,
     "rewardTier6": 0,
     "sequential": false,
+    "version": "1.0.0",
     "uniqueEntryId": "NyFc3PaM4omZLfuic"
   },
   {
     "sourceSheet": "Achievements",
     "name": "Wispy Island Secrets",
     "awardCriteria": "Number of times you've helped Wisp find the parts of his spirit",
-    "num": 64,
+    "num": 66,
     "internalId": 44,
     "internalName": "HelpGst",
     "internalCategory": "Communication",
@@ -1469,13 +1580,14 @@
     "rewardTier5": 3000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "nSkcG8gSanouEFg9x"
   },
   {
     "sourceSheet": "Achievements",
     "name": "Gulliver's Travails",
     "awardCriteria": "Number of times you've helped Gulliver fix his communicator",
-    "num": 65,
+    "num": 67,
     "internalId": 43,
     "internalName": "HelpGul",
     "internalCategory": "Communication",
@@ -1492,13 +1604,14 @@
     "rewardTier5": 3000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "GfHAM2edJCAAN9xsF"
   },
   {
     "sourceSheet": "Achievements",
     "name": "K.K. Mania",
     "awardCriteria": "Number of K.K. shows you've attended",
-    "num": 66,
+    "num": 68,
     "internalId": 17,
     "internalName": "GotoTotakekeShow",
     "internalCategory": "Communication",
@@ -1515,13 +1628,38 @@
     "rewardTier5": 3000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "aNZ2t8CH7dgpRefc3"
+  },
+  {
+    "sourceSheet": "Achievements",
+    "name": "True Patron of the Arts",
+    "awardCriteria": "Number of times you purchased art that turned out to be real",
+    "num": 69,
+    "internalId": 91,
+    "internalName": "BuyatTsunekichiShop",
+    "internalCategory": "Communication",
+    "numOfTiers": 3,
+    "tier1": 1,
+    "tier2": 10,
+    "tier3": 20,
+    "tier4": 0,
+    "tier5": 0,
+    "rewardTier1": 300,
+    "rewardTier2": 500,
+    "rewardTier3": 1000,
+    "rewardTier4": 0,
+    "rewardTier5": 0,
+    "rewardTier6": 0,
+    "sequential": true,
+    "version": "1.2.0",
+    "uniqueEntryId": "YTpzbNPue2fAe3FdS"
   },
   {
     "sourceSheet": "Achievements",
     "name": "True Friends",
     "awardCriteria": "Number of villagers you've become good friends with",
-    "num": 67,
+    "num": 70,
     "internalId": 54,
     "internalName": "BeFriendwithVillager",
     "internalCategory": "Communication",
@@ -1538,13 +1676,14 @@
     "rewardTier5": 3000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "ZD7xtJZTo9mGk9tTk"
   },
   {
     "sourceSheet": "Achievements",
     "name": "Birthday Celebration",
     "awardCriteria": "Number of villager birthdays you've attended",
-    "num": 68,
+    "num": 71,
     "internalId": 47,
     "internalName": "CelebrateVillagersBithday",
     "internalCategory": "Communication",
@@ -1561,13 +1700,14 @@
     "rewardTier5": 3000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "5TKJXZPvrkPLiQ6XC"
   },
   {
     "sourceSheet": "Achievements",
     "name": "Happy Birthday!",
     "awardCriteria": "Awarded the first time you play on your character's birthday",
-    "num": 69,
+    "num": 72,
     "internalId": 46,
     "internalName": "ReachMyBirthday",
     "internalCategory": "Event",
@@ -1584,13 +1724,14 @@
     "rewardTier5": 3000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "6vc2Rm2s3rE9EFZoM"
   },
   {
     "sourceSheet": "Achievements",
     "name": "Fishing Tourney!",
     "awardCriteria": "Awarded the first time you attend a fishing tourney in each season",
-    "num": 70,
+    "num": 73,
     "internalId": 41,
     "internalName": "AttendFishingConvention",
     "internalCategory": "Fish",
@@ -1607,13 +1748,14 @@
     "rewardTier5": 3000,
     "rewardTier6": 5000,
     "sequential": false,
+    "version": "1.0.0",
     "uniqueEntryId": "Z2C4JGKnsPJqhyDFM"
   },
   {
     "sourceSheet": "Achievements",
     "name": "Bug-Off!",
     "awardCriteria": "Awarded the first time you attend a bug-off tourney in each season",
-    "num": 71,
+    "num": 74,
     "internalId": 42,
     "internalName": "AttendInsectConvention",
     "internalCategory": "Insect",
@@ -1630,13 +1772,14 @@
     "rewardTier5": 3000,
     "rewardTier6": 5000,
     "sequential": false,
+    "version": "1.0.0",
     "uniqueEntryId": "HQJJaicSZQ79LstpA"
   },
   {
     "sourceSheet": "Achievements",
     "name": "Countdown Celebration",
     "awardCriteria": "Awarded for attending the new year holiday event",
-    "num": 72,
+    "num": 75,
     "internalId": 48,
     "internalName": "AttendCountdownParty",
     "internalCategory": "Event",
@@ -1653,13 +1796,14 @@
     "rewardTier5": 3000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "PTMwJTvnX3A4gxjN9"
   },
   {
     "sourceSheet": "Achievements",
     "name": "Making a Change",
     "awardCriteria": "Awarded the first time you use a wardrobe to change your character's outfit",
-    "num": 73,
+    "num": 76,
     "internalId": 84,
     "internalName": "UseCloset",
     "internalCategory": "MyDesign",
@@ -1676,13 +1820,14 @@
     "rewardTier5": 5000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "NBmsw6tCLZzWXcGcK"
   },
   {
     "sourceSheet": "Achievements",
     "name": "First Custom Design!",
     "awardCriteria": "Awarded the first time you use the Custom Design app to edit or create a design",
-    "num": 74,
+    "num": 77,
     "internalId": 35,
     "internalName": "UseMydesign",
     "internalCategory": "MyDesign",
@@ -1699,13 +1844,14 @@
     "rewardTier5": 3000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "44KNAwCSGuatXHYeh"
   },
   {
     "sourceSheet": "Achievements",
     "name": "Custom Design Pro!",
     "awardCriteria": "Awarded the first time you use the Custom Design pro app to edit or create a design",
-    "num": 75,
+    "num": 78,
     "internalId": 36,
     "internalName": "UseMydesignPRO",
     "internalCategory": "MyDesign",
@@ -1722,13 +1868,14 @@
     "rewardTier5": 3000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "ch29owdtPq5Jd73xx"
   },
   {
     "sourceSheet": "Achievements",
     "name": "Paydirt!",
     "awardCriteria": "Awarded the first time you dig up bells from a shining spot",
-    "num": 76,
+    "num": 79,
     "internalId": 60,
     "internalName": "DigBell",
     "internalCategory": "Money",
@@ -1745,13 +1892,14 @@
     "rewardTier5": 3000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "ps4e4DFg2pnHvdvRm"
   },
   {
     "sourceSheet": "Achievements",
     "name": "Shady Shakedown",
     "awardCriteria": "Number of furniture pieces you've found from shaking trees",
-    "num": 77,
+    "num": 80,
     "internalId": 79,
     "internalName": "FallFurnitureLeaf",
     "internalCategory": "Plant",
@@ -1768,13 +1916,14 @@
     "rewardTier5": 5000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "o37WLZhgDMnMbDbPx"
   },
   {
     "sourceSheet": "Achievements",
     "name": "Golden Milestone",
     "awardCriteria": "Awarded for each unique golden tool you've equipped (shovel, net, fishing rod, watering can, axe, and slingshot)",
-    "num": 78,
+    "num": 81,
     "internalId": 39,
     "internalName": "CollectGoldTool",
     "internalCategory": "HHA",
@@ -1791,13 +1940,14 @@
     "rewardTier5": 3000,
     "rewardTier6": 5000,
     "sequential": false,
+    "version": "1.0.0",
     "uniqueEntryId": "B9uYNJkiP5jqkn3SX"
   },
   {
     "sourceSheet": "Achievements",
     "name": "Island and Yourland",
     "awardCriteria": "Number of times you've visited another player's island (does not count mystery islands using Nook Miles Tickets)",
-    "num": 79,
+    "num": 82,
     "internalId": 18,
     "internalName": "VisitAnotherIsland",
     "internalCategory": "Communication",
@@ -1814,13 +1964,14 @@
     "rewardTier5": 3000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "JofcHyqspqdvy92rH"
   },
   {
     "sourceSheet": "Achievements",
     "name": "Host the Most",
     "awardCriteria": "Number of other players that have visited your island",
-    "num": 80,
+    "num": 83,
     "internalId": 19,
     "internalName": "InviteFriend",
     "internalCategory": "Communication",
@@ -1837,13 +1988,14 @@
     "rewardTier5": 3000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "YdeZW248LnovzB7EB"
   },
   {
     "sourceSheet": "Achievements",
     "name": "Active Island Resident",
     "awardCriteria": "Number of total unique days you've played the game",
-    "num": 81,
+    "num": 84,
     "internalId": 21,
     "internalName": "DayPlayed",
     "internalCategory": "Event",
@@ -1860,6 +2012,7 @@
     "rewardTier5": 3000,
     "rewardTier6": 0,
     "sequential": true,
+    "version": "1.0.0",
     "uniqueEntryId": "QgGe5XTYJhjfgbMHW"
   }
 ]

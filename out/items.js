@@ -74,6 +74,12 @@ var PrimaryShape;
     PrimaryShape["Robe"] = "Robe";
     PrimaryShape["Salopette"] = "Salopette";
 })(PrimaryShape = exports.PrimaryShape || (exports.PrimaryShape = {}));
+var SeasonalAvailability;
+(function (SeasonalAvailability) {
+    SeasonalAvailability["AllYear"] = "All Year";
+    SeasonalAvailability["Summer"] = "Summer";
+    SeasonalAvailability["Winter"] = "Winter";
+})(SeasonalAvailability = exports.SeasonalAvailability || (exports.SeasonalAvailability = {}));
 var SecondaryShape;
 (function (SecondaryShape) {
     SecondaryShape["H"] = "H";
@@ -112,6 +118,7 @@ var Style;
     Style["Cool"] = "Cool";
     Style["Cute"] = "Cute";
     Style["Elegant"] = "Elegant";
+    Style["EverydayComfy"] = "everyday; comfy";
     Style["Gorgeous"] = "Gorgeous";
     Style["Simple"] = "Simple";
 })(Style = exports.Style || (exports.Style = {}));

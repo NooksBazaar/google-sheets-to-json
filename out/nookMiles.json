@@ -2,7 +2,7 @@
   {
     "sourceSheet": "Nook Miles",
     "name": "arched tile path permit",
-    "image": "https://i.imgur.com/RZsW5np.png",
+    "image": "https://acnhcdn.com/latest/MenuIcon/Helmet.png",
     "nookMiles": 2000,
     "category": null,
     "filename": "FtrGroundMakerStonePattern",
@@ -12,7 +12,7 @@
   {
     "sourceSheet": "Nook Miles",
     "name": "bamboo lattice fence",
-    "image": "https://i.imgur.com/bK3wMxl.png",
+    "image": "https://acnhcdn.com/latest/MenuIcon/DIYRecipeFence.png",
     "nookMiles": 1000,
     "category": "Recipe",
     "filename": "ItemFenceBamboo",
@@ -22,7 +22,7 @@
   {
     "sourceSheet": "Nook Miles",
     "name": "barbed-wire fence",
-    "image": "https://i.imgur.com/bK3wMxl.png",
+    "image": "https://acnhcdn.com/latest/MenuIcon/DIYRecipeFence.png",
     "nookMiles": 1000,
     "category": "Recipe",
     "filename": "ItemFenceBarbedWire",
@@ -32,7 +32,7 @@
   {
     "sourceSheet": "Nook Miles",
     "name": "Bell voucher",
-    "image": "https://i.imgur.com/NdMAOFh.png",
+    "image": "https://acnhcdn.com/latest/MenuIcon/BellExchangeTicket.png",
     "nookMiles": 500,
     "category": null,
     "filename": "BellExchangeTicket",
@@ -42,7 +42,7 @@
   {
     "sourceSheet": "Nook Miles",
     "name": "brick fence",
-    "image": "https://i.imgur.com/bK3wMxl.png",
+    "image": "https://acnhcdn.com/latest/MenuIcon/DIYRecipeFence.png",
     "nookMiles": 1000,
     "category": "Recipe",
     "filename": "ItemFenceWallRenga",
@@ -52,7 +52,7 @@
   {
     "sourceSheet": "Nook Miles",
     "name": "brick path permit",
-    "image": "https://i.imgur.com/RZsW5np.png",
+    "image": "https://acnhcdn.com/latest/MenuIcon/Helmet.png",
     "nookMiles": 2000,
     "category": null,
     "filename": "FtrGroundMakerBrick",
@@ -62,7 +62,7 @@
   {
     "sourceSheet": "Nook Miles",
     "name": "cliff construction permit",
-    "image": "https://i.imgur.com/sNreCAw.png",
+    "image": "https://acnhcdn.com/latest/MenuIcon/ToolCliffMaker.png",
     "nookMiles": 6000,
     "category": null,
     "filename": "FtrCliffMaker",
@@ -72,7 +72,7 @@
   {
     "sourceSheet": "Nook Miles",
     "name": "corral fence",
-    "image": "https://i.imgur.com/bK3wMxl.png",
+    "image": "https://acnhcdn.com/latest/MenuIcon/DIYRecipeFence.png",
     "nookMiles": 1000,
     "category": "Recipe",
     "filename": "ItemFenceHorizontalWood",
@@ -82,7 +82,7 @@
   {
     "sourceSheet": "Nook Miles",
     "name": "country fence",
-    "image": "https://i.imgur.com/bK3wMxl.png",
+    "image": "https://acnhcdn.com/latest/MenuIcon/DIYRecipeFence.png",
     "nookMiles": 1000,
     "category": "Recipe",
     "filename": "ItemFenceLog",
@@ -92,7 +92,7 @@
   {
     "sourceSheet": "Nook Miles",
     "name": "custom design path permit",
-    "image": "https://i.imgur.com/RZsW5np.png",
+    "image": "https://acnhcdn.com/latest/MenuIcon/Helmet.png",
     "nookMiles": 2800,
     "category": null,
     "filename": "FtrGroundMakerMydesign",
@@ -102,7 +102,7 @@
   {
     "sourceSheet": "Nook Miles",
     "name": "Custom Design Pro Editor",
-    "image": "https://i.imgur.com/GHbUUKS.png",
+    "image": "https://acnhcdn.com/latest/MenuIcon/MyDesignPro.png",
     "nookMiles": 800,
     "category": null,
     "filename": "HowtoBookMydesingPro",
@@ -112,7 +112,7 @@
   {
     "sourceSheet": "Nook Miles",
     "name": "customizable phone case kit",
-    "image": "https://i.imgur.com/wjkZITy.png",
+    "image": "https://acnhcdn.com/latest/MenuIcon/SmartphoneCase.png",
     "nookMiles": 1800,
     "category": null,
     "filename": "SmartphoneCase",
@@ -122,7 +122,7 @@
   {
     "sourceSheet": "Nook Miles",
     "name": "dark dirt path permit",
-    "image": "https://i.imgur.com/RZsW5np.png",
+    "image": "https://acnhcdn.com/latest/MenuIcon/Helmet.png",
     "nookMiles": 2000,
     "category": null,
     "filename": "FtrGroundMakerDarkSoil",
@@ -132,7 +132,7 @@
   {
     "sourceSheet": "Nook Miles",
     "name": "imperial fence",
-    "image": "https://i.imgur.com/bK3wMxl.png",
+    "image": "https://acnhcdn.com/latest/MenuIcon/DIYRecipeFence.png",
     "nookMiles": 1000,
     "category": "Recipe",
     "filename": "ItemFenceChinese",
@@ -142,7 +142,7 @@
   {
     "sourceSheet": "Nook Miles",
     "name": "iron fence",
-    "image": "https://i.imgur.com/bK3wMxl.png",
+    "image": "https://acnhcdn.com/latest/MenuIcon/DIYRecipeFence.png",
     "nookMiles": 1000,
     "category": "Recipe",
     "filename": "ItemFenceSteel",
@@ -152,7 +152,7 @@
   {
     "sourceSheet": "Nook Miles",
     "name": "iron-and-stone fence",
-    "image": "https://i.imgur.com/bK3wMxl.png",
+    "image": "https://acnhcdn.com/latest/MenuIcon/DIYRecipeFence.png",
     "nookMiles": 1000,
     "category": "Recipe",
     "filename": "ItemFenceIronAndStone",
@@ -162,7 +162,7 @@
   {
     "sourceSheet": "Nook Miles",
     "name": "lattice fence",
-    "image": "https://i.imgur.com/bK3wMxl.png",
+    "image": "https://acnhcdn.com/latest/MenuIcon/DIYRecipeFence.png",
     "nookMiles": 1000,
     "category": "Recipe",
     "filename": "ItemFenceLatiiceNatural",
@@ -172,7 +172,7 @@
   {
     "sourceSheet": "Nook Miles",
     "name": "Nook Miles Ticket",
-    "image": "https://i.imgur.com/5ccmHPa.png",
+    "image": "https://acnhcdn.com/latest/MenuIcon/PlaneTicket.png",
     "nookMiles": 2000,
     "category": null,
     "filename": "MilePlaneTicket",
@@ -182,7 +182,7 @@
   {
     "sourceSheet": "Nook Miles",
     "name": "Pocket Organization Guide",
-    "image": "https://i.imgur.com/Nwri4DI.png",
+    "image": "https://acnhcdn.com/latest/MenuIcon/HowtoBookExpansion.png",
     "nookMiles": 5000,
     "category": null,
     "filename": "HowtoBookPocketExpansion",
@@ -192,7 +192,7 @@
   {
     "sourceSheet": "Nook Miles",
     "name": "Pretty Good Tools Recipes",
-    "image": "https://i.imgur.com/ma78edH.png",
+    "image": "https://acnhcdn.com/latest/MenuIcon/BookRecipe.png",
     "nookMiles": 3000,
     "category": null,
     "filename": "DIYbookNormalTools",
@@ -202,7 +202,7 @@
   {
     "sourceSheet": "Nook Miles",
     "name": "rope fence",
-    "image": "https://i.imgur.com/bK3wMxl.png",
+    "image": "https://acnhcdn.com/latest/MenuIcon/DIYRecipeFence.png",
     "nookMiles": 1000,
     "category": "Recipe",
     "filename": "ItemFencePegRope",
@@ -212,7 +212,7 @@
   {
     "sourceSheet": "Nook Miles",
     "name": "sand path permit",
-    "image": "https://i.imgur.com/RZsW5np.png",
+    "image": "https://acnhcdn.com/latest/MenuIcon/Helmet.png",
     "nookMiles": 2000,
     "category": null,
     "filename": "FtrGroundMakerSand",
@@ -222,7 +222,7 @@
   {
     "sourceSheet": "Nook Miles",
     "name": "simple wooden fence",
-    "image": "https://i.imgur.com/bK3wMxl.png",
+    "image": "https://acnhcdn.com/latest/MenuIcon/DIYRecipeFence.png",
     "nookMiles": 1000,
     "category": "Recipe",
     "filename": "ItemFenceNatural",
@@ -232,7 +232,7 @@
   {
     "sourceSheet": "Nook Miles",
     "name": "spiky fence",
-    "image": "https://i.imgur.com/bK3wMxl.png",
+    "image": "https://acnhcdn.com/latest/MenuIcon/DIYRecipeFence.png",
     "nookMiles": 1000,
     "category": "Recipe",
     "filename": "ItemFenceSharply",
@@ -242,7 +242,7 @@
   {
     "sourceSheet": "Nook Miles",
     "name": "stone fence",
-    "image": "https://i.imgur.com/bK3wMxl.png",
+    "image": "https://acnhcdn.com/latest/MenuIcon/DIYRecipeFence.png",
     "nookMiles": 1000,
     "category": "Recipe",
     "filename": "ItemFenceStone",
@@ -252,7 +252,7 @@
   {
     "sourceSheet": "Nook Miles",
     "name": "stone path permit",
-    "image": "https://i.imgur.com/RZsW5np.png",
+    "image": "https://acnhcdn.com/latest/MenuIcon/Helmet.png",
     "nookMiles": 2000,
     "category": null,
     "filename": "FtrGroundMakerStone",
@@ -262,7 +262,7 @@
   {
     "sourceSheet": "Nook Miles",
     "name": "straw fence",
-    "image": "https://i.imgur.com/bK3wMxl.png",
+    "image": "https://acnhcdn.com/latest/MenuIcon/DIYRecipeFence.png",
     "nookMiles": 1000,
     "category": "Recipe",
     "filename": "ItemFenceDriedStraw",
@@ -272,7 +272,7 @@
   {
     "sourceSheet": "Nook Miles",
     "name": "terra-cotta tile permit",
-    "image": "https://i.imgur.com/RZsW5np.png",
+    "image": "https://acnhcdn.com/latest/MenuIcon/Helmet.png",
     "nookMiles": 2000,
     "category": null,
     "filename": "FtrGroundMakerTile",
@@ -282,7 +282,7 @@
   {
     "sourceSheet": "Nook Miles",
     "name": "Tool Ring: It's Essential!",
-    "image": "https://i.imgur.com/Nwri4DI.png",
+    "image": "https://acnhcdn.com/latest/MenuIcon/HowtoBookExpansion.png",
     "nookMiles": 800,
     "category": null,
     "filename": "HowtoBookRingMenuUI",
@@ -292,7 +292,7 @@
   {
     "sourceSheet": "Nook Miles",
     "name": "Top 8 Cool Hairstyles",
-    "image": "https://i.imgur.com/APjUcMR.png",
+    "image": "https://acnhcdn.com/latest/MenuIcon/HowtoBookHair.png",
     "nookMiles": 2400,
     "category": null,
     "filename": "HowtoBookHairCool",
@@ -302,7 +302,7 @@
   {
     "sourceSheet": "Nook Miles",
     "name": "Top 8 Pop Hairstyles",
-    "image": "https://i.imgur.com/APjUcMR.png",
+    "image": "https://acnhcdn.com/latest/MenuIcon/HowtoBookHair.png",
     "nookMiles": 2400,
     "category": null,
     "filename": "HowtoBookHairPop",
@@ -312,7 +312,7 @@
   {
     "sourceSheet": "Nook Miles",
     "name": "Top 8 Stylish Hair Colors",
-    "image": "https://i.imgur.com/APjUcMR.png",
+    "image": "https://acnhcdn.com/latest/MenuIcon/HowtoBookHair.png",
     "nookMiles": 3000,
     "category": null,
     "filename": "HowtoBookHairColor",
@@ -322,7 +322,7 @@
   {
     "sourceSheet": "Nook Miles",
     "name": "Ultimate Pocket Stuffing",
-    "image": "https://i.imgur.com/Nwri4DI.png",
+    "image": "https://acnhcdn.com/latest/MenuIcon/HowtoBookExpansion.png",
     "nookMiles": 8000,
     "category": null,
     "filename": "HowtoBookPocketExpansion2",
@@ -332,7 +332,7 @@
   {
     "sourceSheet": "Nook Miles",
     "name": "vertical-board fence",
-    "image": "https://i.imgur.com/bK3wMxl.png",
+    "image": "https://acnhcdn.com/latest/MenuIcon/DIYRecipeFence.png",
     "nookMiles": 1000,
     "category": "Recipe",
     "filename": "ItemFenceVerticalWood",
@@ -342,7 +342,7 @@
   {
     "sourceSheet": "Nook Miles",
     "name": "waterscaping permit",
-    "image": "https://i.imgur.com/qX4Y5Lg.png",
+    "image": "https://acnhcdn.com/latest/MenuIcon/ToolRiverMaker.png",
     "nookMiles": 6000,
     "category": null,
     "filename": "FtrRiverMaker",
@@ -352,7 +352,7 @@
   {
     "sourceSheet": "Nook Miles",
     "name": "wooden path permit",
-    "image": "https://i.imgur.com/RZsW5np.png",
+    "image": "https://acnhcdn.com/latest/MenuIcon/Helmet.png",
     "nookMiles": 2000,
     "category": null,
     "filename": "FtrGroundMakerWood",
@@ -362,7 +362,7 @@
   {
     "sourceSheet": "Nook Miles",
     "name": "zen fence",
-    "image": "https://i.imgur.com/bK3wMxl.png",
+    "image": "https://acnhcdn.com/latest/MenuIcon/DIYRecipeFence.png",
     "nookMiles": 1000,
     "category": "Recipe",
     "filename": "ItemFenceJapanese",
@@ -372,7 +372,7 @@
   {
     "sourceSheet": "Nook Miles",
     "name": "(for recipes)",
-    "image": "https://i.imgur.com/zNdiVQF.png",
+    "image": "https://acnhcdn.com/latest/MenuIcon/DIYRecipeFtr.png",
     "nookMiles": null,
     "category": null,
     "filename": null,
@@ -382,7 +382,7 @@
   {
     "sourceSheet": "Nook Miles",
     "name": "construction sign",
-    "image": "https://acnhcdn.com/acdb/housewares/FtrSignConstruction_Remake_0_0.png",
+    "image": "https://acnhcdn.com/latest/FtrIcon/FtrSignConstruction_Remake_0_0.png",
     "nookMiles": 1000,
     "category": "Housewares",
     "filename": "FtrSignConstruction",
@@ -392,7 +392,7 @@
   {
     "sourceSheet": "Nook Miles",
     "name": "cotton-candy stall",
-    "image": "https://acnhcdn.com/acdb/housewares/FtrCottoncandymachine_Remake_0_0.png",
+    "image": "https://acnhcdn.com/latest/FtrIcon/FtrCottoncandymachine_Remake_0_0.png",
     "nookMiles": 3000,
     "category": "Housewares",
     "filename": "FtrCottoncandymachine",
@@ -402,7 +402,7 @@
   {
     "sourceSheet": "Nook Miles",
     "name": "drink machine",
-    "image": "https://acnhcdn.com/acdb/housewares/FtrDrinkmachine_Remake_0_0.png",
+    "image": "https://acnhcdn.com/latest/FtrIcon/FtrDrinkmachine_Remake_0_0.png",
     "nookMiles": 2000,
     "category": "Housewares",
     "filename": "FtrDrinkmachine",
@@ -412,7 +412,7 @@
   {
     "sourceSheet": "Nook Miles",
     "name": "lifeguard chair",
-    "image": "https://acnhcdn.com/acdb/housewares/FtrMonitoringchair_Remake_0_0.png",
+    "image": "https://acnhcdn.com/latest/FtrIcon/FtrMonitoringchair_Remake_0_0.png",
     "nookMiles": 1000,
     "category": "Housewares",
     "filename": "FtrMonitoringchair",
@@ -422,7 +422,7 @@
   {
     "sourceSheet": "Nook Miles",
     "name": "lighthouse",
-    "image": "https://acnhcdn.com/acdb/housewares/FtrLighthouse_Remake_0_0.png",
+    "image": "https://acnhcdn.com/latest/FtrIcon/FtrLighthouse_Remake_0_0.png",
     "nookMiles": 5000,
     "category": "Housewares",
     "filename": "FtrLighthouse",
@@ -432,7 +432,7 @@
   {
     "sourceSheet": "Nook Miles",
     "name": "monster statue",
-    "image": "https://acnhcdn.com/acdb/housewares/FtrMonster_Remake_0_0.png",
+    "image": "https://acnhcdn.com/latest/FtrIcon/FtrMonster_Remake_0_0.png",
     "nookMiles": 5000,
     "category": "Housewares",
     "filename": "FtrMonster",
@@ -442,7 +442,7 @@
   {
     "sourceSheet": "Nook Miles",
     "name": "parabolic antenna",
-    "image": "https://acnhcdn.com/acdb/housewares/FtrParabolicantenna_Remake_0_0.png",
+    "image": "https://acnhcdn.com/latest/FtrIcon/FtrParabolicantenna_Remake_0_0.png",
     "nookMiles": 4000,
     "category": "Housewares",
     "filename": "FtrParabolicantenna",
@@ -452,7 +452,7 @@
   {
     "sourceSheet": "Nook Miles",
     "name": "park clock",
-    "image": "https://acnhcdn.com/acdb/housewares/FtrParkclock_Remake_0_0.png",
+    "image": "https://acnhcdn.com/latest/FtrIcon/FtrParkclock_Remake_0_0.png",
     "nookMiles": 2400,
     "category": "Housewares",
     "filename": "FtrParkclock",
@@ -462,7 +462,7 @@
   {
     "sourceSheet": "Nook Miles",
     "name": "phone box",
-    "image": "https://acnhcdn.com/acdb/housewares/FtrTelephonebox_Remake_0_0.png",
+    "image": "https://acnhcdn.com/latest/FtrIcon/FtrTelephonebox_Remake_0_0.png",
     "nookMiles": 2400,
     "category": "Housewares",
     "filename": "FtrTelephonebox",
@@ -472,7 +472,7 @@
   {
     "sourceSheet": "Nook Miles",
     "name": "playground gym",
-    "image": "https://acnhcdn.com/acdb/housewares/FtrJunglegym_Remake_0_0.png",
+    "image": "https://acnhcdn.com/latest/FtrIcon/FtrJunglegym_Remake_0_0.png",
     "nookMiles": 3000,
     "category": "Housewares",
     "filename": "FtrJunglegym",
@@ -482,7 +482,7 @@
   {
     "sourceSheet": "Nook Miles",
     "name": "pool",
-    "image": "https://acnhcdn.com/acdb/housewares/FtrPool_Remake_0_0.png",
+    "image": "https://acnhcdn.com/latest/FtrIcon/FtrPool_Remake_0_0.png",
     "nookMiles": 5000,
     "category": "Housewares",
     "filename": "FtrPool",
@@ -492,7 +492,7 @@
   {
     "sourceSheet": "Nook Miles",
     "name": "portable toilet",
-    "image": "https://acnhcdn.com/acdb/housewares/FtrWCPortable_Remake_0_0.png",
+    "image": "https://acnhcdn.com/latest/FtrIcon/FtrWCPortable_Remake_0_0.png",
     "nookMiles": 1000,
     "category": "Housewares",
     "filename": "FtrWCPortable",
@@ -502,7 +502,7 @@
   {
     "sourceSheet": "Nook Miles",
     "name": "public bench",
-    "image": "https://acnhcdn.com/acdb/housewares/FtrPublicbench_Remake_0_0.png",
+    "image": "https://acnhcdn.com/latest/FtrIcon/FtrPublicbench_Remake_0_0.png",
     "nookMiles": 2000,
     "category": "Housewares",
     "filename": "FtrPublicbench",
@@ -512,7 +512,7 @@
   {
     "sourceSheet": "Nook Miles",
     "name": "snack machine",
-    "image": "https://acnhcdn.com/acdb/housewares/FtrFoodmachine_Remake_0_0.png",
+    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFoodmachine_Remake_0_0.png",
     "nookMiles": 2000,
     "category": "Housewares",
     "filename": "FtrFoodmachine",
@@ -522,7 +522,7 @@
   {
     "sourceSheet": "Nook Miles",
     "name": "soccer goal",
-    "image": "https://acnhcdn.com/acdb/housewares/FtrSoccergoal.png",
+    "image": "https://acnhcdn.com/latest/FtrIcon/FtrSoccergoal.png",
     "nookMiles": 4000,
     "category": "Housewares",
     "filename": "FtrSoccergoal",
@@ -532,7 +532,7 @@
   {
     "sourceSheet": "Nook Miles",
     "name": "solar panel",
-    "image": "https://acnhcdn.com/acdb/housewares/FtrSolarpanel_Remake_0_0.png",
+    "image": "https://acnhcdn.com/latest/FtrIcon/FtrSolarpanel_Remake_0_0.png",
     "nookMiles": 4000,
     "category": "Housewares",
     "filename": "FtrSolarpanel",
@@ -542,7 +542,7 @@
   {
     "sourceSheet": "Nook Miles",
     "name": "springy ride-on",
-    "image": "https://acnhcdn.com/acdb/housewares/FtrSpringrider_Remake_0_0.png",
+    "image": "https://acnhcdn.com/latest/FtrIcon/FtrSpringrider_Remake_0_0.png",
     "nookMiles": 2000,
     "category": "Housewares",
     "filename": "FtrSpringrider",
@@ -552,7 +552,7 @@
   {
     "sourceSheet": "Nook Miles",
     "name": "streetlamp",
-    "image": "https://acnhcdn.com/acdb/housewares/FtrStreetlamp_Remake_0_0.png",
+    "image": "https://acnhcdn.com/latest/FtrIcon/FtrStreetlamp_Remake_0_0.png",
     "nookMiles": 1000,
     "category": "Housewares",
     "filename": "FtrStreetlamp",
@@ -562,7 +562,7 @@
   {
     "sourceSheet": "Nook Miles",
     "name": "teacup ride",
-    "image": "https://acnhcdn.com/acdb/housewares/FtrTurncup_Remake_0_0.png",
+    "image": "https://acnhcdn.com/latest/FtrIcon/FtrTurncup_Remake_0_0.png",
     "nookMiles": 5000,
     "category": "Housewares",
     "filename": "FtrTurncup",
@@ -572,7 +572,7 @@
   {
     "sourceSheet": "Nook Miles",
     "name": "tourist telescope",
-    "image": "https://acnhcdn.com/acdb/housewares/FtrTelescopeSightseeing_Remake_0_0.png",
+    "image": "https://acnhcdn.com/latest/FtrIcon/FtrTelescopeSightseeing_Remake_0_0.png",
     "nookMiles": 2000,
     "category": "Housewares",
     "filename": "FtrTelescopeSightseeing",
@@ -582,7 +582,7 @@
   {
     "sourceSheet": "Nook Miles",
     "name": "utility pole",
-    "image": "https://acnhcdn.com/acdb/housewares/FtrTelephonepole_Remake_0_0.png",
+    "image": "https://acnhcdn.com/latest/FtrIcon/FtrTelephonepole_Remake_0_0.png",
     "nookMiles": 1000,
     "category": "Housewares",
     "filename": "FtrTelephonepole",
@@ -592,7 +592,7 @@
   {
     "sourceSheet": "Nook Miles",
     "name": "wind turbine",
-    "image": "https://acnhcdn.com/acdb/housewares/FtrWindturbine_Remake_0_0.png",
+    "image": "https://acnhcdn.com/latest/FtrIcon/FtrWindturbine_Remake_0_0.png",
     "nookMiles": 4000,
     "category": "Housewares",
     "filename": "FtrWindturbine",
