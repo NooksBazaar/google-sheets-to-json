@@ -2,8 +2,8 @@
   {
     "sourceSheet": "Recipes",
     "name": "acorn pochette",
-    "sources": "Balloons",
-    "sourceNotes": "Only available during Fall",
+    "source": ["Snowboy"],
+    "sourceNotes": "Reward for making a perfect Snowboy; Only available during Winter",
     "version": "1.0.0",
     "category": "Bags",
     "internalId": 632,
@@ -15,7 +15,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "acoustic guitar",
-    "sources": "Smug villagers",
+    "source": ["Smug villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -29,7 +29,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "angled signpost",
-    "sources": "Lazy villagers",
+    "source": ["Lazy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -43,7 +43,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "apple chair",
-    "sources": "Big sister villagers",
+    "source": ["Big sister villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -57,7 +57,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "apple dress",
-    "sources": "Big sister villagers",
+    "source": ["Big sister villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Dresses",
@@ -70,7 +70,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "apple hat",
-    "sources": "Big sister villagers",
+    "source": ["Big sister villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Headwear",
@@ -83,7 +83,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "apple rug",
-    "sources": "Big sister villagers",
+    "source": ["Big sister villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Rugs",
@@ -96,7 +96,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "apple umbrella",
-    "sources": "Big sister villagers",
+    "source": ["Big sister villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Umbrellas",
@@ -109,7 +109,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "apple wall",
-    "sources": "Big sister villagers",
+    "source": ["Big sister villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Wallpaper",
@@ -122,7 +122,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "Aquarius urn",
-    "sources": "Celeste",
+    "source": ["Celeste"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -138,7 +138,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "Aries rocking chair",
-    "sources": "Celeste",
+    "source": ["Celeste"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -154,7 +154,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "armor shoes",
-    "sources": "Cranky villagers",
+    "source": ["Cranky villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Shoes",
@@ -167,7 +167,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "aroma pot",
-    "sources": "Snooty villagers",
+    "source": ["Snooty villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Miscellaneous",
@@ -180,7 +180,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "asteroid",
-    "sources": "Celeste",
+    "source": ["Celeste"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -194,7 +194,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "astronaut suit",
-    "sources": "Celeste",
+    "source": ["Celeste"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -208,7 +208,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "autumn wall",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Maple Leaf Season",
     "version": "1.0.0",
     "category": "Wallpaper",
@@ -223,7 +223,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "axe",
-    "sources": "Nook Miles Exchange",
+    "source": ["Nook Miles Exchange"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Tools",
@@ -238,7 +238,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "backyard lawn",
-    "sources": "Peppy villagers",
+    "source": ["Peppy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Floors",
@@ -251,7 +251,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "bamboo basket",
-    "sources": "Snooty villagers",
+    "source": ["Snooty villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -264,7 +264,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "bamboo bench",
-    "sources": "Normal villagers",
+    "source": ["Normal villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -277,7 +277,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "bamboo candleholder",
-    "sources": "Snooty villagers",
+    "source": ["Snooty villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Miscellaneous",
@@ -291,7 +291,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "bamboo doll",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Spring",
     "version": "1.0.0",
     "category": "Housewares",
@@ -304,7 +304,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "bamboo drum",
-    "sources": "Jock villagers",
+    "source": ["Jock villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Miscellaneous",
@@ -318,7 +318,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "bamboo floor lamp",
-    "sources": "Normal villagers",
+    "source": ["Normal villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -331,7 +331,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "bamboo flooring",
-    "sources": "Cranky villagers",
+    "source": ["Cranky villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Floors",
@@ -344,7 +344,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "bamboo hat",
-    "sources": "Cranky villagers",
+    "source": ["Cranky villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Headwear",
@@ -357,7 +357,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "bamboo lattice fence",
-    "sources": "Nook Miles Exchange",
+    "source": ["Nook Miles Exchange"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Fencing",
@@ -370,7 +370,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "bamboo lunch box",
-    "sources": "Snooty villagers",
+    "source": ["Snooty villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Miscellaneous",
@@ -383,7 +383,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "bamboo noodle slide",
-    "sources": "Balloons; Isabelle",
+    "source": ["Balloons; Isabelle"],
     "sourceNotes": "Only available during Spring",
     "version": "1.0.0",
     "category": "Housewares",
@@ -397,7 +397,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "bamboo partition",
-    "sources": "Cranky villagers",
+    "source": ["Cranky villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -411,7 +411,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "bamboo shelf",
-    "sources": "Snooty villagers",
+    "source": ["Snooty villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -424,7 +424,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "bamboo speaker",
-    "sources": "Snooty villagers",
+    "source": ["Snooty villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -438,7 +438,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "bamboo sphere",
-    "sources": "Normal villagers",
+    "source": ["Normal villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Miscellaneous",
@@ -451,7 +451,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "bamboo stool",
-    "sources": "Snooty villagers",
+    "source": ["Snooty villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -464,7 +464,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "bamboo stopblock",
-    "sources": "Jock villagers",
+    "source": ["Jock villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -477,7 +477,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "bamboo wall",
-    "sources": "Cranky villagers",
+    "source": ["Cranky villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Wallpaper",
@@ -490,10 +490,10 @@
   {
     "sourceSheet": "Recipes",
     "name": "bamboo wall decoration",
-    "sources": "Jock villagers",
+    "source": ["Jock villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
-    "category": "Wall-Mounted",
+    "category": "Wall-mounted",
     "internalId": 151,
     "uniqueEntryId": "Xb2ywJv5tsDeSKG2H",
     "materials": {
@@ -503,7 +503,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "bamboo wand",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Spring",
     "version": "1.0.0",
     "category": "Tools",
@@ -517,7 +517,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "bamboo-grove wall",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Spring",
     "version": "1.0.0",
     "category": "Wallpaper",
@@ -531,7 +531,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "bamboo-shoot lamp",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Spring",
     "version": "1.0.0",
     "category": "Miscellaneous",
@@ -546,7 +546,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "barbed-wire fence",
-    "sources": "Nook Miles Exchange",
+    "source": ["Nook Miles Exchange"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Fencing",
@@ -560,7 +560,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "barbell",
-    "sources": "Jock villagers",
+    "source": ["Jock villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -573,7 +573,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "barrel",
-    "sources": "Villager House Development (Tom Nook); Cranky villagers",
+    "source": ["Villager House Development (Tom Nook); Cranky villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -587,7 +587,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "basement flooring",
-    "sources": "Smug villagers",
+    "source": ["Smug villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Floors",
@@ -600,7 +600,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "basket pack",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Spring",
     "version": "1.0.0",
     "category": "Bags",
@@ -613,7 +613,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "beekeeper's hive",
-    "sources": "Jock villagers",
+    "source": ["Jock villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -627,7 +627,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "big festive tree",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Festive Season",
     "version": "1.0.0",
     "category": "Housewares",
@@ -644,7 +644,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "birdbath",
-    "sources": "Villager House Development (Tom Nook); Snooty villagers",
+    "source": ["Villager House Development (Tom Nook); Snooty villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -657,7 +657,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "birdcage",
-    "sources": "Big sister villagers",
+    "source": ["Big sister villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -670,7 +670,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "birdhouse",
-    "sources": "Tom Nook; Peppy villagers",
+    "source": ["Tom Nook; Peppy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -684,7 +684,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "blossom-viewing lantern",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Cherry-Blossom Season",
     "version": "1.0.0",
     "category": "Housewares",
@@ -698,7 +698,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "blue rose crown",
-    "sources": "All Villagers",
+    "source": ["All Villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Headwear",
@@ -711,10 +711,10 @@
   {
     "sourceSheet": "Recipes",
     "name": "blue rose wreath",
-    "sources": "All Villagers",
+    "source": ["All Villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
-    "category": "Wall-Mounted",
+    "category": "Wall-mounted",
     "internalId": 447,
     "uniqueEntryId": "XbGbAr5htMNb6h4mr",
     "materials": {
@@ -724,10 +724,10 @@
   {
     "sourceSheet": "Recipes",
     "name": "bone doorplate",
-    "sources": "Lazy villagers",
+    "source": ["Lazy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
-    "category": "Wall-Mounted",
+    "category": "Wall-mounted",
     "internalId": 467,
     "uniqueEntryId": "jbvhjbWecrky57s9e",
     "materials": {
@@ -737,7 +737,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "bonfire",
-    "sources": "Tom Nook; Cranky villagers",
+    "source": ["Tom Nook; Cranky villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -751,7 +751,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "bonsai shelf",
-    "sources": "Cranky villagers",
+    "source": ["Cranky villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -766,10 +766,10 @@
   {
     "sourceSheet": "Recipes",
     "name": "boomerang",
-    "sources": "Lazy villagers",
+    "source": ["Lazy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
-    "category": "Wall-Mounted",
+    "category": "Wall-mounted",
     "internalId": 171,
     "uniqueEntryId": "rMasSCDby69z84Fai",
     "materials": {
@@ -779,7 +779,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "brick fence",
-    "sources": "Nook Miles Exchange",
+    "source": ["Nook Miles Exchange"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Fencing",
@@ -792,7 +792,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "brick oven",
-    "sources": "Nook's Cranny",
+    "source": ["Nook's Cranny"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -807,7 +807,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "brick well",
-    "sources": "Nook Miles Exchange",
+    "source": ["Nook Miles Exchange"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -822,7 +822,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "bridge construction kit",
-    "sources": "Tom Nook (Story)",
+    "source": ["Tom Nook (Story)"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Other",
@@ -837,7 +837,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "brown herringbone wall",
-    "sources": "Big sister villagers",
+    "source": ["Big sister villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Wallpaper",
@@ -850,8 +850,8 @@
   {
     "sourceSheet": "Recipes",
     "name": "Bunny Day arch",
-    "sources": "Zipper after collecting all 6 egg types",
-    "sourceNotes": "Only available during Bunny Day",
+    "source": ["Zipper"],
+    "sourceNotes": "Reward from Zipper after collecting all 6 egg types; Only available during Bunny Day",
     "version": "1.1.0a",
     "category": "Housewares",
     "internalId": 695,
@@ -868,7 +868,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "Bunny Day bag",
-    "sources": "All villagers",
+    "source": ["All villagers"],
     "sourceNotes": "Only available during Bunny Day",
     "version": "1.1.0a",
     "category": "Bags",
@@ -886,7 +886,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "Bunny Day bed",
-    "sources": "Egg bottle; Egg balloon",
+    "source": ["Egg bottle; Egg balloon"],
     "sourceNotes": "Only available during Bunny Day",
     "version": "1.1.0a",
     "category": "Housewares",
@@ -904,7 +904,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "Bunny Day crown",
-    "sources": "All villagers",
+    "source": ["All villagers"],
     "sourceNotes": "Only available during Bunny Day",
     "version": "1.1.0a",
     "category": "Headwear",
@@ -922,7 +922,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "Bunny Day fence",
-    "sources": "Egg bottle; Egg balloon",
+    "source": ["Egg bottle; Egg balloon"],
     "sourceNotes": "Only available during Bunny Day",
     "version": "1.1.0a",
     "category": "Fencing",
@@ -940,7 +940,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "Bunny Day festive balloons",
-    "sources": "Egg bottle; Egg balloon",
+    "source": ["Egg bottle; Egg balloon"],
     "sourceNotes": "Only available during Bunny Day",
     "version": "1.1.0a",
     "category": "Housewares",
@@ -955,7 +955,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "Bunny Day flooring",
-    "sources": "Egg bottle; Egg balloon",
+    "source": ["Egg bottle; Egg balloon"],
     "sourceNotes": "Only available during Bunny Day",
     "version": "1.1.0a",
     "category": "Floors",
@@ -973,10 +973,10 @@
   {
     "sourceSheet": "Recipes",
     "name": "Bunny Day glowy garland",
-    "sources": "Egg bottle; Egg balloon",
+    "source": ["Egg bottle; Egg balloon"],
     "sourceNotes": "Only available during Bunny Day",
     "version": "1.1.0a",
-    "category": "Wall-Mounted",
+    "category": "Wall-mounted",
     "internalId": 700,
     "uniqueEntryId": "o4dxxDMeguMH8zQzx",
     "materials": {
@@ -991,7 +991,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "Bunny Day lamp",
-    "sources": "Egg bottle; Egg balloon",
+    "source": ["Egg bottle; Egg balloon"],
     "sourceNotes": "Only available during Bunny Day",
     "version": "1.1.0a",
     "category": "Miscellaneous",
@@ -1004,7 +1004,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "Bunny Day merry balloons",
-    "sources": "Egg bottle; Egg balloon",
+    "source": ["Egg bottle; Egg balloon"],
     "sourceNotes": "Only available during Bunny Day",
     "version": "1.1.0a",
     "category": "Housewares",
@@ -1019,7 +1019,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "Bunny Day rug",
-    "sources": "Egg bottle; Egg balloon",
+    "source": ["Egg bottle; Egg balloon"],
     "sourceNotes": "Only available during Bunny Day",
     "version": "1.1.0a",
     "category": "Rugs",
@@ -1037,7 +1037,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "Bunny Day stool",
-    "sources": "Egg bottle; Egg balloon",
+    "source": ["Egg bottle; Egg balloon"],
     "sourceNotes": "Only available during Bunny Day",
     "version": "1.1.0a",
     "category": "Housewares",
@@ -1050,7 +1050,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "Bunny Day table",
-    "sources": "Egg bottle; Egg balloon",
+    "source": ["Egg bottle; Egg balloon"],
     "sourceNotes": "Only available during Bunny Day",
     "version": "1.1.0a",
     "category": "Housewares",
@@ -1063,7 +1063,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "Bunny Day vanity",
-    "sources": "Egg bottle; Egg balloon",
+    "source": ["Egg bottle; Egg balloon"],
     "sourceNotes": "Only available during Bunny Day",
     "version": "1.1.0a",
     "category": "Housewares",
@@ -1076,7 +1076,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "Bunny Day wall",
-    "sources": "Egg bottle; Egg balloon",
+    "source": ["Egg bottle; Egg balloon"],
     "sourceNotes": "Only available during Bunny Day",
     "version": "1.1.0a",
     "category": "Wallpaper",
@@ -1094,10 +1094,10 @@
   {
     "sourceSheet": "Recipes",
     "name": "Bunny Day wall clock",
-    "sources": "Egg bottle; Egg balloon",
+    "source": ["Egg bottle; Egg balloon"],
     "sourceNotes": "Only available during Bunny Day",
     "version": "1.1.0a",
-    "category": "Wall-Mounted",
+    "category": "Wall-mounted",
     "internalId": 701,
     "uniqueEntryId": "CYdX8kEStsmMXX96v",
     "materials": {
@@ -1107,8 +1107,8 @@
   {
     "sourceSheet": "Recipes",
     "name": "Bunny Day wand",
-    "sources": "Zipper after crafting wobbling Zipper toy",
-    "sourceNotes": "Only available during Bunny Day",
+    "source": ["Zipper"],
+    "sourceNotes": "Reward from Zipper after crafting wobbling Zipper toy; Only available during Bunny Day",
     "version": "1.1.0a",
     "category": "Tools",
     "internalId": 711,
@@ -1121,7 +1121,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "Bunny Day wardrobe",
-    "sources": "Egg bottle; Egg balloon",
+    "source": ["Egg bottle; Egg balloon"],
     "sourceNotes": "Only available during Bunny Day",
     "version": "1.1.0a",
     "category": "Housewares",
@@ -1134,10 +1134,10 @@
   {
     "sourceSheet": "Recipes",
     "name": "Bunny Day wreath",
-    "sources": "Egg bottle; Egg balloon",
+    "source": ["Egg bottle; Egg balloon"],
     "sourceNotes": "Only available during Bunny Day",
     "version": "1.1.0a",
-    "category": "Wall-Mounted",
+    "category": "Wall-mounted",
     "internalId": 707,
     "uniqueEntryId": "296Ws5ikbL8hMv3ZC",
     "materials": {
@@ -1152,7 +1152,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "butter churn",
-    "sources": "Snooty villagers",
+    "source": ["Snooty villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -1166,7 +1166,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "cabin wall",
-    "sources": "Peppy villagers",
+    "source": ["Peppy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Wallpaper",
@@ -1179,7 +1179,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "campfire",
-    "sources": "Tom Nook",
+    "source": ["Tom Nook"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -1192,7 +1192,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "campsite construction kit",
-    "sources": "Tom Nook (Story)",
+    "source": ["Tom Nook (Story)"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Other",
@@ -1208,7 +1208,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "Cancer table",
-    "sources": "Celeste",
+    "source": ["Celeste"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -1224,7 +1224,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "Capricorn ornament",
-    "sources": "Celeste",
+    "source": ["Celeste"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -1240,7 +1240,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "cardboard bed",
-    "sources": "Lazy villagers",
+    "source": ["Lazy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -1253,7 +1253,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "cardboard chair",
-    "sources": "Lazy villagers",
+    "source": ["Lazy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -1266,7 +1266,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "cardboard sofa",
-    "sources": "Peppy villagers",
+    "source": ["Peppy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -1279,7 +1279,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "cardboard table",
-    "sources": "Peppy villagers",
+    "source": ["Peppy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -1292,7 +1292,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "cherry dress",
-    "sources": "Peppy villagers",
+    "source": ["Peppy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Dresses",
@@ -1305,7 +1305,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "cherry hat",
-    "sources": "Peppy villagers",
+    "source": ["Peppy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Headwear",
@@ -1318,10 +1318,10 @@
   {
     "sourceSheet": "Recipes",
     "name": "cherry lamp",
-    "sources": "Peppy villagers",
+    "source": ["Peppy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
-    "category": "Wall-Mounted",
+    "category": "Wall-mounted",
     "internalId": 162,
     "uniqueEntryId": "6hBjge6rn7Sxd5sr7",
     "materials": {
@@ -1332,7 +1332,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "cherry rug",
-    "sources": "Peppy villagers",
+    "source": ["Peppy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Rugs",
@@ -1345,7 +1345,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "cherry speakers",
-    "sources": "Peppy villagers",
+    "source": ["Peppy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Miscellaneous",
@@ -1359,7 +1359,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "cherry umbrella",
-    "sources": "Peppy villagers",
+    "source": ["Peppy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Umbrellas",
@@ -1372,7 +1372,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "cherry wall",
-    "sources": "Peppy villagers",
+    "source": ["Peppy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Wallpaper",
@@ -1385,7 +1385,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "cherry-blossom bonsai",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Cherry-Blossom Season",
     "version": "1.0.0",
     "category": "Miscellaneous",
@@ -1401,7 +1401,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "cherry-blossom branches",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Cherry-Blossom Season",
     "version": "1.0.0",
     "category": "Housewares",
@@ -1416,10 +1416,10 @@
   {
     "sourceSheet": "Recipes",
     "name": "cherry-blossom clock",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Cherry-Blossom Season",
     "version": "1.0.0",
-    "category": "Wall-Mounted",
+    "category": "Wall-mounted",
     "internalId": 426,
     "uniqueEntryId": "9kPKbzAAQzJTu9758",
     "materials": {
@@ -1429,7 +1429,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "cherry-blossom flooring",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Cherry-Blossom Season",
     "version": "1.0.0",
     "category": "Floors",
@@ -1443,7 +1443,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "cherry-blossom pochette",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Cherry-Blossom Season",
     "version": "1.0.0",
     "category": "Bags",
@@ -1456,7 +1456,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "cherry-blossom pond stone",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Cherry-Blossom Season",
     "version": "1.0.0",
     "category": "Housewares",
@@ -1470,7 +1470,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "cherry-blossom umbrella",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Cherry-Blossom Season",
     "version": "1.0.0",
     "category": "Umbrellas",
@@ -1483,7 +1483,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "cherry-blossom wand",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Cherry-Blossom Season",
     "version": "1.0.0",
     "category": "Tools",
@@ -1497,7 +1497,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "cherry-blossom-petal pile",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Cherry-Blossom Season",
     "version": "1.0.0",
     "category": "Housewares",
@@ -1510,7 +1510,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "cherry-blossom-trees wall",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Cherry-Blossom Season",
     "version": "1.0.0",
     "category": "Wallpaper",
@@ -1524,10 +1524,10 @@
   {
     "sourceSheet": "Recipes",
     "name": "chic cosmos wreath",
-    "sources": "All Villagers",
+    "source": ["All Villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
-    "category": "Wall-Mounted",
+    "category": "Wall-mounted",
     "internalId": 444,
     "uniqueEntryId": "XgThrnxG75cqkssWt",
     "materials": {
@@ -1537,7 +1537,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "chic mum crown",
-    "sources": "All Villagers",
+    "source": ["All Villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Headwear",
@@ -1551,7 +1551,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "chic rose crown",
-    "sources": "All Villagers",
+    "source": ["All Villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Headwear",
@@ -1565,7 +1565,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "chic tulip crown",
-    "sources": "All Villagers",
+    "source": ["All Villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Headwear",
@@ -1580,10 +1580,10 @@
   {
     "sourceSheet": "Recipes",
     "name": "chic windflower wreath",
-    "sources": "All Villagers",
+    "source": ["All Villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
-    "category": "Wall-Mounted",
+    "category": "Wall-mounted",
     "internalId": 440,
     "uniqueEntryId": "2W5Pa9MKWHhknBENu",
     "materials": {
@@ -1593,7 +1593,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "chocolate herringbone wall",
-    "sources": "Smug villagers",
+    "source": ["Smug villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Wallpaper",
@@ -1606,7 +1606,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "clackercart",
-    "sources": "Lazy villagers",
+    "source": ["Lazy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -1620,7 +1620,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "classic pitcher",
-    "sources": "Villager House Development (Tom Nook); Snooty villagers",
+    "source": ["Villager House Development (Tom Nook); Snooty villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Miscellaneous",
@@ -1633,7 +1633,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "classic-library wall",
-    "sources": "Normal villagers",
+    "source": ["Normal villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Wallpaper",
@@ -1646,7 +1646,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "clothesline",
-    "sources": "Villager House Development (Tom Nook); Cranky villagers",
+    "source": ["Villager House Development (Tom Nook); Cranky villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -1659,7 +1659,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "coconut juice",
-    "sources": "Snooty villagers",
+    "source": ["Snooty villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Miscellaneous",
@@ -1672,10 +1672,10 @@
   {
     "sourceSheet": "Recipes",
     "name": "coconut wall planter",
-    "sources": "Snooty villagers",
+    "source": ["Snooty villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
-    "category": "Wall-Mounted",
+    "category": "Wall-mounted",
     "internalId": 405,
     "uniqueEntryId": "tw8LKPHQrkMZwgAua",
     "materials": {
@@ -1686,7 +1686,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "colored-leaves flooring",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Maple Leaf Season",
     "version": "1.0.0",
     "category": "Floors",
@@ -1700,7 +1700,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "cool hyacinth crown",
-    "sources": "All Villagers",
+    "source": ["All Villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Headwear",
@@ -1715,10 +1715,10 @@
   {
     "sourceSheet": "Recipes",
     "name": "cool hyacinth wreath",
-    "sources": "All Villagers",
+    "source": ["All Villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
-    "category": "Wall-Mounted",
+    "category": "Wall-mounted",
     "internalId": 453,
     "uniqueEntryId": "HaC5frhoXCDpy5YYj",
     "materials": {
@@ -1730,7 +1730,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "cool pansy crown",
-    "sources": "All Villagers",
+    "source": ["All Villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Headwear",
@@ -1744,10 +1744,10 @@
   {
     "sourceSheet": "Recipes",
     "name": "cool pansy wreath",
-    "sources": "All Villagers",
+    "source": ["All Villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
-    "category": "Wall-Mounted",
+    "category": "Wall-mounted",
     "internalId": 450,
     "uniqueEntryId": "RxiJe64ebSZy3dsHg",
     "materials": {
@@ -1757,7 +1757,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "cool windflower crown",
-    "sources": "All Villagers",
+    "source": ["All Villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Headwear",
@@ -1771,10 +1771,10 @@
   {
     "sourceSheet": "Recipes",
     "name": "cool windflower wreath",
-    "sources": "All Villagers",
+    "source": ["All Villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
-    "category": "Wall-Mounted",
+    "category": "Wall-mounted",
     "internalId": 441,
     "uniqueEntryId": "Aer6cEdrENAWFD4TP",
     "materials": {
@@ -1786,7 +1786,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "corral fence",
-    "sources": "Nook Miles Exchange",
+    "source": ["Nook Miles Exchange"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Fencing",
@@ -1799,7 +1799,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "cosmos crown",
-    "sources": "All Villagers",
+    "source": ["All Villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Headwear",
@@ -1814,7 +1814,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "cosmos shower",
-    "sources": "Snooty villagers",
+    "source": ["Snooty villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -1828,7 +1828,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "cosmos wand",
-    "sources": "Celeste",
+    "source": ["Celeste"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Tools",
@@ -1842,10 +1842,10 @@
   {
     "sourceSheet": "Recipes",
     "name": "cosmos wreath",
-    "sources": "All Villagers",
+    "source": ["All Villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
-    "category": "Wall-Mounted",
+    "category": "Wall-mounted",
     "internalId": 227,
     "uniqueEntryId": "KwujCjwLcpr42PGb3",
     "materials": {
@@ -1857,7 +1857,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "country fence",
-    "sources": "Nook Miles Exchange",
+    "source": ["Nook Miles Exchange"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Fencing",
@@ -1870,7 +1870,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "crescent-moon chair",
-    "sources": "Celeste",
+    "source": ["Celeste"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -1884,10 +1884,10 @@
   {
     "sourceSheet": "Recipes",
     "name": "crest doorplate",
-    "sources": "Smug villagers",
+    "source": ["Smug villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
-    "category": "Wall-Mounted",
+    "category": "Wall-mounted",
     "internalId": 469,
     "uniqueEntryId": "rBCZK2XaMKZ4jXrNH",
     "materials": {
@@ -1897,7 +1897,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "crewed spaceship",
-    "sources": "Celeste",
+    "source": ["Celeste"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -1911,7 +1911,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "cute lily crown",
-    "sources": "All Villagers",
+    "source": ["All Villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Headwear",
@@ -1926,7 +1926,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "cute rose crown",
-    "sources": "All Villagers",
+    "source": ["All Villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Headwear",
@@ -1940,7 +1940,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "cutting board",
-    "sources": "Normal villagers",
+    "source": ["Normal villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Miscellaneous",
@@ -1954,7 +1954,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "dark bamboo rug",
-    "sources": "Cranky villagers",
+    "source": ["Cranky villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Rugs",
@@ -1967,7 +1967,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "dark cosmos crown",
-    "sources": "All Villagers",
+    "source": ["All Villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Headwear",
@@ -1980,7 +1980,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "dark lily crown",
-    "sources": "All Villagers",
+    "source": ["All Villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Headwear",
@@ -1993,10 +1993,10 @@
   {
     "sourceSheet": "Recipes",
     "name": "dark lily wreath",
-    "sources": "All Villagers",
+    "source": ["All Villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
-    "category": "Wall-Mounted",
+    "category": "Wall-mounted",
     "internalId": 454,
     "uniqueEntryId": "ExWh3urifQgJTCCH3",
     "materials": {
@@ -2006,10 +2006,10 @@
   {
     "sourceSheet": "Recipes",
     "name": "dark rose wreath",
-    "sources": "All Villagers",
+    "source": ["All Villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
-    "category": "Wall-Mounted",
+    "category": "Wall-mounted",
     "internalId": 446,
     "uniqueEntryId": "utyr7MwFDwd8syFcW",
     "materials": {
@@ -2020,7 +2020,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "dark tulip crown",
-    "sources": "All Villagers",
+    "source": ["All Villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Headwear",
@@ -2033,10 +2033,10 @@
   {
     "sourceSheet": "Recipes",
     "name": "dark tulip wreath",
-    "sources": "All Villagers",
+    "source": ["All Villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
-    "category": "Wall-Mounted",
+    "category": "Wall-mounted",
     "internalId": 362,
     "uniqueEntryId": "oCnpF6D3PyAJ5kGz8",
     "materials": {
@@ -2046,7 +2046,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "dark wooden-mosaic wall",
-    "sources": "Big sister villagers",
+    "source": ["Big sister villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Wallpaper",
@@ -2059,7 +2059,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "decoy duck",
-    "sources": "Smug villagers",
+    "source": ["Smug villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Miscellaneous",
@@ -2072,10 +2072,10 @@
   {
     "sourceSheet": "Recipes",
     "name": "deer decoration",
-    "sources": "Lazy villagers",
+    "source": ["Lazy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
-    "category": "Wall-Mounted",
+    "category": "Wall-mounted",
     "internalId": 378,
     "uniqueEntryId": "BTF82ckDtSkknQmua",
     "materials": {
@@ -2085,7 +2085,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "deer scare",
-    "sources": "Cranky villagers",
+    "source": ["Cranky villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -2100,7 +2100,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "destinations signpost",
-    "sources": "Nook Miles Exchange",
+    "source": ["Nook Miles Exchange"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -2114,7 +2114,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "DIY workbench",
-    "sources": "Big sister villagers",
+    "source": ["Big sister villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -2131,7 +2131,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "document stack",
-    "sources": "Smug villagers",
+    "source": ["Smug villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Miscellaneous",
@@ -2144,7 +2144,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "doghouse",
-    "sources": "Jock villagers",
+    "source": ["Jock villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -2158,7 +2158,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "drinking fountain",
-    "sources": "Nook Miles Exchange",
+    "source": ["Nook Miles Exchange"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -2172,7 +2172,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "earth-egg outfit",
-    "sources": "Collecting earth eggs",
+    "source": ["Collecting earth eggs"],
     "sourceNotes": "Only available during Bunny Day",
     "version": "1.1.0a",
     "category": "Dresses",
@@ -2185,7 +2185,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "earth-egg shell",
-    "sources": "Collecting earth eggs",
+    "source": ["Collecting earth eggs"],
     "sourceNotes": "Only available during Bunny Day",
     "version": "1.1.0a",
     "category": "Headwear",
@@ -2198,7 +2198,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "earth-egg shoes",
-    "sources": "Collecting earth eggs",
+    "source": ["Collecting earth eggs"],
     "sourceNotes": "Only available during Bunny Day",
     "version": "1.1.0a",
     "category": "Shoes",
@@ -2211,7 +2211,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "egg party dress",
-    "sources": "Learning all egg outfit DIYs",
+    "source": ["Learning all egg outfit DIYs"],
     "sourceNotes": "Only available during Bunny Day",
     "version": "1.1.0a",
     "category": "Dresses",
@@ -2229,7 +2229,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "egg party hat",
-    "sources": "Learning all egg outfit DIYs",
+    "source": ["Learning all egg outfit DIYs"],
     "sourceNotes": "Only available during Bunny Day",
     "version": "1.1.0a",
     "category": "Headwear",
@@ -2247,10 +2247,10 @@
   {
     "sourceSheet": "Recipes",
     "name": "fancy lily wreath",
-    "sources": "All Villagers",
+    "source": ["All Villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
-    "category": "Wall-Mounted",
+    "category": "Wall-mounted",
     "internalId": 455,
     "uniqueEntryId": "yj4Z2oGDi6Thvm89d",
     "materials": {
@@ -2262,10 +2262,10 @@
   {
     "sourceSheet": "Recipes",
     "name": "fancy mum wreath",
-    "sources": "All Villagers",
+    "source": ["All Villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
-    "category": "Wall-Mounted",
+    "category": "Wall-mounted",
     "internalId": 443,
     "uniqueEntryId": "qW3wgimoN7XhG5BvD",
     "materials": {
@@ -2277,10 +2277,10 @@
   {
     "sourceSheet": "Recipes",
     "name": "fancy rose wreath",
-    "sources": "All Villagers",
+    "source": ["All Villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
-    "category": "Wall-Mounted",
+    "category": "Wall-mounted",
     "internalId": 448,
     "uniqueEntryId": "vr9dDrXLQuDSwfDdy",
     "materials": {
@@ -2292,7 +2292,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "festive top set",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Festive Season",
     "version": "1.0.0",
     "category": "Miscellaneous",
@@ -2306,7 +2306,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "festive tree",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Festive Season",
     "version": "1.0.0",
     "category": "Housewares",
@@ -2322,7 +2322,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "firewood",
-    "sources": "Jock villagers",
+    "source": ["Jock villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Miscellaneous",
@@ -2335,7 +2335,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "fish bait",
-    "sources": "Digging up clams",
+    "source": ["Digging up clams"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Other",
@@ -2348,7 +2348,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "fishing rod",
-    "sources": "Nook Miles Exchange",
+    "source": ["Nook Miles Exchange"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Tools",
@@ -2362,7 +2362,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "flat garden rock",
-    "sources": "Snooty villagers",
+    "source": ["Snooty villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -2375,7 +2375,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "flimsy axe",
-    "sources": "Tom Nook; Nook's Cranny",
+    "source": ["Tom Nook; Nook's Cranny"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Tools",
@@ -2389,7 +2389,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "flimsy fishing rod",
-    "sources": "Tom Nook",
+    "source": ["Tom Nook"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Tools",
@@ -2402,7 +2402,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "flimsy net",
-    "sources": "Tom Nook",
+    "source": ["Tom Nook"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Tools",
@@ -2415,7 +2415,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "flimsy shovel",
-    "sources": "Blathers; Nook's Cranny",
+    "source": ["Blathers; Nook's Cranny"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Tools",
@@ -2428,7 +2428,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "flimsy watering can",
-    "sources": "Tom Nook; Nook's Cranny",
+    "source": ["Tom Nook; Nook's Cranny"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Tools",
@@ -2441,10 +2441,10 @@
   {
     "sourceSheet": "Recipes",
     "name": "floral swag",
-    "sources": "Normal villagers",
+    "source": ["Normal villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
-    "category": "Wall-Mounted",
+    "category": "Wall-mounted",
     "internalId": 121,
     "uniqueEntryId": "d2brTtEXPaFRfbcFh",
     "materials": {
@@ -2454,7 +2454,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "flower stand",
-    "sources": "Big sister villagers",
+    "source": ["Big sister villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -2472,7 +2472,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "flying saucer",
-    "sources": "Celeste",
+    "source": ["Celeste"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -2486,7 +2486,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "forest flooring",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Mushroom Season",
     "version": "1.0.0",
     "category": "Floors",
@@ -2503,7 +2503,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "forest wall",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Mushroom Season",
     "version": "1.0.0",
     "category": "Wallpaper",
@@ -2520,10 +2520,10 @@
   {
     "sourceSheet": "Recipes",
     "name": "fossil doorplate",
-    "sources": "Jock villagers",
+    "source": ["Jock villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
-    "category": "Wall-Mounted",
+    "category": "Wall-mounted",
     "internalId": 464,
     "uniqueEntryId": "eig2yBncaDeGLkfKP",
     "materials": {
@@ -2534,7 +2534,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "fountain",
-    "sources": "Nook Miles Exchange",
+    "source": ["Nook Miles Exchange"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -2549,8 +2549,8 @@
   {
     "sourceSheet": "Recipes",
     "name": "frozen arch",
-    "sources": "Making a perfect Snowboy",
-    "sourceNotes": null,
+    "source": ["Snowboy"],
+    "sourceNotes": "Reward for making a perfect Snowboy; Only available during Winter",
     "version": "1.0.0",
     "category": "Housewares",
     "internalId": 140,
@@ -2563,8 +2563,8 @@
   {
     "sourceSheet": "Recipes",
     "name": "frozen bed",
-    "sources": "Making a perfect Snowboy",
-    "sourceNotes": null,
+    "source": ["Snowboy"],
+    "sourceNotes": "Reward for making a perfect Snowboy; Only available during Winter",
     "version": "1.0.0",
     "category": "Housewares",
     "internalId": 149,
@@ -2577,8 +2577,8 @@
   {
     "sourceSheet": "Recipes",
     "name": "frozen chair",
-    "sources": "Making a perfect Snowboy",
-    "sourceNotes": null,
+    "source": ["Snowboy"],
+    "sourceNotes": "Reward for making a perfect Snowboy; Only available during Winter",
     "version": "1.0.0",
     "category": "Housewares",
     "internalId": 142,
@@ -2591,8 +2591,8 @@
   {
     "sourceSheet": "Recipes",
     "name": "frozen counter",
-    "sources": "Making a perfect Snowboy",
-    "sourceNotes": null,
+    "source": ["Snowboy"],
+    "sourceNotes": "Reward for making a perfect Snowboy; Only available during Winter",
     "version": "1.0.0",
     "category": "Housewares",
     "internalId": 143,
@@ -2605,8 +2605,8 @@
   {
     "sourceSheet": "Recipes",
     "name": "frozen partition",
-    "sources": "Making a perfect Snowboy",
-    "sourceNotes": null,
+    "source": ["Snowboy"],
+    "sourceNotes": "Reward for making a perfect Snowboy; Only available during Winter",
     "version": "1.0.0",
     "category": "Housewares",
     "internalId": 147,
@@ -2619,8 +2619,8 @@
   {
     "sourceSheet": "Recipes",
     "name": "frozen pillar",
-    "sources": "Making a perfect Snowboy",
-    "sourceNotes": null,
+    "source": ["Snowboy"],
+    "sourceNotes": "Reward for making a perfect Snowboy; Only available during Winter",
     "version": "1.0.0",
     "category": "Housewares",
     "internalId": 148,
@@ -2633,8 +2633,8 @@
   {
     "sourceSheet": "Recipes",
     "name": "frozen sculpture",
-    "sources": "Making a perfect Snowboy",
-    "sourceNotes": null,
+    "source": ["Snowboy"],
+    "sourceNotes": "Reward for making a perfect Snowboy; Only available during Winter",
     "version": "1.0.0",
     "category": "Housewares",
     "internalId": 141,
@@ -2647,8 +2647,8 @@
   {
     "sourceSheet": "Recipes",
     "name": "frozen table",
-    "sources": "Making a perfect Snowboy",
-    "sourceNotes": null,
+    "source": ["Snowboy"],
+    "sourceNotes": "Reward for making a perfect Snowboy; Only available during Winter",
     "version": "1.0.0",
     "category": "Housewares",
     "internalId": 146,
@@ -2661,8 +2661,8 @@
   {
     "sourceSheet": "Recipes",
     "name": "frozen tree",
-    "sources": "Making a perfect Snowboy",
-    "sourceNotes": null,
+    "source": ["Snowboy"],
+    "sourceNotes": "Reward for making a perfect Snowboy; Only available during Winter",
     "version": "1.0.0",
     "category": "Housewares",
     "internalId": 145,
@@ -2675,8 +2675,8 @@
   {
     "sourceSheet": "Recipes",
     "name": "frozen-treat set",
-    "sources": "Making a perfect Snowboy",
-    "sourceNotes": null,
+    "source": ["Snowboy"],
+    "sourceNotes": "Reward for making a perfect Snowboy; Only available during Winter",
     "version": "1.0.0",
     "category": "Miscellaneous",
     "internalId": 194,
@@ -2689,7 +2689,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "fruit basket",
-    "sources": "Cranky villagers",
+    "source": ["Cranky villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Miscellaneous",
@@ -2706,10 +2706,10 @@
   {
     "sourceSheet": "Recipes",
     "name": "fruit wreath",
-    "sources": "Cranky villagers",
+    "source": ["Cranky villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
-    "category": "Wall-Mounted",
+    "category": "Wall-mounted",
     "internalId": 223,
     "uniqueEntryId": "FPCNEvg2aBDZZkjxu",
     "materials": {
@@ -2723,7 +2723,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "frying pan",
-    "sources": "Nook's Cranny",
+    "source": ["Nook's Cranny"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Miscellaneous",
@@ -2736,7 +2736,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "galaxy flooring",
-    "sources": "Celeste",
+    "source": ["Celeste"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Floors",
@@ -2750,7 +2750,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "garbage-heap flooring",
-    "sources": "Fishing up trash",
+    "source": ["Fishing up trash"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Floors",
@@ -2765,7 +2765,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "garbage-heap wall",
-    "sources": "Fishing up trash",
+    "source": ["Fishing up trash"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Wallpaper",
@@ -2780,7 +2780,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "garden bench",
-    "sources": "Snooty villagers",
+    "source": ["Snooty villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -2794,7 +2794,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "garden rock",
-    "sources": "Lazy villagers",
+    "source": ["Lazy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -2807,7 +2807,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "garden wagon",
-    "sources": "Peppy villagers",
+    "source": ["Peppy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -2824,7 +2824,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "Gemini closet",
-    "sources": "Celeste",
+    "source": ["Celeste"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -2840,7 +2840,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "giant teddy bear",
-    "sources": "Peppy villagers",
+    "source": ["Peppy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -2855,7 +2855,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "gold armor",
-    "sources": "Smug villagers",
+    "source": ["Smug villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Dresses",
@@ -2868,7 +2868,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "gold bars",
-    "sources": "Snooty villagers",
+    "source": ["Snooty villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Miscellaneous",
@@ -2881,7 +2881,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "gold helmet",
-    "sources": "Smug villagers",
+    "source": ["Smug villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Headwear",
@@ -2894,7 +2894,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "gold rose crown",
-    "sources": "All Villagers",
+    "source": ["All Villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Headwear",
@@ -2907,10 +2907,10 @@
   {
     "sourceSheet": "Recipes",
     "name": "gold rose wreath",
-    "sources": "All Villagers",
+    "source": ["All Villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
-    "category": "Wall-Mounted",
+    "category": "Wall-mounted",
     "internalId": 449,
     "uniqueEntryId": "fYHqu9bGpt2ivTWRt",
     "materials": {
@@ -2920,7 +2920,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "gold-armor shoes",
-    "sources": "Smug villagers",
+    "source": ["Smug villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Shoes",
@@ -2933,7 +2933,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "gold-screen wall",
-    "sources": "Smug villagers",
+    "source": ["Smug villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Wallpaper",
@@ -2947,7 +2947,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "golden arowana model",
-    "sources": "Lazy villagers",
+    "source": ["Lazy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Miscellaneous",
@@ -2960,7 +2960,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "golden axe",
-    "sources": "Breaking 100 axes",
+    "source": ["Breaking 100 axes"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Tools",
@@ -2974,7 +2974,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "golden candlestick",
-    "sources": "Smug villagers",
+    "source": ["Smug villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Miscellaneous",
@@ -2987,7 +2987,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "golden casket",
-    "sources": "Smug villagers",
+    "source": ["Smug villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -3000,7 +3000,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "golden dishes",
-    "sources": "Snooty villagers",
+    "source": ["Snooty villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Miscellaneous",
@@ -3013,7 +3013,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "golden dung beetle",
-    "sources": "Lazy villagers",
+    "source": ["Lazy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Miscellaneous",
@@ -3026,7 +3026,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "golden flooring",
-    "sources": "Smug villagers",
+    "source": ["Smug villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Floors",
@@ -3039,10 +3039,10 @@
   {
     "sourceSheet": "Recipes",
     "name": "golden gears",
-    "sources": "Smug villagers",
+    "source": ["Smug villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
-    "category": "Wall-Mounted",
+    "category": "Wall-mounted",
     "internalId": 595,
     "uniqueEntryId": "5JDaCQoYazbP4QkGN",
     "materials": {
@@ -3053,7 +3053,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "golden net",
-    "sources": "Completing bug Critterpedia",
+    "source": ["Completing bug Critterpedia"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Tools",
@@ -3067,7 +3067,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "golden rod",
-    "sources": "Completing fish Critterpedia",
+    "source": ["Completing fish Critterpedia"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Tools",
@@ -3081,7 +3081,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "golden seat",
-    "sources": "Snooty villagers",
+    "source": ["Snooty villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -3094,7 +3094,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "golden shovel",
-    "sources": "Helping Gulliver 30 times",
+    "source": ["Helping Gulliver 30 times"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Tools",
@@ -3108,7 +3108,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "golden slingshot",
-    "sources": "Shooting 300 balloons",
+    "source": ["Shooting 300 balloons"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Tools",
@@ -3122,7 +3122,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "golden toilet",
-    "sources": "Snooty villagers",
+    "source": ["Snooty villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -3135,7 +3135,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "golden wall",
-    "sources": "Smug villagers",
+    "source": ["Smug villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Wallpaper",
@@ -3148,7 +3148,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "golden wand",
-    "sources": "Celeste",
+    "source": ["Celeste"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Tools",
@@ -3162,7 +3162,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "golden watering can",
-    "sources": "5-star town evaluation",
+    "source": ["5-star town evaluation"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Tools",
@@ -3176,7 +3176,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "gong",
-    "sources": "Cranky villagers",
+    "source": ["Cranky villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -3190,7 +3190,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "grass skirt",
-    "sources": "Normal villagers",
+    "source": ["Normal villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Bottoms",
@@ -3203,7 +3203,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "grass standee",
-    "sources": "Normal villagers",
+    "source": ["Normal villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -3217,7 +3217,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "green grass skirt",
-    "sources": "Peppy villagers",
+    "source": ["Peppy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Bottoms",
@@ -3230,7 +3230,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "green-leaf pile",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Spring",
     "version": "1.0.0",
     "category": "Housewares",
@@ -3244,10 +3244,10 @@
   {
     "sourceSheet": "Recipes",
     "name": "hanging terrarium",
-    "sources": "Peppy villagers",
+    "source": ["Peppy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
-    "category": "Wall-Mounted",
+    "category": "Wall-mounted",
     "internalId": 396,
     "uniqueEntryId": "GNtJWEuH8EoLwwi2a",
     "materials": {
@@ -3258,7 +3258,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "hay bed",
-    "sources": "Nook's Cranny",
+    "source": ["Nook's Cranny"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -3271,7 +3271,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "hearth",
-    "sources": "Nook's Cranny",
+    "source": ["Nook's Cranny"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -3287,7 +3287,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "hedge",
-    "sources": null,
+    "source": [""],
     "sourceNotes": null,
     "version": "1.2.0",
     "category": "Fencing",
@@ -3302,7 +3302,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "hedge standee",
-    "sources": "Normal villagers",
+    "source": ["Normal villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -3316,7 +3316,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "holiday candle",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Festive Season",
     "version": "1.0.0",
     "category": "Miscellaneous",
@@ -3330,7 +3330,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "honeycomb flooring",
-    "sources": "Jock villagers",
+    "source": ["Jock villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Floors",
@@ -3343,7 +3343,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "honeycomb wall",
-    "sources": "Jock villagers",
+    "source": ["Jock villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Wallpaper",
@@ -3356,7 +3356,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "hyacinth crown",
-    "sources": "All Villagers",
+    "source": ["All Villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Headwear",
@@ -3371,7 +3371,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "hyacinth lamp",
-    "sources": "Big sister villagers",
+    "source": ["Big sister villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Miscellaneous",
@@ -3385,7 +3385,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "hyacinth wand",
-    "sources": "Celeste",
+    "source": ["Celeste"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Tools",
@@ -3399,10 +3399,10 @@
   {
     "sourceSheet": "Recipes",
     "name": "hyacinth wreath",
-    "sources": "All Villagers",
+    "source": ["All Villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
-    "category": "Wall-Mounted",
+    "category": "Wall-mounted",
     "internalId": 232,
     "uniqueEntryId": "ysyo8kjy4NBvj929M",
     "materials": {
@@ -3414,8 +3414,8 @@
   {
     "sourceSheet": "Recipes",
     "name": "ice flooring",
-    "sources": "Making a perfect Snowboy",
-    "sourceNotes": "Only available during Winter",
+    "source": ["Snowboy"],
+    "sourceNotes": "Reward for making a perfect Snowboy; Only available during Winter",
     "version": "1.0.0",
     "category": "Floors",
     "internalId": 288,
@@ -3428,8 +3428,8 @@
   {
     "sourceSheet": "Recipes",
     "name": "ice wall",
-    "sources": "Making a perfect Snowboy",
-    "sourceNotes": "Only available during Winter",
+    "source": ["Snowboy"],
+    "sourceNotes": "Reward for making a perfect Snowboy; Only available during Winter",
     "version": "1.0.0",
     "category": "Wallpaper",
     "internalId": 293,
@@ -3442,8 +3442,8 @@
   {
     "sourceSheet": "Recipes",
     "name": "ice wand",
-    "sources": "Making a perfect Snowboy",
-    "sourceNotes": "Only available during Winter",
+    "source": ["Snowboy"],
+    "sourceNotes": "Reward for making a perfect Snowboy; Only available during Winter",
     "version": "1.0.0",
     "category": "Tools",
     "internalId": 533,
@@ -3456,7 +3456,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "iceberg flooring",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Winter",
     "version": "1.0.0",
     "category": "Floors",
@@ -3469,7 +3469,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "iceberg wall",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Winter",
     "version": "1.0.0",
     "category": "Wallpaper",
@@ -3483,7 +3483,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "illuminated present",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Festive Season",
     "version": "1.0.0",
     "category": "Housewares",
@@ -3498,7 +3498,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "illuminated reindeer",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Festive Season",
     "version": "1.0.0",
     "category": "Housewares",
@@ -3512,7 +3512,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "illuminated snowflakes",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Festive Season",
     "version": "1.0.0",
     "category": "Housewares",
@@ -3526,7 +3526,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "illuminated tree",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Festive Season",
     "version": "1.0.0",
     "category": "Housewares",
@@ -3541,7 +3541,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "imperial fence",
-    "sources": "Nook Miles Exchange",
+    "source": ["Nook Miles Exchange"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Fencing",
@@ -3555,7 +3555,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "infused-water dispenser",
-    "sources": "Cranky villagers",
+    "source": ["Cranky villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Miscellaneous",
@@ -3573,7 +3573,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "iron armor",
-    "sources": "Cranky villagers",
+    "source": ["Cranky villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Dresses",
@@ -3586,7 +3586,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "iron closet",
-    "sources": "Big sister villagers",
+    "source": ["Big sister villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -3599,10 +3599,10 @@
   {
     "sourceSheet": "Recipes",
     "name": "iron doorplate",
-    "sources": "Big sister villagers",
+    "source": ["Big sister villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
-    "category": "Wall-Mounted",
+    "category": "Wall-mounted",
     "internalId": 468,
     "uniqueEntryId": "ckD6nctsXhWjtaRmJ",
     "materials": {
@@ -3612,7 +3612,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "iron fence",
-    "sources": "Nook Miles Exchange",
+    "source": ["Nook Miles Exchange"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Fencing",
@@ -3625,7 +3625,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "iron frame",
-    "sources": "Jock villagers",
+    "source": ["Jock villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -3638,7 +3638,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "iron garden bench",
-    "sources": "Big sister villagers",
+    "source": ["Big sister villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -3651,7 +3651,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "iron garden chair",
-    "sources": "Villager House Development (Tom Nook); Big sister villagers",
+    "source": ["Villager House Development (Tom Nook); Big sister villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -3664,7 +3664,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "iron garden table",
-    "sources": "Villager House Development (Tom Nook); Big sister villagers",
+    "source": ["Villager House Development (Tom Nook); Big sister villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -3677,7 +3677,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "iron hanger stand",
-    "sources": "Cranky villagers",
+    "source": ["Cranky villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -3690,7 +3690,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "iron shelf",
-    "sources": "Big sister villagers",
+    "source": ["Big sister villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -3703,10 +3703,10 @@
   {
     "sourceSheet": "Recipes",
     "name": "iron wall lamp",
-    "sources": "Nook's Cranny",
+    "source": ["Nook's Cranny"],
     "sourceNotes": null,
     "version": "1.0.0",
-    "category": "Wall-Mounted",
+    "category": "Wall-mounted",
     "internalId": 122,
     "uniqueEntryId": "b9KAgbNSetaJieTKp",
     "materials": {
@@ -3717,10 +3717,10 @@
   {
     "sourceSheet": "Recipes",
     "name": "iron wall rack",
-    "sources": "Smug villagers",
+    "source": ["Smug villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
-    "category": "Wall-Mounted",
+    "category": "Wall-mounted",
     "internalId": 123,
     "uniqueEntryId": "DYTTSvnJoQAtBqSpL",
     "materials": {
@@ -3731,7 +3731,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "iron wand",
-    "sources": "Celeste",
+    "source": ["Celeste"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Tools",
@@ -3745,7 +3745,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "iron worktable",
-    "sources": "Big sister villagers",
+    "source": ["Big sister villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -3758,7 +3758,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "iron-and-stone fence",
-    "sources": "Nook Miles Exchange",
+    "source": ["Nook Miles Exchange"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Fencing",
@@ -3772,7 +3772,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "ironwood bed",
-    "sources": "Smug villagers",
+    "source": ["Smug villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -3786,7 +3786,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "ironwood cart",
-    "sources": "Smug villagers",
+    "source": ["Smug villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -3800,7 +3800,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "ironwood chair",
-    "sources": "Smug villagers",
+    "source": ["Smug villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -3814,10 +3814,10 @@
   {
     "sourceSheet": "Recipes",
     "name": "ironwood clock",
-    "sources": "Smug villagers",
+    "source": ["Smug villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
-    "category": "Wall-Mounted",
+    "category": "Wall-mounted",
     "internalId": 94,
     "uniqueEntryId": "vWYzQ9pTSBH5Wbmmk",
     "materials": {
@@ -3828,7 +3828,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "ironwood cupboard",
-    "sources": "Snooty villagers",
+    "source": ["Snooty villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -3843,7 +3843,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "ironwood DIY workbench",
-    "sources": "Cranky villagers",
+    "source": ["Cranky villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -3858,7 +3858,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "ironwood dresser",
-    "sources": "Snooty villagers",
+    "source": ["Snooty villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -3872,7 +3872,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "ironwood kitchenette",
-    "sources": "Nook's Cranny",
+    "source": ["Nook's Cranny"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -3888,7 +3888,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "ironwood low table",
-    "sources": "Snooty villagers",
+    "source": ["Snooty villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -3902,7 +3902,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "ironwood table",
-    "sources": "Cranky villagers",
+    "source": ["Cranky villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -3916,7 +3916,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "jail bars",
-    "sources": "Cranky villagers",
+    "source": ["Cranky villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -3929,7 +3929,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "Jingle wall",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Festive Season",
     "version": "1.0.0",
     "category": "Wallpaper",
@@ -3945,7 +3945,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "juicy-apple TV",
-    "sources": "Big sister villagers",
+    "source": ["Big sister villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -3959,7 +3959,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "jungle flooring",
-    "sources": "Jock villagers",
+    "source": ["Jock villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Floors",
@@ -3973,7 +3973,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "jungle wall",
-    "sources": "Jock villagers",
+    "source": ["Jock villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Wallpaper",
@@ -3989,7 +3989,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "kettle bathtub",
-    "sources": "Cranky villagers",
+    "source": ["Cranky villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -4004,7 +4004,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "kettlebell",
-    "sources": "Jock villagers",
+    "source": ["Jock villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Miscellaneous",
@@ -4017,10 +4017,10 @@
   {
     "sourceSheet": "Recipes",
     "name": "key holder",
-    "sources": "Big sister villagers",
+    "source": ["Big sister villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
-    "category": "Wall-Mounted",
+    "category": "Wall-mounted",
     "internalId": 437,
     "uniqueEntryId": "cXTKSu7vAHz2c3tmD",
     "materials": {
@@ -4031,7 +4031,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "knight's helmet",
-    "sources": "Cranky villagers",
+    "source": ["Cranky villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Headwear",
@@ -4044,7 +4044,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "knitted-grass backpack",
-    "sources": "Normal villagers",
+    "source": ["Normal villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Bags",
@@ -4057,7 +4057,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "ladder",
-    "sources": "Villager House Development (Tom Nook); Nook's Cranny",
+    "source": ["Villager House Development (Tom Nook); Nook's Cranny"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Tools",
@@ -4072,7 +4072,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "large cardboard boxes",
-    "sources": "Lazy villagers",
+    "source": ["Lazy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -4085,7 +4085,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "lattice fence",
-    "sources": "Nook Miles Exchange",
+    "source": ["Nook Miles Exchange"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Fencing",
@@ -4098,7 +4098,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "leaf",
-    "sources": "Jock villagers",
+    "source": ["Jock villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Accessories",
@@ -4111,7 +4111,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "leaf campfire",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Fall",
     "version": "1.0.0",
     "category": "Housewares",
@@ -4126,7 +4126,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "leaf mask",
-    "sources": "Peppy villagers",
+    "source": ["Peppy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Headwear",
@@ -4139,7 +4139,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "leaf stool",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Maple Leaf Season",
     "version": "1.0.0",
     "category": "Housewares",
@@ -4153,7 +4153,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "leaf umbrella",
-    "sources": "Big sister villagers",
+    "source": ["Big sister villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Umbrellas",
@@ -4166,7 +4166,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "leaf-egg outfit",
-    "sources": "Collecting leaf eggs",
+    "source": ["Collecting leaf eggs"],
     "sourceNotes": "Only available during Bunny Day",
     "version": "1.1.0a",
     "category": "Dresses",
@@ -4179,7 +4179,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "leaf-egg shell",
-    "sources": "Collecting leaf eggs",
+    "source": ["Collecting leaf eggs"],
     "sourceNotes": "Only available during Bunny Day",
     "version": "1.1.0a",
     "category": "Headwear",
@@ -4192,7 +4192,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "leaf-egg shoes",
-    "sources": "Collecting leaf eggs",
+    "source": ["Collecting leaf eggs"],
     "sourceNotes": "Only available during Bunny Day",
     "version": "1.1.0a",
     "category": "Shoes",
@@ -4205,10 +4205,10 @@
   {
     "sourceSheet": "Recipes",
     "name": "Leo sculpture",
-    "sources": "Celeste",
+    "source": ["Celeste"],
     "sourceNotes": null,
     "version": "1.0.0",
-    "category": "Wall-Mounted",
+    "category": "Wall-mounted",
     "internalId": 407,
     "uniqueEntryId": "5QHREHAwKLPzLmmDi",
     "materials": {
@@ -4221,7 +4221,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "Libra scale",
-    "sources": "Celeste",
+    "source": ["Celeste"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Miscellaneous",
@@ -4236,7 +4236,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "light bamboo rug",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Spring",
     "version": "1.0.0",
     "category": "Rugs",
@@ -4249,7 +4249,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "lily crown",
-    "sources": "All Villagers",
+    "source": ["All Villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Headwear",
@@ -4264,7 +4264,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "lily record player",
-    "sources": "Cranky villagers",
+    "source": ["Cranky villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -4279,7 +4279,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "lily wand",
-    "sources": "Celeste",
+    "source": ["Celeste"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Tools",
@@ -4293,10 +4293,10 @@
   {
     "sourceSheet": "Recipes",
     "name": "lily wreath",
-    "sources": "All Villagers",
+    "source": ["All Villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
-    "category": "Wall-Mounted",
+    "category": "Wall-mounted",
     "internalId": 438,
     "uniqueEntryId": "T79DghfmPpWspJ9Eq",
     "materials": {
@@ -4308,7 +4308,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "log bed",
-    "sources": "Villager House Development (Tom Nook); Peppy villagers",
+    "source": ["Villager House Development (Tom Nook); Peppy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -4321,7 +4321,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "log bench",
-    "sources": "Villager House Development (Tom Nook); Normal villagers",
+    "source": ["Villager House Development (Tom Nook); Normal villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -4334,7 +4334,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "log chair",
-    "sources": "Normal villagers",
+    "source": ["Normal villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -4347,7 +4347,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "log decorative shelves",
-    "sources": "Normal villagers",
+    "source": ["Normal villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -4361,7 +4361,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "log dining table",
-    "sources": "Villager House Development (Tom Nook); Cranky villagers",
+    "source": ["Villager House Development (Tom Nook); Cranky villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -4374,7 +4374,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "log extra-long sofa",
-    "sources": "Normal villagers",
+    "source": ["Normal villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -4387,7 +4387,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "log garden lounge",
-    "sources": "Villager House Development (Tom Nook); Peppy villagers",
+    "source": ["Villager House Development (Tom Nook); Peppy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -4400,7 +4400,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "log pack",
-    "sources": "Jock villagers",
+    "source": ["Jock villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Bags",
@@ -4414,7 +4414,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "log round table",
-    "sources": "Peppy villagers",
+    "source": ["Peppy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -4427,7 +4427,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "log stakes",
-    "sources": "Tom Nook; Smug villagers",
+    "source": ["Tom Nook; Smug villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -4440,7 +4440,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "log stool",
-    "sources": "Villager House Development (Tom Nook); Peppy villagers",
+    "source": ["Villager House Development (Tom Nook); Peppy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -4453,10 +4453,10 @@
   {
     "sourceSheet": "Recipes",
     "name": "log wall-mounted clock",
-    "sources": "Lazy villagers",
+    "source": ["Lazy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
-    "category": "Wall-Mounted",
+    "category": "Wall-mounted",
     "internalId": 115,
     "uniqueEntryId": "qAiYovJGN6oxwXWqY",
     "materials": {
@@ -4467,7 +4467,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "lovely cosmos crown",
-    "sources": "All Villagers",
+    "source": ["All Villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Headwear",
@@ -4481,7 +4481,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "lucky gold cat",
-    "sources": "Snooty villagers",
+    "source": ["Snooty villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Miscellaneous",
@@ -4495,7 +4495,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "lunar lander",
-    "sources": "Celeste",
+    "source": ["Celeste"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -4509,7 +4509,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "lunar rover",
-    "sources": "Celeste",
+    "source": ["Celeste"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -4524,7 +4524,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "lunar surface",
-    "sources": "Celeste",
+    "source": ["Celeste"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Floors",
@@ -4538,7 +4538,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "magazine rack",
-    "sources": "Peppy villagers",
+    "source": ["Peppy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Miscellaneous",
@@ -4552,7 +4552,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "manga-library wall",
-    "sources": "Peppy villagers",
+    "source": ["Peppy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Wallpaper",
@@ -4565,7 +4565,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "manhole cover",
-    "sources": "Nook Miles Exchange",
+    "source": ["Nook Miles Exchange"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -4578,7 +4578,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "maple-leaf pochette",
-    "sources": "Balloons (Maple Leaf Season)",
+    "source": ["Balloons (Maple Leaf Season)"],
     "sourceNotes": "Only available during Maple Leaf Season",
     "version": "1.0.0",
     "category": "Bags",
@@ -4591,7 +4591,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "maple-leaf pond stone",
-    "sources": "Balloons (Maple Leaf Season)",
+    "source": ["Balloons (Maple Leaf Season)"],
     "sourceNotes": "Only available during Maple Leaf Season",
     "version": "1.0.0",
     "category": "Housewares",
@@ -4605,7 +4605,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "maple-leaf umbrella",
-    "sources": "Balloons (Maple Leaf Season)",
+    "source": ["Balloons (Maple Leaf Season)"],
     "sourceNotes": "Only available during Maple Leaf Season",
     "version": "1.0.0",
     "category": "Umbrellas",
@@ -4618,7 +4618,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "matryoshka",
-    "sources": "Lazy villagers",
+    "source": ["Lazy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Miscellaneous",
@@ -4631,7 +4631,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "medicine",
-    "sources": "All Villagers (while stung)",
+    "source": ["All Villagers (while stung)"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Other",
@@ -4645,7 +4645,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "medium cardboard boxes",
-    "sources": "Lazy villagers",
+    "source": ["Lazy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -4658,7 +4658,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "mini DIY workbench",
-    "sources": "Nook's Cranny",
+    "source": ["Nook's Cranny"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -4674,7 +4674,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "modeling clay",
-    "sources": "Cranky villagers",
+    "source": ["Cranky villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Miscellaneous",
@@ -4687,7 +4687,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "modern wood wall",
-    "sources": "Snooty villagers",
+    "source": ["Snooty villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Wallpaper",
@@ -4702,7 +4702,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "money flooring",
-    "sources": "Snooty villagers",
+    "source": ["Snooty villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Floors",
@@ -4715,7 +4715,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "moon",
-    "sources": "Celeste",
+    "source": ["Celeste"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -4729,7 +4729,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "mossy garden rock",
-    "sources": "Lazy villagers",
+    "source": ["Lazy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -4743,7 +4743,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "mountain standee",
-    "sources": "Jock villagers",
+    "source": ["Jock villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -4757,7 +4757,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "mum crown",
-    "sources": "All Villagers",
+    "source": ["All Villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Headwear",
@@ -4772,7 +4772,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "mum cushion",
-    "sources": "Peppy villagers",
+    "source": ["Peppy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -4786,10 +4786,10 @@
   {
     "sourceSheet": "Recipes",
     "name": "mum wreath",
-    "sources": "All Villagers",
+    "source": ["All Villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
-    "category": "Wall-Mounted",
+    "category": "Wall-mounted",
     "internalId": 231,
     "uniqueEntryId": "LS93qbKCcMQLExqMG",
     "materials": {
@@ -4801,7 +4801,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "mums wand",
-    "sources": "Celeste",
+    "source": ["Celeste"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Tools",
@@ -4814,7 +4814,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "mush lamp",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Mushroom Season",
     "version": "1.0.0",
     "category": "Housewares",
@@ -4828,7 +4828,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "mush log",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Mushroom Season",
     "version": "1.0.0",
     "category": "Housewares",
@@ -4842,7 +4842,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "mush low stool",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Mushroom Season",
     "version": "1.0.0",
     "category": "Housewares",
@@ -4855,7 +4855,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "mush parasol",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Mushroom Season",
     "version": "1.0.0",
     "category": "Housewares",
@@ -4868,7 +4868,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "mush partition",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Mushroom Season",
     "version": "1.0.0",
     "category": "Housewares",
@@ -4881,7 +4881,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "mush table",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Mushroom Season",
     "version": "1.0.0",
     "category": "Housewares",
@@ -4895,7 +4895,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "mush umbrella",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Mushroom Season",
     "version": "1.0.0",
     "category": "Umbrellas",
@@ -4908,7 +4908,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "mush wall",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Mushroom Season",
     "version": "1.0.0",
     "category": "Wallpaper",
@@ -4924,7 +4924,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "mushroom wand",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Mushroom Season",
     "version": "1.0.0",
     "category": "Tools",
@@ -4938,10 +4938,10 @@
   {
     "sourceSheet": "Recipes",
     "name": "mushroom wreath",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Mushroom Season",
     "version": "1.0.0",
-    "category": "Wall-Mounted",
+    "category": "Wall-mounted",
     "internalId": 221,
     "uniqueEntryId": "5XfaKLorByDHGp9pi",
     "materials": {
@@ -4954,7 +4954,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "music stand",
-    "sources": "Lazy villagers",
+    "source": ["Lazy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -4967,7 +4967,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "natural garden chair",
-    "sources": "Villager House Development (Tom Nook); Peppy villagers",
+    "source": ["Villager House Development (Tom Nook); Peppy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -4981,7 +4981,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "natural garden table",
-    "sources": "Villager House Development (Tom Nook); Normal villagers",
+    "source": ["Villager House Development (Tom Nook); Normal villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -4995,10 +4995,10 @@
   {
     "sourceSheet": "Recipes",
     "name": "natural mum wreath",
-    "sources": "All Villagers",
+    "source": ["All Villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
-    "category": "Wall-Mounted",
+    "category": "Wall-mounted",
     "internalId": 442,
     "uniqueEntryId": "p7kG7qim9jPGSwxtz",
     "materials": {
@@ -5008,7 +5008,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "natural square table",
-    "sources": "Normal villagers",
+    "source": ["Normal villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -5022,7 +5022,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "net",
-    "sources": "Nook Miles Exchange",
+    "source": ["Nook Miles Exchange"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Tools",
@@ -5036,7 +5036,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "nova light",
-    "sources": "Celeste",
+    "source": ["Celeste"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Miscellaneous",
@@ -5049,7 +5049,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "ocarina",
-    "sources": "Nook's Cranny",
+    "source": ["Nook's Cranny"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Tools",
@@ -5062,7 +5062,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "oil-barrel bathtub",
-    "sources": "Jock villagers",
+    "source": ["Jock villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -5077,7 +5077,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "old-fashioned washtub",
-    "sources": "Nook's Cranny",
+    "source": ["Nook's Cranny"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Miscellaneous",
@@ -5090,7 +5090,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "orange dress",
-    "sources": "Lazy villagers",
+    "source": ["Lazy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Dresses",
@@ -5103,7 +5103,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "orange end table",
-    "sources": "Lazy villagers",
+    "source": ["Lazy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -5117,7 +5117,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "orange hat",
-    "sources": "Lazy villagers",
+    "source": ["Lazy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Headwear",
@@ -5130,7 +5130,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "orange rug",
-    "sources": "Lazy villagers",
+    "source": ["Lazy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Rugs",
@@ -5143,7 +5143,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "orange umbrella",
-    "sources": "Lazy villagers",
+    "source": ["Lazy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Umbrellas",
@@ -5156,7 +5156,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "orange wall",
-    "sources": "Lazy villagers",
+    "source": ["Lazy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Wallpaper",
@@ -5169,10 +5169,10 @@
   {
     "sourceSheet": "Recipes",
     "name": "orange wall-mounted clock",
-    "sources": "Lazy villagers",
+    "source": ["Lazy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
-    "category": "Wall-Mounted",
+    "category": "Wall-mounted",
     "internalId": 184,
     "uniqueEntryId": "rJaAL5N8CQQ5dPd9y",
     "materials": {
@@ -5183,10 +5183,10 @@
   {
     "sourceSheet": "Recipes",
     "name": "ornament mobile",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Festive Season",
     "version": "1.0.0",
-    "category": "Wall-Mounted",
+    "category": "Wall-mounted",
     "internalId": 433,
     "uniqueEntryId": "RaotMSgnPsgG6PKLu",
     "materials": {
@@ -5199,10 +5199,10 @@
   {
     "sourceSheet": "Recipes",
     "name": "ornament wreath",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Festive Season",
     "version": "1.0.0",
-    "category": "Wall-Mounted",
+    "category": "Wall-mounted",
     "internalId": 226,
     "uniqueEntryId": "rLcgugWkG2sntC7Lh",
     "materials": {
@@ -5213,7 +5213,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "outdoor bath",
-    "sources": "Nook Miles Exchange",
+    "source": ["Nook Miles Exchange"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -5227,7 +5227,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "outdoor picnic set",
-    "sources": "Balloons; Isabelle",
+    "source": ["Balloons; Isabelle"],
     "sourceNotes": "Only available during Cherry-Blossom Season",
     "version": "1.0.0",
     "category": "Housewares",
@@ -5240,7 +5240,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "palm-tree lamp",
-    "sources": "Snooty villagers",
+    "source": ["Snooty villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -5255,7 +5255,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "pan flute",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Spring",
     "version": "1.0.0",
     "category": "Tools",
@@ -5268,7 +5268,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "pansy crown",
-    "sources": "All Villagers",
+    "source": ["All Villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Headwear",
@@ -5283,7 +5283,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "pansy table",
-    "sources": "Normal villagers",
+    "source": ["Normal villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -5297,7 +5297,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "pansy wand",
-    "sources": "Celeste",
+    "source": ["Celeste"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Tools",
@@ -5311,10 +5311,10 @@
   {
     "sourceSheet": "Recipes",
     "name": "pansy wreath",
-    "sources": "All Villagers",
+    "source": ["All Villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
-    "category": "Wall-Mounted",
+    "category": "Wall-mounted",
     "internalId": 230,
     "uniqueEntryId": "qPZnLEKoAZbQxXQiG",
     "materials": {
@@ -5326,10 +5326,10 @@
   {
     "sourceSheet": "Recipes",
     "name": "paw-print doorplate",
-    "sources": "Peppy villagers",
+    "source": ["Peppy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
-    "category": "Wall-Mounted",
+    "category": "Wall-mounted",
     "internalId": 466,
     "uniqueEntryId": "S3f74cedig2pCxFHu",
     "materials": {
@@ -5339,7 +5339,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "peach chair",
-    "sources": "Normal villagers",
+    "source": ["Normal villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -5353,7 +5353,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "peach dress",
-    "sources": "Normal villagers",
+    "source": ["Normal villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Dresses",
@@ -5366,7 +5366,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "peach hat",
-    "sources": "Normal villagers",
+    "source": ["Normal villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Headwear",
@@ -5379,7 +5379,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "peach rug",
-    "sources": "Normal villagers",
+    "source": ["Normal villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Rugs",
@@ -5392,7 +5392,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "peach surprise box",
-    "sources": "Normal villagers",
+    "source": ["Normal villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Miscellaneous",
@@ -5406,7 +5406,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "peach umbrella",
-    "sources": "Normal villagers",
+    "source": ["Normal villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Umbrellas",
@@ -5419,7 +5419,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "peach wall",
-    "sources": "Normal villagers",
+    "source": ["Normal villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Wallpaper",
@@ -5432,7 +5432,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "pear bed",
-    "sources": "Jock villagers",
+    "source": ["Jock villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -5446,7 +5446,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "pear dress",
-    "sources": "Jock villagers",
+    "source": ["Jock villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Dresses",
@@ -5459,7 +5459,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "pear hat",
-    "sources": "Jock villagers",
+    "source": ["Jock villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Headwear",
@@ -5472,7 +5472,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "pear rug",
-    "sources": "Jock villagers",
+    "source": ["Jock villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Rugs",
@@ -5485,7 +5485,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "pear umbrella",
-    "sources": "Jock villagers",
+    "source": ["Jock villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Umbrellas",
@@ -5498,7 +5498,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "pear wall",
-    "sources": "Jock villagers",
+    "source": ["Jock villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Wallpaper",
@@ -5511,7 +5511,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "pear wardrobe",
-    "sources": "Jock villagers",
+    "source": ["Jock villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -5525,7 +5525,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "pile of leaves",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Fall",
     "version": "1.0.0",
     "category": "Housewares",
@@ -5539,7 +5539,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "pile of zen cushions",
-    "sources": "Cranky villagers",
+    "source": ["Cranky villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -5552,7 +5552,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "pine bonsai tree",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Fall",
     "version": "1.0.0",
     "category": "Miscellaneous",
@@ -5566,7 +5566,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "Pisces lamp",
-    "sources": "Celeste",
+    "source": ["Celeste"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -5582,7 +5582,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "pitfall seed",
-    "sources": "Jock villagers",
+    "source": ["Jock villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Other",
@@ -5596,7 +5596,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "plain sink",
-    "sources": "Nook's Cranny",
+    "source": ["Nook's Cranny"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -5611,7 +5611,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "plain wooden shop sign",
-    "sources": "Jock villagers",
+    "source": ["Jock villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -5624,7 +5624,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "pond stone",
-    "sources": "Snooty villagers",
+    "source": ["Snooty villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -5637,7 +5637,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "pot",
-    "sources": "Villager House Development (Tom Nook); Cranky villagers",
+    "source": ["Villager House Development (Tom Nook); Cranky villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Miscellaneous",
@@ -5650,10 +5650,10 @@
   {
     "sourceSheet": "Recipes",
     "name": "potted ivy",
-    "sources": "Nook's Cranny",
+    "source": ["Nook's Cranny"],
     "sourceNotes": null,
     "version": "1.0.0",
-    "category": "Wall-Mounted",
+    "category": "Wall-mounted",
     "internalId": 214,
     "uniqueEntryId": "PRZpskqoyoPoT6g3c",
     "materials": {
@@ -5664,10 +5664,10 @@
   {
     "sourceSheet": "Recipes",
     "name": "pretty cosmos wreath",
-    "sources": "All Villagers",
+    "source": ["All Villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
-    "category": "Wall-Mounted",
+    "category": "Wall-mounted",
     "internalId": 445,
     "uniqueEntryId": "sSXrhgXnaQfP53KFk",
     "materials": {
@@ -5679,10 +5679,10 @@
   {
     "sourceSheet": "Recipes",
     "name": "pretty tulip wreath",
-    "sources": "All Villagers",
+    "source": ["All Villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
-    "category": "Wall-Mounted",
+    "category": "Wall-mounted",
     "internalId": 361,
     "uniqueEntryId": "z4k9YXZrLp9x6TXXF",
     "materials": {
@@ -5694,7 +5694,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "purple hyacinth crown",
-    "sources": "All Villagers",
+    "source": ["All Villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Headwear",
@@ -5707,10 +5707,10 @@
   {
     "sourceSheet": "Recipes",
     "name": "purple hyacinth wreath",
-    "sources": "All Villagers",
+    "source": ["All Villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
-    "category": "Wall-Mounted",
+    "category": "Wall-mounted",
     "internalId": 452,
     "uniqueEntryId": "QXWyxbAncQeicP3xY",
     "materials": {
@@ -5720,7 +5720,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "purple pansy crown",
-    "sources": "All Villagers",
+    "source": ["All Villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Headwear",
@@ -5733,7 +5733,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "purple windflower crown",
-    "sources": "All Villagers",
+    "source": ["All Villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Headwear",
@@ -5746,7 +5746,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "raccoon figurine",
-    "sources": "Cranky villagers",
+    "source": ["Cranky villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -5759,7 +5759,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "recycled boots",
-    "sources": "Fishing up a boot",
+    "source": ["Fishing up a boot"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Shoes",
@@ -5772,7 +5772,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "recycled-can thumb piano",
-    "sources": "Fishing up an empty can",
+    "source": ["Fishing up an empty can"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Miscellaneous",
@@ -5787,7 +5787,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "red-leaf pile",
-    "sources": "Balloons; Isabelle",
+    "source": ["Balloons; Isabelle"],
     "sourceNotes": "Only available during Maple Leaf Season",
     "version": "1.0.0",
     "category": "Housewares",
@@ -5801,7 +5801,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "ringtoss",
-    "sources": "Nook's Cranny",
+    "source": ["Nook's Cranny"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Miscellaneous",
@@ -5815,7 +5815,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "robot hero",
-    "sources": "Nook Miles Exchange",
+    "source": ["Nook Miles Exchange"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -5832,7 +5832,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "rocket",
-    "sources": "Celeste",
+    "source": ["Celeste"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -5846,7 +5846,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "rocking chair",
-    "sources": "Nook's Cranny",
+    "source": ["Nook's Cranny"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -5860,7 +5860,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "rocking horse",
-    "sources": "Normal villagers",
+    "source": ["Normal villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -5873,7 +5873,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "rope fence",
-    "sources": "Nook Miles Exchange",
+    "source": ["Nook Miles Exchange"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Fencing",
@@ -5886,7 +5886,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "rose bed",
-    "sources": "Smug villagers",
+    "source": ["Smug villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -5900,7 +5900,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "rose crown",
-    "sources": "All Villagers",
+    "source": ["All Villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Headwear",
@@ -5915,7 +5915,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "rose wand",
-    "sources": "Celeste",
+    "source": ["Celeste"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Tools",
@@ -5929,10 +5929,10 @@
   {
     "sourceSheet": "Recipes",
     "name": "rose wreath",
-    "sources": "All Villagers",
+    "source": ["All Villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
-    "category": "Wall-Mounted",
+    "category": "Wall-mounted",
     "internalId": 229,
     "uniqueEntryId": "Swx6c6NHk94Htn86t",
     "materials": {
@@ -5944,7 +5944,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "rustic-stone wall",
-    "sources": "Snooty villagers",
+    "source": ["Snooty villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Wallpaper",
@@ -5958,10 +5958,10 @@
   {
     "sourceSheet": "Recipes",
     "name": "Sagittarius arrow",
-    "sources": "Celeste",
+    "source": ["Celeste"],
     "sourceNotes": null,
     "version": "1.0.0",
-    "category": "Wall-Mounted",
+    "category": "Wall-mounted",
     "internalId": 376,
     "uniqueEntryId": "E3TJjo97BMNgHWPAH",
     "materials": {
@@ -5973,7 +5973,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "sakura-wood flooring",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Cherry-Blossom Season",
     "version": "1.0.0",
     "category": "Floors",
@@ -5987,7 +5987,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "sakura-wood wall",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Cherry-Blossom Season",
     "version": "1.0.0",
     "category": "Wallpaper",
@@ -6001,7 +6001,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "sandy-beach flooring",
-    "sources": "Jock villagers",
+    "source": ["Jock villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Floors",
@@ -6019,7 +6019,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "satellite",
-    "sources": "Celeste",
+    "source": ["Celeste"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -6033,7 +6033,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "sauna heater",
-    "sources": "Lazy villagers",
+    "source": ["Lazy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -6048,7 +6048,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "scarecrow",
-    "sources": "Cranky villagers",
+    "source": ["Cranky villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -6062,7 +6062,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "scattered papers",
-    "sources": "Smug villagers",
+    "source": ["Smug villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -6075,7 +6075,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "sci-fi flooring",
-    "sources": "Celeste",
+    "source": ["Celeste"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Floors",
@@ -6089,7 +6089,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "sci-fi wall",
-    "sources": "Celeste",
+    "source": ["Celeste"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Wallpaper",
@@ -6103,7 +6103,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "Scorpio lamp",
-    "sources": "Celeste",
+    "source": ["Celeste"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Miscellaneous",
@@ -6119,7 +6119,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "shell arch",
-    "sources": "Lazy villagers",
+    "source": ["Lazy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -6137,7 +6137,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "shell bed",
-    "sources": "Peppy villagers",
+    "source": ["Peppy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -6152,7 +6152,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "shell fountain",
-    "sources": "Lazy villagers",
+    "source": ["Lazy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -6166,7 +6166,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "shell lamp",
-    "sources": "Big sister villagers",
+    "source": ["Big sister villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Miscellaneous",
@@ -6180,7 +6180,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "shell partition",
-    "sources": "Big sister villagers",
+    "source": ["Big sister villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -6194,7 +6194,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "shell rug",
-    "sources": "Peppy villagers",
+    "source": ["Peppy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Rugs",
@@ -6207,7 +6207,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "shell speaker",
-    "sources": "Big sister villagers",
+    "source": ["Big sister villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Miscellaneous",
@@ -6221,7 +6221,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "shell stool",
-    "sources": "Big sister villagers",
+    "source": ["Big sister villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -6234,7 +6234,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "shell table",
-    "sources": "Peppy villagers",
+    "source": ["Peppy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -6248,7 +6248,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "shell wand",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Summer",
     "version": "1.0.0",
     "category": "Tools",
@@ -6262,10 +6262,10 @@
   {
     "sourceSheet": "Recipes",
     "name": "shell wreath",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Summer",
     "version": "1.0.0",
-    "category": "Wall-Mounted",
+    "category": "Wall-mounted",
     "internalId": 219,
     "uniqueEntryId": "k7dondWtbpmYBYHaX",
     "materials": {
@@ -6280,7 +6280,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "shellfish pochette",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Summer",
     "version": "1.0.0",
     "category": "Bags",
@@ -6294,7 +6294,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "shovel",
-    "sources": "Nook Miles Exchange",
+    "source": ["Nook Miles Exchange"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Tools",
@@ -6308,7 +6308,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "signpost",
-    "sources": "Lazy villagers",
+    "source": ["Lazy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -6322,7 +6322,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "silo",
-    "sources": "Nook Miles Exchange",
+    "source": ["Nook Miles Exchange"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -6338,7 +6338,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "simple DIY workbench",
-    "sources": "Jock villagers",
+    "source": ["Jock villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -6352,7 +6352,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "simple mum crown",
-    "sources": "All Villagers",
+    "source": ["All Villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Headwear",
@@ -6365,7 +6365,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "simple well",
-    "sources": "Nook Miles Exchange",
+    "source": ["Nook Miles Exchange"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -6379,7 +6379,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "simple wooden fence",
-    "sources": "Nook Miles Exchange",
+    "source": ["Nook Miles Exchange"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Fencing",
@@ -6392,7 +6392,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "ski-slope flooring",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Winter",
     "version": "1.0.0",
     "category": "Floors",
@@ -6405,7 +6405,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "ski-slope wall",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Winter",
     "version": "1.0.0",
     "category": "Wallpaper",
@@ -6418,7 +6418,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "sky-egg outfit",
-    "sources": "Collecting sky eggs",
+    "source": ["Collecting sky eggs"],
     "sourceNotes": "Only available during Bunny Day",
     "version": "1.1.0a",
     "category": "Dresses",
@@ -6431,7 +6431,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "sky-egg shell",
-    "sources": "Collecting sky eggs",
+    "source": ["Collecting sky eggs"],
     "sourceNotes": "Only available during Bunny Day",
     "version": "1.1.0a",
     "category": "Headwear",
@@ -6444,7 +6444,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "sky-egg shoes",
-    "sources": "Collecting sky eggs",
+    "source": ["Collecting sky eggs"],
     "sourceNotes": "Only available during Bunny Day",
     "version": "1.1.0a",
     "category": "Shoes",
@@ -6457,7 +6457,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "sleigh",
-    "sources": "Cranky villagers",
+    "source": ["Cranky villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -6470,7 +6470,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "slingshot",
-    "sources": "Nook's Cranny",
+    "source": ["Nook's Cranny"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Tools",
@@ -6483,7 +6483,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "small cardboard boxes",
-    "sources": "Peppy villagers",
+    "source": ["Peppy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -6496,10 +6496,10 @@
   {
     "sourceSheet": "Recipes",
     "name": "snazzy pansy wreath",
-    "sources": "All Villagers",
+    "source": ["All Villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
-    "category": "Wall-Mounted",
+    "category": "Wall-mounted",
     "internalId": 451,
     "uniqueEntryId": "vyxRpZbkGm3iZo9FG",
     "materials": {
@@ -6511,7 +6511,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "snowflake pochette",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Winter",
     "version": "1.0.0",
     "category": "Bags",
@@ -6524,7 +6524,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "snowflake wall",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Winter",
     "version": "1.0.0",
     "category": "Wallpaper",
@@ -6537,10 +6537,10 @@
   {
     "sourceSheet": "Recipes",
     "name": "snowflake wreath",
-    "sources": "Balloons; Isabelle",
+    "source": ["Balloons; Isabelle"],
     "sourceNotes": "Only available during Winter",
     "version": "1.0.0",
-    "category": "Wall-Mounted",
+    "category": "Wall-mounted",
     "internalId": 222,
     "uniqueEntryId": "syeDkgGnge76zBJ5y",
     "materials": {
@@ -6550,8 +6550,8 @@
   {
     "sourceSheet": "Recipes",
     "name": "snowperson head",
-    "sources": "Making a perfect Snowboy",
-    "sourceNotes": "Only available during Winter",
+    "source": ["Snowboy"],
+    "sourceNotes": "Reward for making a perfect Snowboy; Only available during Winter",
     "version": "1.0.0",
     "category": "Headwear",
     "internalId": 637,
@@ -6564,7 +6564,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "space shuttle",
-    "sources": "Celeste",
+    "source": ["Celeste"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -6578,7 +6578,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "spiky fence",
-    "sources": "Nook Miles Exchange",
+    "source": ["Nook Miles Exchange"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Fencing",
@@ -6591,7 +6591,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "stack of books",
-    "sources": "Lazy villagers",
+    "source": ["Lazy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Miscellaneous",
@@ -6604,7 +6604,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "stacked magazines",
-    "sources": "Peppy villagers",
+    "source": ["Peppy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Miscellaneous",
@@ -6617,7 +6617,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "stacked-wood wall",
-    "sources": "Jock villagers",
+    "source": ["Jock villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Wallpaper",
@@ -6630,7 +6630,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "stall",
-    "sources": "Nook Miles Exchange",
+    "source": ["Nook Miles Exchange"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -6643,7 +6643,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "standard umbrella stand",
-    "sources": "Cranky villagers",
+    "source": ["Cranky villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -6656,7 +6656,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "star clock",
-    "sources": "Celeste",
+    "source": ["Celeste"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Miscellaneous",
@@ -6670,7 +6670,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "star head",
-    "sources": "Celeste",
+    "source": ["Celeste"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Headwear",
@@ -6683,7 +6683,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "star pochette",
-    "sources": "Celeste",
+    "source": ["Celeste"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Bags",
@@ -6696,7 +6696,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "star wand",
-    "sources": "Celeste",
+    "source": ["Celeste"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Tools",
@@ -6710,10 +6710,10 @@
   {
     "sourceSheet": "Recipes",
     "name": "starry garland",
-    "sources": "Celeste",
+    "source": ["Celeste"],
     "sourceNotes": null,
     "version": "1.0.0",
-    "category": "Wall-Mounted",
+    "category": "Wall-mounted",
     "internalId": 430,
     "uniqueEntryId": "9LShEjECc39Sdyxzt",
     "materials": {
@@ -6723,7 +6723,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "starry wall",
-    "sources": "Celeste",
+    "source": ["Celeste"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Wallpaper",
@@ -6737,7 +6737,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "starry-sands flooring",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Summer",
     "version": "1.0.0",
     "category": "Floors",
@@ -6751,7 +6751,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "starry-sky wall",
-    "sources": "Celeste",
+    "source": ["Celeste"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Wallpaper",
@@ -6765,7 +6765,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "steamer-basket set",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Spring",
     "version": "1.0.0",
     "category": "Miscellaneous",
@@ -6778,7 +6778,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "steel flooring",
-    "sources": "Smug villagers",
+    "source": ["Smug villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Floors",
@@ -6791,7 +6791,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "steel-frame wall",
-    "sources": "Smug villagers",
+    "source": ["Smug villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Wallpaper",
@@ -6804,7 +6804,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "stone arch",
-    "sources": "Nook Miles Exchange",
+    "source": ["Nook Miles Exchange"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -6817,7 +6817,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "stone axe",
-    "sources": "Nook Miles Exchange",
+    "source": ["Nook Miles Exchange"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Tools",
@@ -6831,7 +6831,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "stone fence",
-    "sources": "Nook Miles Exchange",
+    "source": ["Nook Miles Exchange"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Fencing",
@@ -6844,7 +6844,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "stone lion-dog",
-    "sources": "Smug villagers",
+    "source": ["Smug villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -6857,7 +6857,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "stone stool",
-    "sources": "Nook's Cranny",
+    "source": ["Nook's Cranny"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -6870,7 +6870,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "stone table",
-    "sources": "Villager House Development (Tom Nook); Lazy villagers",
+    "source": ["Villager House Development (Tom Nook); Lazy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -6883,7 +6883,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "stone tablet",
-    "sources": "Nook Miles Exchange",
+    "source": ["Nook Miles Exchange"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -6896,7 +6896,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "stone wall",
-    "sources": "Smug villagers",
+    "source": ["Smug villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Wallpaper",
@@ -6909,7 +6909,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "stone-egg outfit",
-    "sources": "Collecting stone eggs",
+    "source": ["Collecting stone eggs"],
     "sourceNotes": "Only available during Bunny Day",
     "version": "1.1.0a",
     "category": "Dresses",
@@ -6922,7 +6922,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "stone-egg shell",
-    "sources": "Collecting stone eggs",
+    "source": ["Collecting stone eggs"],
     "sourceNotes": "Only available during Bunny Day",
     "version": "1.1.0a",
     "category": "Headwear",
@@ -6935,7 +6935,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "stone-egg shoes",
-    "sources": "Collecting stone eggs",
+    "source": ["Collecting stone eggs"],
     "sourceNotes": "Only available during Bunny Day",
     "version": "1.1.0a",
     "category": "Shoes",
@@ -6948,7 +6948,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "straw fence",
-    "sources": "Nook Miles Exchange",
+    "source": ["Nook Miles Exchange"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Fencing",
@@ -6962,7 +6962,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "straw umbrella hat",
-    "sources": "Smug villagers",
+    "source": ["Smug villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Headwear",
@@ -6975,7 +6975,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "street piano",
-    "sources": "Big sister villagers",
+    "source": ["Big sister villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -6989,7 +6989,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "succulent plant",
-    "sources": "Fishing up an empty can",
+    "source": ["Fishing up an empty can"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Miscellaneous",
@@ -7003,7 +7003,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "swinging bench",
-    "sources": "Nook's Cranny",
+    "source": ["Nook's Cranny"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -7017,7 +7017,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "tabletop festive tree",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Festive Season",
     "version": "1.0.0",
     "category": "Miscellaneous",
@@ -7032,7 +7032,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "tall garden rock",
-    "sources": "Snooty villagers",
+    "source": ["Snooty villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -7045,7 +7045,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "tall lantern",
-    "sources": "Smug villagers",
+    "source": ["Smug villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -7058,7 +7058,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "Taurus bathtub",
-    "sources": "Celeste",
+    "source": ["Celeste"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -7074,7 +7074,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "tea table",
-    "sources": "Cranky villagers",
+    "source": ["Cranky villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -7087,7 +7087,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "terrarium",
-    "sources": "Normal villagers",
+    "source": ["Normal villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Miscellaneous",
@@ -7101,8 +7101,8 @@
   {
     "sourceSheet": "Recipes",
     "name": "three-tiered snowperson",
-    "sources": "Making a perfect Snowboy",
-    "sourceNotes": "Only available during Winter",
+    "source": ["Snowboy"],
+    "sourceNotes": "Reward for making a perfect Snowboy; Only available during Winter",
     "version": "1.0.0",
     "category": "Housewares",
     "internalId": 364,
@@ -7116,7 +7116,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "tiki torch",
-    "sources": "Tom Nook; Cranky villagers",
+    "source": ["Tom Nook; Cranky villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -7130,10 +7130,10 @@
   {
     "sourceSheet": "Recipes",
     "name": "timber doorplate",
-    "sources": "Snooty villagers",
+    "source": ["Snooty villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
-    "category": "Wall-Mounted",
+    "category": "Wall-mounted",
     "internalId": 465,
     "uniqueEntryId": "bk8JqAgdSKtw6EdC8",
     "materials": {
@@ -7144,7 +7144,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "tiny library",
-    "sources": "Normal villagers",
+    "source": ["Normal villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -7158,7 +7158,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "tire stack",
-    "sources": "Fishing up three old tires",
+    "source": ["Fishing up three old tires"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -7171,7 +7171,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "tire toy",
-    "sources": "Fishing up an old tire",
+    "source": ["Fishing up an old tire"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -7184,7 +7184,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "traditional balancing toy",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Fall",
     "version": "1.0.0",
     "category": "Miscellaneous",
@@ -7198,7 +7198,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "traditional straw coat",
-    "sources": "Normal villagers",
+    "source": ["Normal villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Tops",
@@ -7211,7 +7211,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "trash bags",
-    "sources": "Fishing up all 3 trash items",
+    "source": ["Fishing up all 3 trash items"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Miscellaneous",
@@ -7226,10 +7226,10 @@
   {
     "sourceSheet": "Recipes",
     "name": "tree branch wreath",
-    "sources": "Big sister villagers",
+    "source": ["Big sister villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
-    "category": "Wall-Mounted",
+    "category": "Wall-mounted",
     "internalId": 225,
     "uniqueEntryId": "JnbW5panqjR2iWknX",
     "materials": {
@@ -7239,7 +7239,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "tree standee",
-    "sources": "Jock villagers",
+    "source": ["Jock villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -7253,7 +7253,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "tree-branch wand",
-    "sources": "Celeste",
+    "source": ["Celeste"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Tools",
@@ -7267,7 +7267,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "tree's bounty arch",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Maple Leaf Season",
     "version": "1.0.0",
     "category": "Housewares",
@@ -7283,7 +7283,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "tree's bounty big tree",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Maple Leaf Season",
     "version": "1.0.0",
     "category": "Housewares",
@@ -7300,7 +7300,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "tree's bounty lamp",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Fall",
     "version": "1.0.0",
     "category": "Miscellaneous",
@@ -7314,7 +7314,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "tree's bounty little tree",
-    "sources": "Balloons; Isabelle",
+    "source": ["Balloons; Isabelle"],
     "sourceNotes": "Only available during Fall",
     "version": "1.0.0",
     "category": "Miscellaneous",
@@ -7329,10 +7329,10 @@
   {
     "sourceSheet": "Recipes",
     "name": "tree's bounty mobile",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Fall",
     "version": "1.0.0",
-    "category": "Wall-Mounted",
+    "category": "Wall-mounted",
     "internalId": 414,
     "uniqueEntryId": "F6WehkKZG7sSwRLBo",
     "materials": {
@@ -7344,7 +7344,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "trophy case",
-    "sources": "Jock villagers",
+    "source": ["Jock villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -7359,7 +7359,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "tropical vista",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Summer",
     "version": "1.0.0",
     "category": "Wallpaper",
@@ -7372,7 +7372,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "tulip crown",
-    "sources": "All Villagers",
+    "source": ["All Villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Headwear",
@@ -7387,7 +7387,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "tulip surprise box",
-    "sources": "Jock villagers",
+    "source": ["Jock villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -7401,7 +7401,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "tulip wand",
-    "sources": "Celeste",
+    "source": ["Celeste"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Tools",
@@ -7415,10 +7415,10 @@
   {
     "sourceSheet": "Recipes",
     "name": "tulip wreath",
-    "sources": "All Villagers",
+    "source": ["All Villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
-    "category": "Wall-Mounted",
+    "category": "Wall-mounted",
     "internalId": 360,
     "uniqueEntryId": "jpfWEEc78PXeP26Js",
     "materials": {
@@ -7430,7 +7430,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "ukulele",
-    "sources": "Smug villagers",
+    "source": ["Smug villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Miscellaneous",
@@ -7443,7 +7443,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "underwater flooring",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Summer",
     "version": "1.0.0",
     "category": "Floors",
@@ -7457,7 +7457,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "underwater wall",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Summer",
     "version": "1.0.0",
     "category": "Wallpaper",
@@ -7471,7 +7471,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "unglazed dish set",
-    "sources": "Snooty villagers",
+    "source": ["Snooty villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Miscellaneous",
@@ -7484,7 +7484,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "vaulting pole",
-    "sources": "Blathers; Nook's Cranny",
+    "source": ["Blathers; Nook's Cranny"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Tools",
@@ -7497,7 +7497,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "vertical-board fence",
-    "sources": "Nook Miles Exchange",
+    "source": ["Nook Miles Exchange"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Fencing",
@@ -7510,7 +7510,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "Virgo harp",
-    "sources": "Celeste",
+    "source": ["Celeste"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -7526,7 +7526,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "wand",
-    "sources": "Celeste",
+    "source": ["Celeste"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Tools",
@@ -7539,7 +7539,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "water flooring",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Summer",
     "version": "1.0.0",
     "category": "Floors",
@@ -7552,7 +7552,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "water pump",
-    "sources": "Villager House Development (Tom Nook); Lazy villagers",
+    "source": ["Villager House Development (Tom Nook); Lazy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -7566,7 +7566,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "water-egg outfit",
-    "sources": "Collecting water eggs",
+    "source": ["Collecting water eggs"],
     "sourceNotes": "Only available during Bunny Day",
     "version": "1.1.0a",
     "category": "Dresses",
@@ -7579,7 +7579,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "water-egg shell",
-    "sources": "Collecting water eggs",
+    "source": ["Collecting water eggs"],
     "sourceNotes": "Only available during Bunny Day",
     "version": "1.1.0a",
     "category": "Headwear",
@@ -7592,7 +7592,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "water-egg shoes",
-    "sources": "Collecting water eggs",
+    "source": ["Collecting water eggs"],
     "sourceNotes": "Only available during Bunny Day",
     "version": "1.1.0a",
     "category": "Shoes",
@@ -7605,7 +7605,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "watering can",
-    "sources": "Nook Miles Exchange",
+    "source": ["Nook Miles Exchange"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Tools",
@@ -7619,7 +7619,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "wave breaker",
-    "sources": "Nook Miles Exchange",
+    "source": ["Nook Miles Exchange"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -7633,7 +7633,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "wedding fence",
-    "sources": "Harvey",
+    "source": ["Harvey"],
     "sourceNotes": "Only available during Wedding Season",
     "version": "1.2.0",
     "category": "Fencing",
@@ -7647,7 +7647,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "wedding wand",
-    "sources": "Cyrus",
+    "source": ["Cyrus"],
     "sourceNotes": "Only available during Wedding Season",
     "version": "1.2.0",
     "category": "Tools",
@@ -7661,7 +7661,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "western-style stone",
-    "sources": "Normal villagers",
+    "source": ["Normal villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -7674,7 +7674,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "wild log bench",
-    "sources": "Jock villagers",
+    "source": ["Jock villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -7687,7 +7687,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "wild-wood wall",
-    "sources": "Cranky villagers",
+    "source": ["Cranky villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Wallpaper",
@@ -7700,7 +7700,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "windflower crown",
-    "sources": "All Villagers",
+    "source": ["All Villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Headwear",
@@ -7715,7 +7715,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "windflower fan",
-    "sources": "Lazy villagers",
+    "source": ["Lazy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Miscellaneous",
@@ -7729,7 +7729,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "windflower wand",
-    "sources": "Celeste",
+    "source": ["Celeste"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Tools",
@@ -7743,10 +7743,10 @@
   {
     "sourceSheet": "Recipes",
     "name": "windflower wreath",
-    "sources": "All Villagers",
+    "source": ["All Villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
-    "category": "Wall-Mounted",
+    "category": "Wall-mounted",
     "internalId": 228,
     "uniqueEntryId": "xGTRnSEqPTzYGDwjT",
     "materials": {
@@ -7758,8 +7758,8 @@
   {
     "sourceSheet": "Recipes",
     "name": "Wobbling Zipper toy",
-    "sources": "Zipper after crafting all Bunny Day recipes",
-    "sourceNotes": "Only available during Bunny Day",
+    "source": ["Zipper"],
+    "sourceNotes": "Reward from Zipper after crafting all Bunny Day recipes; Only available during Bunny Day",
     "version": "1.1.0a",
     "category": "Miscellaneous",
     "internalId": 696,
@@ -7776,7 +7776,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "wood-egg outfit",
-    "sources": "Collecting wood eggs",
+    "source": ["Collecting wood eggs"],
     "sourceNotes": "Only available during Bunny Day",
     "version": "1.1.0a",
     "category": "Dresses",
@@ -7789,7 +7789,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "wood-egg shell",
-    "sources": "Collecting wood eggs",
+    "source": ["Collecting wood eggs"],
     "sourceNotes": "Only available during Bunny Day",
     "version": "1.1.0a",
     "category": "Headwear",
@@ -7802,7 +7802,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "wood-egg shoes",
-    "sources": "Collecting wood eggs",
+    "source": ["Collecting wood eggs"],
     "sourceNotes": "Only available during Bunny Day",
     "version": "1.1.0a",
     "category": "Shoes",
@@ -7815,7 +7815,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "wooden bookshelf",
-    "sources": "Lazy villagers",
+    "source": ["Lazy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -7829,7 +7829,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "wooden bucket",
-    "sources": "Villager House Development (Tom Nook); Smug villagers",
+    "source": ["Villager House Development (Tom Nook); Smug villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -7843,7 +7843,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "wooden chair",
-    "sources": "Villager House Development (Tom Nook); Snooty villagers",
+    "source": ["Villager House Development (Tom Nook); Snooty villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -7856,7 +7856,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "wooden chest",
-    "sources": "Lazy villagers",
+    "source": ["Lazy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -7869,7 +7869,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "wooden double bed",
-    "sources": "Smug villagers",
+    "source": ["Smug villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -7882,7 +7882,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "wooden end table",
-    "sources": "Snooty villagers",
+    "source": ["Snooty villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -7895,7 +7895,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "wooden fish",
-    "sources": "Nook's Cranny",
+    "source": ["Nook's Cranny"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Miscellaneous",
@@ -7908,7 +7908,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "wooden full-length mirror",
-    "sources": "Peppy villagers",
+    "source": ["Peppy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -7922,7 +7922,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "wooden low table",
-    "sources": "Smug villagers",
+    "source": ["Smug villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -7935,7 +7935,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "wooden mini table",
-    "sources": "Big sister villagers",
+    "source": ["Big sister villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -7948,7 +7948,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "wooden simple bed",
-    "sources": "Villager House Development (Tom Nook); Lazy villagers",
+    "source": ["Villager House Development (Tom Nook); Lazy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -7961,7 +7961,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "wooden stool",
-    "sources": "Peppy villagers",
+    "source": ["Peppy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -7974,7 +7974,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "wooden table",
-    "sources": "Big sister villagers",
+    "source": ["Big sister villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -7987,7 +7987,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "wooden table mirror",
-    "sources": "Big sister villagers",
+    "source": ["Big sister villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Miscellaneous",
@@ -8001,7 +8001,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "wooden toolbox",
-    "sources": "Normal villagers",
+    "source": ["Normal villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Miscellaneous",
@@ -8015,7 +8015,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "wooden wardrobe",
-    "sources": "Tom Nook",
+    "source": ["Tom Nook"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -8028,7 +8028,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "wooden waste bin",
-    "sources": "Big sister villagers",
+    "source": ["Big sister villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -8041,7 +8041,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "wooden-block bed",
-    "sources": "Normal villagers",
+    "source": ["Normal villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -8055,7 +8055,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "wooden-block bench",
-    "sources": "Big sister villagers",
+    "source": ["Big sister villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -8069,7 +8069,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "wooden-block bookshelf",
-    "sources": "Nook's Cranny",
+    "source": ["Nook's Cranny"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -8083,7 +8083,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "wooden-block chair",
-    "sources": "Nook's Cranny",
+    "source": ["Nook's Cranny"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -8097,7 +8097,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "wooden-block chest",
-    "sources": "Normal villagers",
+    "source": ["Normal villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -8111,7 +8111,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "wooden-block stereo",
-    "sources": "Nook's Cranny",
+    "source": ["Nook's Cranny"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -8126,7 +8126,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "wooden-block stool",
-    "sources": "Peppy villagers",
+    "source": ["Peppy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -8140,7 +8140,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "wooden-block table",
-    "sources": "Villager House Development (Tom Nook); Big sister villagers",
+    "source": ["Villager House Development (Tom Nook); Big sister villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -8154,7 +8154,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "wooden-block toy",
-    "sources": "Nook's Cranny",
+    "source": ["Nook's Cranny"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Miscellaneous",
@@ -8167,10 +8167,10 @@
   {
     "sourceSheet": "Recipes",
     "name": "wooden-block wall clock",
-    "sources": "Peppy villagers",
+    "source": ["Peppy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
-    "category": "Wall-Mounted",
+    "category": "Wall-mounted",
     "internalId": 90,
     "uniqueEntryId": "g9N9eFwC48vsPWz5e",
     "materials": {
@@ -8182,7 +8182,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "wooden-knot wall",
-    "sources": "Smug villagers",
+    "source": ["Smug villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Wallpaper",
@@ -8195,7 +8195,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "wooden-mosaic wall",
-    "sources": "Normal villagers",
+    "source": ["Normal villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Wallpaper",
@@ -8208,10 +8208,10 @@
   {
     "sourceSheet": "Recipes",
     "name": "wooden-plank sign",
-    "sources": "Cranky villagers",
+    "source": ["Cranky villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
-    "category": "Wall-Mounted",
+    "category": "Wall-mounted",
     "internalId": 279,
     "uniqueEntryId": "EbrmatJDLMcc2oexh",
     "materials": {
@@ -8221,7 +8221,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "woodland wall",
-    "sources": "Normal villagers",
+    "source": ["Normal villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Wallpaper",
@@ -8235,7 +8235,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "yellow-leaf pile",
-    "sources": "Balloons",
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Fall",
     "version": "1.0.0",
     "category": "Housewares",
@@ -8249,7 +8249,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "zen fence",
-    "sources": "Nook Miles Exchange",
+    "source": ["Nook Miles Exchange"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Fencing",
@@ -8264,7 +8264,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "zen-style stone",
-    "sources": "Lazy villagers",
+    "source": ["Lazy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",

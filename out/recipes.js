@@ -17,22 +17,9 @@ var Category;
     Category["Tools"] = "Tools";
     Category["Tops"] = "Tops";
     Category["Umbrellas"] = "Umbrellas";
-    Category["WallMounted"] = "Wall-Mounted";
+    Category["WallMounted"] = "Wall-mounted";
     Category["Wallpaper"] = "Wallpaper";
 })(Category = exports.Category || (exports.Category = {}));
-var SourceNotes;
-(function (SourceNotes) {
-    SourceNotes["OnlyAvailableDuringBunnyDay"] = "Only available during Bunny Day";
-    SourceNotes["OnlyAvailableDuringCherryBlossomSeason"] = "Only available during Cherry-Blossom Season";
-    SourceNotes["OnlyAvailableDuringFall"] = "Only available during Fall";
-    SourceNotes["OnlyAvailableDuringFestiveSeason"] = "Only available during Festive Season";
-    SourceNotes["OnlyAvailableDuringMapleLeafSeason"] = "Only available during Maple Leaf Season";
-    SourceNotes["OnlyAvailableDuringMushroomSeason"] = "Only available during Mushroom Season";
-    SourceNotes["OnlyAvailableDuringSpring"] = "Only available during Spring";
-    SourceNotes["OnlyAvailableDuringSummer"] = "Only available during Summer";
-    SourceNotes["OnlyAvailableDuringWeddingSeason"] = "Only available during Wedding Season";
-    SourceNotes["OnlyAvailableDuringWinter"] = "Only available during Winter";
-})(SourceNotes = exports.SourceNotes || (exports.SourceNotes = {}));
 var SourceSheet;
 (function (SourceSheet) {
     SourceSheet["Recipes"] = "Recipes";

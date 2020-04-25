@@ -28,7 +28,7 @@ export interface Items {
   ceilingType?: CeilingType | null;
   customize?: boolean;
   uses?: number;
-  seasonalAvailability?: SeasonalAvailability | null;
+  seasonalAvailability?: SeasonalAvailability;
   style?: Style;
   primaryShape?: PrimaryShape;
   secondaryShape?: SecondaryShape | null;
@@ -259,7 +259,6 @@ export enum Color {
 export enum LabelTheme {
   Comfy = 'comfy',
   Everyday = 'everyday',
-  Evreyday = 'evreyday',
   FairyTale = 'fairy tale',
   Formal = 'formal',
   Goth = 'goth',

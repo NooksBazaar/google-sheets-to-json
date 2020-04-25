@@ -31,7 +31,6 @@ var Category;
     Category["Bags"] = "Bags";
     Category["Bottoms"] = "Bottoms";
     Category["Bridge"] = "Bridge";
-    Category["CategoryWallMounted"] = "Wall-Mounted";
     Category["Door"] = "Door";
     Category["Dresses"] = "Dresses";
     Category["Fencing"] = "Fencing";
@@ -168,13 +167,6 @@ var Size;
     Size["The4X4"] = "4x4";
     Size["The5X5"] = "5x5";
 })(Size = exports.Size || (exports.Size = {}));
-var Source;
-(function (Source) {
-    Source["ResidentServicesUpgrade"] = "Resident Services Upgrade";
-    Source["The3RDHouseUpgradeLeftRoom"] = "3rd House Upgrade (Left Room)";
-    Source["The4ThHouseUpgradeRightRoom"] = "4th House Upgrade (Right Room)";
-    Source["The5ThHouseUpgrade2NdFloor"] = "5th House Upgrade (2nd Floor)";
-})(Source = exports.Source || (exports.Source = {}));
 var SourceSheet;
 (function (SourceSheet) {
     SourceSheet["Accessories"] = "Accessories";
@@ -280,7 +272,6 @@ var LabelTheme;
 (function (LabelTheme) {
     LabelTheme["Comfy"] = "comfy";
     LabelTheme["Everyday"] = "everyday";
-    LabelTheme["Evreyday"] = "evreyday";
     LabelTheme["FairyTale"] = "fairy tale";
     LabelTheme["Formal"] = "formal";
     LabelTheme["Goth"] = "goth";

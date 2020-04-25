@@ -197,7 +197,6 @@ var LabelTheme;
 (function (LabelTheme) {
     LabelTheme["Comfy"] = "comfy";
     LabelTheme["Everyday"] = "everyday";
-    LabelTheme["Evreyday"] = "evreyday";
     LabelTheme["FairyTale"] = "fairy tale";
     LabelTheme["Formal"] = "formal";
     LabelTheme["Goth"] = "goth";

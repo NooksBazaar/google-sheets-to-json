@@ -1,8 +1,8 @@
 export interface Recipes {
   sourceSheet: SourceSheet;
   name: string;
-  sources: null | string;
-  sourceNotes: SourceNotes | null;
+  source: string[];
+  sourceNotes: null | string;
   version: Version;
   category: Category;
   internalId: number;
@@ -26,21 +26,8 @@ export enum Category {
   Tools = 'Tools',
   Tops = 'Tops',
   Umbrellas = 'Umbrellas',
-  WallMounted = 'Wall-Mounted',
+  WallMounted = 'Wall-mounted',
   Wallpaper = 'Wallpaper',
-}
-
-export enum SourceNotes {
-  OnlyAvailableDuringBunnyDay = 'Only available during Bunny Day',
-  OnlyAvailableDuringCherryBlossomSeason = 'Only available during Cherry-Blossom Season',
-  OnlyAvailableDuringFall = 'Only available during Fall',
-  OnlyAvailableDuringFestiveSeason = 'Only available during Festive Season',
-  OnlyAvailableDuringMapleLeafSeason = 'Only available during Maple Leaf Season',
-  OnlyAvailableDuringMushroomSeason = 'Only available during Mushroom Season',
-  OnlyAvailableDuringSpring = 'Only available during Spring',
-  OnlyAvailableDuringSummer = 'Only available during Summer',
-  OnlyAvailableDuringWeddingSeason = 'Only available during Wedding Season',
-  OnlyAvailableDuringWinter = 'Only available during Winter',
 }
 
 export enum SourceSheet {

@@ -28,7 +28,7 @@ export interface Item {
   ceilingType?: CeilingType | null;
   customize?: boolean;
   uses?: number;
-  seasonalAvailability?: SeasonalAvailability | null;
+  seasonalAvailability?: SeasonalAvailability;
   style?: Style;
   primaryShape?: PrimaryShape;
   secondaryShape?: SecondaryShape | null;
@@ -58,7 +58,7 @@ export interface Item {
   image?: string;
   nookMiles?: number | null;
   filename?: null | string;
-  sources?: null | string;
+  source?: string[];
   materials?: {[key: string]: number};
   species?: string;
   gender?: Gender;
@@ -67,7 +67,6 @@ export interface Item {
   catchphrase?: string;
   styles?: Style[];
   buy?: number;
-  source?: Source[];
 }
 
 export enum ActiveHour {
@@ -105,7 +104,6 @@ export enum Category {
   Bags = 'Bags',
   Bottoms = 'Bottoms',
   Bridge = 'Bridge',
-  CategoryWallMounted = 'Wall-Mounted',
   Door = 'Door',
   Dresses = 'Dresses',
   Fencing = 'Fencing',
@@ -243,13 +241,6 @@ export enum Size {
   The5X5 = '5x5',
 }
 
-export enum Source {
-  ResidentServicesUpgrade = 'Resident Services Upgrade',
-  The3RDHouseUpgradeLeftRoom = '3rd House Upgrade (Left Room)',
-  The4ThHouseUpgradeRightRoom = '4th House Upgrade (Right Room)',
-  The5ThHouseUpgrade2NdFloor = '5th House Upgrade (2nd Floor)',
-}
-
 export enum SourceSheet {
   Accessories = 'Accessories',
   Art = 'Art',
@@ -376,7 +367,6 @@ export enum BodyTitle {
 export enum LabelTheme {
   Comfy = 'comfy',
   Everyday = 'everyday',
-  Evreyday = 'evreyday',
   FairyTale = 'fairy tale',
   Formal = 'formal',
   Goth = 'goth',
