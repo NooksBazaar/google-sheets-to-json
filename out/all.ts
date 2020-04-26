@@ -32,6 +32,7 @@ export interface Item {
   style?: Style;
   primaryShape?: PrimaryShape;
   secondaryShape?: SecondaryShape | null;
+  type?: string;
   framedImage?: null | string;
   albumImage?: null | string;
   inventoryImage?: string;
@@ -63,6 +64,7 @@ export interface Item {
   species?: string;
   gender?: Gender;
   personality?: Personality;
+  hobby?: Hobby;
   birthday?: string;
   catchphrase?: string;
   styles?: Style[];
@@ -161,6 +163,15 @@ export enum CurtainType {
 export enum Gender {
   Female = 'Female',
   Male = 'Male',
+}
+
+export enum Hobby {
+  Education = 'Education',
+  Fashion = 'Fashion',
+  Fitness = 'Fitness',
+  Music = 'Music',
+  Nature = 'Nature',
+  Play = 'Play',
 }
 
 export enum LightingType {

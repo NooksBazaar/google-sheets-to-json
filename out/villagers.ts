@@ -5,6 +5,7 @@ export interface Villagers {
   species: string;
   gender: Gender;
   personality: Personality;
+  hobby: Hobby;
   birthday: string;
   catchphrase: string;
   filename: string;
@@ -33,6 +34,15 @@ export enum Color {
 export enum Gender {
   Female = 'Female',
   Male = 'Male',
+}
+
+export enum Hobby {
+  Education = 'Education',
+  Fashion = 'Fashion',
+  Fitness = 'Fitness',
+  Music = 'Music',
+  Nature = 'Nature',
+  Play = 'Play',
 }
 
 export enum Personality {

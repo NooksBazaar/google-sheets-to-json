@@ -32,6 +32,7 @@ export interface Items {
   style?: Style;
   primaryShape?: PrimaryShape;
   secondaryShape?: SecondaryShape | null;
+  type?: string;
   framedImage?: null | string;
   albumImage?: null | string;
   inventoryImage?: string;

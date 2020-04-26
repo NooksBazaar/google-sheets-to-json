@@ -383,7 +383,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "bamboo noodle slide",
-    "source": ["Balloons; Isabelle"],
+    "source": ["Balloons", "Isabelle"],
     "sourceNotes": "Only available during Spring",
     "version": "1.0.0",
     "category": "Housewares",
@@ -573,7 +573,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "barrel",
-    "source": ["Villager House Development (Tom Nook); Cranky villagers"],
+    "source": ["Villager House Development (Tom Nook)", "Cranky villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -644,7 +644,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "birdbath",
-    "source": ["Villager House Development (Tom Nook); Snooty villagers"],
+    "source": ["Villager House Development (Tom Nook)", "Snooty villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -670,7 +670,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "birdhouse",
-    "source": ["Tom Nook; Peppy villagers"],
+    "source": ["Tom Nook", "Peppy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -737,7 +737,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "bonfire",
-    "source": ["Tom Nook; Cranky villagers"],
+    "source": ["Tom Nook", "Cranky villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -886,7 +886,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "Bunny Day bed",
-    "source": ["Egg bottle; Egg balloon"],
+    "source": ["Egg bottle", "Egg balloon"],
     "sourceNotes": "Only available during Bunny Day",
     "version": "1.1.0a",
     "category": "Housewares",
@@ -922,7 +922,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "Bunny Day fence",
-    "source": ["Egg bottle; Egg balloon"],
+    "source": ["Egg bottle", "Egg balloon"],
     "sourceNotes": "Only available during Bunny Day",
     "version": "1.1.0a",
     "category": "Fencing",
@@ -940,7 +940,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "Bunny Day festive balloons",
-    "source": ["Egg bottle; Egg balloon"],
+    "source": ["Egg bottle", "Egg balloon"],
     "sourceNotes": "Only available during Bunny Day",
     "version": "1.1.0a",
     "category": "Housewares",
@@ -955,7 +955,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "Bunny Day flooring",
-    "source": ["Egg bottle; Egg balloon"],
+    "source": ["Egg bottle", "Egg balloon"],
     "sourceNotes": "Only available during Bunny Day",
     "version": "1.1.0a",
     "category": "Floors",
@@ -973,7 +973,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "Bunny Day glowy garland",
-    "source": ["Egg bottle; Egg balloon"],
+    "source": ["Egg bottle", "Egg balloon"],
     "sourceNotes": "Only available during Bunny Day",
     "version": "1.1.0a",
     "category": "Wall-mounted",
@@ -991,7 +991,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "Bunny Day lamp",
-    "source": ["Egg bottle; Egg balloon"],
+    "source": ["Egg bottle", "Egg balloon"],
     "sourceNotes": "Only available during Bunny Day",
     "version": "1.1.0a",
     "category": "Miscellaneous",
@@ -1004,7 +1004,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "Bunny Day merry balloons",
-    "source": ["Egg bottle; Egg balloon"],
+    "source": ["Egg bottle", "Egg balloon"],
     "sourceNotes": "Only available during Bunny Day",
     "version": "1.1.0a",
     "category": "Housewares",
@@ -1019,7 +1019,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "Bunny Day rug",
-    "source": ["Egg bottle; Egg balloon"],
+    "source": ["Egg bottle", "Egg balloon"],
     "sourceNotes": "Only available during Bunny Day",
     "version": "1.1.0a",
     "category": "Rugs",
@@ -1037,7 +1037,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "Bunny Day stool",
-    "source": ["Egg bottle; Egg balloon"],
+    "source": ["Egg bottle", "Egg balloon"],
     "sourceNotes": "Only available during Bunny Day",
     "version": "1.1.0a",
     "category": "Housewares",
@@ -1050,7 +1050,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "Bunny Day table",
-    "source": ["Egg bottle; Egg balloon"],
+    "source": ["Egg bottle", "Egg balloon"],
     "sourceNotes": "Only available during Bunny Day",
     "version": "1.1.0a",
     "category": "Housewares",
@@ -1063,7 +1063,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "Bunny Day vanity",
-    "source": ["Egg bottle; Egg balloon"],
+    "source": ["Egg bottle", "Egg balloon"],
     "sourceNotes": "Only available during Bunny Day",
     "version": "1.1.0a",
     "category": "Housewares",
@@ -1076,7 +1076,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "Bunny Day wall",
-    "source": ["Egg bottle; Egg balloon"],
+    "source": ["Egg bottle", "Egg balloon"],
     "sourceNotes": "Only available during Bunny Day",
     "version": "1.1.0a",
     "category": "Wallpaper",
@@ -1094,7 +1094,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "Bunny Day wall clock",
-    "source": ["Egg bottle; Egg balloon"],
+    "source": ["Egg bottle", "Egg balloon"],
     "sourceNotes": "Only available during Bunny Day",
     "version": "1.1.0a",
     "category": "Wall-mounted",
@@ -1121,7 +1121,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "Bunny Day wardrobe",
-    "source": ["Egg bottle; Egg balloon"],
+    "source": ["Egg bottle", "Egg balloon"],
     "sourceNotes": "Only available during Bunny Day",
     "version": "1.1.0a",
     "category": "Housewares",
@@ -1134,7 +1134,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "Bunny Day wreath",
-    "source": ["Egg bottle; Egg balloon"],
+    "source": ["Egg bottle", "Egg balloon"],
     "sourceNotes": "Only available during Bunny Day",
     "version": "1.1.0a",
     "category": "Wall-mounted",
@@ -1620,7 +1620,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "classic pitcher",
-    "source": ["Villager House Development (Tom Nook); Snooty villagers"],
+    "source": ["Villager House Development (Tom Nook)", "Snooty villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Miscellaneous",
@@ -1646,7 +1646,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "clothesline",
-    "source": ["Villager House Development (Tom Nook); Cranky villagers"],
+    "source": ["Villager House Development (Tom Nook)", "Cranky villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -2375,7 +2375,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "flimsy axe",
-    "source": ["Tom Nook; Nook's Cranny"],
+    "source": ["Tom Nook", "Nook's Cranny"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Tools",
@@ -2415,7 +2415,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "flimsy shovel",
-    "source": ["Blathers; Nook's Cranny"],
+    "source": ["Blathers", "Nook's Cranny"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Tools",
@@ -2428,7 +2428,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "flimsy watering can",
-    "source": ["Tom Nook; Nook's Cranny"],
+    "source": ["Tom Nook", "Nook's Cranny"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Tools",
@@ -3651,7 +3651,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "iron garden chair",
-    "source": ["Villager House Development (Tom Nook); Big sister villagers"],
+    "source": ["Villager House Development (Tom Nook)", "Big sister villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -3664,7 +3664,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "iron garden table",
-    "source": ["Villager House Development (Tom Nook); Big sister villagers"],
+    "source": ["Villager House Development (Tom Nook)", "Big sister villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -4057,7 +4057,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "ladder",
-    "source": ["Villager House Development (Tom Nook); Nook's Cranny"],
+    "source": ["Villager House Development (Tom Nook)", "Nook's Cranny"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Tools",
@@ -4308,7 +4308,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "log bed",
-    "source": ["Villager House Development (Tom Nook); Peppy villagers"],
+    "source": ["Villager House Development (Tom Nook)", "Peppy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -4321,7 +4321,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "log bench",
-    "source": ["Villager House Development (Tom Nook); Normal villagers"],
+    "source": ["Villager House Development (Tom Nook)", "Normal villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -4361,7 +4361,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "log dining table",
-    "source": ["Villager House Development (Tom Nook); Cranky villagers"],
+    "source": ["Villager House Development (Tom Nook)", "Cranky villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -4387,7 +4387,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "log garden lounge",
-    "source": ["Villager House Development (Tom Nook); Peppy villagers"],
+    "source": ["Villager House Development (Tom Nook)", "Peppy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -4427,7 +4427,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "log stakes",
-    "source": ["Tom Nook; Smug villagers"],
+    "source": ["Tom Nook", "Smug villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -4440,7 +4440,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "log stool",
-    "source": ["Villager House Development (Tom Nook); Peppy villagers"],
+    "source": ["Villager House Development (Tom Nook)", "Peppy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -4967,7 +4967,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "natural garden chair",
-    "source": ["Villager House Development (Tom Nook); Peppy villagers"],
+    "source": ["Villager House Development (Tom Nook)", "Peppy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -4981,7 +4981,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "natural garden table",
-    "source": ["Villager House Development (Tom Nook); Normal villagers"],
+    "source": ["Villager House Development (Tom Nook)", "Normal villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -5227,7 +5227,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "outdoor picnic set",
-    "source": ["Balloons; Isabelle"],
+    "source": ["Balloons", "Isabelle"],
     "sourceNotes": "Only available during Cherry-Blossom Season",
     "version": "1.0.0",
     "category": "Housewares",
@@ -5637,7 +5637,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "pot",
-    "source": ["Villager House Development (Tom Nook); Cranky villagers"],
+    "source": ["Villager House Development (Tom Nook)", "Cranky villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Miscellaneous",
@@ -5787,7 +5787,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "red-leaf pile",
-    "source": ["Balloons; Isabelle"],
+    "source": ["Balloons", "Isabelle"],
     "sourceNotes": "Only available during Maple Leaf Season",
     "version": "1.0.0",
     "category": "Housewares",
@@ -6537,7 +6537,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "snowflake wreath",
-    "source": ["Balloons; Isabelle"],
+    "source": ["Balloons", "Isabelle"],
     "sourceNotes": "Only available during Winter",
     "version": "1.0.0",
     "category": "Wall-mounted",
@@ -6870,7 +6870,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "stone table",
-    "source": ["Villager House Development (Tom Nook); Lazy villagers"],
+    "source": ["Villager House Development (Tom Nook)", "Lazy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -7116,7 +7116,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "tiki torch",
-    "source": ["Tom Nook; Cranky villagers"],
+    "source": ["Tom Nook", "Cranky villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -7314,7 +7314,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "tree's bounty little tree",
-    "source": ["Balloons; Isabelle"],
+    "source": ["Balloons", "Isabelle"],
     "sourceNotes": "Only available during Fall",
     "version": "1.0.0",
     "category": "Miscellaneous",
@@ -7484,7 +7484,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "vaulting pole",
-    "source": ["Blathers; Nook's Cranny"],
+    "source": ["Blathers", "Nook's Cranny"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Tools",
@@ -7552,7 +7552,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "water pump",
-    "source": ["Villager House Development (Tom Nook); Lazy villagers"],
+    "source": ["Villager House Development (Tom Nook)", "Lazy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -7829,7 +7829,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "wooden bucket",
-    "source": ["Villager House Development (Tom Nook); Smug villagers"],
+    "source": ["Villager House Development (Tom Nook)", "Smug villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -7843,7 +7843,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "wooden chair",
-    "source": ["Villager House Development (Tom Nook); Snooty villagers"],
+    "source": ["Villager House Development (Tom Nook)", "Snooty villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -7948,7 +7948,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "wooden simple bed",
-    "source": ["Villager House Development (Tom Nook); Lazy villagers"],
+    "source": ["Villager House Development (Tom Nook)", "Lazy villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -8140,7 +8140,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "wooden-block table",
-    "source": ["Villager House Development (Tom Nook); Big sister villagers"],
+    "source": ["Villager House Development (Tom Nook)", "Big sister villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",

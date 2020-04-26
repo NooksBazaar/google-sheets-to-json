@@ -22,6 +22,15 @@ var Gender;
     Gender["Female"] = "Female";
     Gender["Male"] = "Male";
 })(Gender = exports.Gender || (exports.Gender = {}));
+var Hobby;
+(function (Hobby) {
+    Hobby["Education"] = "Education";
+    Hobby["Fashion"] = "Fashion";
+    Hobby["Fitness"] = "Fitness";
+    Hobby["Music"] = "Music";
+    Hobby["Nature"] = "Nature";
+    Hobby["Play"] = "Play";
+})(Hobby = exports.Hobby || (exports.Hobby = {}));
 var Personality;
 (function (Personality) {
     Personality["BigSister"] = "Big sister";
