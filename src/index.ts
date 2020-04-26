@@ -173,7 +173,10 @@ const valueFormatters: ValueFormatters = {
   albumImage: extractImageUrl,
   framedImage: extractImageUrl,
   uses: normaliseUse,
-  source: (input: string) => input.split('\n'),
+  source: (input: string) =>
+    input.includes('\n')
+      ? input.split('\n')
+      : input.split(';').map(i => i.trim()),
   startTime: normaliseTime,
   endTime: normaliseTime,
   birthday: normaliseBirthday,
