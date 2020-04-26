@@ -491,6 +491,11 @@ async function mergeItemVariations(data: any[]) {
     //   process.exit(0);
     // }
 
+    if (!rawItem.name) {
+      console.error('No name present on: ', rawItem);
+      process.exit(1);
+    }
+
     let key = (rawItem.name as string).toLowerCase();
     let item = dataset[key];
 
