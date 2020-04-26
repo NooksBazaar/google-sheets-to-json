@@ -261,7 +261,7 @@ export async function normalizeData(data: ItemData, sheetKey: string) {
     }
 
     if (sheetKey === 'items') {
-      item['colors'] = [item['color2'], item['color2']].filter(item => !!item);
+      item['colors'] = [item['color1'], item['color2']].filter(item => !!item);
       item['themes'] = [item['hhaConcept1'], item['hhaConcept2']].filter(
         item => !!item,
       );
@@ -278,6 +278,7 @@ export async function normalizeData(data: ItemData, sheetKey: string) {
       delete item['hhaConcept2'];
       delete item['hhaSet'];
       delete item['hhaSeries'];
+      delete item['kitCost'];
 
       if (item.sourceSheet === 'Tools') {
         delete item[''];
@@ -285,7 +286,7 @@ export async function normalizeData(data: ItemData, sheetKey: string) {
     }
 
     if (sheetKey === 'creatures') {
-      item['colors'] = [item['color2'], item['color2']].filter(item => !!item);
+      item['colors'] = [item['color1'], item['color2']].filter(item => !!item);
       // Temporary workaround
       item['critterpediaImage'] = item['image'];
       item['furnitureImage'] = item['house'];
@@ -362,8 +363,8 @@ export async function normalizeData(data: ItemData, sheetKey: string) {
     }
 
     if (sheetKey === 'villagers') {
-      item['colors'] = [item['color2'], item['color2']].filter(item => !!item);
-      item['styles'] = [item['style2'], item['style2']].filter(item => !!item);
+      item['colors'] = [item['color1'], item['color2']].filter(item => !!item);
+      item['styles'] = [item['style1'], item['style2']].filter(item => !!item);
 
       delete item['color1'];
       delete item['color2'];
