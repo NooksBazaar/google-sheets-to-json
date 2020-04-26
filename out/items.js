@@ -183,6 +183,7 @@ var Color;
     Color["Colorful"] = "Colorful";
     Color["Gray"] = "Gray";
     Color["Green"] = "Green";
+    Color["Gren"] = "Gren";
     Color["LightBlue"] = "Light blue";
     Color["Orange"] = "Orange";
     Color["Pink"] = "Pink";

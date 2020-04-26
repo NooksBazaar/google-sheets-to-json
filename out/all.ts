@@ -4,7 +4,6 @@ export interface Item {
   patternTitle?: null | string;
   diy?: boolean;
   patternCustomize?: boolean | null;
-  kitCost?: number | null;
   size?: Size;
   sourceNotes?: null | string;
   version?: Version;
@@ -145,6 +144,7 @@ export enum Color {
   Colorful = 'Colorful',
   Gray = 'Gray',
   Green = 'Green',
+  Gren = 'Gren',
   LightBlue = 'Light blue',
   Orange = 'Orange',
   Pink = 'Pink',

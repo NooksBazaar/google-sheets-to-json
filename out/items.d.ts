@@ -4,7 +4,6 @@ export interface Items {
     patternTitle?: null | string;
     diy?: boolean;
     patternCustomize?: boolean | null;
-    kitCost?: number | null;
     size?: Size;
     sourceNotes?: null | string;
     version: Version;
@@ -231,6 +230,7 @@ export declare enum Color {
     Colorful = "Colorful",
     Gray = "Gray",
     Green = "Green",
+    Gren = "Gren",
     LightBlue = "Light blue",
     Orange = "Orange",
     Pink = "Pink",

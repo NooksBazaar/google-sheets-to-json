@@ -14,7 +14,7 @@
     "furnitureFilename": "FtrFishAntyobi",
     "internalId": 4201,
     "uniqueEntryId": "LzuWkSQP55uEpRCP5",
-    "colors": ["Red", "Red"],
+    "colors": ["Blue", "Red"],
     "specialSell": 300,
     "activeHours": [["05:00", "22:00"]],
     "activeMonths": {
@@ -37,7 +37,7 @@
     "furnitureFilename": "FtrFishAngelfish",
     "internalId": 2247,
     "uniqueEntryId": "XTCFCk2SiuY5YXLZ7",
-    "colors": ["Black", "Black"],
+    "colors": ["Yellow", "Black"],
     "specialSell": 4500,
     "activeHours": [["17:00", "10:00"]],
     "activeMonths": {
@@ -60,7 +60,7 @@
     "furnitureFilename": "FtrFishPiraruku",
     "internalId": 2253,
     "uniqueEntryId": "mZy4BES54bqwi97br",
-    "colors": ["Blue", "Blue"],
+    "colors": ["Black", "Blue"],
     "specialSell": 15000,
     "activeHours": [["17:00", "10:00"]],
     "activeMonths": {
@@ -83,7 +83,7 @@
     "furnitureFilename": "FtrFishArowana",
     "internalId": 2250,
     "uniqueEntryId": "F68AvCaqddBJL7ZSN",
-    "colors": ["Black", "Black"],
+    "colors": ["Yellow", "Black"],
     "specialSell": 15000,
     "activeHours": [["17:00", "10:00"]],
     "activeMonths": {
@@ -106,7 +106,7 @@
     "furnitureFilename": "FtrFishIshidai",
     "internalId": 2265,
     "uniqueEntryId": "X3R9SFSAaDzBF4fE3",
-    "colors": ["Black", "Black"],
+    "colors": ["White", "Black"],
     "specialSell": 7500,
     "activeHours": [["01:00", "00:59"]],
     "activeMonths": {
@@ -152,7 +152,7 @@
     "furnitureFilename": "FtrFishBeta",
     "internalId": 4191,
     "uniqueEntryId": "7QcQXzwZoNGiNA94k",
-    "colors": ["Black", "Black"],
+    "colors": ["Light blue", "Black"],
     "specialSell": 3750,
     "activeHours": [["10:00", "17:00"]],
     "activeMonths": {
@@ -175,7 +175,7 @@
     "furnitureFilename": "FtrFishTanago",
     "internalId": 2215,
     "uniqueEntryId": "Drj6eLRBgg4T9KhNx",
-    "colors": ["Blue", "Blue"],
+    "colors": ["Light blue", "Blue"],
     "specialSell": 1350,
     "activeHours": [["01:00", "00:59"]],
     "activeMonths": {
@@ -198,7 +198,7 @@
     "furnitureFilename": "FtrFishBlackbass",
     "internalId": 2234,
     "uniqueEntryId": "wAZvfTca7GyaTtLcQ",
-    "colors": ["Black", "Black"],
+    "colors": ["Green", "Black"],
     "specialSell": 600,
     "activeHours": [["01:00", "00:59"]],
     "activeMonths": {
@@ -221,7 +221,7 @@
     "furnitureFilename": "FtrFishFugu",
     "internalId": 2262,
     "uniqueEntryId": "aDsmTcByApycafxTa",
-    "colors": ["Black", "Black"],
+    "colors": ["Beige", "Black"],
     "specialSell": 7500,
     "activeHours": [["22:00", "06:00"]],
     "activeMonths": {
@@ -244,7 +244,7 @@
     "furnitureFilename": "FtrFishKajiki",
     "internalId": 2275,
     "uniqueEntryId": "jhtsYRHydAcZnd6bJ",
-    "colors": ["Black", "Black"],
+    "colors": ["Blue", "Black"],
     "specialSell": 15000,
     "activeHours": [["01:00", "00:59"]],
     "activeMonths": {
@@ -267,7 +267,7 @@
     "furnitureFilename": "FtrFishBlueguill",
     "internalId": 2232,
     "uniqueEntryId": "8ygccYFCrWf4hwYGR",
-    "colors": ["Black", "Black"],
+    "colors": ["Blue", "Black"],
     "specialSell": 270,
     "activeHours": [["10:00", "17:00"]],
     "activeMonths": {
@@ -290,7 +290,7 @@
     "furnitureFilename": "FtrFishChouchouuo",
     "internalId": 2259,
     "uniqueEntryId": "S4rkio2M3WB5cyy8Y",
-    "colors": ["Black", "Black"],
+    "colors": ["Yellow", "Black"],
     "specialSell": 1500,
     "activeHours": [["01:00", "00:59"]],
     "activeMonths": {
@@ -313,7 +313,7 @@
     "furnitureFilename": "FtrFishKoi",
     "internalId": 2219,
     "uniqueEntryId": "4DwwvGDwPQvZTn9Fb",
-    "colors": ["Black", "Black"],
+    "colors": ["Gray", "Black"],
     "specialSell": 450,
     "activeHours": [["01:00", "00:59"]],
     "activeMonths": {
@@ -359,7 +359,7 @@
     "furnitureFilename": "FtrFishOoiwana",
     "internalId": 2239,
     "uniqueEntryId": "ahbnwCqp3EZXa96KC",
-    "colors": ["Black", "Black"],
+    "colors": ["Brown", "Black"],
     "specialSell": 5700,
     "activeHours": [["17:00", "10:00"]],
     "activeMonths": {
@@ -382,7 +382,7 @@
     "furnitureFilename": "FtrFishYamame",
     "internalId": 2238,
     "uniqueEntryId": "sJyBbeLbpzn7LyzFr",
-    "colors": ["Black", "Black"],
+    "colors": ["Brown", "Black"],
     "specialSell": 1500,
     "activeHours": [["17:00", "10:00"]],
     "activeMonths": {
@@ -405,7 +405,7 @@
     "furnitureFilename": "FtrFishKumanomi",
     "internalId": 2257,
     "uniqueEntryId": "L9qxZaMoBhwxvpMyh",
-    "colors": ["Black", "Black"],
+    "colors": ["Orange", "Black"],
     "specialSell": 975,
     "activeHours": [["01:00", "00:59"]],
     "activeMonths": {
@@ -451,7 +451,7 @@
     "furnitureFilename": "FtrFishZarigani",
     "internalId": 2223,
     "uniqueEntryId": "W7TrwpycmfgniZipi",
-    "colors": ["Black", "Black"],
+    "colors": ["Red", "Black"],
     "specialSell": 300,
     "activeHours": [["01:00", "00:59"]],
     "activeMonths": {
@@ -474,7 +474,7 @@
     "furnitureFilename": "FtrFishFuna",
     "internalId": 328,
     "uniqueEntryId": "Pdw7vmJz9PRM4ggbf",
-    "colors": ["Black", "Black"],
+    "colors": ["Brown", "Black"],
     "specialSell": 240,
     "activeHours": [["01:00", "00:59"]],
     "activeMonths": {
@@ -497,7 +497,7 @@
     "furnitureFilename": "FtrFishKarei",
     "internalId": 2268,
     "uniqueEntryId": "noA2Kfp8TaFgaLs5n",
-    "colors": ["Black", "Black"],
+    "colors": ["Brown", "Black"],
     "specialSell": 450,
     "activeHours": [["01:00", "00:59"]],
     "activeMonths": {
@@ -520,7 +520,7 @@
     "furnitureFilename": "FtrFishUgui",
     "internalId": 2217,
     "uniqueEntryId": "dWmXFdnjByWT5nEok",
-    "colors": ["Black", "Black"],
+    "colors": ["Brown", "Black"],
     "specialSell": 360,
     "activeHours": [["17:00", "10:00"]],
     "activeMonths": {
@@ -543,7 +543,7 @@
     "furnitureFilename": "FtrFishDolado",
     "internalId": 2251,
     "uniqueEntryId": "G7ZwD67cRMHBwTSKH",
-    "colors": ["Black", "Black"],
+    "colors": ["Yellow", "Black"],
     "specialSell": 22500,
     "activeHours": [["05:00", "22:00"]],
     "activeMonths": {
@@ -589,7 +589,7 @@
     "furnitureFilename": "FtrFishDonko",
     "internalId": 2227,
     "uniqueEntryId": "SfXYNdtaid6hdQhvZ",
-    "colors": ["Black", "Black"],
+    "colors": ["Brown", "Black"],
     "specialSell": 600,
     "activeHours": [["17:00", "10:00"]],
     "activeMonths": {
@@ -612,7 +612,7 @@
     "furnitureFilename": "FtrFishKaeru",
     "internalId": 2226,
     "uniqueEntryId": "LcQLs85qPPdLajLje",
-    "colors": ["Black", "Black"],
+    "colors": ["Green", "Black"],
     "specialSell": 180,
     "activeHours": [["01:00", "00:59"]],
     "activeMonths": {
@@ -635,7 +635,7 @@
     "furnitureFilename": "FtrFishGa",
     "internalId": 2252,
     "uniqueEntryId": "x5yAYQgMJW9Kf7WyM",
-    "colors": ["Black", "Black"],
+    "colors": ["Brown", "Black"],
     "specialSell": 9000,
     "activeHours": [["17:00", "10:00"]],
     "activeMonths": {
@@ -704,7 +704,7 @@
     "furnitureFilename": "FtrFishGoldenTorauto",
     "internalId": 4193,
     "uniqueEntryId": "wwGzR7FzWNJ7cDz9X",
-    "colors": ["Black", "Black"],
+    "colors": ["Brown", "Black"],
     "specialSell": 22500,
     "activeHours": [["17:00", "10:00"]],
     "activeMonths": {
@@ -727,7 +727,7 @@
     "furnitureFilename": "FtrFishKingyo",
     "internalId": 329,
     "uniqueEntryId": "5NwmwhEQxBNZCPiBR",
-    "colors": ["Light blue", "Light blue"],
+    "colors": ["Red", "Light blue"],
     "specialSell": 1950,
     "activeHours": [["01:00", "00:59"]],
     "activeMonths": {
@@ -773,7 +773,7 @@
     "furnitureFilename": "FtrFishGuppi",
     "internalId": 2245,
     "uniqueEntryId": "WtdZnARNxnWRobej2",
-    "colors": ["Black", "Black"],
+    "colors": ["Blue", "Black"],
     "specialSell": 1950,
     "activeHours": [["10:00", "17:00"]],
     "activeMonths": {
@@ -819,7 +819,7 @@
     "furnitureFilename": "FtrFishAji",
     "internalId": 2264,
     "uniqueEntryId": "L24RYPaEcm9ZXkTui",
-    "colors": ["Black", "Black"],
+    "colors": ["Blue", "Black"],
     "specialSell": 225,
     "activeHours": [["01:00", "00:59"]],
     "activeMonths": {
@@ -842,7 +842,7 @@
     "furnitureFilename": "FtrFishMedaka",
     "internalId": 2222,
     "uniqueEntryId": "ZR9dsEApEXCjtXu3k",
-    "colors": ["Black", "Black"],
+    "colors": ["Yellow", "Black"],
     "specialSell": 450,
     "activeHours": [["01:00", "00:59"]],
     "activeMonths": {
@@ -865,7 +865,7 @@
     "furnitureFilename": "FtrFishKingsalmon",
     "internalId": 2243,
     "uniqueEntryId": "Pf5cXKo8pzdB45rAA",
-    "colors": ["Black", "Black"],
+    "colors": ["Gray", "Black"],
     "specialSell": 2700,
     "activeHours": [["01:00", "00:59"]],
     "activeMonths": {
@@ -888,7 +888,7 @@
     "furnitureFilename": "FtrFishNishikigoi",
     "internalId": 2220,
     "uniqueEntryId": "kNwjLeqjg8bFevfiG",
-    "colors": ["White", "White"],
+    "colors": ["Red", "White"],
     "specialSell": 6000,
     "activeHours": [["17:00", "10:00"]],
     "activeMonths": {
@@ -911,7 +911,7 @@
     "furnitureFilename": "FtrFishDojou",
     "internalId": 2228,
     "uniqueEntryId": "95yBKrQ4tdyWj4H25",
-    "colors": ["Blue", "Blue"],
+    "colors": ["Brown", "Blue"],
     "specialSell": 600,
     "activeHours": [["01:00", "00:59"]],
     "activeMonths": {
@@ -934,7 +934,7 @@
     "furnitureFilename": "FtrFishShiira",
     "internalId": 4202,
     "uniqueEntryId": "D7gY39QDo8BBNs2Ne",
-    "colors": ["Black", "Black"],
+    "colors": ["Yellow", "Black"],
     "specialSell": 9000,
     "activeHours": [["01:00", "00:59"]],
     "activeMonths": {
@@ -957,7 +957,7 @@
     "furnitureFilename": "FtrFishShanghai",
     "internalId": 2244,
     "uniqueEntryId": "s2jqSYbMWBX6qCLDm",
-    "colors": ["Blue", "Blue"],
+    "colors": ["Black", "Blue"],
     "specialSell": 3000,
     "activeHours": [["17:00", "10:00"]],
     "activeMonths": {
@@ -980,7 +980,7 @@
     "furnitureFilename": "FtrFishUtsubo",
     "internalId": 2271,
     "uniqueEntryId": "4nLynLTMRtoqcCfh4",
-    "colors": ["Black", "Black"],
+    "colors": ["Brown", "Black"],
     "specialSell": 3000,
     "activeHours": [["01:00", "00:59"]],
     "activeMonths": {
@@ -1003,7 +1003,7 @@
     "furnitureFilename": "FtrFishNaporeonfish",
     "internalId": 2260,
     "uniqueEntryId": "dm4THC3AYR6CZ8bvJ",
-    "colors": ["Black", "Black"],
+    "colors": ["Light blue", "Black"],
     "specialSell": 15000,
     "activeHours": [["05:00", "22:00"]],
     "activeMonths": {
@@ -1026,7 +1026,7 @@
     "furnitureFilename": "FtrFishNeontetora",
     "internalId": 2248,
     "uniqueEntryId": "aEyRb96wcz9m8yjFN",
-    "colors": ["Black", "Black"],
+    "colors": ["Light blue", "Black"],
     "specialSell": 750,
     "activeHours": [["10:00", "17:00"]],
     "activeMonths": {
@@ -1049,7 +1049,7 @@
     "furnitureFilename": "FtrFishDoctor",
     "internalId": 2246,
     "uniqueEntryId": "pkPKYsMiXsTWNz4L4",
-    "colors": ["Blue", "Blue"],
+    "colors": ["Brown", "Blue"],
     "specialSell": 2250,
     "activeHours": [["10:00", "17:00"]],
     "activeMonths": {
@@ -1072,7 +1072,7 @@
     "furnitureFilename": "FtrFishRyugu",
     "internalId": 2283,
     "uniqueEntryId": "qgvEPGk759xaBqwXP",
-    "colors": ["Blue", "Blue"],
+    "colors": ["Red", "Blue"],
     "specialSell": 13500,
     "activeHours": [["01:00", "00:59"]],
     "activeMonths": {
@@ -1095,7 +1095,7 @@
     "furnitureFilename": "FtrFishManbou",
     "internalId": 2278,
     "uniqueEntryId": "6BwK6LHbjFAKzgE82",
-    "colors": ["Orange", "Orange"],
+    "colors": ["Blue", "Orange"],
     "specialSell": 6000,
     "activeHours": [["05:00", "22:00"]],
     "activeMonths": {
@@ -1118,7 +1118,7 @@
     "furnitureFilename": "FtrFishHirame",
     "internalId": 2269,
     "uniqueEntryId": "TXSteKMHuQ9ZfqPXm",
-    "colors": ["Black", "Black"],
+    "colors": ["Beige", "Black"],
     "specialSell": 1200,
     "activeHours": [["01:00", "00:59"]],
     "activeMonths": {
@@ -1164,7 +1164,7 @@
     "furnitureFilename": "FtrFishPaiku",
     "internalId": 2235,
     "uniqueEntryId": "XxrB6iKQPhBkYKaXD",
-    "colors": ["Black", "Black"],
+    "colors": ["Green", "Black"],
     "specialSell": 2700,
     "activeHours": [["01:00", "00:59"]],
     "activeMonths": {
@@ -1187,7 +1187,7 @@
     "furnitureFilename": "FtrFishPirania",
     "internalId": 2249,
     "uniqueEntryId": "5C59HAFxmwNSjH4Zq",
-    "colors": ["Black", "Black"],
+    "colors": ["Green", "Black"],
     "specialSell": 3750,
     "activeHours": [
       ["09:00", "16:00"],
@@ -1213,7 +1213,7 @@
     "furnitureFilename": "FtrFishWakasagi",
     "internalId": 2236,
     "uniqueEntryId": "DDb2GPEjapPmbYbWG",
-    "colors": ["Blue", "Blue"],
+    "colors": ["Orange", "Blue"],
     "specialSell": 600,
     "activeHours": [["01:00", "00:59"]],
     "activeMonths": {
@@ -1236,7 +1236,7 @@
     "furnitureFilename": "FtrFishDemekin",
     "internalId": 2221,
     "uniqueEntryId": "RvqzuA438gGqRJ7NG",
-    "colors": ["Light blue", "Light blue"],
+    "colors": ["Black", "Light blue"],
     "specialSell": 1950,
     "activeHours": [["10:00", "17:00"]],
     "activeMonths": {
@@ -1259,7 +1259,7 @@
     "furnitureFilename": "FtrFishHarisenbon",
     "internalId": 2263,
     "uniqueEntryId": "jNkgaybfSsv8MkaQ2",
-    "colors": ["Black", "Black"],
+    "colors": ["Beige", "Black"],
     "specialSell": 375,
     "activeHours": [["01:00", "00:59"]],
     "activeMonths": {
@@ -1282,7 +1282,7 @@
     "furnitureFilename": "FtrFishRainbowfish",
     "internalId": 4194,
     "uniqueEntryId": "XJfkdS4C2MPYiscST",
-    "colors": ["Black", "Black"],
+    "colors": ["Orange", "Black"],
     "specialSell": 1200,
     "activeHours": [["10:00", "17:00"]],
     "activeMonths": {
@@ -1305,7 +1305,7 @@
     "furnitureFilename": "FtrFishRanchu",
     "internalId": 5254,
     "uniqueEntryId": "4NE2SteWKEaBYjgWb",
-    "colors": ["Black", "Black"],
+    "colors": ["Red", "Black"],
     "specialSell": 6750,
     "activeHours": [["10:00", "17:00"]],
     "activeMonths": {
@@ -1328,7 +1328,7 @@
     "furnitureFilename": "FtrFishEi",
     "internalId": 2277,
     "uniqueEntryId": "gP5F7wWFvFqiZzuGw",
-    "colors": ["Black", "Black"],
+    "colors": ["Brown", "Black"],
     "specialSell": 4500,
     "activeHours": [["05:00", "22:00"]],
     "activeMonths": {
@@ -1351,7 +1351,7 @@
     "furnitureFilename": "FtrFishTai",
     "internalId": 2267,
     "uniqueEntryId": "iY4zfgojAfLskW4CQ",
-    "colors": ["Black", "Black"],
+    "colors": ["Red", "Black"],
     "specialSell": 4500,
     "activeHours": [["01:00", "00:59"]],
     "activeMonths": {
@@ -1374,7 +1374,7 @@
     "furnitureFilename": "FtrFishHanahige",
     "internalId": 2272,
     "uniqueEntryId": "T9zeSBHpB5qyAZTxu",
-    "colors": ["Black", "Black"],
+    "colors": ["Blue", "Black"],
     "specialSell": 900,
     "activeHours": [["01:00", "00:59"]],
     "activeMonths": {
@@ -1397,7 +1397,7 @@
     "furnitureFilename": "FtrFishEndlicheri",
     "internalId": 2254,
     "uniqueEntryId": "bcTmnwZxrw2iJsQmf",
-    "colors": ["Black", "Black"],
+    "colors": ["Brown", "Black"],
     "specialSell": 6000,
     "activeHours": [["22:00", "05:00"]],
     "activeMonths": {
@@ -1420,7 +1420,7 @@
     "furnitureFilename": "FtrFishSake",
     "internalId": 2242,
     "uniqueEntryId": "iwXhnZcSezNxqdNQf",
-    "colors": ["Black", "Black"],
+    "colors": ["Brown", "Black"],
     "specialSell": 1050,
     "activeHours": [["01:00", "00:59"]],
     "activeMonths": {
@@ -1443,7 +1443,7 @@
     "furnitureFilename": "FtrFishNokogiri",
     "internalId": 2281,
     "uniqueEntryId": "tsrT7a8cbtwZrmJTz",
-    "colors": ["Black", "Black"],
+    "colors": ["Brown", "Black"],
     "specialSell": 18000,
     "activeHours": [["17:00", "10:00"]],
     "activeMonths": {
@@ -1466,7 +1466,7 @@
     "furnitureFilename": "FtrFishSuzuki",
     "internalId": 2266,
     "uniqueEntryId": "LkA5hzibm6uiHDB9g",
-    "colors": ["Black", "Black"],
+    "colors": ["Gray", "Black"],
     "specialSell": 600,
     "activeHours": [["01:00", "00:59"]],
     "activeMonths": {
@@ -1489,7 +1489,7 @@
     "furnitureFilename": "FtrFishKurione",
     "internalId": 2255,
     "uniqueEntryId": "kd5beizyQGeyjeM79",
-    "colors": ["Black", "Black"],
+    "colors": ["White", "Black"],
     "specialSell": 1500,
     "activeHours": [["01:00", "00:59"]],
     "activeMonths": {
@@ -1512,7 +1512,7 @@
     "furnitureFilename": "FtrFishTatsunootoshigo",
     "internalId": 2256,
     "uniqueEntryId": "Pw5oZqC29NWEGRfyS",
-    "colors": ["Black", "Black"],
+    "colors": ["Orange", "Black"],
     "specialSell": 1650,
     "activeHours": [["01:00", "00:59"]],
     "activeMonths": {
@@ -1535,7 +1535,7 @@
     "furnitureFilename": "FtrFishKamitukigame",
     "internalId": 4192,
     "uniqueEntryId": "SJa3LLde3Yuz4H3D7",
-    "colors": ["Black", "Black"],
+    "colors": ["Brown", "Black"],
     "specialSell": 7500,
     "activeHours": [["22:00", "05:00"]],
     "activeMonths": {
@@ -1558,7 +1558,7 @@
     "furnitureFilename": "FtrFishSuppon",
     "internalId": 2224,
     "uniqueEntryId": "izuY2f4GtEGT3BtuR",
-    "colors": ["Black", "Black"],
+    "colors": ["Green", "Black"],
     "specialSell": 5625,
     "activeHours": [["17:00", "10:00"]],
     "activeMonths": {
@@ -1581,7 +1581,7 @@
     "furnitureFilename": "FtrFishIka",
     "internalId": 2270,
     "uniqueEntryId": "qxHJ6BGgyQujkC28w",
-    "colors": ["Black", "Black"],
+    "colors": ["Beige", "Black"],
     "specialSell": 750,
     "activeHours": [["01:00", "00:59"]],
     "activeMonths": {
@@ -1604,7 +1604,7 @@
     "furnitureFilename": "FtrFishItou",
     "internalId": 2241,
     "uniqueEntryId": "APXg8kSzjcmoGGWSP",
-    "colors": ["Black", "Black"],
+    "colors": ["Brown", "Black"],
     "specialSell": 22500,
     "activeHours": [["17:00", "10:00"]],
     "activeMonths": {
@@ -1673,7 +1673,7 @@
     "furnitureFilename": "FtrFishNanyouhagi",
     "internalId": 2258,
     "uniqueEntryId": "s7iioofF5C7PzCZyF",
-    "colors": ["Black", "Black"],
+    "colors": ["Blue", "Black"],
     "specialSell": 1500,
     "activeHours": [["01:00", "00:59"]],
     "activeMonths": {
@@ -1696,7 +1696,7 @@
     "furnitureFilename": "FtrFishAyu",
     "internalId": 2237,
     "uniqueEntryId": "dWgg2bjCicuiZjXW6",
-    "colors": ["Black", "Black"],
+    "colors": ["Green", "Black"],
     "specialSell": 1350,
     "activeHours": [["01:00", "00:59"]],
     "activeMonths": {
@@ -1719,7 +1719,7 @@
     "furnitureFilename": "FtrFishOtama",
     "internalId": 2225,
     "uniqueEntryId": "rb8MsjWopKYWuQK8s",
-    "colors": ["Blue", "Blue"],
+    "colors": ["Black", "Blue"],
     "specialSell": 150,
     "activeHours": [["01:00", "00:59"]],
     "activeMonths": {
@@ -1765,7 +1765,7 @@
     "furnitureFilename": "FtrFishMaguro",
     "internalId": 2274,
     "uniqueEntryId": "4PnGXx9DSb866AeCM",
-    "colors": ["Black", "Black"],
+    "colors": ["Blue", "Black"],
     "specialSell": 10500,
     "activeHours": [["01:00", "00:59"]],
     "activeMonths": {
@@ -1788,7 +1788,7 @@
     "furnitureFilename": "FtrFishJinbee",
     "internalId": 2282,
     "uniqueEntryId": "r3RAtJsXENwnFvQh7",
-    "colors": ["Blue", "Blue"],
+    "colors": ["Black", "Blue"],
     "specialSell": 19500,
     "activeHours": [["01:00", "00:59"]],
     "activeMonths": {
@@ -1811,7 +1811,7 @@
     "furnitureFilename": "FtrFishYellowparch",
     "internalId": 2233,
     "uniqueEntryId": "bLgE5dicZniF5zZDW",
-    "colors": ["Black", "Black"],
+    "colors": ["Yellow", "Black"],
     "specialSell": 450,
     "activeHours": [["01:00", "00:59"]],
     "activeMonths": {
@@ -1834,7 +1834,7 @@
     "furnitureFilename": "FtrFishMinokasago",
     "internalId": 2261,
     "uniqueEntryId": "h7fa7Fh3Ay7vAxgE2",
-    "colors": ["Black", "Black"],
+    "colors": ["Red", "Black"],
     "specialSell": 750,
     "activeHours": [["01:00", "00:59"]],
     "activeMonths": {
@@ -1855,7 +1855,7 @@
     "furnitureFilename": "FtrInsectMiirotateha",
     "internalId": 620,
     "uniqueEntryId": "aj95rMzdbSbvZy9A2",
-    "colors": ["Green", "Green"],
+    "colors": ["Pink", "Green"],
     "specialSell": 4500,
     "activeHours": [["09:00", "18:00"]],
     "activeMonths": {
@@ -1876,7 +1876,7 @@
     "furnitureFilename": "FtrInsectAri",
     "internalId": 588,
     "uniqueEntryId": "QZpmczZu4hW2a4Rpv",
-    "colors": ["White", "White"],
+    "colors": ["Black", "White"],
     "specialSell": 120,
     "activeHours": [["01:00", "00:59"]],
     "activeMonths": {
@@ -1897,7 +1897,7 @@
     "furnitureFilename": "FtrInsectYonagunisan",
     "internalId": 652,
     "uniqueEntryId": "u2GhYQJXDCQKp7AQ8",
-    "colors": ["Yellow", "Yellow"],
+    "colors": ["Orange", "Yellow"],
     "specialSell": 4500,
     "activeHours": [["20:00", "05:00"]],
     "activeMonths": {
@@ -1918,7 +1918,7 @@
     "furnitureFilename": "FtrInsectMinomushi",
     "internalId": 622,
     "uniqueEntryId": "QvxgCm82JqHsDknY4",
-    "colors": ["Blue", "Blue"],
+    "colors": ["Brown", "Blue"],
     "specialSell": 900,
     "activeHours": [["01:00", "00:59"]],
     "activeMonths": {
@@ -1939,7 +1939,7 @@
     "furnitureFilename": "FtrInsectOniyanma",
     "internalId": 635,
     "uniqueEntryId": "pCFep58D6QusMSvR7",
-    "colors": ["Yellow", "Yellow"],
+    "colors": ["Black", "Yellow"],
     "specialSell": 6750,
     "activeHours": [["09:00", "18:00"]],
     "activeMonths": {
@@ -1960,7 +1960,7 @@
     "furnitureFilename": "FtrInsectSuzumushi",
     "internalId": 642,
     "uniqueEntryId": "d5EQqbQsip82G2CZE",
-    "colors": ["Beige", "Beige"],
+    "colors": ["Black", "Beige"],
     "specialSell": 645,
     "activeHours": [["18:00", "09:00"]],
     "activeMonths": {
@@ -1981,7 +1981,7 @@
     "furnitureFilename": "FtrInsectHousekizoumushi",
     "internalId": 3485,
     "uniqueEntryId": "qocWy6r5RXjeThdYy",
-    "colors": ["Pink", "Pink"],
+    "colors": ["Green", "Pink"],
     "specialSell": 1200,
     "activeHours": [["01:00", "00:59"]],
     "activeMonths": {
@@ -2002,7 +2002,7 @@
     "furnitureFilename": "FtrInsectAburazemi",
     "internalId": 582,
     "uniqueEntryId": "gBLRZ2J2R2wwYWFCk",
-    "colors": ["Green", "Green"],
+    "colors": ["Brown", "Green"],
     "specialSell": 375,
     "activeHours": [["09:00", "18:00"]],
     "activeMonths": {
@@ -2023,7 +2023,7 @@
     "furnitureFilename": "FtrInsectMukade",
     "internalId": 628,
     "uniqueEntryId": "ubStMQwHMJJcYje38",
-    "colors": ["Orange", "Orange"],
+    "colors": ["Black", "Orange"],
     "specialSell": 450,
     "activeHours": [["17:00", "00:00"]],
     "activeMonths": {
@@ -2044,7 +2044,7 @@
     "furnitureFilename": "FtrInsectSeminonukegara",
     "internalId": 641,
     "uniqueEntryId": "6s3MCahAroqpjGybW",
-    "colors": ["Green", "Green"],
+    "colors": ["Brown", "Green"],
     "specialSell": 15,
     "activeHours": [["01:00", "00:59"]],
     "activeMonths": {
@@ -2065,7 +2065,7 @@
     "furnitureFilename": "FtrInsectGomadarakamikiri",
     "internalId": 609,
     "uniqueEntryId": "QR88MPLzYxSCHWZJb",
-    "colors": ["Green", "Green"],
+    "colors": ["Black", "Green"],
     "specialSell": 525,
     "activeHours": [["01:00", "00:59"]],
     "activeMonths": {
@@ -2086,7 +2086,7 @@
     "furnitureFilename": "FtrInsectAosujiageha",
     "internalId": 3477,
     "uniqueEntryId": "vgkW2eovbpxNuGsFZ",
-    "colors": ["Green", "Green"],
+    "colors": ["Black", "Green"],
     "specialSell": 450,
     "activeHours": [["05:00", "20:00"]],
     "activeMonths": {
@@ -2107,7 +2107,7 @@
     "furnitureFilename": "FtrInsectMonshirocho",
     "internalId": 626,
     "uniqueEntryId": "tRJxp5N9XbwAGQHZc",
-    "colors": ["Green", "Green"],
+    "colors": ["White", "Green"],
     "specialSell": 240,
     "activeHours": [["05:00", "20:00"]],
     "activeMonths": {
@@ -2128,7 +2128,7 @@
     "furnitureFilename": "FtrInsectKohrogi",
     "internalId": 617,
     "uniqueEntryId": "Lr7eFJzJJZpWRWekm",
-    "colors": ["Beige", "Beige"],
+    "colors": ["Brown", "Beige"],
     "specialSell": 195,
     "activeHours": [["18:00", "09:00"]],
     "activeMonths": {
@@ -2170,7 +2170,7 @@
     "furnitureFilename": "FtrInsectItotonbo",
     "internalId": 5339,
     "uniqueEntryId": "pBmqsa7CyeKzyRjDT",
-    "colors": ["Blue", "Blue"],
+    "colors": ["Green", "Blue"],
     "specialSell": 750,
     "activeHours": [["01:00", "00:59"]],
     "activeMonths": {
@@ -2212,7 +2212,7 @@
     "furnitureFilename": "FtrInsectGengorou",
     "internalId": 594,
     "uniqueEntryId": "CBjt7itnPqEtNznrX",
-    "colors": ["Blue", "Blue"],
+    "colors": ["Black", "Blue"],
     "specialSell": 1200,
     "activeHours": [["09:00", "20:00"]],
     "activeMonths": {
@@ -2233,7 +2233,7 @@
     "furnitureFilename": "FtrInsectKanabun",
     "internalId": 3480,
     "uniqueEntryId": "uXmtRAQgY3g596tov",
-    "colors": ["Blue", "Blue"],
+    "colors": ["Green", "Blue"],
     "specialSell": 300,
     "activeHours": [["01:00", "00:59"]],
     "activeMonths": {
@@ -2254,7 +2254,7 @@
     "furnitureFilename": "FtrInsectFunkorogashi",
     "internalId": 604,
     "uniqueEntryId": "p9RhE8wLWpHtcoq5G",
-    "colors": ["Beige", "Beige"],
+    "colors": ["Black", "Beige"],
     "specialSell": 4500,
     "activeHours": [["01:00", "00:59"]],
     "activeMonths": {
@@ -2275,7 +2275,7 @@
     "furnitureFilename": "FtrInsectSenchikogane",
     "internalId": 614,
     "uniqueEntryId": "k2fqxdYnTF8BpHB7u",
-    "colors": ["Orange", "Orange"],
+    "colors": ["Purple", "Orange"],
     "specialSell": 450,
     "activeHours": [["01:00", "00:59"]],
     "activeMonths": {
@@ -2296,7 +2296,7 @@
     "furnitureFilename": "FtrInsectMorufuocho",
     "internalId": 627,
     "uniqueEntryId": "Lwkf7oQ3mcWYm6eEY",
-    "colors": ["Orange", "Orange"],
+    "colors": ["Blue", "Orange"],
     "specialSell": 6000,
     "activeHours": [["18:00", "09:00"]],
     "activeMonths": {
@@ -2317,7 +2317,7 @@
     "furnitureFilename": "FtrInsectHigurashi",
     "internalId": 601,
     "uniqueEntryId": "kzX4apD9C3Nq8khzR",
-    "colors": ["Orange", "Orange"],
+    "colors": ["Black", "Orange"],
     "specialSell": 825,
     "activeHours": [
       ["04:00", "08:00"],
@@ -2341,7 +2341,7 @@
     "furnitureFilename": "FtrInsectHotaru",
     "internalId": 603,
     "uniqueEntryId": "PgiwPqykwafyz5EL6",
-    "colors": ["Blue", "Blue"],
+    "colors": ["Black", "Blue"],
     "specialSell": 450,
     "activeHours": [["20:00", "05:00"]],
     "activeMonths": {
@@ -2362,7 +2362,7 @@
     "furnitureFilename": "FtrInsectNomi",
     "internalId": 633,
     "uniqueEntryId": "QzDywoJEAJDcjGfEF",
-    "colors": ["White", "White"],
+    "colors": ["Brown", "White"],
     "specialSell": 105,
     "activeHours": [["01:00", "00:59"]],
     "activeMonths": {
@@ -2383,7 +2383,7 @@
     "furnitureFilename": "FtrInsectHae",
     "internalId": 597,
     "uniqueEntryId": "xdBmuMgXJ6jGxpabK",
-    "colors": ["White", "White"],
+    "colors": ["Black", "White"],
     "specialSell": 90,
     "activeHours": [["01:00", "00:59"]],
     "activeMonths": {
@@ -2404,7 +2404,7 @@
     "furnitureFilename": "FtrInsectKumazemi",
     "internalId": 618,
     "uniqueEntryId": "nPm2r7idGshQW87MN",
-    "colors": ["Yellow", "Yellow"],
+    "colors": ["Black", "Yellow"],
     "specialSell": 750,
     "activeHours": [["09:00", "18:00"]],
     "activeMonths": {
@@ -2446,7 +2446,7 @@
     "furnitureFilename": "FtrInsectTagame",
     "internalId": 5157,
     "uniqueEntryId": "ZsDdBvqAjZMG8EQkZ",
-    "colors": ["Blue", "Blue"],
+    "colors": ["Brown", "Blue"],
     "specialSell": 3000,
     "activeHours": [["20:00", "09:00"]],
     "activeMonths": {
@@ -2488,7 +2488,7 @@
     "furnitureFilename": "FtrInsectOugononikuwagata",
     "internalId": 638,
     "uniqueEntryId": "2C8cSphidFCBPxYEe",
-    "colors": ["Yellow", "Yellow"],
+    "colors": ["Black", "Yellow"],
     "specialSell": 18000,
     "activeHours": [["18:00", "09:00"]],
     "activeMonths": {
@@ -2509,7 +2509,7 @@
     "furnitureFilename": "FtrInsectGoraiasuohtsunohanamuguri",
     "internalId": 596,
     "uniqueEntryId": "wZQMZfhtRyPFAapmF",
-    "colors": ["Black", "Black"],
+    "colors": ["Red", "Black"],
     "specialSell": 12000,
     "activeHours": [["18:00", "09:00"]],
     "activeMonths": {
@@ -2530,7 +2530,7 @@
     "furnitureFilename": "FtrInsectKirigirisu",
     "internalId": 613,
     "uniqueEntryId": "zkzSLJPkkcwXwShKc",
-    "colors": ["Beige", "Beige"],
+    "colors": ["Green", "Beige"],
     "specialSell": 240,
     "activeHours": [["09:00", "18:00"]],
     "activeMonths": {
@@ -2551,7 +2551,7 @@
     "furnitureFilename": "FtrInsectOhmurasaki",
     "internalId": 3479,
     "uniqueEntryId": "ZSre7sheZoRqsJwHQ",
-    "colors": ["Orange", "Orange"],
+    "colors": ["Purple", "Orange"],
     "specialSell": 4500,
     "activeHours": [["05:00", "20:00"]],
     "activeMonths": {
@@ -2572,7 +2572,7 @@
     "furnitureFilename": "FtrInsectYadokari",
     "internalId": 651,
     "uniqueEntryId": "TzbsfYgE4k2qo7fHN",
-    "colors": ["Pink", "Pink"],
+    "colors": ["Beige", "Pink"],
     "specialSell": 1500,
     "activeHours": [["20:00", "09:00"]],
     "activeMonths": {
@@ -2593,7 +2593,7 @@
     "furnitureFilename": "FtrInsectMitsubachi",
     "internalId": 623,
     "uniqueEntryId": "yeWiAiqDRwinvumDm",
-    "colors": ["Blue", "Blue"],
+    "colors": ["Yellow", "Blue"],
     "specialSell": 300,
     "activeHours": [["09:00", "18:00"]],
     "activeMonths": {
@@ -2635,7 +2635,7 @@
     "furnitureFilename": "FtrInsectKabutomushi",
     "internalId": 612,
     "uniqueEntryId": "zaG8qsKLpbTjysx7D",
-    "colors": ["Black", "Black"],
+    "colors": ["Brown", "Black"],
     "specialSell": 2025,
     "activeHours": [["18:00", "09:00"]],
     "activeMonths": {
@@ -2656,7 +2656,7 @@
     "furnitureFilename": "FtrInsectZoukabuto",
     "internalId": 653,
     "uniqueEntryId": "M7SHXNEMf78nJD6fE",
-    "colors": ["Black", "Black"],
+    "colors": ["Beige", "Black"],
     "specialSell": 12000,
     "activeHours": [["18:00", "09:00"]],
     "activeMonths": {
@@ -2677,7 +2677,7 @@
     "furnitureFilename": "FtrInsectHerakuresuohkabuto",
     "internalId": 600,
     "uniqueEntryId": "TqhEomNEMDZ2wcTpk",
-    "colors": ["Black", "Black"],
+    "colors": ["Yellow", "Black"],
     "specialSell": 18000,
     "activeHours": [["18:00", "09:00"]],
     "activeMonths": {
@@ -2698,7 +2698,7 @@
     "furnitureFilename": "FtrInsectTamamushi",
     "internalId": 645,
     "uniqueEntryId": "TYFowxRG4ydcvotkQ",
-    "colors": ["Black", "Black"],
+    "colors": ["Green", "Black"],
     "specialSell": 3600,
     "activeHours": [["01:00", "00:59"]],
     "activeMonths": {
@@ -2719,7 +2719,7 @@
     "furnitureFilename": "FtrInsectTentoumushi",
     "internalId": 647,
     "uniqueEntryId": "pYSSbvXzkuFneRvQ7",
-    "colors": ["Green", "Green"],
+    "colors": ["Red", "Green"],
     "specialSell": 300,
     "activeHours": [["09:00", "18:00"]],
     "activeMonths": {
@@ -2740,7 +2740,7 @@
     "furnitureFilename": "FtrInsectShoryobatta",
     "internalId": 644,
     "uniqueEntryId": "Q57sgq4hQTNZAqWXj",
-    "colors": ["Blue", "Blue"],
+    "colors": ["Green", "Blue"],
     "specialSell": 300,
     "activeHours": [["09:00", "20:00"]],
     "activeMonths": {
@@ -2761,7 +2761,7 @@
     "furnitureFilename": "FtrInsectNishikiohtsubamega",
     "internalId": 3484,
     "uniqueEntryId": "EFWMygLqnJinFoXSW",
-    "colors": ["Pink", "Pink"],
+    "colors": ["Green", "Pink"],
     "specialSell": 3750,
     "activeHours": [["09:00", "17:00"]],
     "activeMonths": {
@@ -2782,7 +2782,7 @@
     "furnitureFilename": "FtrInsectJinmenkamemushi",
     "internalId": 3483,
     "uniqueEntryId": "zvr84Jvf4s6K23XJ5",
-    "colors": ["Orange", "Orange"],
+    "colors": ["Black", "Orange"],
     "specialSell": 1500,
     "activeHours": [["20:00", "09:00"]],
     "activeMonths": {
@@ -2824,7 +2824,7 @@
     "furnitureFilename": "FtrInsectTonosamabatta",
     "internalId": 648,
     "uniqueEntryId": "dkGagcjd7aZwFEszw",
-    "colors": ["Orange", "Orange"],
+    "colors": ["Green", "Orange"],
     "specialSell": 900,
     "activeHours": [["09:00", "20:00"]],
     "activeMonths": {
@@ -2866,7 +2866,7 @@
     "furnitureFilename": "FtrInsectOkera",
     "internalId": 634,
     "uniqueEntryId": "HMWPGeeKw9LP6ucSq",
-    "colors": ["Yellow", "Yellow"],
+    "colors": ["Brown", "Yellow"],
     "specialSell": 750,
     "activeHours": [["01:00", "00:59"]],
     "activeMonths": {
@@ -2887,7 +2887,7 @@
     "furnitureFilename": "FtrInsectOhkabamadara",
     "internalId": 636,
     "uniqueEntryId": "BJPKSZMZ2tkLXkWjL",
-    "colors": ["Blue", "Blue"],
+    "colors": ["Orange", "Blue"],
     "specialSell": 210,
     "activeHours": [["05:00", "18:00"]],
     "activeMonths": {
@@ -2908,7 +2908,7 @@
     "furnitureFilename": "FtrInsectKa",
     "internalId": 606,
     "uniqueEntryId": "3mMZ74qpWWnoizJHh",
-    "colors": ["White", "White"],
+    "colors": ["Black", "White"],
     "specialSell": 195,
     "activeHours": [["18:00", "05:00"]],
     "activeMonths": {
@@ -2929,7 +2929,7 @@
     "furnitureFilename": "FtrInsectGa",
     "internalId": 592,
     "uniqueEntryId": "7Kd97rqbYBuzuCHgf",
-    "colors": ["Yellow", "Yellow"],
+    "colors": ["Beige", "Yellow"],
     "specialSell": 195,
     "activeHours": [["20:00", "05:00"]],
     "activeMonths": {
@@ -2950,7 +2950,7 @@
     "furnitureFilename": "FtrInsectHanakamakiri",
     "internalId": 598,
     "uniqueEntryId": "9b4v6nMrrThHEtNbB",
-    "colors": ["Pink", "Pink"],
+    "colors": ["White", "Pink"],
     "specialSell": 3600,
     "activeHours": [["09:00", "18:00"]],
     "activeMonths": {
@@ -2971,7 +2971,7 @@
     "furnitureFilename": "FtrInsectOhgomamadara",
     "internalId": 3478,
     "uniqueEntryId": "hzwridDJE99rPHLrZ",
-    "colors": ["Yellow", "Yellow"],
+    "colors": ["White", "Yellow"],
     "specialSell": 1500,
     "activeHours": [["09:00", "20:00"]],
     "activeMonths": {
@@ -2992,7 +2992,7 @@
     "furnitureFilename": "FtrInsectKarasuageha",
     "internalId": 610,
     "uniqueEntryId": "rguKzmnRkGmBMKzyE",
-    "colors": ["Blue", "Blue"],
+    "colors": ["Green", "Blue"],
     "specialSell": 3750,
     "activeHours": [["05:00", "20:00"]],
     "activeMonths": {
@@ -3013,7 +3013,7 @@
     "furnitureFilename": "FtrInsectDangomushi",
     "internalId": 590,
     "uniqueEntryId": "SGHXhcTzaNJD2z926",
-    "colors": ["Blue", "Blue"],
+    "colors": ["Black", "Blue"],
     "specialSell": 375,
     "activeHours": [["00:00", "17:00"]],
     "activeMonths": {
@@ -3034,7 +3034,7 @@
     "furnitureFilename": "FtrInsectAmenbo",
     "internalId": 587,
     "uniqueEntryId": "eSBNwiuZforpxNYem",
-    "colors": ["Blue", "Blue"],
+    "colors": ["Black", "Blue"],
     "specialSell": 195,
     "activeHours": [["09:00", "20:00"]],
     "activeMonths": {
@@ -3055,7 +3055,7 @@
     "furnitureFilename": "FtrInsectArekisandoratoribaneageha",
     "internalId": 586,
     "uniqueEntryId": "PbNXeN9GZuJuow7jv",
-    "colors": ["Pink", "Pink"],
+    "colors": ["Green", "Pink"],
     "specialSell": 6000,
     "activeHours": [["09:00", "17:00"]],
     "activeMonths": {
@@ -3076,7 +3076,7 @@
     "furnitureFilename": "FtrInsectNijiirokuwagata",
     "internalId": 631,
     "uniqueEntryId": "Egfv6BDtFMeGZPmfh",
-    "colors": ["Black", "Black"],
+    "colors": ["Brown", "Black"],
     "specialSell": 9000,
     "activeHours": [["20:00", "09:00"]],
     "activeMonths": {
@@ -3097,7 +3097,7 @@
     "furnitureFilename": "FtrInsectAkaeritoribaneageha",
     "internalId": 584,
     "uniqueEntryId": "gLpHgXT4pPXP4XfWQ",
-    "colors": ["Pink", "Pink"],
+    "colors": ["Green", "Pink"],
     "specialSell": 3750,
     "activeHours": [["09:00", "18:00"]],
     "activeMonths": {
@@ -3118,7 +3118,7 @@
     "furnitureFilename": "FtrInsectAkiakane",
     "internalId": 585,
     "uniqueEntryId": "PKSHvkPphXteXHKuG",
-    "colors": ["Orange", "Orange"],
+    "colors": ["Red", "Orange"],
     "specialSell": 270,
     "activeHours": [["09:00", "20:00"]],
     "activeMonths": {
@@ -3139,7 +3139,7 @@
     "furnitureFilename": "FtrInsectInago",
     "internalId": 605,
     "uniqueEntryId": "ZxXDxrgPvXEHz24Ni",
-    "colors": ["Yellow", "Yellow"],
+    "colors": ["Green", "Yellow"],
     "specialSell": 600,
     "activeHours": [["09:00", "20:00"]],
     "activeMonths": {
@@ -3160,7 +3160,7 @@
     "furnitureFilename": "FtrInsectMinminzemi",
     "internalId": 621,
     "uniqueEntryId": "cd5ymnRmRvT4n4yjB",
-    "colors": ["Blue", "Blue"],
+    "colors": ["Black", "Blue"],
     "specialSell": 450,
     "activeHours": [["09:00", "18:00"]],
     "activeMonths": {
@@ -3181,7 +3181,7 @@
     "furnitureFilename": "FtrInsectRuriboshikamikiri",
     "internalId": 3487,
     "uniqueEntryId": "MSTA9vdJmGoDDADrF",
-    "colors": ["Black", "Black"],
+    "colors": ["Blue", "Black"],
     "specialSell": 4500,
     "activeHours": [["01:00", "00:59"]],
     "activeMonths": {
@@ -3202,7 +3202,7 @@
     "furnitureFilename": "FtrInsectNokogirikuwagata",
     "internalId": 632,
     "uniqueEntryId": "YQq3iSiBcBAHTWxc2",
-    "colors": ["Black", "Black"],
+    "colors": ["Brown", "Black"],
     "specialSell": 3000,
     "activeHours": [["01:00", "00:59"]],
     "activeMonths": {
@@ -3223,7 +3223,7 @@
     "furnitureFilename": "FtrInsectPurachinakogane",
     "internalId": 639,
     "uniqueEntryId": "2HXdFD8s6BmYYMf4u",
-    "colors": ["Beige", "Beige"],
+    "colors": ["Black", "Beige"],
     "specialSell": 15000,
     "activeHours": [["00:00", "21:00"]],
     "activeMonths": {
@@ -3265,7 +3265,7 @@
     "furnitureFilename": "FtrInsectKatatsumuri",
     "internalId": 611,
     "uniqueEntryId": "rDNLeQnmJQGxsHpmL",
-    "colors": ["Green", "Green"],
+    "colors": ["Beige", "Green"],
     "specialSell": 375,
     "activeHours": [["01:00", "00:59"]],
     "activeMonths": {
@@ -3286,7 +3286,7 @@
     "furnitureFilename": "FtrInsectKumo",
     "internalId": 619,
     "uniqueEntryId": "s2u8kDoMQx7GbAJTR",
-    "colors": ["Orange", "Orange"],
+    "colors": ["Yellow", "Orange"],
     "specialSell": 900,
     "activeHours": [["20:00", "09:00"]],
     "activeMonths": {
@@ -3307,7 +3307,7 @@
     "furnitureFilename": "FtrInsectKamemushi",
     "internalId": 608,
     "uniqueEntryId": "4u5GZ4z3CyaHhMgqj",
-    "colors": ["Yellow", "Yellow"],
+    "colors": ["Green", "Yellow"],
     "specialSell": 180,
     "activeHours": [["01:00", "00:59"]],
     "activeMonths": {
@@ -3328,7 +3328,7 @@
     "furnitureFilename": "FtrInsectTaranchura",
     "internalId": 646,
     "uniqueEntryId": "4mto3ZvrZYpJxbm4c",
-    "colors": ["Black", "Black"],
+    "colors": ["Brown", "Black"],
     "specialSell": 12000,
     "activeHours": [["20:00", "05:00"]],
     "activeMonths": {
@@ -3349,7 +3349,7 @@
     "furnitureFilename": "FtrInsectHanmyou",
     "internalId": 599,
     "uniqueEntryId": "zzGvu3797KnMb4LCD",
-    "colors": ["Yellow", "Yellow"],
+    "colors": ["Green", "Yellow"],
     "specialSell": 2250,
     "activeHours": [["01:00", "00:59"]],
     "activeMonths": {
@@ -3370,7 +3370,7 @@
     "furnitureFilename": "FtrInsectAgehacho",
     "internalId": 583,
     "uniqueEntryId": "GcSpepwg536mYnNuu",
-    "colors": ["Green", "Green"],
+    "colors": ["Yellow", "Green"],
     "specialSell": 360,
     "activeHours": [["05:00", "20:00"]],
     "activeMonths": {
@@ -3391,7 +3391,7 @@
     "furnitureFilename": "FtrInsectBaiorinmushi",
     "internalId": 650,
     "uniqueEntryId": "poAcys5Mr35ELp5PS",
-    "colors": ["Black", "Black"],
+    "colors": ["Brown", "Black"],
     "specialSell": 675,
     "activeHours": [["01:00", "00:59"]],
     "activeMonths": {
@@ -3412,7 +3412,7 @@
     "furnitureFilename": "FtrInsectTsukutsukuhousi",
     "internalId": 649,
     "uniqueEntryId": "QdrL4K7seJHvd4ZZM",
-    "colors": ["Pink", "Pink"],
+    "colors": ["Black", "Pink"],
     "specialSell": 600,
     "activeHours": [["09:00", "18:00"]],
     "activeMonths": {
@@ -3454,7 +3454,7 @@
     "furnitureFilename": "FtrInsectNanafushi",
     "internalId": 630,
     "uniqueEntryId": "WQjgrjYotbwH59vXG",
-    "colors": ["Yellow", "Yellow"],
+    "colors": ["Brown", "Yellow"],
     "specialSell": 900,
     "activeHours": [
       ["04:00", "08:00"],
@@ -3478,7 +3478,7 @@
     "furnitureFilename": "FtrInsectHachi",
     "internalId": 643,
     "uniqueEntryId": "ZEfBHqM6pFEddBezw",
-    "colors": ["Orange", "Orange"],
+    "colors": ["Yellow", "Orange"],
     "specialSell": 3750,
     "activeHours": [["01:00", "00:59"]],
     "activeMonths": {
@@ -3499,7 +3499,7 @@
     "furnitureFilename": "FtrInsectFunamushi",
     "internalId": 591,
     "uniqueEntryId": "2fp9ChfPuPdYefTK3",
-    "colors": ["Blue", "Blue"],
+    "colors": ["Beige", "Blue"],
     "specialSell": 300,
     "activeHours": [["01:00", "00:59"]],
     "activeMonths": {
@@ -3520,7 +3520,7 @@
     "furnitureFilename": "FtrInsectMonkicho",
     "internalId": 625,
     "uniqueEntryId": "9d92MqgcnGao8wQjB",
-    "colors": ["Blue", "Blue"],
+    "colors": ["Yellow", "Blue"],
     "specialSell": 240,
     "activeHours": [["05:00", "20:00"]],
     "activeMonths": {
