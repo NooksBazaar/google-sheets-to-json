@@ -44,6 +44,8 @@ const CONSTRUCTION_SHEETS = ['Construction'];
 
 const ACHIEVEMENTS_SHEETS = ['Achievements'];
 
+const REACTIONS_SHEETS = ['Reactions'];
+
 type ItemData = any[];
 
 const validateIds = false;
@@ -67,6 +69,7 @@ export async function main(auth: OAuth2Client) {
     ['villagers', VILLAGERS_SHEETS],
     ['construction', CONSTRUCTION_SHEETS],
     ['achievements', ACHIEVEMENTS_SHEETS],
+    ['reactions', REACTIONS_SHEETS],
   ];
 
   const ids = new Set();
@@ -109,7 +112,7 @@ export async function main(auth: OAuth2Client) {
   const all = [];
 
   for (const [key] of workSet) {
-    if (key === 'achievements') {
+    if (key === 'achievements' || key === 'reactions') {
       continue;
     }
 

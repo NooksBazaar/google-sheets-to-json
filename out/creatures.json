@@ -20,7 +20,7 @@
     "uniqueEntryId": "LzuWkSQP55uEpRCP5",
     "colors": ["Blue", "Red"],
     "specialSell": 300,
-    "activeHours": [["05:00", "22:00"]],
+    "activeHours": [["22:00", "15:00"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
       "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
@@ -47,7 +47,7 @@
     "uniqueEntryId": "XTCFCk2SiuY5YXLZ7",
     "colors": ["Yellow", "Black"],
     "specialSell": 4500,
-    "activeHours": [["17:00", "10:00"]],
+    "activeHours": [["10:00", "03:00"]],
     "activeMonths": {
       "northern": [5, 6, 7, 8, 9, 10],
       "southern": [1, 2, 3, 4, 11, 12]
@@ -74,7 +74,7 @@
     "uniqueEntryId": "mZy4BES54bqwi97br",
     "colors": ["Black", "Blue"],
     "specialSell": 15000,
-    "activeHours": [["17:00", "10:00"]],
+    "activeHours": [["10:00", "03:00"]],
     "activeMonths": {
       "northern": [6, 7, 8, 9],
       "southern": [1, 2, 3, 12]
@@ -101,7 +101,7 @@
     "uniqueEntryId": "F68AvCaqddBJL7ZSN",
     "colors": ["Yellow", "Black"],
     "specialSell": 15000,
-    "activeHours": [["17:00", "10:00"]],
+    "activeHours": [["10:00", "03:00"]],
     "activeMonths": {
       "northern": [6, 7, 8, 9],
       "southern": [1, 2, 3, 12]
@@ -128,7 +128,7 @@
     "uniqueEntryId": "X3R9SFSAaDzBF4fE3",
     "colors": ["White", "Black"],
     "specialSell": 7500,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["18:00", "17:59"]],
     "activeMonths": {
       "northern": [3, 4, 5, 6, 7, 8, 9, 10, 11],
       "southern": [1, 2, 3, 4, 5, 9, 10, 11, 12]
@@ -155,7 +155,7 @@
     "uniqueEntryId": "BpqTa4zmTjv3Nm4wE",
     "colors": ["Black", "Black"],
     "specialSell": 22500,
-    "activeHours": [["22:00", "05:00"]],
+    "activeHours": [["15:00", "22:00"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
       "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
@@ -182,7 +182,7 @@
     "uniqueEntryId": "7QcQXzwZoNGiNA94k",
     "colors": ["Light blue", "Black"],
     "specialSell": 3750,
-    "activeHours": [["10:00", "17:00"]],
+    "activeHours": [["03:00", "10:00"]],
     "activeMonths": {
       "northern": [5, 6, 7, 8, 9, 10],
       "southern": [1, 2, 3, 4, 11, 12]
@@ -209,7 +209,7 @@
     "uniqueEntryId": "Drj6eLRBgg4T9KhNx",
     "colors": ["Light blue", "Blue"],
     "specialSell": 1350,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["18:00", "17:59"]],
     "activeMonths": {
       "northern": [1, 2, 3, 11, 12],
       "southern": [5, 6, 7, 8, 9]
@@ -236,7 +236,7 @@
     "uniqueEntryId": "wAZvfTca7GyaTtLcQ",
     "colors": ["Green", "Black"],
     "specialSell": 600,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["18:00", "17:59"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
       "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
@@ -263,7 +263,7 @@
     "uniqueEntryId": "aDsmTcByApycafxTa",
     "colors": ["Beige", "Black"],
     "specialSell": 7500,
-    "activeHours": [["22:00", "06:00"]],
+    "activeHours": [["15:00", "23:00"]],
     "activeMonths": {
       "northern": [1, 2, 11, 12],
       "southern": [5, 6, 7, 8]
@@ -290,7 +290,7 @@
     "uniqueEntryId": "jhtsYRHydAcZnd6bJ",
     "colors": ["Blue", "Black"],
     "specialSell": 15000,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["18:00", "17:59"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 7, 8, 9, 11, 12],
       "southern": [1, 2, 3, 5, 6, 7, 8, 9, 10]
@@ -317,7 +317,7 @@
     "uniqueEntryId": "8ygccYFCrWf4hwYGR",
     "colors": ["Blue", "Black"],
     "specialSell": 270,
-    "activeHours": [["10:00", "17:00"]],
+    "activeHours": [["03:00", "10:00"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
       "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
@@ -344,7 +344,7 @@
     "uniqueEntryId": "S4rkio2M3WB5cyy8Y",
     "colors": ["Yellow", "Black"],
     "specialSell": 1500,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["18:00", "17:59"]],
     "activeMonths": {
       "northern": [4, 5, 6, 7, 8, 9],
       "southern": [1, 2, 3, 10, 11, 12]
@@ -371,7 +371,7 @@
     "uniqueEntryId": "4DwwvGDwPQvZTn9Fb",
     "colors": ["Gray", "Black"],
     "specialSell": 450,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["18:00", "17:59"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
       "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
@@ -398,7 +398,7 @@
     "uniqueEntryId": "nbPtvwf7HCQxA9Nc4",
     "colors": ["Black", "Black"],
     "specialSell": 1200,
-    "activeHours": [["17:00", "10:00"]],
+    "activeHours": [["10:00", "03:00"]],
     "activeMonths": {
       "northern": [5, 6, 7, 8, 9, 10],
       "southern": [1, 2, 3, 4, 11, 12]
@@ -425,7 +425,7 @@
     "uniqueEntryId": "ahbnwCqp3EZXa96KC",
     "colors": ["Brown", "Black"],
     "specialSell": 5700,
-    "activeHours": [["17:00", "10:00"]],
+    "activeHours": [["10:00", "03:00"]],
     "activeMonths": {
       "northern": [3, 4, 5, 6, 9, 10, 11],
       "southern": [3, 4, 5, 9, 10, 11, 12]
@@ -452,7 +452,7 @@
     "uniqueEntryId": "sJyBbeLbpzn7LyzFr",
     "colors": ["Brown", "Black"],
     "specialSell": 1500,
-    "activeHours": [["17:00", "10:00"]],
+    "activeHours": [["10:00", "03:00"]],
     "activeMonths": {
       "northern": [3, 4, 5, 6, 9, 10, 11],
       "southern": [3, 4, 5, 9, 10, 11, 12]
@@ -479,7 +479,7 @@
     "uniqueEntryId": "L9qxZaMoBhwxvpMyh",
     "colors": ["Orange", "Black"],
     "specialSell": 975,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["18:00", "17:59"]],
     "activeMonths": {
       "northern": [4, 5, 6, 7, 8, 9],
       "southern": [1, 2, 3, 10, 11, 12]
@@ -506,7 +506,7 @@
     "uniqueEntryId": "NjMZQ6Xi9NswEXnHH",
     "colors": ["Black", "Black"],
     "specialSell": 22500,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["18:00", "17:59"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
       "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
@@ -533,7 +533,7 @@
     "uniqueEntryId": "W7TrwpycmfgniZipi",
     "colors": ["Red", "Black"],
     "specialSell": 300,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["18:00", "17:59"]],
     "activeMonths": {
       "northern": [4, 5, 6, 7, 8, 9],
       "southern": [1, 2, 3, 10, 11, 12]
@@ -560,7 +560,7 @@
     "uniqueEntryId": "Pdw7vmJz9PRM4ggbf",
     "colors": ["Brown", "Black"],
     "specialSell": 240,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["18:00", "17:59"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
       "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
@@ -587,7 +587,7 @@
     "uniqueEntryId": "noA2Kfp8TaFgaLs5n",
     "colors": ["Brown", "Black"],
     "specialSell": 450,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["18:00", "17:59"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 10, 11, 12],
       "southern": [4, 5, 6, 7, 8, 9, 10]
@@ -614,7 +614,7 @@
     "uniqueEntryId": "dWmXFdnjByWT5nEok",
     "colors": ["Brown", "Black"],
     "specialSell": 360,
-    "activeHours": [["17:00", "10:00"]],
+    "activeHours": [["10:00", "03:00"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
       "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
@@ -641,7 +641,7 @@
     "uniqueEntryId": "G7ZwD67cRMHBwTSKH",
     "colors": ["Yellow", "Black"],
     "specialSell": 22500,
-    "activeHours": [["05:00", "22:00"]],
+    "activeHours": [["22:00", "15:00"]],
     "activeMonths": {
       "northern": [6, 7, 8, 9],
       "southern": [1, 2, 3, 12]
@@ -668,7 +668,7 @@
     "uniqueEntryId": "vQHfve6DygtcYqwdi",
     "colors": ["Black", "Black"],
     "specialSell": 3750,
-    "activeHours": [["17:00", "10:00"]],
+    "activeHours": [["10:00", "03:00"]],
     "activeMonths": {
       "northern": [1, 2, 3, 11, 12],
       "southern": [5, 6, 7, 8, 9]
@@ -695,7 +695,7 @@
     "uniqueEntryId": "SfXYNdtaid6hdQhvZ",
     "colors": ["Brown", "Black"],
     "specialSell": 600,
-    "activeHours": [["17:00", "10:00"]],
+    "activeHours": [["10:00", "03:00"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
       "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
@@ -722,7 +722,7 @@
     "uniqueEntryId": "LcQLs85qPPdLajLje",
     "colors": ["Green", "Black"],
     "specialSell": 180,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["18:00", "17:59"]],
     "activeMonths": {
       "northern": [5, 6, 7, 8],
       "southern": [1, 2, 11, 12]
@@ -749,7 +749,7 @@
     "uniqueEntryId": "x5yAYQgMJW9Kf7WyM",
     "colors": ["Brown", "Black"],
     "specialSell": 9000,
-    "activeHours": [["17:00", "10:00"]],
+    "activeHours": [["10:00", "03:00"]],
     "activeMonths": {
       "northern": [6, 7, 8, 9],
       "southern": [1, 2, 3, 12]
@@ -776,7 +776,7 @@
     "uniqueEntryId": "KyWQRd8W2FePM42wB",
     "colors": ["Black", "Black"],
     "specialSell": 8250,
-    "activeHours": [["10:00", "17:00"]],
+    "activeHours": [["03:00", "10:00"]],
     "activeMonths": {
       "northern": [6, 7, 8],
       "southern": [1, 2, 12]
@@ -803,7 +803,7 @@
     "uniqueEntryId": "53qtm8cMH4RfqJiAH",
     "colors": ["Black", "Black"],
     "specialSell": 6750,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["18:00", "17:59"]],
     "activeMonths": {
       "northern": [5, 6, 7, 8, 9, 10],
       "southern": [1, 2, 3, 4, 11, 12]
@@ -830,7 +830,7 @@
     "uniqueEntryId": "wwGzR7FzWNJ7cDz9X",
     "colors": ["Brown", "Black"],
     "specialSell": 22500,
-    "activeHours": [["17:00", "10:00"]],
+    "activeHours": [["10:00", "03:00"]],
     "activeMonths": {
       "northern": [3, 4, 5, 9, 10, 11],
       "southern": [3, 4, 5, 9, 10, 11]
@@ -857,7 +857,7 @@
     "uniqueEntryId": "5NwmwhEQxBNZCPiBR",
     "colors": ["Red", "Light blue"],
     "specialSell": 1950,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["18:00", "17:59"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
       "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
@@ -884,7 +884,7 @@
     "uniqueEntryId": "EPypAeJGuTDGFJRnx",
     "colors": ["Blue", "Blue"],
     "specialSell": 22500,
-    "activeHours": [["17:00", "10:00"]],
+    "activeHours": [["10:00", "03:00"]],
     "activeMonths": {
       "northern": [6, 7, 8, 9],
       "southern": [1, 2, 3, 12]
@@ -911,7 +911,7 @@
     "uniqueEntryId": "WtdZnARNxnWRobej2",
     "colors": ["Blue", "Black"],
     "specialSell": 1950,
-    "activeHours": [["10:00", "17:00"]],
+    "activeHours": [["03:00", "10:00"]],
     "activeMonths": {
       "northern": [4, 5, 6, 7, 8, 9, 10, 11],
       "southern": [1, 2, 3, 4, 5, 10, 11, 12]
@@ -938,7 +938,7 @@
     "uniqueEntryId": "guHT5g6H7tJEyqYzf",
     "colors": ["Black", "Black"],
     "specialSell": 12000,
-    "activeHours": [["17:00", "10:00"]],
+    "activeHours": [["10:00", "03:00"]],
     "activeMonths": {
       "northern": [6, 7, 8, 9],
       "southern": [1, 2, 3, 12]
@@ -965,7 +965,7 @@
     "uniqueEntryId": "L24RYPaEcm9ZXkTui",
     "colors": ["Blue", "Black"],
     "specialSell": 225,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["18:00", "17:59"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
       "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
@@ -992,7 +992,7 @@
     "uniqueEntryId": "ZR9dsEApEXCjtXu3k",
     "colors": ["Yellow", "Black"],
     "specialSell": 450,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["18:00", "17:59"]],
     "activeMonths": {
       "northern": [4, 5, 6, 7, 8],
       "southern": [1, 2, 10, 11, 12]
@@ -1019,7 +1019,7 @@
     "uniqueEntryId": "Pf5cXKo8pzdB45rAA",
     "colors": ["Gray", "Black"],
     "specialSell": 2700,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["18:00", "17:59"]],
     "activeMonths": {
       "northern": [9],
       "southern": [3]
@@ -1046,7 +1046,7 @@
     "uniqueEntryId": "kNwjLeqjg8bFevfiG",
     "colors": ["Red", "White"],
     "specialSell": 6000,
-    "activeHours": [["17:00", "10:00"]],
+    "activeHours": [["10:00", "03:00"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
       "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
@@ -1073,7 +1073,7 @@
     "uniqueEntryId": "95yBKrQ4tdyWj4H25",
     "colors": ["Brown", "Blue"],
     "specialSell": 600,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["18:00", "17:59"]],
     "activeMonths": {
       "northern": [3, 4, 5],
       "southern": [9, 10, 11]
@@ -1100,7 +1100,7 @@
     "uniqueEntryId": "D7gY39QDo8BBNs2Ne",
     "colors": ["Yellow", "Black"],
     "specialSell": 9000,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["18:00", "17:59"]],
     "activeMonths": {
       "northern": [5, 6, 7, 8, 9, 10],
       "southern": [1, 2, 3, 4, 11, 12]
@@ -1127,7 +1127,7 @@
     "uniqueEntryId": "s2jqSYbMWBX6qCLDm",
     "colors": ["Black", "Blue"],
     "specialSell": 3000,
-    "activeHours": [["17:00", "10:00"]],
+    "activeHours": [["10:00", "03:00"]],
     "activeMonths": {
       "northern": [9, 10, 11],
       "southern": [3, 4, 5]
@@ -1154,7 +1154,7 @@
     "uniqueEntryId": "4nLynLTMRtoqcCfh4",
     "colors": ["Brown", "Black"],
     "specialSell": 3000,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["18:00", "17:59"]],
     "activeMonths": {
       "northern": [8, 9, 10],
       "southern": [2, 3, 4]
@@ -1181,7 +1181,7 @@
     "uniqueEntryId": "dm4THC3AYR6CZ8bvJ",
     "colors": ["Light blue", "Black"],
     "specialSell": 15000,
-    "activeHours": [["05:00", "22:00"]],
+    "activeHours": [["22:00", "15:00"]],
     "activeMonths": {
       "northern": [7, 8],
       "southern": [1, 2]
@@ -1208,7 +1208,7 @@
     "uniqueEntryId": "aEyRb96wcz9m8yjFN",
     "colors": ["Light blue", "Black"],
     "specialSell": 750,
-    "activeHours": [["10:00", "17:00"]],
+    "activeHours": [["03:00", "10:00"]],
     "activeMonths": {
       "northern": [4, 5, 6, 7, 8, 9, 10, 11],
       "southern": [1, 2, 3, 4, 5, 10, 11, 12]
@@ -1235,7 +1235,7 @@
     "uniqueEntryId": "pkPKYsMiXsTWNz4L4",
     "colors": ["Brown", "Blue"],
     "specialSell": 2250,
-    "activeHours": [["10:00", "17:00"]],
+    "activeHours": [["03:00", "10:00"]],
     "activeMonths": {
       "northern": [5, 6, 7, 8, 9],
       "southern": [1, 2, 3, 11, 12]
@@ -1262,7 +1262,7 @@
     "uniqueEntryId": "qgvEPGk759xaBqwXP",
     "colors": ["Red", "Blue"],
     "specialSell": 13500,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["18:00", "17:59"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 12],
       "southern": [6, 7, 8, 9, 10, 11]
@@ -1289,7 +1289,7 @@
     "uniqueEntryId": "6BwK6LHbjFAKzgE82",
     "colors": ["Blue", "Orange"],
     "specialSell": 6000,
-    "activeHours": [["05:00", "22:00"]],
+    "activeHours": [["22:00", "15:00"]],
     "activeMonths": {
       "northern": [7, 8, 9],
       "southern": [1, 2, 3]
@@ -1316,7 +1316,7 @@
     "uniqueEntryId": "TXSteKMHuQ9ZfqPXm",
     "colors": ["Beige", "Black"],
     "specialSell": 1200,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["18:00", "17:59"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
       "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
@@ -1343,7 +1343,7 @@
     "uniqueEntryId": "pCn9TLap3rWiLYfnF",
     "colors": ["Blue", "Blue"],
     "specialSell": 300,
-    "activeHours": [["10:00", "17:00"]],
+    "activeHours": [["03:00", "10:00"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
       "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
@@ -1370,7 +1370,7 @@
     "uniqueEntryId": "XxrB6iKQPhBkYKaXD",
     "colors": ["Green", "Black"],
     "specialSell": 2700,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["18:00", "17:59"]],
     "activeMonths": {
       "northern": [9, 10, 11, 12],
       "southern": [3, 4, 5, 6]
@@ -1427,7 +1427,7 @@
     "uniqueEntryId": "DDb2GPEjapPmbYbWG",
     "colors": ["Orange", "Blue"],
     "specialSell": 600,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["18:00", "17:59"]],
     "activeMonths": {
       "northern": [1, 2, 12],
       "southern": [6, 7, 8]
@@ -1454,7 +1454,7 @@
     "uniqueEntryId": "RvqzuA438gGqRJ7NG",
     "colors": ["Black", "Light blue"],
     "specialSell": 1950,
-    "activeHours": [["10:00", "17:00"]],
+    "activeHours": [["03:00", "10:00"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
       "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
@@ -1481,7 +1481,7 @@
     "uniqueEntryId": "jNkgaybfSsv8MkaQ2",
     "colors": ["Beige", "Black"],
     "specialSell": 375,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["18:00", "17:59"]],
     "activeMonths": {
       "northern": [7, 8, 9],
       "southern": [1, 2, 3]
@@ -1508,7 +1508,7 @@
     "uniqueEntryId": "XJfkdS4C2MPYiscST",
     "colors": ["Orange", "Black"],
     "specialSell": 1200,
-    "activeHours": [["10:00", "17:00"]],
+    "activeHours": [["03:00", "10:00"]],
     "activeMonths": {
       "northern": [5, 6, 7, 8, 9, 10],
       "southern": [1, 2, 3, 4, 11, 12]
@@ -1535,7 +1535,7 @@
     "uniqueEntryId": "4NE2SteWKEaBYjgWb",
     "colors": ["Red", "Black"],
     "specialSell": 6750,
-    "activeHours": [["10:00", "17:00"]],
+    "activeHours": [["03:00", "10:00"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
       "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
@@ -1562,7 +1562,7 @@
     "uniqueEntryId": "gP5F7wWFvFqiZzuGw",
     "colors": ["Brown", "Black"],
     "specialSell": 4500,
-    "activeHours": [["05:00", "22:00"]],
+    "activeHours": [["22:00", "15:00"]],
     "activeMonths": {
       "northern": [8, 9, 10, 11],
       "southern": [2, 3, 4, 5]
@@ -1589,7 +1589,7 @@
     "uniqueEntryId": "iY4zfgojAfLskW4CQ",
     "colors": ["Red", "Black"],
     "specialSell": 4500,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["18:00", "17:59"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
       "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
@@ -1616,7 +1616,7 @@
     "uniqueEntryId": "T9zeSBHpB5qyAZTxu",
     "colors": ["Blue", "Black"],
     "specialSell": 900,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["18:00", "17:59"]],
     "activeMonths": {
       "northern": [6, 7, 8, 9, 10],
       "southern": [1, 2, 3, 4, 12]
@@ -1643,7 +1643,7 @@
     "uniqueEntryId": "bcTmnwZxrw2iJsQmf",
     "colors": ["Brown", "Black"],
     "specialSell": 6000,
-    "activeHours": [["22:00", "05:00"]],
+    "activeHours": [["15:00", "22:00"]],
     "activeMonths": {
       "northern": [6, 7, 8, 9],
       "southern": [1, 2, 3, 12]
@@ -1670,7 +1670,7 @@
     "uniqueEntryId": "iwXhnZcSezNxqdNQf",
     "colors": ["Brown", "Black"],
     "specialSell": 1050,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["18:00", "17:59"]],
     "activeMonths": {
       "northern": [9],
       "southern": [3]
@@ -1697,7 +1697,7 @@
     "uniqueEntryId": "tsrT7a8cbtwZrmJTz",
     "colors": ["Brown", "Black"],
     "specialSell": 18000,
-    "activeHours": [["17:00", "10:00"]],
+    "activeHours": [["10:00", "03:00"]],
     "activeMonths": {
       "northern": [6, 7, 8, 9],
       "southern": [1, 2, 3, 12]
@@ -1724,7 +1724,7 @@
     "uniqueEntryId": "LkA5hzibm6uiHDB9g",
     "colors": ["Gray", "Black"],
     "specialSell": 600,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["18:00", "17:59"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
       "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
@@ -1751,7 +1751,7 @@
     "uniqueEntryId": "kd5beizyQGeyjeM79",
     "colors": ["White", "Black"],
     "specialSell": 1500,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["18:00", "17:59"]],
     "activeMonths": {
       "northern": [1, 2, 3, 12],
       "southern": [6, 7, 8, 9]
@@ -1778,7 +1778,7 @@
     "uniqueEntryId": "Pw5oZqC29NWEGRfyS",
     "colors": ["Orange", "Black"],
     "specialSell": 1650,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["18:00", "17:59"]],
     "activeMonths": {
       "northern": [4, 5, 6, 7, 8, 9, 10, 11],
       "southern": [1, 2, 3, 4, 5, 10, 11, 12]
@@ -1805,7 +1805,7 @@
     "uniqueEntryId": "SJa3LLde3Yuz4H3D7",
     "colors": ["Brown", "Black"],
     "specialSell": 7500,
-    "activeHours": [["22:00", "05:00"]],
+    "activeHours": [["15:00", "22:00"]],
     "activeMonths": {
       "northern": [4, 5, 6, 7, 8, 9, 10],
       "southern": [1, 2, 3, 4, 10, 11, 12]
@@ -1832,7 +1832,7 @@
     "uniqueEntryId": "izuY2f4GtEGT3BtuR",
     "colors": ["Green", "Black"],
     "specialSell": 5625,
-    "activeHours": [["17:00", "10:00"]],
+    "activeHours": [["10:00", "03:00"]],
     "activeMonths": {
       "northern": [8, 9],
       "southern": [2, 3]
@@ -1859,7 +1859,7 @@
     "uniqueEntryId": "qxHJ6BGgyQujkC28w",
     "colors": ["Beige", "Black"],
     "specialSell": 750,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["18:00", "17:59"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 6, 7, 8, 12],
       "southern": [1, 2, 6, 7, 8, 9, 10, 11, 12]
@@ -1886,7 +1886,7 @@
     "uniqueEntryId": "APXg8kSzjcmoGGWSP",
     "colors": ["Brown", "Black"],
     "specialSell": 22500,
-    "activeHours": [["17:00", "10:00"]],
+    "activeHours": [["10:00", "03:00"]],
     "activeMonths": {
       "northern": [1, 2, 3, 12],
       "southern": [6, 7, 8, 9]
@@ -1913,7 +1913,7 @@
     "uniqueEntryId": "XabKYtzYDNSNrFvpw",
     "colors": ["Black", "Black"],
     "specialSell": 15000,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["18:00", "17:59"]],
     "activeMonths": {
       "northern": [1, 2, 3, 9, 10, 11, 12],
       "southern": [3, 4, 5, 6, 7, 8, 9]
@@ -1940,7 +1940,7 @@
     "uniqueEntryId": "FPpwmMDn9rYAJazyS",
     "colors": ["Black", "Black"],
     "specialSell": 2250,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["18:00", "17:59"]],
     "activeMonths": {
       "northern": [6, 7, 8, 9],
       "southern": [1, 2, 3, 12]
@@ -1967,7 +1967,7 @@
     "uniqueEntryId": "s7iioofF5C7PzCZyF",
     "colors": ["Blue", "Black"],
     "specialSell": 1500,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["18:00", "17:59"]],
     "activeMonths": {
       "northern": [4, 5, 6, 7, 8, 9],
       "southern": [1, 2, 3, 10, 11, 12]
@@ -1994,7 +1994,7 @@
     "uniqueEntryId": "dWgg2bjCicuiZjXW6",
     "colors": ["Green", "Black"],
     "specialSell": 1350,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["18:00", "17:59"]],
     "activeMonths": {
       "northern": [7, 8, 9],
       "southern": [1, 2, 3]
@@ -2021,7 +2021,7 @@
     "uniqueEntryId": "rb8MsjWopKYWuQK8s",
     "colors": ["Black", "Blue"],
     "specialSell": 150,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["18:00", "17:59"]],
     "activeMonths": {
       "northern": [3, 4, 5, 6, 7],
       "southern": [1, 9, 10, 11, 12]
@@ -2048,7 +2048,7 @@
     "uniqueEntryId": "as78rnkwY3ahrTkBY",
     "colors": ["Black", "Black"],
     "specialSell": 1200,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["18:00", "17:59"]],
     "activeMonths": {
       "northern": [6, 7, 8, 9, 10],
       "southern": [1, 2, 3, 4, 12]
@@ -2075,7 +2075,7 @@
     "uniqueEntryId": "4PnGXx9DSb866AeCM",
     "colors": ["Blue", "Black"],
     "specialSell": 10500,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["18:00", "17:59"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 11, 12],
       "southern": [5, 6, 7, 8, 9, 10]
@@ -2102,7 +2102,7 @@
     "uniqueEntryId": "r3RAtJsXENwnFvQh7",
     "colors": ["Black", "Blue"],
     "specialSell": 19500,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["18:00", "17:59"]],
     "activeMonths": {
       "northern": [6, 7, 8, 9],
       "southern": [1, 2, 3, 12]
@@ -2129,7 +2129,7 @@
     "uniqueEntryId": "bLgE5dicZniF5zZDW",
     "colors": ["Yellow", "Black"],
     "specialSell": 450,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["18:00", "17:59"]],
     "activeMonths": {
       "northern": [1, 2, 3, 10, 11, 12],
       "southern": [4, 5, 6, 7, 8, 9]
@@ -2156,7 +2156,7 @@
     "uniqueEntryId": "h7fa7Fh3Ay7vAxgE2",
     "colors": ["Red", "Black"],
     "specialSell": 750,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["18:00", "17:59"]],
     "activeMonths": {
       "northern": [4, 5, 6, 7, 8, 9, 10, 11],
       "southern": [1, 2, 3, 4, 5, 10, 11, 12]
@@ -2181,7 +2181,7 @@
     "uniqueEntryId": "aj95rMzdbSbvZy9A2",
     "colors": ["Pink", "Green"],
     "specialSell": 4500,
-    "activeHours": [["09:00", "18:00"]],
+    "activeHours": [["02:00", "11:00"]],
     "activeMonths": {
       "northern": [4, 5, 6, 7, 8, 9],
       "southern": [1, 2, 3, 10, 11, 12]
@@ -2206,7 +2206,7 @@
     "uniqueEntryId": "QZpmczZu4hW2a4Rpv",
     "colors": ["Black", "White"],
     "specialSell": 120,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["18:00", "17:59"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
       "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
@@ -2231,7 +2231,7 @@
     "uniqueEntryId": "u2GhYQJXDCQKp7AQ8",
     "colors": ["Orange", "Yellow"],
     "specialSell": 4500,
-    "activeHours": [["20:00", "05:00"]],
+    "activeHours": [["13:00", "22:00"]],
     "activeMonths": {
       "northern": [4, 5, 6, 7, 8, 9],
       "southern": [1, 2, 3, 10, 11, 12]
@@ -2256,7 +2256,7 @@
     "uniqueEntryId": "QvxgCm82JqHsDknY4",
     "colors": ["Brown", "Blue"],
     "specialSell": 900,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["18:00", "17:59"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
       "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
@@ -2281,7 +2281,7 @@
     "uniqueEntryId": "pCFep58D6QusMSvR7",
     "colors": ["Black", "Yellow"],
     "specialSell": 6750,
-    "activeHours": [["09:00", "18:00"]],
+    "activeHours": [["02:00", "11:00"]],
     "activeMonths": {
       "northern": [5, 6, 7, 8, 9, 10],
       "southern": [1, 2, 3, 4, 11, 12]
@@ -2306,7 +2306,7 @@
     "uniqueEntryId": "d5EQqbQsip82G2CZE",
     "colors": ["Black", "Beige"],
     "specialSell": 645,
-    "activeHours": [["18:00", "09:00"]],
+    "activeHours": [["11:00", "02:00"]],
     "activeMonths": {
       "northern": [9, 10],
       "southern": [3, 4]
@@ -2331,7 +2331,7 @@
     "uniqueEntryId": "qocWy6r5RXjeThdYy",
     "colors": ["Green", "Pink"],
     "specialSell": 1200,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["18:00", "17:59"]],
     "activeMonths": {
       "northern": [7, 8],
       "southern": [1, 2]
@@ -2356,7 +2356,7 @@
     "uniqueEntryId": "gBLRZ2J2R2wwYWFCk",
     "colors": ["Brown", "Green"],
     "specialSell": 375,
-    "activeHours": [["09:00", "18:00"]],
+    "activeHours": [["02:00", "11:00"]],
     "activeMonths": {
       "northern": [7, 8],
       "southern": [1, 2]
@@ -2381,7 +2381,7 @@
     "uniqueEntryId": "ubStMQwHMJJcYje38",
     "colors": ["Black", "Orange"],
     "specialSell": 450,
-    "activeHours": [["17:00", "00:00"]],
+    "activeHours": [["10:00", "17:00"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 6, 9, 10, 11, 12],
       "southern": [3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
@@ -2406,7 +2406,7 @@
     "uniqueEntryId": "6s3MCahAroqpjGybW",
     "colors": ["Brown", "Green"],
     "specialSell": 15,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["18:00", "17:59"]],
     "activeMonths": {
       "northern": [7, 8],
       "southern": [1, 2]
@@ -2431,7 +2431,7 @@
     "uniqueEntryId": "QR88MPLzYxSCHWZJb",
     "colors": ["Black", "Green"],
     "specialSell": 525,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["18:00", "17:59"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
       "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
@@ -2456,7 +2456,7 @@
     "uniqueEntryId": "vgkW2eovbpxNuGsFZ",
     "colors": ["Black", "Green"],
     "specialSell": 450,
-    "activeHours": [["05:00", "20:00"]],
+    "activeHours": [["22:00", "13:00"]],
     "activeMonths": {
       "northern": [4, 5, 6, 7, 8],
       "southern": [1, 2, 10, 11, 12]
@@ -2481,7 +2481,7 @@
     "uniqueEntryId": "tRJxp5N9XbwAGQHZc",
     "colors": ["White", "Green"],
     "specialSell": 240,
-    "activeHours": [["05:00", "20:00"]],
+    "activeHours": [["22:00", "13:00"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 6, 9, 10, 11, 12],
       "southern": [3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
@@ -2506,7 +2506,7 @@
     "uniqueEntryId": "Lr7eFJzJJZpWRWekm",
     "colors": ["Brown", "Beige"],
     "specialSell": 195,
-    "activeHours": [["18:00", "09:00"]],
+    "activeHours": [["11:00", "02:00"]],
     "activeMonths": {
       "northern": [9, 10, 11],
       "southern": [3, 4, 5]
@@ -2531,7 +2531,7 @@
     "uniqueEntryId": "moBevd7J5hwpHeLcs",
     "colors": ["Black", "Black"],
     "specialSell": 12000,
-    "activeHours": [["18:00", "09:00"]],
+    "activeHours": [["11:00", "02:00"]],
     "activeMonths": {
       "northern": [7, 8],
       "southern": [1, 2]
@@ -2556,7 +2556,7 @@
     "uniqueEntryId": "pBmqsa7CyeKzyRjDT",
     "colors": ["Green", "Blue"],
     "specialSell": 750,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["18:00", "17:59"]],
     "activeMonths": {
       "northern": [1, 2, 11, 12],
       "southern": [5, 6, 7, 8]
@@ -2581,7 +2581,7 @@
     "uniqueEntryId": "723NiWMh4iY9RJtAM",
     "colors": ["Green", "Green"],
     "specialSell": 345,
-    "activeHours": [["09:00", "18:00"]],
+    "activeHours": [["02:00", "11:00"]],
     "activeMonths": {
       "northern": [4, 5, 6, 7, 8, 9, 10],
       "southern": [1, 2, 3, 4, 10, 11, 12]
@@ -2606,7 +2606,7 @@
     "uniqueEntryId": "CBjt7itnPqEtNznrX",
     "colors": ["Black", "Blue"],
     "specialSell": 1200,
-    "activeHours": [["09:00", "20:00"]],
+    "activeHours": [["02:00", "13:00"]],
     "activeMonths": {
       "northern": [5, 6, 7, 8, 9],
       "southern": [1, 2, 3, 11, 12]
@@ -2631,7 +2631,7 @@
     "uniqueEntryId": "uXmtRAQgY3g596tov",
     "colors": ["Green", "Blue"],
     "specialSell": 300,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["18:00", "17:59"]],
     "activeMonths": {
       "northern": [6, 7, 8],
       "southern": [1, 2, 12]
@@ -2656,7 +2656,7 @@
     "uniqueEntryId": "p9RhE8wLWpHtcoq5G",
     "colors": ["Black", "Beige"],
     "specialSell": 4500,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["18:00", "17:59"]],
     "activeMonths": {
       "northern": [1, 2, 12],
       "southern": [6, 7, 8]
@@ -2681,7 +2681,7 @@
     "uniqueEntryId": "k2fqxdYnTF8BpHB7u",
     "colors": ["Purple", "Orange"],
     "specialSell": 450,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["18:00", "17:59"]],
     "activeMonths": {
       "northern": [7, 8, 9],
       "southern": [1, 2, 3]
@@ -2706,7 +2706,7 @@
     "uniqueEntryId": "Lwkf7oQ3mcWYm6eEY",
     "colors": ["Blue", "Orange"],
     "specialSell": 6000,
-    "activeHours": [["18:00", "09:00"]],
+    "activeHours": [["11:00", "02:00"]],
     "activeMonths": {
       "northern": [1, 2, 3, 6, 7, 8, 9, 12],
       "southern": [1, 2, 3, 6, 7, 8, 9, 12]
@@ -2759,7 +2759,7 @@
     "uniqueEntryId": "PgiwPqykwafyz5EL6",
     "colors": ["Black", "Blue"],
     "specialSell": 450,
-    "activeHours": [["20:00", "05:00"]],
+    "activeHours": [["13:00", "22:00"]],
     "activeMonths": {
       "northern": [6],
       "southern": [12]
@@ -2784,7 +2784,7 @@
     "uniqueEntryId": "QzDywoJEAJDcjGfEF",
     "colors": ["Brown", "White"],
     "specialSell": 105,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["18:00", "17:59"]],
     "activeMonths": {
       "northern": [4, 5, 6, 7, 8, 9, 10, 11],
       "southern": [1, 2, 3, 4, 5, 10, 11, 12]
@@ -2809,7 +2809,7 @@
     "uniqueEntryId": "xdBmuMgXJ6jGxpabK",
     "colors": ["Black", "White"],
     "specialSell": 90,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["18:00", "17:59"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
       "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
@@ -2834,7 +2834,7 @@
     "uniqueEntryId": "nPm2r7idGshQW87MN",
     "colors": ["Black", "Yellow"],
     "specialSell": 750,
-    "activeHours": [["09:00", "18:00"]],
+    "activeHours": [["02:00", "11:00"]],
     "activeMonths": {
       "northern": [7, 8],
       "southern": [1, 2]
@@ -2859,7 +2859,7 @@
     "uniqueEntryId": "KhrTLzayFz23zz2kn",
     "colors": ["Black", "Black"],
     "specialSell": 15000,
-    "activeHours": [["00:00", "09:00"]],
+    "activeHours": [["17:00", "02:00"]],
     "activeMonths": {
       "northern": [7, 8],
       "southern": [1, 2]
@@ -2884,7 +2884,7 @@
     "uniqueEntryId": "ZsDdBvqAjZMG8EQkZ",
     "colors": ["Brown", "Blue"],
     "specialSell": 3000,
-    "activeHours": [["20:00", "09:00"]],
+    "activeHours": [["13:00", "02:00"]],
     "activeMonths": {
       "northern": [4, 5, 6, 7, 8, 9],
       "southern": [1, 2, 3, 10, 11, 12]
@@ -2909,7 +2909,7 @@
     "uniqueEntryId": "PSChjzMhGwhnsHTs4",
     "colors": ["Black", "Black"],
     "specialSell": 18000,
-    "activeHours": [["18:00", "09:00"]],
+    "activeHours": [["11:00", "02:00"]],
     "activeMonths": {
       "northern": [7, 8],
       "southern": [1, 2]
@@ -2934,7 +2934,7 @@
     "uniqueEntryId": "2C8cSphidFCBPxYEe",
     "colors": ["Black", "Yellow"],
     "specialSell": 18000,
-    "activeHours": [["18:00", "09:00"]],
+    "activeHours": [["11:00", "02:00"]],
     "activeMonths": {
       "northern": [7, 8],
       "southern": [1, 2]
@@ -2959,7 +2959,7 @@
     "uniqueEntryId": "wZQMZfhtRyPFAapmF",
     "colors": ["Red", "Black"],
     "specialSell": 12000,
-    "activeHours": [["18:00", "09:00"]],
+    "activeHours": [["11:00", "02:00"]],
     "activeMonths": {
       "northern": [6, 7, 8, 9],
       "southern": [1, 2, 3, 12]
@@ -2984,7 +2984,7 @@
     "uniqueEntryId": "zkzSLJPkkcwXwShKc",
     "colors": ["Green", "Beige"],
     "specialSell": 240,
-    "activeHours": [["09:00", "18:00"]],
+    "activeHours": [["02:00", "11:00"]],
     "activeMonths": {
       "northern": [7, 8, 9],
       "southern": [1, 2, 3]
@@ -3009,7 +3009,7 @@
     "uniqueEntryId": "ZSre7sheZoRqsJwHQ",
     "colors": ["Purple", "Orange"],
     "specialSell": 4500,
-    "activeHours": [["05:00", "20:00"]],
+    "activeHours": [["22:00", "13:00"]],
     "activeMonths": {
       "northern": [5, 6, 7, 8],
       "southern": [1, 2, 11, 12]
@@ -3034,7 +3034,7 @@
     "uniqueEntryId": "TzbsfYgE4k2qo7fHN",
     "colors": ["Beige", "Pink"],
     "specialSell": 1500,
-    "activeHours": [["20:00", "09:00"]],
+    "activeHours": [["13:00", "02:00"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
       "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
@@ -3059,7 +3059,7 @@
     "uniqueEntryId": "yeWiAiqDRwinvumDm",
     "colors": ["Yellow", "Blue"],
     "specialSell": 300,
-    "activeHours": [["09:00", "18:00"]],
+    "activeHours": [["02:00", "11:00"]],
     "activeMonths": {
       "northern": [3, 4, 5, 6, 7],
       "southern": [1, 9, 10, 11, 12]
@@ -3084,7 +3084,7 @@
     "uniqueEntryId": "S93y8gxrSHFNCFmwJ",
     "colors": ["Black", "Black"],
     "specialSell": 12000,
-    "activeHours": [["18:00", "09:00"]],
+    "activeHours": [["11:00", "02:00"]],
     "activeMonths": {
       "northern": [7, 8],
       "southern": [1, 2]
@@ -3109,7 +3109,7 @@
     "uniqueEntryId": "zaG8qsKLpbTjysx7D",
     "colors": ["Brown", "Black"],
     "specialSell": 2025,
-    "activeHours": [["18:00", "09:00"]],
+    "activeHours": [["11:00", "02:00"]],
     "activeMonths": {
       "northern": [7, 8],
       "southern": [1, 2]
@@ -3134,7 +3134,7 @@
     "uniqueEntryId": "M7SHXNEMf78nJD6fE",
     "colors": ["Beige", "Black"],
     "specialSell": 12000,
-    "activeHours": [["18:00", "09:00"]],
+    "activeHours": [["11:00", "02:00"]],
     "activeMonths": {
       "northern": [7, 8],
       "southern": [1, 2]
@@ -3159,7 +3159,7 @@
     "uniqueEntryId": "TqhEomNEMDZ2wcTpk",
     "colors": ["Yellow", "Black"],
     "specialSell": 18000,
-    "activeHours": [["18:00", "09:00"]],
+    "activeHours": [["11:00", "02:00"]],
     "activeMonths": {
       "northern": [7, 8],
       "southern": [1, 2]
@@ -3184,7 +3184,7 @@
     "uniqueEntryId": "TYFowxRG4ydcvotkQ",
     "colors": ["Green", "Black"],
     "specialSell": 3600,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["18:00", "17:59"]],
     "activeMonths": {
       "northern": [4, 5, 6, 7, 8],
       "southern": [1, 2, 10, 11, 12]
@@ -3209,7 +3209,7 @@
     "uniqueEntryId": "pYSSbvXzkuFneRvQ7",
     "colors": ["Red", "Green"],
     "specialSell": 300,
-    "activeHours": [["09:00", "18:00"]],
+    "activeHours": [["02:00", "11:00"]],
     "activeMonths": {
       "northern": [3, 4, 5, 6, 10],
       "southern": [4, 9, 10, 11, 12]
@@ -3234,7 +3234,7 @@
     "uniqueEntryId": "Q57sgq4hQTNZAqWXj",
     "colors": ["Green", "Blue"],
     "specialSell": 300,
-    "activeHours": [["09:00", "20:00"]],
+    "activeHours": [["02:00", "13:00"]],
     "activeMonths": {
       "northern": [4, 5, 6, 7, 8, 9, 10, 11],
       "southern": [1, 2, 3, 4, 5, 10, 11, 12]
@@ -3259,7 +3259,7 @@
     "uniqueEntryId": "EFWMygLqnJinFoXSW",
     "colors": ["Green", "Pink"],
     "specialSell": 3750,
-    "activeHours": [["09:00", "17:00"]],
+    "activeHours": [["02:00", "10:00"]],
     "activeMonths": {
       "northern": [4, 5, 6, 7, 8, 9],
       "southern": [1, 2, 3, 10, 11, 12]
@@ -3284,7 +3284,7 @@
     "uniqueEntryId": "zvr84Jvf4s6K23XJ5",
     "colors": ["Black", "Orange"],
     "specialSell": 1500,
-    "activeHours": [["20:00", "09:00"]],
+    "activeHours": [["13:00", "02:00"]],
     "activeMonths": {
       "northern": [3, 4, 5, 6, 7, 8, 9, 10],
       "southern": [1, 2, 3, 4, 9, 10, 11, 12]
@@ -3309,7 +3309,7 @@
     "uniqueEntryId": "Qko2mfz7SaESpMcCv",
     "colors": ["Green", "Green"],
     "specialSell": 645,
-    "activeHours": [["09:00", "18:00"]],
+    "activeHours": [["02:00", "11:00"]],
     "activeMonths": {
       "northern": [3, 4, 5, 6, 7, 8, 9, 10, 11],
       "southern": [1, 2, 3, 4, 5, 9, 10, 11, 12]
@@ -3334,7 +3334,7 @@
     "uniqueEntryId": "dkGagcjd7aZwFEszw",
     "colors": ["Green", "Orange"],
     "specialSell": 900,
-    "activeHours": [["09:00", "20:00"]],
+    "activeHours": [["02:00", "13:00"]],
     "activeMonths": {
       "northern": [8, 9, 10, 11],
       "southern": [2, 3, 4, 5]
@@ -3359,7 +3359,7 @@
     "uniqueEntryId": "qRGGm6MfuP4Aqdk3M",
     "colors": ["Black", "Black"],
     "specialSell": 1500,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["18:00", "17:59"]],
     "activeMonths": {
       "northern": [7, 8],
       "southern": [1, 2]
@@ -3384,7 +3384,7 @@
     "uniqueEntryId": "HMWPGeeKw9LP6ucSq",
     "colors": ["Brown", "Yellow"],
     "specialSell": 750,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["18:00", "17:59"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 11, 12],
       "southern": [5, 6, 7, 8, 9, 10, 11]
@@ -3409,7 +3409,7 @@
     "uniqueEntryId": "BJPKSZMZ2tkLXkWjL",
     "colors": ["Orange", "Blue"],
     "specialSell": 210,
-    "activeHours": [["05:00", "18:00"]],
+    "activeHours": [["22:00", "11:00"]],
     "activeMonths": {
       "northern": [9, 10, 11],
       "southern": [3, 4, 5]
@@ -3434,7 +3434,7 @@
     "uniqueEntryId": "3mMZ74qpWWnoizJHh",
     "colors": ["Black", "White"],
     "specialSell": 195,
-    "activeHours": [["18:00", "05:00"]],
+    "activeHours": [["11:00", "22:00"]],
     "activeMonths": {
       "northern": [6, 7, 8, 9],
       "southern": [1, 2, 3, 12]
@@ -3459,7 +3459,7 @@
     "uniqueEntryId": "7Kd97rqbYBuzuCHgf",
     "colors": ["Beige", "Yellow"],
     "specialSell": 195,
-    "activeHours": [["20:00", "05:00"]],
+    "activeHours": [["13:00", "22:00"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
       "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
@@ -3484,7 +3484,7 @@
     "uniqueEntryId": "9b4v6nMrrThHEtNbB",
     "colors": ["White", "Pink"],
     "specialSell": 3600,
-    "activeHours": [["09:00", "18:00"]],
+    "activeHours": [["02:00", "11:00"]],
     "activeMonths": {
       "northern": [3, 4, 5, 6, 7, 8, 9, 10, 11],
       "southern": [1, 2, 3, 4, 5, 9, 10, 11, 12]
@@ -3509,7 +3509,7 @@
     "uniqueEntryId": "hzwridDJE99rPHLrZ",
     "colors": ["White", "Yellow"],
     "specialSell": 1500,
-    "activeHours": [["09:00", "20:00"]],
+    "activeHours": [["02:00", "13:00"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
       "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
@@ -3534,7 +3534,7 @@
     "uniqueEntryId": "rguKzmnRkGmBMKzyE",
     "colors": ["Green", "Blue"],
     "specialSell": 3750,
-    "activeHours": [["05:00", "20:00"]],
+    "activeHours": [["22:00", "13:00"]],
     "activeMonths": {
       "northern": [3, 4, 5, 6],
       "southern": [9, 10, 11, 12]
@@ -3559,7 +3559,7 @@
     "uniqueEntryId": "SGHXhcTzaNJD2z926",
     "colors": ["Black", "Blue"],
     "specialSell": 375,
-    "activeHours": [["00:00", "17:00"]],
+    "activeHours": [["17:00", "10:00"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 6, 9, 10, 11, 12],
       "southern": [3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
@@ -3584,7 +3584,7 @@
     "uniqueEntryId": "eSBNwiuZforpxNYem",
     "colors": ["Black", "Blue"],
     "specialSell": 195,
-    "activeHours": [["09:00", "20:00"]],
+    "activeHours": [["02:00", "13:00"]],
     "activeMonths": {
       "northern": [5, 6, 7, 8, 9],
       "southern": [1, 2, 3, 11, 12]
@@ -3609,7 +3609,7 @@
     "uniqueEntryId": "PbNXeN9GZuJuow7jv",
     "colors": ["Green", "Pink"],
     "specialSell": 6000,
-    "activeHours": [["09:00", "17:00"]],
+    "activeHours": [["02:00", "10:00"]],
     "activeMonths": {
       "northern": [5, 6, 7, 8, 9],
       "southern": [1, 2, 3, 11, 12]
@@ -3634,7 +3634,7 @@
     "uniqueEntryId": "Egfv6BDtFMeGZPmfh",
     "colors": ["Brown", "Black"],
     "specialSell": 9000,
-    "activeHours": [["20:00", "09:00"]],
+    "activeHours": [["13:00", "02:00"]],
     "activeMonths": {
       "northern": [6, 7, 8, 9],
       "southern": [1, 2, 3, 12]
@@ -3659,7 +3659,7 @@
     "uniqueEntryId": "gLpHgXT4pPXP4XfWQ",
     "colors": ["Green", "Pink"],
     "specialSell": 3750,
-    "activeHours": [["09:00", "18:00"]],
+    "activeHours": [["02:00", "11:00"]],
     "activeMonths": {
       "northern": [1, 2, 4, 5, 6, 7, 8, 9, 12],
       "southern": [1, 2, 3, 6, 7, 8, 10, 11, 12]
@@ -3684,7 +3684,7 @@
     "uniqueEntryId": "PKSHvkPphXteXHKuG",
     "colors": ["Red", "Orange"],
     "specialSell": 270,
-    "activeHours": [["09:00", "20:00"]],
+    "activeHours": [["02:00", "13:00"]],
     "activeMonths": {
       "northern": [9, 10],
       "southern": [3, 4]
@@ -3709,7 +3709,7 @@
     "uniqueEntryId": "ZxXDxrgPvXEHz24Ni",
     "colors": ["Green", "Yellow"],
     "specialSell": 600,
-    "activeHours": [["09:00", "20:00"]],
+    "activeHours": [["02:00", "13:00"]],
     "activeMonths": {
       "northern": [8, 9, 10, 11],
       "southern": [2, 3, 4, 5]
@@ -3734,7 +3734,7 @@
     "uniqueEntryId": "cd5ymnRmRvT4n4yjB",
     "colors": ["Black", "Blue"],
     "specialSell": 450,
-    "activeHours": [["09:00", "18:00"]],
+    "activeHours": [["02:00", "11:00"]],
     "activeMonths": {
       "northern": [7, 8],
       "southern": [1, 2]
@@ -3759,7 +3759,7 @@
     "uniqueEntryId": "MSTA9vdJmGoDDADrF",
     "colors": ["Blue", "Black"],
     "specialSell": 4500,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["18:00", "17:59"]],
     "activeMonths": {
       "northern": [5, 6, 7, 8, 9],
       "southern": [1, 2, 3, 11, 12]
@@ -3784,7 +3784,7 @@
     "uniqueEntryId": "YQq3iSiBcBAHTWxc2",
     "colors": ["Brown", "Black"],
     "specialSell": 3000,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["18:00", "17:59"]],
     "activeMonths": {
       "northern": [7, 8],
       "southern": [1, 2]
@@ -3809,7 +3809,7 @@
     "uniqueEntryId": "2HXdFD8s6BmYYMf4u",
     "colors": ["Black", "Beige"],
     "specialSell": 15000,
-    "activeHours": [["00:00", "21:00"]],
+    "activeHours": [["17:00", "14:00"]],
     "activeMonths": {
       "northern": [7, 8],
       "southern": [1, 2]
@@ -3834,7 +3834,7 @@
     "uniqueEntryId": "xMzHsHbjvvicZvYxg",
     "colors": ["Black", "Black"],
     "specialSell": 12000,
-    "activeHours": [["20:00", "05:00"]],
+    "activeHours": [["13:00", "22:00"]],
     "activeMonths": {
       "northern": [5, 6, 7, 8, 9, 10],
       "southern": [1, 2, 3, 4, 11, 12]
@@ -3859,7 +3859,7 @@
     "uniqueEntryId": "rDNLeQnmJQGxsHpmL",
     "colors": ["Beige", "Green"],
     "specialSell": 375,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["18:00", "17:59"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
       "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
@@ -3884,7 +3884,7 @@
     "uniqueEntryId": "s2u8kDoMQx7GbAJTR",
     "colors": ["Yellow", "Orange"],
     "specialSell": 900,
-    "activeHours": [["20:00", "09:00"]],
+    "activeHours": [["13:00", "02:00"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
       "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
@@ -3909,7 +3909,7 @@
     "uniqueEntryId": "4u5GZ4z3CyaHhMgqj",
     "colors": ["Green", "Yellow"],
     "specialSell": 180,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["18:00", "17:59"]],
     "activeMonths": {
       "northern": [3, 4, 5, 6, 7, 8, 9, 10],
       "southern": [1, 2, 3, 4, 9, 10, 11, 12]
@@ -3934,7 +3934,7 @@
     "uniqueEntryId": "4mto3ZvrZYpJxbm4c",
     "colors": ["Brown", "Black"],
     "specialSell": 12000,
-    "activeHours": [["20:00", "05:00"]],
+    "activeHours": [["13:00", "22:00"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 11, 12],
       "southern": [5, 6, 7, 8, 9, 10]
@@ -3959,7 +3959,7 @@
     "uniqueEntryId": "zzGvu3797KnMb4LCD",
     "colors": ["Green", "Yellow"],
     "specialSell": 2250,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["18:00", "17:59"]],
     "activeMonths": {
       "northern": [2, 3, 4, 5, 6, 7, 8, 9, 10],
       "southern": [1, 2, 3, 4, 8, 9, 10, 11, 12]
@@ -3984,7 +3984,7 @@
     "uniqueEntryId": "GcSpepwg536mYnNuu",
     "colors": ["Yellow", "Green"],
     "specialSell": 360,
-    "activeHours": [["05:00", "20:00"]],
+    "activeHours": [["22:00", "13:00"]],
     "activeMonths": {
       "northern": [3, 4, 5, 6, 7, 8, 9],
       "southern": [1, 2, 3, 9, 10, 11, 12]
@@ -4009,7 +4009,7 @@
     "uniqueEntryId": "poAcys5Mr35ELp5PS",
     "colors": ["Brown", "Black"],
     "specialSell": 675,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["18:00", "17:59"]],
     "activeMonths": {
       "northern": [5, 6, 9, 10, 11],
       "southern": [3, 4, 5, 11, 12]
@@ -4034,7 +4034,7 @@
     "uniqueEntryId": "QdrL4K7seJHvd4ZZM",
     "colors": ["Black", "Pink"],
     "specialSell": 600,
-    "activeHours": [["09:00", "18:00"]],
+    "activeHours": [["02:00", "11:00"]],
     "activeMonths": {
       "northern": [8, 9],
       "southern": [2, 3]
@@ -4059,7 +4059,7 @@
     "uniqueEntryId": "kuZaMcg2E7ZX56nio",
     "colors": ["Green", "Green"],
     "specialSell": 900,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["18:00", "17:59"]],
     "activeMonths": {
       "northern": [7, 8, 9],
       "southern": [1, 2, 3]
@@ -4112,7 +4112,7 @@
     "uniqueEntryId": "ZEfBHqM6pFEddBezw",
     "colors": ["Yellow", "Orange"],
     "specialSell": 3750,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["18:00", "17:59"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
       "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
@@ -4137,7 +4137,7 @@
     "uniqueEntryId": "2fp9ChfPuPdYefTK3",
     "colors": ["Beige", "Blue"],
     "specialSell": 300,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["18:00", "17:59"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
       "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
@@ -4162,7 +4162,7 @@
     "uniqueEntryId": "9d92MqgcnGao8wQjB",
     "colors": ["Yellow", "Blue"],
     "specialSell": 240,
-    "activeHours": [["05:00", "20:00"]],
+    "activeHours": [["22:00", "13:00"]],
     "activeMonths": {
       "northern": [3, 4, 5, 6, 9, 10],
       "southern": [3, 4, 9, 10, 11, 12]

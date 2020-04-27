@@ -1,0 +1,352 @@
+[
+  {
+    "sourceSheet": "Reactions",
+    "name": "Aggravation",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Outraged.png",
+    "source": ["Peppy"],
+    "internalId": null,
+    "uniqueEntryId": "6suhKYAAhh5QMKt64"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "name": "Agreement",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Nodding.png",
+    "source": ["Cranky"],
+    "internalId": null,
+    "uniqueEntryId": "7smqwK9J7eFBxta28"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "name": "Amazed",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Shocked.png",
+    "source": ["Snooty"],
+    "internalId": null,
+    "uniqueEntryId": "vosig4bbr4kPq57AT"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "name": "Apologetic",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Apologize.png",
+    "source": ["Big Sister"],
+    "internalId": null,
+    "uniqueEntryId": "jBKsQYCAd7PtymQeB"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "name": "Bashfulness",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Blushing.png",
+    "source": ["Lazy"],
+    "internalId": null,
+    "uniqueEntryId": "wzvKbFrEJCseTohoz"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "name": "Bewilderment",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Pardon.png",
+    "source": ["Cranky"],
+    "internalId": null,
+    "uniqueEntryId": "WRSSRZMtM6rXfXBrR"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "name": "Cold Chill",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/ColdChill.png",
+    "source": ["Big Sister"],
+    "internalId": null,
+    "uniqueEntryId": "K62u2owKFDLmPCB3Q"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "name": "Confident",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Assent.png",
+    "source": ["Big Sister"],
+    "internalId": null,
+    "uniqueEntryId": "TGifHTbyLBh4f3gDQ"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "name": "Curiosity",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/QuestionMark.png",
+    "source": ["Peppy"],
+    "internalId": null,
+    "uniqueEntryId": "SskgipgnKzm5TsK7d"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "name": "Daydreaming",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/AbsentMindedness.png",
+    "source": ["Normal"],
+    "internalId": null,
+    "uniqueEntryId": "JFrTBJCEaX5R4kABT"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "name": "Delight",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Clapping.png",
+    "source": ["All"],
+    "internalId": null,
+    "uniqueEntryId": "F9DpGeqZzDeSTh2bq"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "name": "Disagreement",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Negative.png",
+    "source": ["Big Sister"],
+    "internalId": null,
+    "uniqueEntryId": "Bw5YBM6iuWgMzutWq"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "name": "Distress",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Frantic.png",
+    "source": ["Jock"],
+    "internalId": null,
+    "uniqueEntryId": "vsSjQBZXPeSK6uDTK"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "name": "Dozing",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Sleep.png",
+    "source": ["Smug"],
+    "internalId": null,
+    "uniqueEntryId": "2vvgAacGjthcFW5Qa"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "name": "Encouraging",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Cheering.png",
+    "source": ["Jock"],
+    "internalId": null,
+    "uniqueEntryId": "fomfML4NWdY8x6adv"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "name": "Fearful",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Shaking.png",
+    "source": ["Normal"],
+    "internalId": null,
+    "uniqueEntryId": "noKrWYCMSWcH4jwvi"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "name": "Flourish",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Dance.png",
+    "source": ["Jock"],
+    "internalId": null,
+    "uniqueEntryId": "5QDD3DcwdPhbGoJAf"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "name": "Glee",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/HappyDance.png",
+    "source": ["Normal"],
+    "internalId": null,
+    "uniqueEntryId": "8nAwdhzZfotqpLC9R"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "name": "Greetings",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Greeting.png",
+    "source": ["All"],
+    "internalId": null,
+    "uniqueEntryId": "oE6uqhZYjYfuqb55n"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "name": "Happiness",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Smiling.png",
+    "source": ["Peppy"],
+    "internalId": null,
+    "uniqueEntryId": "TWENXBbBENgnFiGq3"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "name": "Heartbreak",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/BrokenHeart.png",
+    "source": ["Smug"],
+    "internalId": null,
+    "uniqueEntryId": "ex6gKZu6zsyd6MgDr"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "name": "Inspiration",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/IdeaBulb.png",
+    "source": ["Cranky"],
+    "internalId": null,
+    "uniqueEntryId": "8ux4ddfibJQR2EuWW"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "name": "Intense",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Silent.png",
+    "source": ["Snooty"],
+    "internalId": null,
+    "uniqueEntryId": "X2kzqTaPwtG6SGNT8"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "name": "Joy",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/HappyFlower.png",
+    "source": ["All"],
+    "internalId": null,
+    "uniqueEntryId": "fSNyHJHgLKac5mSLT"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "name": "Laughter",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Laughing.png",
+    "source": ["Big Sister"],
+    "internalId": null,
+    "uniqueEntryId": "EBenMHMpwnkMgS6eg"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "name": "Love",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Love.png",
+    "source": ["Snooty"],
+    "internalId": null,
+    "uniqueEntryId": "GvAsErCFuGAcMAeXM"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "name": "Mischief",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Scheming.png",
+    "source": ["Peppy"],
+    "internalId": null,
+    "uniqueEntryId": "E7it7yLfFaddFvEhQ"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "name": "Mistaken",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Oops.png",
+    "source": ["Lazy"],
+    "internalId": null,
+    "uniqueEntryId": "DPR7WWkmR36Bsf2LG"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "name": "Pleased",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Hello.png",
+    "source": ["Normal"],
+    "internalId": null,
+    "uniqueEntryId": "Z3MuKfQMaH3D8vkPA"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "name": "Pride",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/SmugFace.png",
+    "source": ["Lazy"],
+    "internalId": null,
+    "uniqueEntryId": "xKoQpdJMtocNFRckm"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "name": "Resignation",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/OhGeez.png",
+    "source": ["Smug"],
+    "internalId": null,
+    "uniqueEntryId": "7YdF3ZMr95XP3FaoW"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "name": "Sadness",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/SadSpiral.png",
+    "source": ["Normal"],
+    "internalId": null,
+    "uniqueEntryId": "Wo8q6KhPtL2CYwat4"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "name": "Sheepishness",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/WrySmile.png",
+    "source": ["Cranky"]
+  },
+  {
+    "sourceSheet": "Reactions",
+    "name": "Shocked",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Surprised.png",
+    "source": ["Jock"],
+    "internalId": null,
+    "uniqueEntryId": "bn29da8SNdMYYyWAa"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "name": "Showmanship",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Shaki.png",
+    "source": ["Smug"],
+    "internalId": null,
+    "uniqueEntryId": "Bj5iG7kc6tLND9bjn"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "name": "Shyness",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Hesitate.png",
+    "source": ["Lazy"],
+    "internalId": null,
+    "uniqueEntryId": "9H7jt7AGKbh6mW4y8"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "name": "Sighing",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Sighing.png",
+    "source": ["Snooty"],
+    "internalId": null,
+    "uniqueEntryId": "ntjLqg82EQNsgnzYA"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "name": "Sleepy",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Sleepy.png",
+    "source": ["Peppy"],
+    "internalId": null,
+    "uniqueEntryId": "9e5BhxmqtMurNWqW4"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "name": "Smirking",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Grin.png",
+    "source": ["Smug"],
+    "internalId": null,
+    "uniqueEntryId": "KDAWT9zDKpufEWgaW"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "name": "Sneezing",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Sneezing.png",
+    "source": ["Jock"],
+    "internalId": null,
+    "uniqueEntryId": "F6Dkk4PGtjDMCgry3"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "name": "Sorrow",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Crying.png",
+    "source": ["Lazy"],
+    "internalId": null,
+    "uniqueEntryId": "W8nngMS98uwpHHW4m"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "name": "Surprise",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Aha.png",
+    "source": ["All"],
+    "internalId": null,
+    "uniqueEntryId": "7jmkZiSxrYT7MMm4P"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "name": "Thought",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Thinking.png",
+    "source": ["Snooty"],
+    "internalId": null,
+    "uniqueEntryId": "HEFCeCGtJ7Bkb5PXG"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "name": "Worry",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Worried.png",
+    "source": ["Cranky"],
+    "internalId": null,
+    "uniqueEntryId": "TygKeKxvotLEzWqvY"
+  }
+]

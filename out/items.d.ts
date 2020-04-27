@@ -7,7 +7,7 @@ export interface Items {
   size?: Size;
   sourceNotes?: null | string;
   version: Version;
-  interact?: boolean;
+  interact?: boolean | InteractEnum;
   tag?: null | string;
   speakerType?: SpeakerType | null;
   lightingType?: LightingType | null;
@@ -79,6 +79,9 @@ export declare enum CurtainType {
   Curtains = 'Curtains',
   RollerShades = 'Roller Shades',
   SlattedBlinds = 'Slatted Blinds',
+}
+export declare enum InteractEnum {
+  Wardrobe = 'Wardrobe',
 }
 export declare enum LightingType {
   Candle = 'Candle',
