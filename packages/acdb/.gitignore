@@ -1,0 +1,9 @@
+.idea/
+.vscode/
+node_modules/
+cache/
+build/
+credentials.json
+token.json
+
+*.tsbuildinfo

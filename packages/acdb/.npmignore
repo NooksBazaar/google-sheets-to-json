@@ -1,0 +1,10 @@
+.idea/
+.vscode/
+node_modules/
+cache/
+build/
+scripts/
+credentials.json
+token.json
+
+*.tsbuildinfo

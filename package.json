@@ -1,23 +1,48 @@
 {
-  "name": "@nooksbazaar/acdb",
-  "version": "0.2.3",
-  "scripts": {
-    "build": "bash bin/build.sh",
-    "prettier:fix": "prettier '**/*.ts' README.md --write",
-    "start": "tsc -w"
-  },
-  "author": "Adam Lavin",
-  "license": "MIT",
+  "private": true,
+  "dependencies": {},
   "devDependencies": {
-    "@types/lodash": "^4.14.150",
-    "@types/node": "^13.13.0",
-    "date-fns": "^2.12.0",
-    "googleapis": "39",
-    "lodash": "^4.17.15",
-    "prettier": "^2.0.4",
-    "quicktype": "^15.0.223",
-    "ts-node": "^8.8.2",
-    "tslib": "^1.11.1",
-    "typescript": "^3.8.3"
+    "@types/node": "^11.13.2",
+    "commitizen": "^4.0.4",
+    "lerna": "^3.20.2",
+    "lerna-changelog": "^1.0.1",
+    "cz-conventional-changelog": "3.1.0",
+    "prettier": "^2.0.5",
+    "rimraf": "^3.0.2",
+    "typescript": "^3.4.3"
+  },
+  "scripts": {
+    "commit": "git-cz",
+    "prettier:fix": "prettier 'packages/**/!(node_modules)/**/*.ts' --write",
+    "clean": "rimraf packages/**/dist",
+    "build": "yarn --pure-lockfile && yarn clean && lerna run build"
+  },
+  "author": {
+    "name": "ACDB Team"
+  },
+  "maintainers": [
+    {
+      "name": "Adam Lavin"
+    },
+    {
+      "name": "Thibaut DAVID",
+      "email": "thibautdavid@icloud.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/acdb-team/google-sheets-to-json.git"
+  },
+  "bugs": {
+    "url": "https://github.com/acdb-team/google-sheets-to-json/issues"
+  },
+  "name": "acdb-monorepo",
+  "workspaces": [
+    "packages/*"
+  ],
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   }
 }

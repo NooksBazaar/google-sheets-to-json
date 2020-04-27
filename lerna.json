@@ -1,0 +1,18 @@
+{
+  "npmClient": "yarn",
+  "npmClientArgs": ["--no-lockfile"],
+  "useWorkspaces": true,
+  "version": "independent",
+  "changelog": {
+    "labels": {
+      "New Feature": ":rocket: New Feature",
+      "Breaking Change": ":boom: Breaking Change",
+      "Bug Fix": ":bug: Bug Fix",
+      "Enhancement": ":nail_care: Enhancement",
+      "Documentation": ":memo: Documentation",
+      "Internal": ":house: Internal",
+      "Underlying Tools": ":hammer: Underlying Tools"
+    },
+    "cacheDir": ".changelog"
+  }
+}
