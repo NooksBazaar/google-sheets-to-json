@@ -112,7 +112,7 @@ export async function main(auth: OAuth2Client) {
   const all = [];
 
   for (const [key] of workSet) {
-    if (key === 'achievements') {
+    if (key === 'achievements' || key === 'reactions') {
       continue;
     }
 

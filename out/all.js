@@ -202,7 +202,6 @@ var SourceSheet;
     SourceSheet["Other"] = "Other";
     SourceSheet["Photos"] = "Photos";
     SourceSheet["Posters"] = "Posters";
-    SourceSheet["Reactions"] = "Reactions";
     SourceSheet["Recipes"] = "Recipes";
     SourceSheet["Rugs"] = "Rugs";
     SourceSheet["Shoes"] = "Shoes";

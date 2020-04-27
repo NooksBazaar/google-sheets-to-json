@@ -277,7 +277,6 @@ export enum SourceSheet {
   Other = 'Other',
   Photos = 'Photos',
   Posters = 'Posters',
-  Reactions = 'Reactions',
   Recipes = 'Recipes',
   Rugs = 'Rugs',
   Shoes = 'Shoes',
