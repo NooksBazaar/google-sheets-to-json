@@ -480,6 +480,8 @@ const ITEM_VARIATION_KEYS = [
   'themes',
   'highResTexture',
   'inventoryImage',
+  'framedImage',
+  'albumImage',
 ];
 
 const keysWithDifferentValueToRoot = new Set();
