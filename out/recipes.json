@@ -2,8 +2,8 @@
   {
     "sourceSheet": "Recipes",
     "name": "acorn pochette",
-    "source": ["Snowboy"],
-    "sourceNotes": "Reward for making a perfect Snowboy; Only available during Winter",
+    "source": ["Balloons"],
+    "sourceNotes": "Only availiable during Fall",
     "version": "1.0.0",
     "category": "Bags",
     "internalId": 632,
@@ -3287,8 +3287,8 @@
   {
     "sourceSheet": "Recipes",
     "name": "hedge",
-    "source": [""],
-    "sourceNotes": null,
+    "source": ["Tom Nook"],
+    "sourceNotes": "Obtained from Tom Nook after completing one Nature Day Nook Miles+ task",
     "version": "1.2.0",
     "category": "Fencing",
     "internalId": 713,
@@ -4578,7 +4578,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "maple-leaf pochette",
-    "source": ["Balloons (Maple Leaf Season)"],
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Maple Leaf Season",
     "version": "1.0.0",
     "category": "Bags",
@@ -4591,7 +4591,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "maple-leaf pond stone",
-    "source": ["Balloons (Maple Leaf Season)"],
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Maple Leaf Season",
     "version": "1.0.0",
     "category": "Housewares",
@@ -4605,7 +4605,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "maple-leaf umbrella",
-    "source": ["Balloons (Maple Leaf Season)"],
+    "source": ["Balloons"],
     "sourceNotes": "Only available during Maple Leaf Season",
     "version": "1.0.0",
     "category": "Umbrellas",

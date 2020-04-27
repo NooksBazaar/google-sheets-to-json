@@ -34,17 +34,20 @@ export interface Item {
     type?: string;
     framedImage?: null | string;
     albumImage?: null | string;
-    inventoryImage?: string;
     category?: Category | null;
     realArtworkTitle?: string;
     artist?: string;
     museumDescription?: string;
     num?: number;
+    iconImage?: string;
+    critterpediaImage?: string;
+    furnitureImage?: string;
     sell?: number;
     whereHow?: string;
     shadow?: string;
     rarity?: Rarity;
     rainSnowCatchUp?: boolean;
+    iconFilename?: string;
     critterpediaFilename?: string;
     furnitureFilename?: string;
     internalId?: number | null;
@@ -178,7 +181,7 @@ export declare enum PaneType {
     Screen = "Screen"
 }
 export declare enum Personality {
-    BigSister = "Big sister",
+    BigSister = "Big Sister",
     Cranky = "Cranky",
     Jock = "Jock",
     Lazy = "Lazy",
@@ -298,6 +301,7 @@ export interface Variant {
     closetImage?: string;
     storageImage?: null | string;
     labelThemes?: LabelTheme[];
+    inventoryImage?: string;
     genuine?: boolean;
     highResTexture?: null;
 }

@@ -34,7 +34,6 @@ export interface Items {
   type?: string;
   framedImage?: null | string;
   albumImage?: null | string;
-  inventoryImage?: string;
   category?: Category;
   realArtworkTitle?: string;
   artist?: string;
@@ -181,6 +180,7 @@ export interface Variant {
   closetImage?: string;
   storageImage?: null | string;
   labelThemes?: LabelTheme[];
+  inventoryImage?: string;
   genuine?: boolean;
   highResTexture?: null;
 }

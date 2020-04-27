@@ -2,6 +2,9 @@ export interface Creatures {
     sourceSheet: SourceSheet;
     num: number;
     name: string;
+    iconImage: string;
+    critterpediaImage: string;
+    furnitureImage: string;
     sell: number;
     whereHow: string;
     shadow?: string;
@@ -9,6 +12,7 @@ export interface Creatures {
     rainSnowCatchUp?: boolean;
     size?: Size;
     lightingType?: LightingType | null;
+    iconFilename: string;
     critterpediaFilename: string;
     furnitureFilename: string;
     internalId: number;

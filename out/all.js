@@ -114,7 +114,7 @@ var PaneType;
 })(PaneType = exports.PaneType || (exports.PaneType = {}));
 var Personality;
 (function (Personality) {
-    Personality["BigSister"] = "Big sister";
+    Personality["BigSister"] = "Big Sister";
     Personality["Cranky"] = "Cranky";
     Personality["Jock"] = "Jock";
     Personality["Lazy"] = "Lazy";

@@ -46,7 +46,7 @@ export enum Hobby {
 }
 
 export enum Personality {
-  BigSister = 'Big sister',
+  BigSister = 'Big Sister',
   Cranky = 'Cranky',
   Jock = 'Jock',
   Lazy = 'Lazy',
