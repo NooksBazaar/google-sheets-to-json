@@ -11,6 +11,9 @@ yarn quicktype out/construction.json -o out/construction.ts --just-types -t Cons
 yarn quicktype out/achievements.json -o out/achievements.ts --just-types -t Achievements
 yarn quicktype out/all.json -o out/all.ts --just-types -t Item
 
+# Potential issue with files not being written before prettier can see them
+sleep 5
+
 yarn prettier:fix
 yarn prettier "out/*.json" --write
 

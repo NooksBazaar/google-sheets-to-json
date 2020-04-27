@@ -32,8 +32,6 @@ export interface Item {
   primaryShape?: PrimaryShape;
   secondaryShape?: SecondaryShape | null;
   type?: string;
-  framedImage?: null | string;
-  albumImage?: null | string;
   category?: Category | null;
   realArtworkTitle?: string;
   artist?: string;
@@ -320,6 +318,8 @@ export interface Variant {
   closetImage?: string;
   storageImage?: null | string;
   labelThemes?: LabelTheme[];
+  framedImage?: null | string;
+  albumImage?: null | string;
   inventoryImage?: string;
   genuine?: boolean;
   highResTexture?: null;
