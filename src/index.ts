@@ -172,6 +172,8 @@ const valueFormatters: ValueFormatters = {
   storageImage: extractImageUrl,
   albumImage: extractImageUrl,
   framedImage: extractImageUrl,
+  iconImage: extractImageUrl,
+  inventoryImage: extractImageUrl,
   uses: normaliseUse,
   source: (input: string) =>
     input.includes('\n')
@@ -287,11 +289,6 @@ export async function normalizeData(data: ItemData, sheetKey: string) {
 
     if (sheetKey === 'creatures') {
       item['colors'] = [item['color1'], item['color2']].filter(item => !!item);
-      // Temporary workaround
-      item['critterpediaImage'] = item['image'];
-      item['furnitureImage'] = item['house'];
-      delete item['image'];
-      delete item['house'];
 
       const startTime: string[] = item['startTime'];
       const endTime: string[] = item['endTime'];
@@ -482,6 +479,7 @@ const ITEM_VARIATION_KEYS = [
   'sell',
   'themes',
   'highResTexture',
+  'inventoryImage',
 ];
 
 const keysWithDifferentValueToRoot = new Set();
