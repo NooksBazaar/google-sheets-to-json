@@ -47,6 +47,10 @@ var CurtainType;
     CurtainType["RollerShades"] = "Roller Shades";
     CurtainType["SlattedBlinds"] = "Slatted Blinds";
 })(CurtainType = exports.CurtainType || (exports.CurtainType = {}));
+var InteractEnum;
+(function (InteractEnum) {
+    InteractEnum["Wardrobe"] = "Wardrobe";
+})(InteractEnum = exports.InteractEnum || (exports.InteractEnum = {}));
 var LightingType;
 (function (LightingType) {
     LightingType["Candle"] = "Candle";

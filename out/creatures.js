@@ -2,22 +2,24 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 var ActiveHour;
 (function (ActiveHour) {
-    ActiveHour["The0000"] = "00:00";
-    ActiveHour["The0059"] = "00:59";
-    ActiveHour["The0100"] = "01:00";
+    ActiveHour["The0200"] = "02:00";
+    ActiveHour["The0300"] = "03:00";
     ActiveHour["The0400"] = "04:00";
-    ActiveHour["The0500"] = "05:00";
-    ActiveHour["The0600"] = "06:00";
     ActiveHour["The0800"] = "08:00";
     ActiveHour["The0900"] = "09:00";
     ActiveHour["The1000"] = "10:00";
+    ActiveHour["The1100"] = "11:00";
+    ActiveHour["The1300"] = "13:00";
+    ActiveHour["The1400"] = "14:00";
+    ActiveHour["The1500"] = "15:00";
     ActiveHour["The1600"] = "16:00";
     ActiveHour["The1700"] = "17:00";
+    ActiveHour["The1759"] = "17:59";
     ActiveHour["The1800"] = "18:00";
     ActiveHour["The1900"] = "19:00";
-    ActiveHour["The2000"] = "20:00";
     ActiveHour["The2100"] = "21:00";
     ActiveHour["The2200"] = "22:00";
+    ActiveHour["The2300"] = "23:00";
 })(ActiveHour = exports.ActiveHour || (exports.ActiveHour = {}));
 var Color;
 (function (Color) {
