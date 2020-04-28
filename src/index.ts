@@ -1,8 +1,8 @@
 import {OAuth2Client} from 'google-auth-library';
 import {google, sheets_v4} from 'googleapis';
 import fs from 'fs';
-import {camelCase, isEqual, omit, pick, zipObject} from 'lodash';
-import {addMinutes, format, parse} from 'date-fns';
+import {camelCase, omit, pick, zipObject} from 'lodash';
+import {addMinutes, parse, format as dfFormat} from 'date-fns';
 
 const SHEET_ID = '1mo7myqHry5r_TKvakvIhHbcEAEQpSiNoNQoIS8sMpvM';
 
@@ -200,6 +200,12 @@ const NULL_VALUES = new Set([
   'Does not play music',
   'No lighting',
 ]);
+
+function format(date: Date, format: string) {
+  date = addMinutes(date, date.getTimezoneOffset());
+
+  return dfFormat(date, format);
+}
 
 const ALL_DAY: Array<[string, string]> = [
   [
