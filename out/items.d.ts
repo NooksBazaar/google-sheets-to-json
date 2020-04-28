@@ -27,6 +27,7 @@ export interface Items {
   ceilingType?: CeilingType | null;
   customize?: boolean;
   uses?: number;
+  stackSize?: number;
   seasonalAvailability?: SeasonalAvailability;
   style?: Style;
   primaryShape?: PrimaryShape;
