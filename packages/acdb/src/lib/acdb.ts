@@ -1,8 +1,8 @@
 import {OAuth2Client} from 'google-auth-library';
 import {google, sheets_v4} from 'googleapis';
 import fs from 'fs';
-import {camelCase, isEqual, omit, pick, zipObject} from 'lodash';
-import {addMinutes, format, parse} from 'date-fns';
+import {camelCase, omit, pick, zipObject} from 'lodash';
+import {addMinutes, parse, format as dfFormat} from 'date-fns';
 
 const OUTPUT_FOLDER = 'dist';
 
@@ -46,6 +46,8 @@ const CONSTRUCTION_SHEETS = ['Construction'];
 
 const ACHIEVEMENTS_SHEETS = ['Achievements'];
 
+const REACTIONS_SHEETS = ['Reactions'];
+
 type ItemData = any[];
 
 const validateIds = false;
@@ -69,6 +71,7 @@ export async function main(auth: OAuth2Client) {
     ['villagers', VILLAGERS_SHEETS],
     ['construction', CONSTRUCTION_SHEETS],
     ['achievements', ACHIEVEMENTS_SHEETS],
+    ['reactions', REACTIONS_SHEETS],
   ];
 
   const ids = new Set();
@@ -117,7 +120,7 @@ export async function main(auth: OAuth2Client) {
   const all = [];
 
   for (const [key] of workSet) {
-    if (key === 'achievements') {
+    if (key === 'achievements' || key === 'reactions') {
       continue;
     }
 
@@ -186,6 +189,8 @@ const valueFormatters: ValueFormatters = {
   storageImage: extractImageUrl,
   albumImage: extractImageUrl,
   framedImage: extractImageUrl,
+  iconImage: extractImageUrl,
+  inventoryImage: extractImageUrl,
   uses: normaliseUse,
   source: (input: string) =>
     input.includes('\n')
@@ -209,6 +214,12 @@ const NULL_VALUES = new Set([
   'Does not play music',
   'No lighting',
 ]);
+
+function format(date: Date, format: string) {
+  date = addMinutes(date, date.getTimezoneOffset());
+
+  return dfFormat(date, format);
+}
 
 const ALL_DAY: Array<[string, string]> = [
   [
@@ -301,11 +312,6 @@ export async function normalizeData(data: ItemData, sheetKey: string) {
 
     if (sheetKey === 'creatures') {
       item['colors'] = [item['color1'], item['color2']].filter(item => !!item);
-      // Temporary workaround
-      item['critterpediaImage'] = item['image'];
-      item['furnitureImage'] = item['house'];
-      delete item['image'];
-      delete item['house'];
 
       const startTime: string[] = item['startTime'];
       const endTime: string[] = item['endTime'];
@@ -496,6 +502,9 @@ const ITEM_VARIATION_KEYS = [
   'sell',
   'themes',
   'highResTexture',
+  'inventoryImage',
+  'framedImage',
+  'albumImage',
 ];
 
 const keysWithDifferentValueToRoot = new Set();

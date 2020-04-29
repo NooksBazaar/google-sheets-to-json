@@ -3,7 +3,9 @@
     "sourceSheet": "Fish",
     "num": 56,
     "name": "anchovy",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish81.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish81.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishAntyobiCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishAntyobi.png",
     "sell": 200,
     "whereHow": "Sea",
     "shadow": "Small",
@@ -18,7 +20,7 @@
     "uniqueEntryId": "LzuWkSQP55uEpRCP5",
     "colors": ["Blue", "Red"],
     "specialSell": 300,
-    "activeHours": [["05:00", "22:00"]],
+    "activeHours": [["04:00", "21:00"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
       "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
@@ -28,7 +30,9 @@
     "sourceSheet": "Fish",
     "num": 36,
     "name": "angelfish",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish30.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish30.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishAngelfishCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishAngelfish.png",
     "sell": 3000,
     "whereHow": "River",
     "shadow": "Small",
@@ -43,7 +47,7 @@
     "uniqueEntryId": "XTCFCk2SiuY5YXLZ7",
     "colors": ["Yellow", "Black"],
     "specialSell": 4500,
-    "activeHours": [["17:00", "10:00"]],
+    "activeHours": [["16:00", "09:00"]],
     "activeMonths": {
       "northern": [5, 6, 7, 8, 9, 10],
       "southern": [1, 2, 3, 4, 11, 12]
@@ -53,7 +57,9 @@
     "sourceSheet": "Fish",
     "num": 44,
     "name": "arapaima",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish36.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish36.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishPirarukuCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishPiraruku.png",
     "sell": 10000,
     "whereHow": "River",
     "shadow": "XX-Large",
@@ -68,7 +74,7 @@
     "uniqueEntryId": "mZy4BES54bqwi97br",
     "colors": ["Black", "Blue"],
     "specialSell": 15000,
-    "activeHours": [["17:00", "10:00"]],
+    "activeHours": [["16:00", "09:00"]],
     "activeMonths": {
       "northern": [6, 7, 8, 9],
       "southern": [1, 2, 3, 12]
@@ -78,7 +84,9 @@
     "sourceSheet": "Fish",
     "num": 41,
     "name": "arowana",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish33.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish33.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishArowanaCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishArowana.png",
     "sell": 10000,
     "whereHow": "River",
     "shadow": "Large",
@@ -93,7 +101,7 @@
     "uniqueEntryId": "F68AvCaqddBJL7ZSN",
     "colors": ["Yellow", "Black"],
     "specialSell": 15000,
-    "activeHours": [["17:00", "10:00"]],
+    "activeHours": [["16:00", "09:00"]],
     "activeMonths": {
       "northern": [6, 7, 8, 9],
       "southern": [1, 2, 3, 12]
@@ -103,7 +111,9 @@
     "sourceSheet": "Fish",
     "num": 58,
     "name": "barred knifejaw",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish47.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish47.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishIshidaiCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishIshidai.png",
     "sell": 5000,
     "whereHow": "Sea",
     "shadow": "Medium",
@@ -118,7 +128,7 @@
     "uniqueEntryId": "X3R9SFSAaDzBF4fE3",
     "colors": ["White", "Black"],
     "specialSell": 7500,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["00:00", "23:59"]],
     "activeMonths": {
       "northern": [3, 4, 5, 6, 7, 8, 9, 10, 11],
       "southern": [1, 2, 3, 4, 5, 9, 10, 11, 12]
@@ -128,7 +138,9 @@
     "sourceSheet": "Fish",
     "num": 79,
     "name": "barreleye",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish84.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish84.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishDemenigisuCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishDemenigisu.png",
     "sell": 15000,
     "whereHow": "Sea",
     "shadow": "Small",
@@ -143,7 +155,7 @@
     "uniqueEntryId": "BpqTa4zmTjv3Nm4wE",
     "colors": ["Black", "Black"],
     "specialSell": 22500,
-    "activeHours": [["22:00", "05:00"]],
+    "activeHours": [["21:00", "04:00"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
       "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
@@ -153,7 +165,9 @@
     "sourceSheet": "Fish",
     "num": 37,
     "name": "betta",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish77.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish77.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishBetaCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishBeta.png",
     "sell": 2500,
     "whereHow": "River",
     "shadow": "Small",
@@ -168,7 +182,7 @@
     "uniqueEntryId": "7QcQXzwZoNGiNA94k",
     "colors": ["Light blue", "Black"],
     "specialSell": 3750,
-    "activeHours": [["10:00", "17:00"]],
+    "activeHours": [["09:00", "16:00"]],
     "activeMonths": {
       "northern": [5, 6, 7, 8, 9, 10],
       "southern": [1, 2, 3, 4, 11, 12]
@@ -178,7 +192,9 @@
     "sourceSheet": "Fish",
     "num": 1,
     "name": "bitterling",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish0.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish0.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishTanagoCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishTanago.png",
     "sell": 900,
     "whereHow": "River",
     "shadow": "X-Small",
@@ -193,7 +209,7 @@
     "uniqueEntryId": "Drj6eLRBgg4T9KhNx",
     "colors": ["Light blue", "Blue"],
     "specialSell": 1350,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["00:00", "23:59"]],
     "activeMonths": {
       "northern": [1, 2, 3, 11, 12],
       "southern": [5, 6, 7, 8, 9]
@@ -203,7 +219,9 @@
     "sourceSheet": "Fish",
     "num": 22,
     "name": "black bass",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish19.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish19.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishBlackbassCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishBlackbass.png",
     "sell": 400,
     "whereHow": "River",
     "shadow": "Large",
@@ -218,7 +236,7 @@
     "uniqueEntryId": "wAZvfTca7GyaTtLcQ",
     "colors": ["Green", "Black"],
     "specialSell": 600,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["00:00", "23:59"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
       "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
@@ -228,7 +246,9 @@
     "sourceSheet": "Fish",
     "num": 54,
     "name": "blowfish",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish73.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish73.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishFuguCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishFugu.png",
     "sell": 5000,
     "whereHow": "Sea",
     "shadow": "Medium",
@@ -243,7 +263,7 @@
     "uniqueEntryId": "aDsmTcByApycafxTa",
     "colors": ["Beige", "Black"],
     "specialSell": 7500,
-    "activeHours": [["22:00", "06:00"]],
+    "activeHours": [["21:00", "05:00"]],
     "activeMonths": {
       "northern": [1, 2, 11, 12],
       "southern": [5, 6, 7, 8]
@@ -253,7 +273,9 @@
     "sourceSheet": "Fish",
     "num": 67,
     "name": "blue marlin",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish58.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish58.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishKajikiCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishKajiki.png",
     "sell": 10000,
     "whereHow": "Pier",
     "shadow": "XX-Large",
@@ -268,7 +290,7 @@
     "uniqueEntryId": "jhtsYRHydAcZnd6bJ",
     "colors": ["Blue", "Black"],
     "specialSell": 15000,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["00:00", "23:59"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 7, 8, 9, 11, 12],
       "southern": [1, 2, 3, 5, 6, 7, 8, 9, 10]
@@ -278,7 +300,9 @@
     "sourceSheet": "Fish",
     "num": 20,
     "name": "bluegill",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish17.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish17.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishBlueguillCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishBlueguill.png",
     "sell": 180,
     "whereHow": "River",
     "shadow": "Small",
@@ -293,7 +317,7 @@
     "uniqueEntryId": "8ygccYFCrWf4hwYGR",
     "colors": ["Blue", "Black"],
     "specialSell": 270,
-    "activeHours": [["10:00", "17:00"]],
+    "activeHours": [["09:00", "16:00"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
       "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
@@ -303,7 +327,9 @@
     "sourceSheet": "Fish",
     "num": 51,
     "name": "butterfly fish",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish42.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish42.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishChouchouuoCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishChouchouuo.png",
     "sell": 1000,
     "whereHow": "Sea",
     "shadow": "Small",
@@ -318,7 +344,7 @@
     "uniqueEntryId": "S4rkio2M3WB5cyy8Y",
     "colors": ["Yellow", "Black"],
     "specialSell": 1500,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["00:00", "23:59"]],
     "activeMonths": {
       "northern": [4, 5, 6, 7, 8, 9],
       "southern": [1, 2, 3, 10, 11, 12]
@@ -328,7 +354,9 @@
     "sourceSheet": "Fish",
     "num": 5,
     "name": "carp",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish5.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish5.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishKoiCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishKoi.png",
     "sell": 300,
     "whereHow": "Pond",
     "shadow": "Large",
@@ -343,7 +371,7 @@
     "uniqueEntryId": "4DwwvGDwPQvZTn9Fb",
     "colors": ["Gray", "Black"],
     "specialSell": 450,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["00:00", "23:59"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
       "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
@@ -353,7 +381,9 @@
     "sourceSheet": "Fish",
     "num": 18,
     "name": "catfish",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish14.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish14.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishNamazuCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishNamazu.png",
     "sell": 800,
     "whereHow": "Pond",
     "shadow": "Large",
@@ -368,7 +398,7 @@
     "uniqueEntryId": "nbPtvwf7HCQxA9Nc4",
     "colors": ["Black", "Black"],
     "specialSell": 1200,
-    "activeHours": [["17:00", "10:00"]],
+    "activeHours": [["16:00", "09:00"]],
     "activeMonths": {
       "northern": [5, 6, 7, 8, 9, 10],
       "southern": [1, 2, 3, 4, 11, 12]
@@ -378,7 +408,9 @@
     "sourceSheet": "Fish",
     "num": 28,
     "name": "char",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish24.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish24.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishOoiwanaCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishOoiwana.png",
     "sell": 3800,
     "whereHow": "River (clifftop)",
     "shadow": "Medium",
@@ -393,7 +425,7 @@
     "uniqueEntryId": "ahbnwCqp3EZXa96KC",
     "colors": ["Brown", "Black"],
     "specialSell": 5700,
-    "activeHours": [["17:00", "10:00"]],
+    "activeHours": [["16:00", "09:00"]],
     "activeMonths": {
       "northern": [3, 4, 5, 6, 9, 10, 11],
       "southern": [3, 4, 5, 9, 10, 11, 12]
@@ -403,7 +435,9 @@
     "sourceSheet": "Fish",
     "num": 27,
     "name": "cherry salmon",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish23.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish23.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishYamameCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishYamame.png",
     "sell": 1000,
     "whereHow": "River (clifftop)",
     "shadow": "Medium",
@@ -418,7 +452,7 @@
     "uniqueEntryId": "sJyBbeLbpzn7LyzFr",
     "colors": ["Brown", "Black"],
     "specialSell": 1500,
-    "activeHours": [["17:00", "10:00"]],
+    "activeHours": [["16:00", "09:00"]],
     "activeMonths": {
       "northern": [3, 4, 5, 6, 9, 10, 11],
       "southern": [3, 4, 5, 9, 10, 11, 12]
@@ -428,7 +462,9 @@
     "sourceSheet": "Fish",
     "num": 49,
     "name": "clown fish",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish40.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish40.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishKumanomiCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishKumanomi.png",
     "sell": 650,
     "whereHow": "Sea",
     "shadow": "X-Small",
@@ -443,7 +479,7 @@
     "uniqueEntryId": "L9qxZaMoBhwxvpMyh",
     "colors": ["Orange", "Black"],
     "specialSell": 975,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["00:00", "23:59"]],
     "activeMonths": {
       "northern": [4, 5, 6, 7, 8, 9],
       "southern": [1, 2, 3, 10, 11, 12]
@@ -453,7 +489,9 @@
     "sourceSheet": "Fish",
     "num": 80,
     "name": "coelacanth",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish63.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish63.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishSirakansuCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishSirakansu.png",
     "sell": 15000,
     "whereHow": "Sea (raining)",
     "shadow": "XX-Large",
@@ -468,7 +506,7 @@
     "uniqueEntryId": "NjMZQ6Xi9NswEXnHH",
     "colors": ["Black", "Black"],
     "specialSell": 22500,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["00:00", "23:59"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
       "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
@@ -478,7 +516,9 @@
     "sourceSheet": "Fish",
     "num": 11,
     "name": "crawfish",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish10.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish10.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishZariganiCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishZarigani.png",
     "sell": 200,
     "whereHow": "Pond",
     "shadow": "Small",
@@ -493,7 +533,7 @@
     "uniqueEntryId": "W7TrwpycmfgniZipi",
     "colors": ["Red", "Black"],
     "specialSell": 300,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["00:00", "23:59"]],
     "activeMonths": {
       "northern": [4, 5, 6, 7, 8, 9],
       "southern": [1, 2, 3, 10, 11, 12]
@@ -503,7 +543,9 @@
     "sourceSheet": "Fish",
     "num": 3,
     "name": "crucian carp",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish2.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish2.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishFunaCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishFuna.png",
     "sell": 160,
     "whereHow": "River",
     "shadow": "Small",
@@ -518,7 +560,7 @@
     "uniqueEntryId": "Pdw7vmJz9PRM4ggbf",
     "colors": ["Brown", "Black"],
     "specialSell": 240,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["00:00", "23:59"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
       "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
@@ -528,7 +570,9 @@
     "sourceSheet": "Fish",
     "num": 61,
     "name": "dab",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish50.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish50.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishKareiCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishKarei.png",
     "sell": 300,
     "whereHow": "Sea",
     "shadow": "Medium",
@@ -543,7 +587,7 @@
     "uniqueEntryId": "noA2Kfp8TaFgaLs5n",
     "colors": ["Brown", "Black"],
     "specialSell": 450,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["00:00", "23:59"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 10, 11, 12],
       "southern": [4, 5, 6, 7, 8, 9, 10]
@@ -553,7 +597,9 @@
     "sourceSheet": "Fish",
     "num": 4,
     "name": "dace",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish3.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish3.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishUguiCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishUgui.png",
     "sell": 240,
     "whereHow": "River",
     "shadow": "Medium",
@@ -568,7 +614,7 @@
     "uniqueEntryId": "dWmXFdnjByWT5nEok",
     "colors": ["Brown", "Black"],
     "specialSell": 360,
-    "activeHours": [["17:00", "10:00"]],
+    "activeHours": [["16:00", "09:00"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
       "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
@@ -578,7 +624,9 @@
     "sourceSheet": "Fish",
     "num": 42,
     "name": "dorado",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish34.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish34.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishDoladoCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishDolado.png",
     "sell": 15000,
     "whereHow": "River",
     "shadow": "X-Large",
@@ -593,7 +641,7 @@
     "uniqueEntryId": "G7ZwD67cRMHBwTSKH",
     "colors": ["Yellow", "Black"],
     "specialSell": 22500,
-    "activeHours": [["05:00", "22:00"]],
+    "activeHours": [["04:00", "21:00"]],
     "activeMonths": {
       "northern": [6, 7, 8, 9],
       "southern": [1, 2, 3, 12]
@@ -603,7 +651,9 @@
     "sourceSheet": "Fish",
     "num": 77,
     "name": "football fish",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish56.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish56.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishChouchinankouCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishChouchinankou.png",
     "sell": 2500,
     "whereHow": "Sea",
     "shadow": "Large",
@@ -618,7 +668,7 @@
     "uniqueEntryId": "vQHfve6DygtcYqwdi",
     "colors": ["Black", "Black"],
     "specialSell": 3750,
-    "activeHours": [["17:00", "10:00"]],
+    "activeHours": [["16:00", "09:00"]],
     "activeMonths": {
       "northern": [1, 2, 3, 11, 12],
       "southern": [5, 6, 7, 8, 9]
@@ -628,7 +678,9 @@
     "sourceSheet": "Fish",
     "num": 16,
     "name": "freshwater goby",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish12.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish12.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishDonkoCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishDonko.png",
     "sell": 400,
     "whereHow": "River",
     "shadow": "Small",
@@ -643,7 +695,7 @@
     "uniqueEntryId": "SfXYNdtaid6hdQhvZ",
     "colors": ["Brown", "Black"],
     "specialSell": 600,
-    "activeHours": [["17:00", "10:00"]],
+    "activeHours": [["16:00", "09:00"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
       "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
@@ -653,7 +705,9 @@
     "sourceSheet": "Fish",
     "num": 15,
     "name": "frog",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish11.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish11.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishKaeruCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishKaeru.png",
     "sell": 120,
     "whereHow": "Pond",
     "shadow": "Small",
@@ -668,7 +722,7 @@
     "uniqueEntryId": "LcQLs85qPPdLajLje",
     "colors": ["Green", "Black"],
     "specialSell": 180,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["00:00", "23:59"]],
     "activeMonths": {
       "northern": [5, 6, 7, 8],
       "southern": [1, 2, 11, 12]
@@ -678,7 +732,9 @@
     "sourceSheet": "Fish",
     "num": 43,
     "name": "gar",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish35.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish35.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishGaCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishGa.png",
     "sell": 6000,
     "whereHow": "Pond",
     "shadow": "X-Large",
@@ -693,7 +749,7 @@
     "uniqueEntryId": "x5yAYQgMJW9Kf7WyM",
     "colors": ["Brown", "Black"],
     "specialSell": 9000,
-    "activeHours": [["17:00", "10:00"]],
+    "activeHours": [["16:00", "09:00"]],
     "activeMonths": {
       "northern": [6, 7, 8, 9],
       "southern": [1, 2, 3, 12]
@@ -703,7 +759,9 @@
     "sourceSheet": "Fish",
     "num": 19,
     "name": "giant snakehead",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish16.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish16.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishRaigyoCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishRaigyo.png",
     "sell": 5500,
     "whereHow": "Pond",
     "shadow": "Large",
@@ -718,7 +776,7 @@
     "uniqueEntryId": "KyWQRd8W2FePM42wB",
     "colors": ["Black", "Black"],
     "specialSell": 8250,
-    "activeHours": [["10:00", "17:00"]],
+    "activeHours": [["09:00", "16:00"]],
     "activeMonths": {
       "northern": [6, 7, 8],
       "southern": [1, 2, 12]
@@ -728,7 +786,9 @@
     "sourceSheet": "Fish",
     "num": 68,
     "name": "giant trevally",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish70.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish70.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishRouninajiCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishGT.png",
     "sell": 4500,
     "whereHow": "Pier",
     "shadow": "X-Large",
@@ -743,7 +803,7 @@
     "uniqueEntryId": "53qtm8cMH4RfqJiAH",
     "colors": ["Black", "Black"],
     "specialSell": 6750,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["00:00", "23:59"]],
     "activeMonths": {
       "northern": [5, 6, 7, 8, 9, 10],
       "southern": [1, 2, 3, 4, 11, 12]
@@ -753,7 +813,9 @@
     "sourceSheet": "Fish",
     "num": 29,
     "name": "golden trout",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish79.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish79.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishGoldenTorautoCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishGoldenTorauto.png",
     "sell": 15000,
     "whereHow": "River (clifftop)",
     "shadow": "Medium",
@@ -768,7 +830,7 @@
     "uniqueEntryId": "wwGzR7FzWNJ7cDz9X",
     "colors": ["Brown", "Black"],
     "specialSell": 22500,
-    "activeHours": [["17:00", "10:00"]],
+    "activeHours": [["16:00", "09:00"]],
     "activeMonths": {
       "northern": [3, 4, 5, 9, 10, 11],
       "southern": [3, 4, 5, 9, 10, 11]
@@ -778,7 +840,9 @@
     "sourceSheet": "Fish",
     "num": 7,
     "name": "goldfish",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish7.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish7.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishKingyoCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishKingyo.png",
     "sell": 1300,
     "whereHow": "Pond",
     "shadow": "X-Small",
@@ -793,7 +857,7 @@
     "uniqueEntryId": "5NwmwhEQxBNZCPiBR",
     "colors": ["Red", "Light blue"],
     "specialSell": 1950,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["00:00", "23:59"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
       "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
@@ -803,7 +867,9 @@
     "sourceSheet": "Fish",
     "num": 74,
     "name": "great white shark",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish62.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish62.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishSameCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishSame.png",
     "sell": 15000,
     "whereHow": "Sea",
     "shadow": "Large w/Fin",
@@ -818,7 +884,7 @@
     "uniqueEntryId": "EPypAeJGuTDGFJRnx",
     "colors": ["Blue", "Blue"],
     "specialSell": 22500,
-    "activeHours": [["17:00", "10:00"]],
+    "activeHours": [["16:00", "09:00"]],
     "activeMonths": {
       "northern": [6, 7, 8, 9],
       "southern": [1, 2, 3, 12]
@@ -828,7 +894,9 @@
     "sourceSheet": "Fish",
     "num": 34,
     "name": "guppy",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish29.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish29.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishGuppiCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishGuppi.png",
     "sell": 1300,
     "whereHow": "River",
     "shadow": "X-Small",
@@ -843,7 +911,7 @@
     "uniqueEntryId": "WtdZnARNxnWRobej2",
     "colors": ["Blue", "Black"],
     "specialSell": 1950,
-    "activeHours": [["10:00", "17:00"]],
+    "activeHours": [["09:00", "16:00"]],
     "activeMonths": {
       "northern": [4, 5, 6, 7, 8, 9, 10, 11],
       "southern": [1, 2, 3, 4, 5, 10, 11, 12]
@@ -853,7 +921,9 @@
     "sourceSheet": "Fish",
     "num": 73,
     "name": "hammerhead shark",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish61.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish61.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishShumokuzameCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishShumokuzame.png",
     "sell": 8000,
     "whereHow": "Sea",
     "shadow": "Large w/Fin",
@@ -868,7 +938,7 @@
     "uniqueEntryId": "guHT5g6H7tJEyqYzf",
     "colors": ["Black", "Black"],
     "specialSell": 12000,
-    "activeHours": [["17:00", "10:00"]],
+    "activeHours": [["16:00", "09:00"]],
     "activeMonths": {
       "northern": [6, 7, 8, 9],
       "southern": [1, 2, 3, 12]
@@ -878,7 +948,9 @@
     "sourceSheet": "Fish",
     "num": 57,
     "name": "horse mackerel",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish46.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish46.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishAjiCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishAji.png",
     "sell": 150,
     "whereHow": "Sea",
     "shadow": "Small",
@@ -893,7 +965,7 @@
     "uniqueEntryId": "L24RYPaEcm9ZXkTui",
     "colors": ["Blue", "Black"],
     "specialSell": 225,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["00:00", "23:59"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
       "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
@@ -903,7 +975,9 @@
     "sourceSheet": "Fish",
     "num": 10,
     "name": "killifish",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish9.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish9.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishMedakaCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishMedaka.png",
     "sell": 300,
     "whereHow": "Pond",
     "shadow": "X-Small",
@@ -918,7 +992,7 @@
     "uniqueEntryId": "ZR9dsEApEXCjtXu3k",
     "colors": ["Yellow", "Black"],
     "specialSell": 450,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["00:00", "23:59"]],
     "activeMonths": {
       "northern": [4, 5, 6, 7, 8],
       "southern": [1, 2, 10, 11, 12]
@@ -928,7 +1002,9 @@
     "sourceSheet": "Fish",
     "num": 32,
     "name": "king salmon",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish28.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish28.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishKingsalmonCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishKingsalmon.png",
     "sell": 1800,
     "whereHow": "River (mouth)",
     "shadow": "X-Large",
@@ -943,7 +1019,7 @@
     "uniqueEntryId": "Pf5cXKo8pzdB45rAA",
     "colors": ["Gray", "Black"],
     "specialSell": 2700,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["00:00", "23:59"]],
     "activeMonths": {
       "northern": [9],
       "southern": [3]
@@ -953,7 +1029,9 @@
     "sourceSheet": "Fish",
     "num": 6,
     "name": "koi",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish6.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish6.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishNishikigoiCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishNishikigoi.png",
     "sell": 4000,
     "whereHow": "Pond",
     "shadow": "Large",
@@ -968,7 +1046,7 @@
     "uniqueEntryId": "kNwjLeqjg8bFevfiG",
     "colors": ["Red", "White"],
     "specialSell": 6000,
-    "activeHours": [["17:00", "10:00"]],
+    "activeHours": [["16:00", "09:00"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
       "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
@@ -978,7 +1056,9 @@
     "sourceSheet": "Fish",
     "num": 17,
     "name": "loach",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish13.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish13.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishDojouCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishDojou.png",
     "sell": 400,
     "whereHow": "River",
     "shadow": "Small",
@@ -993,7 +1073,7 @@
     "uniqueEntryId": "95yBKrQ4tdyWj4H25",
     "colors": ["Brown", "Blue"],
     "specialSell": 600,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["00:00", "23:59"]],
     "activeMonths": {
       "northern": [3, 4, 5],
       "southern": [9, 10, 11]
@@ -1003,7 +1083,9 @@
     "sourceSheet": "Fish",
     "num": 69,
     "name": "mahi-mahi",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish82.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish82.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishShiiraCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishShiira.png",
     "sell": 6000,
     "whereHow": "Pier",
     "shadow": "X-Large",
@@ -1018,7 +1100,7 @@
     "uniqueEntryId": "D7gY39QDo8BBNs2Ne",
     "colors": ["Yellow", "Black"],
     "specialSell": 9000,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["00:00", "23:59"]],
     "activeMonths": {
       "northern": [5, 6, 7, 8, 9, 10],
       "southern": [1, 2, 3, 4, 11, 12]
@@ -1028,7 +1110,9 @@
     "sourceSheet": "Fish",
     "num": 33,
     "name": "mitten crab",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish66.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish66.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishSyanhaiganiCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishShanghai.png",
     "sell": 2000,
     "whereHow": "River",
     "shadow": "Small",
@@ -1043,7 +1127,7 @@
     "uniqueEntryId": "s2jqSYbMWBX6qCLDm",
     "colors": ["Black", "Blue"],
     "specialSell": 3000,
-    "activeHours": [["17:00", "10:00"]],
+    "activeHours": [["16:00", "09:00"]],
     "activeMonths": {
       "northern": [9, 10, 11],
       "southern": [3, 4, 5]
@@ -1053,7 +1137,9 @@
     "sourceSheet": "Fish",
     "num": 64,
     "name": "moray eel",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish55.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish55.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishUtsuboCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishUtsubo.png",
     "sell": 2000,
     "whereHow": "Sea",
     "shadow": "Long",
@@ -1068,7 +1154,7 @@
     "uniqueEntryId": "4nLynLTMRtoqcCfh4",
     "colors": ["Brown", "Black"],
     "specialSell": 3000,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["00:00", "23:59"]],
     "activeMonths": {
       "northern": [8, 9, 10],
       "southern": [2, 3, 4]
@@ -1078,7 +1164,9 @@
     "sourceSheet": "Fish",
     "num": 52,
     "name": "Napoleonfish",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish43.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish43.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishNaporeonfishCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishNaporeonfish.png",
     "sell": 10000,
     "whereHow": "Sea",
     "shadow": "XX-Large",
@@ -1093,7 +1181,7 @@
     "uniqueEntryId": "dm4THC3AYR6CZ8bvJ",
     "colors": ["Light blue", "Black"],
     "specialSell": 15000,
-    "activeHours": [["05:00", "22:00"]],
+    "activeHours": [["04:00", "21:00"]],
     "activeMonths": {
       "northern": [7, 8],
       "southern": [1, 2]
@@ -1103,7 +1191,9 @@
     "sourceSheet": "Fish",
     "num": 38,
     "name": "neon tetra",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish31.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish31.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishNeontetoraCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishNeontetora.png",
     "sell": 500,
     "whereHow": "River",
     "shadow": "X-Small",
@@ -1118,7 +1208,7 @@
     "uniqueEntryId": "aEyRb96wcz9m8yjFN",
     "colors": ["Light blue", "Black"],
     "specialSell": 750,
-    "activeHours": [["10:00", "17:00"]],
+    "activeHours": [["09:00", "16:00"]],
     "activeMonths": {
       "northern": [4, 5, 6, 7, 8, 9, 10, 11],
       "southern": [1, 2, 3, 4, 5, 10, 11, 12]
@@ -1128,7 +1218,9 @@
     "sourceSheet": "Fish",
     "num": 35,
     "name": "nibble fish",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish67.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish67.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishDokutaafishCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishDoctor.png",
     "sell": 1500,
     "whereHow": "River",
     "shadow": "X-Small",
@@ -1143,7 +1235,7 @@
     "uniqueEntryId": "pkPKYsMiXsTWNz4L4",
     "colors": ["Brown", "Blue"],
     "specialSell": 2250,
-    "activeHours": [["10:00", "17:00"]],
+    "activeHours": [["09:00", "16:00"]],
     "activeMonths": {
       "northern": [5, 6, 7, 8, 9],
       "southern": [1, 2, 3, 11, 12]
@@ -1153,7 +1245,9 @@
     "sourceSheet": "Fish",
     "num": 78,
     "name": "oarfish",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish69.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish69.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishRyuuguunotukaiCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishRyugu.png",
     "sell": 9000,
     "whereHow": "Sea",
     "shadow": "XX-Large",
@@ -1168,7 +1262,7 @@
     "uniqueEntryId": "qgvEPGk759xaBqwXP",
     "colors": ["Red", "Blue"],
     "specialSell": 13500,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["00:00", "23:59"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 12],
       "southern": [6, 7, 8, 9, 10, 11]
@@ -1178,7 +1272,9 @@
     "sourceSheet": "Fish",
     "num": 70,
     "name": "ocean sunfish",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish60.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish60.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishManbouCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishManbou.png",
     "sell": 4000,
     "whereHow": "Sea",
     "shadow": "Large w/Fin",
@@ -1193,7 +1289,7 @@
     "uniqueEntryId": "6BwK6LHbjFAKzgE82",
     "colors": ["Blue", "Orange"],
     "specialSell": 6000,
-    "activeHours": [["05:00", "22:00"]],
+    "activeHours": [["04:00", "21:00"]],
     "activeMonths": {
       "northern": [7, 8, 9],
       "southern": [1, 2, 3]
@@ -1203,7 +1299,9 @@
     "sourceSheet": "Fish",
     "num": 62,
     "name": "olive flounder",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish51.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish51.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishHirameCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishHirame.png",
     "sell": 800,
     "whereHow": "Sea",
     "shadow": "X-Large",
@@ -1218,7 +1316,7 @@
     "uniqueEntryId": "TXSteKMHuQ9ZfqPXm",
     "colors": ["Beige", "Black"],
     "specialSell": 1200,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["00:00", "23:59"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
       "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
@@ -1228,7 +1326,9 @@
     "sourceSheet": "Fish",
     "num": 2,
     "name": "pale chub",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish1.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish1.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishOikawaCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishOikawa.png",
     "sell": 200,
     "whereHow": "River",
     "shadow": "X-Small",
@@ -1243,7 +1343,7 @@
     "uniqueEntryId": "pCn9TLap3rWiLYfnF",
     "colors": ["Blue", "Blue"],
     "specialSell": 300,
-    "activeHours": [["10:00", "17:00"]],
+    "activeHours": [["09:00", "16:00"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
       "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
@@ -1253,7 +1353,9 @@
     "sourceSheet": "Fish",
     "num": 24,
     "name": "pike",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish20.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish20.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishPaikuCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishPaiku.png",
     "sell": 1800,
     "whereHow": "River",
     "shadow": "X-Large",
@@ -1268,7 +1370,7 @@
     "uniqueEntryId": "XxrB6iKQPhBkYKaXD",
     "colors": ["Green", "Black"],
     "specialSell": 2700,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["00:00", "23:59"]],
     "activeMonths": {
       "northern": [9, 10, 11, 12],
       "southern": [3, 4, 5, 6]
@@ -1278,7 +1380,9 @@
     "sourceSheet": "Fish",
     "num": 40,
     "name": "piranha",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish32.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish32.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishPiraniaCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishPirania.png",
     "sell": 2500,
     "whereHow": "River",
     "shadow": "Small",
@@ -1294,8 +1398,8 @@
     "colors": ["Green", "Black"],
     "specialSell": 3750,
     "activeHours": [
-      ["09:00", "16:00"],
-      ["21:00", "04:00"]
+      ["08:00", "15:00"],
+      ["20:00", "03:00"]
     ],
     "activeMonths": {
       "northern": [6, 7, 8, 9],
@@ -1306,7 +1410,9 @@
     "sourceSheet": "Fish",
     "num": 25,
     "name": "pond smelt",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish21.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish21.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishWakasagiCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishWakasagi.png",
     "sell": 400,
     "whereHow": "River",
     "shadow": "Small",
@@ -1321,7 +1427,7 @@
     "uniqueEntryId": "DDb2GPEjapPmbYbWG",
     "colors": ["Orange", "Blue"],
     "specialSell": 600,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["00:00", "23:59"]],
     "activeMonths": {
       "northern": [1, 2, 12],
       "southern": [6, 7, 8]
@@ -1331,7 +1437,9 @@
     "sourceSheet": "Fish",
     "num": 8,
     "name": "pop-eyed goldfish",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish8.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish8.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishDemekinCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishDemekin.png",
     "sell": 1300,
     "whereHow": "Pond",
     "shadow": "X-Small",
@@ -1346,7 +1454,7 @@
     "uniqueEntryId": "RvqzuA438gGqRJ7NG",
     "colors": ["Black", "Light blue"],
     "specialSell": 1950,
-    "activeHours": [["10:00", "17:00"]],
+    "activeHours": [["09:00", "16:00"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
       "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
@@ -1356,7 +1464,9 @@
     "sourceSheet": "Fish",
     "num": 55,
     "name": "puffer fish",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish45.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish45.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishHarisenbonCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishHarisenbon.png",
     "sell": 250,
     "whereHow": "Sea",
     "shadow": "Medium",
@@ -1371,7 +1481,7 @@
     "uniqueEntryId": "jNkgaybfSsv8MkaQ2",
     "colors": ["Beige", "Black"],
     "specialSell": 375,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["00:00", "23:59"]],
     "activeMonths": {
       "northern": [7, 8, 9],
       "southern": [1, 2, 3]
@@ -1381,7 +1491,9 @@
     "sourceSheet": "Fish",
     "num": 39,
     "name": "rainbowfish",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish80.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish80.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishRainbowfishCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishRainbowfish.png",
     "sell": 800,
     "whereHow": "River",
     "shadow": "X-Small",
@@ -1396,7 +1508,7 @@
     "uniqueEntryId": "XJfkdS4C2MPYiscST",
     "colors": ["Orange", "Black"],
     "specialSell": 1200,
-    "activeHours": [["10:00", "17:00"]],
+    "activeHours": [["09:00", "16:00"]],
     "activeMonths": {
       "northern": [5, 6, 7, 8, 9, 10],
       "southern": [1, 2, 3, 4, 11, 12]
@@ -1406,7 +1518,9 @@
     "sourceSheet": "Fish",
     "num": 9,
     "name": "ranchu goldfish",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish85.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish85.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishRanchuCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishRanchu.png",
     "sell": 4500,
     "whereHow": "Pond",
     "shadow": "Small",
@@ -1421,7 +1535,7 @@
     "uniqueEntryId": "4NE2SteWKEaBYjgWb",
     "colors": ["Red", "Black"],
     "specialSell": 6750,
-    "activeHours": [["10:00", "17:00"]],
+    "activeHours": [["09:00", "16:00"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
       "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
@@ -1431,7 +1545,9 @@
     "sourceSheet": "Fish",
     "num": 71,
     "name": "ray",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish59.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish59.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishEiCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishEi.png",
     "sell": 3000,
     "whereHow": "Sea",
     "shadow": "X-Large",
@@ -1446,7 +1562,7 @@
     "uniqueEntryId": "gP5F7wWFvFqiZzuGw",
     "colors": ["Brown", "Black"],
     "specialSell": 4500,
-    "activeHours": [["05:00", "22:00"]],
+    "activeHours": [["04:00", "21:00"]],
     "activeMonths": {
       "northern": [8, 9, 10, 11],
       "southern": [2, 3, 4, 5]
@@ -1456,7 +1572,9 @@
     "sourceSheet": "Fish",
     "num": 60,
     "name": "red snapper",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish49.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish49.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishTaiCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishTai.png",
     "sell": 3000,
     "whereHow": "Sea",
     "shadow": "Large",
@@ -1471,7 +1589,7 @@
     "uniqueEntryId": "iY4zfgojAfLskW4CQ",
     "colors": ["Red", "Black"],
     "specialSell": 4500,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["00:00", "23:59"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
       "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
@@ -1481,7 +1599,9 @@
     "sourceSheet": "Fish",
     "num": 65,
     "name": "ribbon eel",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish71.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish71.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishHanahigeutuboCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishHanahige.png",
     "sell": 600,
     "whereHow": "Sea",
     "shadow": "Long",
@@ -1496,7 +1616,7 @@
     "uniqueEntryId": "T9zeSBHpB5qyAZTxu",
     "colors": ["Blue", "Black"],
     "specialSell": 900,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["00:00", "23:59"]],
     "activeMonths": {
       "northern": [6, 7, 8, 9, 10],
       "southern": [1, 2, 3, 4, 12]
@@ -1506,7 +1626,9 @@
     "sourceSheet": "Fish",
     "num": 45,
     "name": "saddled bichir",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish68.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish68.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishEndorikeriiCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishEndlicheri.png",
     "sell": 4000,
     "whereHow": "River",
     "shadow": "Large",
@@ -1521,7 +1643,7 @@
     "uniqueEntryId": "bcTmnwZxrw2iJsQmf",
     "colors": ["Brown", "Black"],
     "specialSell": 6000,
-    "activeHours": [["22:00", "05:00"]],
+    "activeHours": [["21:00", "04:00"]],
     "activeMonths": {
       "northern": [6, 7, 8, 9],
       "southern": [1, 2, 3, 12]
@@ -1531,7 +1653,9 @@
     "sourceSheet": "Fish",
     "num": 31,
     "name": "salmon",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish27.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish27.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishSakeCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishSake.png",
     "sell": 700,
     "whereHow": "River (mouth)",
     "shadow": "Large",
@@ -1546,7 +1670,7 @@
     "uniqueEntryId": "iwXhnZcSezNxqdNQf",
     "colors": ["Brown", "Black"],
     "specialSell": 1050,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["00:00", "23:59"]],
     "activeMonths": {
       "northern": [9],
       "southern": [3]
@@ -1556,7 +1680,9 @@
     "sourceSheet": "Fish",
     "num": 72,
     "name": "saw shark",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish74.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish74.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishNokogirizameCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishNokogiri.png",
     "sell": 12000,
     "whereHow": "Sea",
     "shadow": "Large w/Fin",
@@ -1571,7 +1697,7 @@
     "uniqueEntryId": "tsrT7a8cbtwZrmJTz",
     "colors": ["Brown", "Black"],
     "specialSell": 18000,
-    "activeHours": [["17:00", "10:00"]],
+    "activeHours": [["16:00", "09:00"]],
     "activeMonths": {
       "northern": [6, 7, 8, 9],
       "southern": [1, 2, 3, 12]
@@ -1581,7 +1707,9 @@
     "sourceSheet": "Fish",
     "num": 59,
     "name": "sea bass",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish48.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish48.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishSuzukiCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishSuzuki.png",
     "sell": 400,
     "whereHow": "Sea",
     "shadow": "X-Large",
@@ -1596,7 +1724,7 @@
     "uniqueEntryId": "LkA5hzibm6uiHDB9g",
     "colors": ["Gray", "Black"],
     "specialSell": 600,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["00:00", "23:59"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
       "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
@@ -1606,7 +1734,9 @@
     "sourceSheet": "Fish",
     "num": 47,
     "name": "sea butterfly",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish37.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish37.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishKurioneCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishKurione.png",
     "sell": 1000,
     "whereHow": "Sea",
     "shadow": "X-Small",
@@ -1621,7 +1751,7 @@
     "uniqueEntryId": "kd5beizyQGeyjeM79",
     "colors": ["White", "Black"],
     "specialSell": 1500,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["00:00", "23:59"]],
     "activeMonths": {
       "northern": [1, 2, 3, 12],
       "southern": [6, 7, 8, 9]
@@ -1631,7 +1761,9 @@
     "sourceSheet": "Fish",
     "num": 48,
     "name": "sea horse",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish39.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish39.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishTatsunootoshigoCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishTatsunootoshigo.png",
     "sell": 1100,
     "whereHow": "Sea",
     "shadow": "X-Small",
@@ -1646,7 +1778,7 @@
     "uniqueEntryId": "Pw5oZqC29NWEGRfyS",
     "colors": ["Orange", "Black"],
     "specialSell": 1650,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["00:00", "23:59"]],
     "activeMonths": {
       "northern": [4, 5, 6, 7, 8, 9, 10, 11],
       "southern": [1, 2, 3, 4, 5, 10, 11, 12]
@@ -1656,7 +1788,9 @@
     "sourceSheet": "Fish",
     "num": 13,
     "name": "snapping turtle",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish78.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish78.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishKamitsukigameCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishKamitukigame.png",
     "sell": 5000,
     "whereHow": "River",
     "shadow": "Large",
@@ -1671,7 +1805,7 @@
     "uniqueEntryId": "SJa3LLde3Yuz4H3D7",
     "colors": ["Brown", "Black"],
     "specialSell": 7500,
-    "activeHours": [["22:00", "05:00"]],
+    "activeHours": [["21:00", "04:00"]],
     "activeMonths": {
       "northern": [4, 5, 6, 7, 8, 9, 10],
       "southern": [1, 2, 3, 4, 10, 11, 12]
@@ -1681,7 +1815,9 @@
     "sourceSheet": "Fish",
     "num": 12,
     "name": "soft-shelled turtle",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish65.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish65.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishSupponCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishSuppon.png",
     "sell": 3750,
     "whereHow": "River",
     "shadow": "Large",
@@ -1696,7 +1832,7 @@
     "uniqueEntryId": "izuY2f4GtEGT3BtuR",
     "colors": ["Green", "Black"],
     "specialSell": 5625,
-    "activeHours": [["17:00", "10:00"]],
+    "activeHours": [["16:00", "09:00"]],
     "activeMonths": {
       "northern": [8, 9],
       "southern": [2, 3]
@@ -1706,7 +1842,9 @@
     "sourceSheet": "Fish",
     "num": 63,
     "name": "squid",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish52.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish52.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishIkaCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishIka.png",
     "sell": 500,
     "whereHow": "Sea",
     "shadow": "Medium",
@@ -1721,7 +1859,7 @@
     "uniqueEntryId": "qxHJ6BGgyQujkC28w",
     "colors": ["Beige", "Black"],
     "specialSell": 750,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["00:00", "23:59"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 6, 7, 8, 12],
       "southern": [1, 2, 6, 7, 8, 9, 10, 11, 12]
@@ -1731,7 +1869,9 @@
     "sourceSheet": "Fish",
     "num": 30,
     "name": "stringfish",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish26.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish26.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishItouCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishItou.png",
     "sell": 15000,
     "whereHow": "River (clifftop)",
     "shadow": "X-Large",
@@ -1746,7 +1886,7 @@
     "uniqueEntryId": "APXg8kSzjcmoGGWSP",
     "colors": ["Brown", "Black"],
     "specialSell": 22500,
-    "activeHours": [["17:00", "10:00"]],
+    "activeHours": [["16:00", "09:00"]],
     "activeMonths": {
       "northern": [1, 2, 3, 12],
       "southern": [6, 7, 8, 9]
@@ -1756,7 +1896,9 @@
     "sourceSheet": "Fish",
     "num": 46,
     "name": "sturgeon",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish75.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish75.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishTyouzameCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishTyouzame.png",
     "sell": 10000,
     "whereHow": "River (mouth)",
     "shadow": "XX-Large",
@@ -1771,7 +1913,7 @@
     "uniqueEntryId": "XabKYtzYDNSNrFvpw",
     "colors": ["Black", "Black"],
     "specialSell": 15000,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["00:00", "23:59"]],
     "activeMonths": {
       "northern": [1, 2, 3, 9, 10, 11, 12],
       "southern": [3, 4, 5, 6, 7, 8, 9]
@@ -1781,7 +1923,9 @@
     "sourceSheet": "Fish",
     "num": 76,
     "name": "suckerfish",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish83.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish83.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishKobanzameCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishKobanzame.png",
     "sell": 1500,
     "whereHow": "Sea",
     "shadow": "Medium w/Fin",
@@ -1796,7 +1940,7 @@
     "uniqueEntryId": "FPpwmMDn9rYAJazyS",
     "colors": ["Black", "Black"],
     "specialSell": 2250,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["00:00", "23:59"]],
     "activeMonths": {
       "northern": [6, 7, 8, 9],
       "southern": [1, 2, 3, 12]
@@ -1806,7 +1950,9 @@
     "sourceSheet": "Fish",
     "num": 50,
     "name": "surgeonfish",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish41.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish41.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishNanyouhagiCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishNanyouhagi.png",
     "sell": 1000,
     "whereHow": "Sea",
     "shadow": "Small",
@@ -1821,7 +1967,7 @@
     "uniqueEntryId": "s7iioofF5C7PzCZyF",
     "colors": ["Blue", "Black"],
     "specialSell": 1500,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["00:00", "23:59"]],
     "activeMonths": {
       "northern": [4, 5, 6, 7, 8, 9],
       "southern": [1, 2, 3, 10, 11, 12]
@@ -1831,7 +1977,9 @@
     "sourceSheet": "Fish",
     "num": 26,
     "name": "sweetfish",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish22.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish22.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishAyuCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishAyu.png",
     "sell": 900,
     "whereHow": "River",
     "shadow": "Medium",
@@ -1846,7 +1994,7 @@
     "uniqueEntryId": "dWgg2bjCicuiZjXW6",
     "colors": ["Green", "Black"],
     "specialSell": 1350,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["00:00", "23:59"]],
     "activeMonths": {
       "northern": [7, 8, 9],
       "southern": [1, 2, 3]
@@ -1856,7 +2004,9 @@
     "sourceSheet": "Fish",
     "num": 14,
     "name": "tadpole",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish64.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish64.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishOtamajakusiCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishOtama.png",
     "sell": 100,
     "whereHow": "Pond",
     "shadow": "X-Small",
@@ -1871,7 +2021,7 @@
     "uniqueEntryId": "rb8MsjWopKYWuQK8s",
     "colors": ["Black", "Blue"],
     "specialSell": 150,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["00:00", "23:59"]],
     "activeMonths": {
       "northern": [3, 4, 5, 6, 7],
       "southern": [1, 9, 10, 11, 12]
@@ -1881,7 +2031,9 @@
     "sourceSheet": "Fish",
     "num": 23,
     "name": "tilapia",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish76.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish76.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishThirapiaCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishThirapia.png",
     "sell": 800,
     "whereHow": "River",
     "shadow": "Medium",
@@ -1896,7 +2048,7 @@
     "uniqueEntryId": "as78rnkwY3ahrTkBY",
     "colors": ["Black", "Black"],
     "specialSell": 1200,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["00:00", "23:59"]],
     "activeMonths": {
       "northern": [6, 7, 8, 9, 10],
       "southern": [1, 2, 3, 4, 12]
@@ -1906,7 +2058,9 @@
     "sourceSheet": "Fish",
     "num": 66,
     "name": "tuna",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish57.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish57.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishMaguroCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishMaguro.png",
     "sell": 7000,
     "whereHow": "Pier",
     "shadow": "XX-Large",
@@ -1921,7 +2075,7 @@
     "uniqueEntryId": "4PnGXx9DSb866AeCM",
     "colors": ["Blue", "Black"],
     "specialSell": 10500,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["00:00", "23:59"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 11, 12],
       "southern": [5, 6, 7, 8, 9, 10]
@@ -1931,7 +2085,9 @@
     "sourceSheet": "Fish",
     "num": 75,
     "name": "whale shark",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish72.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish72.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishJinbeezameCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishJinbee.png",
     "sell": 13000,
     "whereHow": "Sea",
     "shadow": "Large w/Fin",
@@ -1946,7 +2102,7 @@
     "uniqueEntryId": "r3RAtJsXENwnFvQh7",
     "colors": ["Black", "Blue"],
     "specialSell": 19500,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["00:00", "23:59"]],
     "activeMonths": {
       "northern": [6, 7, 8, 9],
       "southern": [1, 2, 3, 12]
@@ -1956,7 +2112,9 @@
     "sourceSheet": "Fish",
     "num": 21,
     "name": "yellow perch",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish18.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish18.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishYellowparchCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishYellowparch.png",
     "sell": 300,
     "whereHow": "River",
     "shadow": "Medium",
@@ -1971,7 +2129,7 @@
     "uniqueEntryId": "bLgE5dicZniF5zZDW",
     "colors": ["Yellow", "Black"],
     "specialSell": 450,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["00:00", "23:59"]],
     "activeMonths": {
       "northern": [1, 2, 3, 10, 11, 12],
       "southern": [4, 5, 6, 7, 8, 9]
@@ -1981,7 +2139,9 @@
     "sourceSheet": "Fish",
     "num": 53,
     "name": "zebra turkeyfish",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Fish44.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish44.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookFishIcon/FishMinokasagoCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrFishMinokasago.png",
     "sell": 500,
     "whereHow": "Sea",
     "shadow": "Medium",
@@ -1996,7 +2156,7 @@
     "uniqueEntryId": "h7fa7Fh3Ay7vAxgE2",
     "colors": ["Red", "Black"],
     "specialSell": 750,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["00:00", "23:59"]],
     "activeMonths": {
       "northern": [4, 5, 6, 7, 8, 9, 10, 11],
       "southern": [1, 2, 3, 4, 5, 10, 11, 12]
@@ -2006,7 +2166,9 @@
     "sourceSheet": "Bugs",
     "num": 10,
     "name": "agrias butterfly",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins6.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins6.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectMiirotatehaCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectMiirotatehaCropped.png",
     "sell": 3000,
     "whereHow": "Flying near flowers",
     "weather": "Any except rain",
@@ -2019,7 +2181,7 @@
     "uniqueEntryId": "aj95rMzdbSbvZy9A2",
     "colors": ["Pink", "Green"],
     "specialSell": 4500,
-    "activeHours": [["09:00", "18:00"]],
+    "activeHours": [["08:00", "17:00"]],
     "activeMonths": {
       "northern": [4, 5, 6, 7, 8, 9],
       "southern": [1, 2, 3, 10, 11, 12]
@@ -2029,7 +2191,9 @@
     "sourceSheet": "Bugs",
     "num": 69,
     "name": "ant",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins26.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins26.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectAriCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectAriCropped.png",
     "sell": 80,
     "whereHow": "On rotten turnips",
     "weather": "Any weather",
@@ -2042,7 +2206,7 @@
     "uniqueEntryId": "QZpmczZu4hW2a4Rpv",
     "colors": ["Black", "White"],
     "specialSell": 120,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["00:00", "23:59"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
       "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
@@ -2052,7 +2216,9 @@
     "sourceSheet": "Bugs",
     "num": 14,
     "name": "Atlas moth",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins10.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins10.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectYonagunisanCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectYonagunisanCropped.png",
     "sell": 3000,
     "whereHow": "On trees (any kind)",
     "weather": "Any weather",
@@ -2065,7 +2231,7 @@
     "uniqueEntryId": "u2GhYQJXDCQKp7AQ8",
     "colors": ["Orange", "Yellow"],
     "specialSell": 4500,
-    "activeHours": [["20:00", "05:00"]],
+    "activeHours": [["19:00", "04:00"]],
     "activeMonths": {
       "northern": [4, 5, 6, 7, 8, 9],
       "southern": [1, 2, 3, 10, 11, 12]
@@ -2075,7 +2241,9 @@
     "sourceSheet": "Bugs",
     "num": 68,
     "name": "bagworm",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins36.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins36.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectMinomushiCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectMinomushiCropped.png",
     "sell": 600,
     "whereHow": "Shaking trees (hardwood or cedar only)",
     "weather": "Any weather",
@@ -2088,7 +2256,7 @@
     "uniqueEntryId": "QvxgCm82JqHsDknY4",
     "colors": ["Brown", "Blue"],
     "specialSell": 900,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["00:00", "23:59"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
       "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
@@ -2098,7 +2266,9 @@
     "sourceSheet": "Bugs",
     "num": 34,
     "name": "banded dragonfly",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins24.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins24.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectOniyanmaCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectOniyanmaCropped.png",
     "sell": 4500,
     "whereHow": "Flying",
     "weather": "Any except rain",
@@ -2111,7 +2281,7 @@
     "uniqueEntryId": "pCFep58D6QusMSvR7",
     "colors": ["Black", "Yellow"],
     "specialSell": 6750,
-    "activeHours": [["09:00", "18:00"]],
+    "activeHours": [["08:00", "17:00"]],
     "activeMonths": {
       "northern": [5, 6, 7, 8, 9, 10],
       "southern": [1, 2, 3, 4, 11, 12]
@@ -2121,7 +2291,9 @@
     "sourceSheet": "Bugs",
     "num": 21,
     "name": "bell cricket",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins31.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins31.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectSuzumushiCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectSuzumushiCropped.png",
     "sell": 430,
     "whereHow": "On the ground",
     "weather": "Any except rain",
@@ -2134,7 +2306,7 @@
     "uniqueEntryId": "d5EQqbQsip82G2CZE",
     "colors": ["Black", "Beige"],
     "specialSell": 645,
-    "activeHours": [["18:00", "09:00"]],
+    "activeHours": [["17:00", "08:00"]],
     "activeMonths": {
       "northern": [9, 10],
       "southern": [3, 4]
@@ -2144,7 +2316,9 @@
     "sourceSheet": "Bugs",
     "num": 49,
     "name": "blue weevil beetle",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins80.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins80.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectHousekizoumushiCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectHousekizoumushiCropped.png",
     "sell": 800,
     "whereHow": "On palm trees",
     "weather": "Any weather",
@@ -2157,7 +2331,7 @@
     "uniqueEntryId": "qocWy6r5RXjeThdYy",
     "colors": ["Green", "Pink"],
     "specialSell": 1200,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["00:00", "23:59"]],
     "activeMonths": {
       "northern": [7, 8],
       "southern": [1, 2]
@@ -2167,7 +2341,9 @@
     "sourceSheet": "Bugs",
     "num": 26,
     "name": "brown cicada",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins17.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins17.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectAburazemiCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectAburazemiCropped.png",
     "sell": 250,
     "whereHow": "On hardwood/cedar trees",
     "weather": "Any weather",
@@ -2180,7 +2356,7 @@
     "uniqueEntryId": "gBLRZ2J2R2wwYWFCk",
     "colors": ["Brown", "Green"],
     "specialSell": 375,
-    "activeHours": [["09:00", "18:00"]],
+    "activeHours": [["08:00", "17:00"]],
     "activeMonths": {
       "northern": [7, 8],
       "southern": [1, 2]
@@ -2190,7 +2366,9 @@
     "sourceSheet": "Bugs",
     "num": 77,
     "name": "centipede",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins60.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins60.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectMukadeCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectMukadeCropped.png",
     "sell": 300,
     "whereHow": "From hitting rocks",
     "weather": "Any weather",
@@ -2203,7 +2381,7 @@
     "uniqueEntryId": "ubStMQwHMJJcYje38",
     "colors": ["Black", "Orange"],
     "specialSell": 450,
-    "activeHours": [["17:00", "00:00"]],
+    "activeHours": [["16:00", "23:00"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 6, 9, 10, 11, 12],
       "southern": [3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
@@ -2213,9 +2391,11 @@
     "sourceSheet": "Bugs",
     "num": 31,
     "name": "cicada shell",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins69.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins69.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectSeminonukegaraCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectSeminonukegaraCropped.png",
     "sell": 10,
-    "whereHow": "Shaking trees (hardwood or cedar only)",
+    "whereHow": "On hardwood/cedar trees",
     "weather": "Any weather",
     "rarity": "Rare",
     "inventoryFilename": "Ins69",
@@ -2226,7 +2406,7 @@
     "uniqueEntryId": "6s3MCahAroqpjGybW",
     "colors": ["Brown", "Green"],
     "specialSell": 15,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["00:00", "23:59"]],
     "activeMonths": {
       "northern": [7, 8],
       "southern": [1, 2]
@@ -2236,7 +2416,9 @@
     "sourceSheet": "Bugs",
     "num": 47,
     "name": "citrus long-horned beetle",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins39.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins39.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectGomadarakamikiriCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectGomadarakamikiriCropped.png",
     "sell": 350,
     "whereHow": "On tree stumps",
     "weather": "Any except rain",
@@ -2249,7 +2431,7 @@
     "uniqueEntryId": "QR88MPLzYxSCHWZJb",
     "colors": ["Black", "Green"],
     "specialSell": 525,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["00:00", "23:59"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
       "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
@@ -2259,7 +2441,9 @@
     "sourceSheet": "Bugs",
     "num": 5,
     "name": "common bluebottle",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins0.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins0.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectAosujiagehaCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectAosujiagehaCropped.png",
     "sell": 300,
     "whereHow": "Flying near flowers",
     "weather": "Any except rain",
@@ -2272,7 +2456,7 @@
     "uniqueEntryId": "vgkW2eovbpxNuGsFZ",
     "colors": ["Black", "Green"],
     "specialSell": 450,
-    "activeHours": [["05:00", "20:00"]],
+    "activeHours": [["04:00", "19:00"]],
     "activeMonths": {
       "northern": [4, 5, 6, 7, 8],
       "southern": [1, 2, 10, 11, 12]
@@ -2282,7 +2466,9 @@
     "sourceSheet": "Bugs",
     "num": 1,
     "name": "common butterfly",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins72.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins72.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectMonshirochoCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectMonshirochoCropped.png",
     "sell": 160,
     "whereHow": "Flying near flowers",
     "weather": "Any except rain",
@@ -2295,7 +2481,7 @@
     "uniqueEntryId": "tRJxp5N9XbwAGQHZc",
     "colors": ["White", "Green"],
     "specialSell": 240,
-    "activeHours": [["05:00", "20:00"]],
+    "activeHours": [["04:00", "19:00"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 6, 9, 10, 11, 12],
       "southern": [3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
@@ -2305,7 +2491,9 @@
     "sourceSheet": "Bugs",
     "num": 20,
     "name": "cricket",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins30.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins30.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectKohrogiCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectKohrogiCropped.png",
     "sell": 130,
     "whereHow": "On the ground",
     "weather": "Any except rain",
@@ -2318,7 +2506,7 @@
     "uniqueEntryId": "Lr7eFJzJJZpWRWekm",
     "colors": ["Brown", "Beige"],
     "specialSell": 195,
-    "activeHours": [["18:00", "09:00"]],
+    "activeHours": [["17:00", "08:00"]],
     "activeMonths": {
       "northern": [9, 10, 11],
       "southern": [3, 4, 5]
@@ -2328,7 +2516,9 @@
     "sourceSheet": "Bugs",
     "num": 59,
     "name": "cyclommatus stag",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins49.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins49.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectHosoakakuwagataCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectHosoakakuwagataCropped.png",
     "sell": 8000,
     "whereHow": "On palm trees",
     "weather": "Any weather",
@@ -2341,7 +2531,7 @@
     "uniqueEntryId": "moBevd7J5hwpHeLcs",
     "colors": ["Black", "Black"],
     "specialSell": 12000,
-    "activeHours": [["18:00", "09:00"]],
+    "activeHours": [["17:00", "08:00"]],
     "activeMonths": {
       "northern": [7, 8],
       "southern": [1, 2]
@@ -2351,7 +2541,9 @@
     "sourceSheet": "Bugs",
     "num": 35,
     "name": "damselfly",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins81.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins81.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectItotonboCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectItotonboCropped.png",
     "sell": 500,
     "whereHow": "Flying",
     "weather": "Any except rain",
@@ -2364,7 +2556,7 @@
     "uniqueEntryId": "pBmqsa7CyeKzyRjDT",
     "colors": ["Green", "Blue"],
     "specialSell": 750,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["00:00", "23:59"]],
     "activeMonths": {
       "northern": [1, 2, 11, 12],
       "southern": [5, 6, 7, 8]
@@ -2374,7 +2566,9 @@
     "sourceSheet": "Bugs",
     "num": 33,
     "name": "darner dragonfly",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins23.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins23.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectGinyanmaCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectGinyanmaCropped.png",
     "sell": 230,
     "whereHow": "Flying",
     "weather": "Any except rain",
@@ -2387,7 +2581,7 @@
     "uniqueEntryId": "723NiWMh4iY9RJtAM",
     "colors": ["Green", "Green"],
     "specialSell": 345,
-    "activeHours": [["09:00", "18:00"]],
+    "activeHours": [["08:00", "17:00"]],
     "activeMonths": {
       "northern": [4, 5, 6, 7, 8, 9, 10],
       "southern": [1, 2, 3, 4, 10, 11, 12]
@@ -2397,7 +2591,9 @@
     "sourceSheet": "Bugs",
     "num": 39,
     "name": "diving beetle",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins28.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins28.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectGengorouCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectGengorouCropped.png",
     "sell": 800,
     "whereHow": "On rivers/ponds",
     "weather": "Any weather",
@@ -2410,7 +2606,7 @@
     "uniqueEntryId": "CBjt7itnPqEtNznrX",
     "colors": ["Black", "Blue"],
     "specialSell": 1200,
-    "activeHours": [["09:00", "20:00"]],
+    "activeHours": [["08:00", "19:00"]],
     "activeMonths": {
       "northern": [5, 6, 7, 8, 9],
       "southern": [1, 2, 3, 11, 12]
@@ -2420,7 +2616,9 @@
     "sourceSheet": "Bugs",
     "num": 53,
     "name": "drone beetle",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins75.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins75.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectKanabunCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectKanabunCropped.png",
     "sell": 200,
     "whereHow": "On trees (any kind)",
     "weather": "Any weather",
@@ -2433,7 +2631,7 @@
     "uniqueEntryId": "uXmtRAQgY3g596tov",
     "colors": ["Green", "Blue"],
     "specialSell": 300,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["00:00", "23:59"]],
     "activeMonths": {
       "northern": [6, 7, 8],
       "southern": [1, 2, 12]
@@ -2443,7 +2641,9 @@
     "sourceSheet": "Bugs",
     "num": 50,
     "name": "dung beetle",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins40.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins40.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectFunkorogashiCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectFunkorogashiCropped.png",
     "sell": 3000,
     "whereHow": "Pushing snowballs",
     "weather": "Any weather",
@@ -2456,7 +2656,7 @@
     "uniqueEntryId": "p9RhE8wLWpHtcoq5G",
     "colors": ["Black", "Beige"],
     "specialSell": 4500,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["00:00", "23:59"]],
     "activeMonths": {
       "northern": [1, 2, 12],
       "southern": [6, 7, 8]
@@ -2466,7 +2666,9 @@
     "sourceSheet": "Bugs",
     "num": 51,
     "name": "earth-boring dung beetle",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins42.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins42.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectOhsenchikoganeCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectSenchikoganeCropped.png",
     "sell": 300,
     "whereHow": "On trees (any kind)",
     "weather": "Any weather",
@@ -2479,7 +2681,7 @@
     "uniqueEntryId": "k2fqxdYnTF8BpHB7u",
     "colors": ["Purple", "Orange"],
     "specialSell": 450,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["00:00", "23:59"]],
     "activeMonths": {
       "northern": [7, 8, 9],
       "southern": [1, 2, 3]
@@ -2489,7 +2691,9 @@
     "sourceSheet": "Bugs",
     "num": 9,
     "name": "emperor butterfly",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins5.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins5.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectMorufuochoCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectMorufuochoCropped.png",
     "sell": 4000,
     "whereHow": "Flying near flowers",
     "weather": "Any except rain",
@@ -2502,7 +2706,7 @@
     "uniqueEntryId": "Lwkf7oQ3mcWYm6eEY",
     "colors": ["Blue", "Orange"],
     "specialSell": 6000,
-    "activeHours": [["18:00", "09:00"]],
+    "activeHours": [["17:00", "08:00"]],
     "activeMonths": {
       "northern": [1, 2, 3, 6, 7, 8, 9, 12],
       "southern": [1, 2, 3, 6, 7, 8, 9, 12]
@@ -2512,7 +2716,9 @@
     "sourceSheet": "Bugs",
     "num": 30,
     "name": "evening cicada",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins20.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins20.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectHigurashiCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectHigurashiCropped.png",
     "sell": 550,
     "whereHow": "On hardwood/cedar trees",
     "weather": "Any weather",
@@ -2526,8 +2732,8 @@
     "colors": ["Black", "Orange"],
     "specialSell": 825,
     "activeHours": [
-      ["04:00", "08:00"],
-      ["16:00", "19:00"]
+      ["03:00", "07:00"],
+      ["15:00", "18:00"]
     ],
     "activeMonths": {
       "northern": [7, 8],
@@ -2538,7 +2744,9 @@
     "sourceSheet": "Bugs",
     "num": 36,
     "name": "firefly",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins41.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins41.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectHotaruCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectHotaruCropped.png",
     "sell": 300,
     "whereHow": "Flying",
     "weather": "Any except rain",
@@ -2551,7 +2759,7 @@
     "uniqueEntryId": "PgiwPqykwafyz5EL6",
     "colors": ["Black", "Blue"],
     "specialSell": 450,
-    "activeHours": [["20:00", "05:00"]],
+    "activeHours": [["19:00", "04:00"]],
     "activeMonths": {
       "northern": [6],
       "southern": [12]
@@ -2561,7 +2769,9 @@
     "sourceSheet": "Bugs",
     "num": 74,
     "name": "flea",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins56.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins56.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectNomiCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectNomiCropped.png",
     "sell": 70,
     "whereHow": "On villagers",
     "weather": "Any weather",
@@ -2574,7 +2784,7 @@
     "uniqueEntryId": "QzDywoJEAJDcjGfEF",
     "colors": ["Brown", "White"],
     "specialSell": 105,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["00:00", "23:59"]],
     "activeMonths": {
       "northern": [4, 5, 6, 7, 8, 9, 10, 11],
       "southern": [1, 2, 3, 4, 5, 10, 11, 12]
@@ -2584,7 +2794,9 @@
     "sourceSheet": "Bugs",
     "num": 72,
     "name": "fly",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins59.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins59.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectHaeCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectHaeCropped.png",
     "sell": 60,
     "whereHow": "Flying near trash (boots, tires, cans) or rotten turnips",
     "weather": "Any weather",
@@ -2597,7 +2809,7 @@
     "uniqueEntryId": "xdBmuMgXJ6jGxpabK",
     "colors": ["Black", "White"],
     "specialSell": 90,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["00:00", "23:59"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
       "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
@@ -2607,7 +2819,9 @@
     "sourceSheet": "Bugs",
     "num": 28,
     "name": "giant cicada",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins65.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins65.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectKumazemiCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectKumazemiCropped.png",
     "sell": 500,
     "whereHow": "On hardwood/cedar trees",
     "weather": "Any weather",
@@ -2620,7 +2834,7 @@
     "uniqueEntryId": "nPm2r7idGshQW87MN",
     "colors": ["Black", "Yellow"],
     "specialSell": 750,
-    "activeHours": [["09:00", "18:00"]],
+    "activeHours": [["08:00", "17:00"]],
     "activeMonths": {
       "northern": [7, 8],
       "southern": [1, 2]
@@ -2630,7 +2844,9 @@
     "sourceSheet": "Bugs",
     "num": 57,
     "name": "giant stag",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins47.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins47.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectOhkuwagataCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectOhkuwagataCropped.png",
     "sell": 10000,
     "whereHow": "On trees (any kind)",
     "weather": "Any weather",
@@ -2643,7 +2859,7 @@
     "uniqueEntryId": "KhrTLzayFz23zz2kn",
     "colors": ["Black", "Black"],
     "specialSell": 15000,
-    "activeHours": [["00:00", "09:00"]],
+    "activeHours": [["23:00", "08:00"]],
     "activeMonths": {
       "northern": [7, 8],
       "southern": [1, 2]
@@ -2653,7 +2869,9 @@
     "sourceSheet": "Bugs",
     "num": 40,
     "name": "giant water bug",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins76.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins76.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectTagameCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectTagameCropped.png",
     "sell": 2000,
     "whereHow": "On rivers/ponds",
     "weather": "Any weather",
@@ -2666,7 +2884,7 @@
     "uniqueEntryId": "ZsDdBvqAjZMG8EQkZ",
     "colors": ["Brown", "Blue"],
     "specialSell": 3000,
-    "activeHours": [["20:00", "09:00"]],
+    "activeHours": [["19:00", "08:00"]],
     "activeMonths": {
       "northern": [4, 5, 6, 7, 8, 9],
       "southern": [1, 2, 3, 10, 11, 12]
@@ -2676,7 +2894,9 @@
     "sourceSheet": "Bugs",
     "num": 61,
     "name": "giraffe stag",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins77.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins77.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectGirafanokogirikuwagataCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectGirafanokogirikuwagataCropped.png",
     "sell": 12000,
     "whereHow": "On palm trees",
     "weather": "Any weather",
@@ -2689,7 +2909,7 @@
     "uniqueEntryId": "PSChjzMhGwhnsHTs4",
     "colors": ["Black", "Black"],
     "specialSell": 18000,
-    "activeHours": [["18:00", "09:00"]],
+    "activeHours": [["17:00", "08:00"]],
     "activeMonths": {
       "northern": [7, 8],
       "southern": [1, 2]
@@ -2699,7 +2919,9 @@
     "sourceSheet": "Bugs",
     "num": 60,
     "name": "golden stag",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins50.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins50.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectOugononikuwagataCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectOugononikuwagataCropped.png",
     "sell": 12000,
     "whereHow": "On palm trees",
     "weather": "Any weather",
@@ -2712,7 +2934,7 @@
     "uniqueEntryId": "2C8cSphidFCBPxYEe",
     "colors": ["Black", "Yellow"],
     "specialSell": 18000,
-    "activeHours": [["18:00", "09:00"]],
+    "activeHours": [["17:00", "08:00"]],
     "activeMonths": {
       "northern": [7, 8],
       "southern": [1, 2]
@@ -2722,7 +2944,9 @@
     "sourceSheet": "Bugs",
     "num": 54,
     "name": "goliath beetle",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins55.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins55.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectGoraiasuohtsunohanamuguriCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectGoraiasuohtsunohanamuguriCropped.png",
     "sell": 8000,
     "whereHow": "On palm trees",
     "weather": "Any weather",
@@ -2735,7 +2959,7 @@
     "uniqueEntryId": "wZQMZfhtRyPFAapmF",
     "colors": ["Red", "Black"],
     "specialSell": 12000,
-    "activeHours": [["18:00", "09:00"]],
+    "activeHours": [["17:00", "08:00"]],
     "activeMonths": {
       "northern": [6, 7, 8, 9],
       "southern": [1, 2, 3, 12]
@@ -2745,7 +2969,9 @@
     "sourceSheet": "Bugs",
     "num": 19,
     "name": "grasshopper",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins32.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins32.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectKirigirisuCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectKirigirisuCropped.png",
     "sell": 160,
     "whereHow": "On the ground",
     "weather": "Any except rain",
@@ -2758,7 +2984,7 @@
     "uniqueEntryId": "zkzSLJPkkcwXwShKc",
     "colors": ["Green", "Beige"],
     "specialSell": 240,
-    "activeHours": [["09:00", "18:00"]],
+    "activeHours": [["08:00", "17:00"]],
     "activeMonths": {
       "northern": [7, 8, 9],
       "southern": [1, 2, 3]
@@ -2768,7 +2994,9 @@
     "sourceSheet": "Bugs",
     "num": 7,
     "name": "great purple emperor",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins74.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins74.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectOhmurasakiCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectOhmurasakiCropped.png",
     "sell": 3000,
     "whereHow": "Flying near flowers",
     "weather": "Any except rain",
@@ -2781,7 +3009,7 @@
     "uniqueEntryId": "ZSre7sheZoRqsJwHQ",
     "colors": ["Purple", "Orange"],
     "specialSell": 4500,
-    "activeHours": [["05:00", "20:00"]],
+    "activeHours": [["04:00", "19:00"]],
     "activeMonths": {
       "northern": [5, 6, 7, 8],
       "southern": [1, 2, 11, 12]
@@ -2791,7 +3019,9 @@
     "sourceSheet": "Bugs",
     "num": 70,
     "name": "hermit crab",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins66.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins66.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectYadokariCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectYadokariCropped.png",
     "sell": 1000,
     "whereHow": "Disguised on shoreline",
     "weather": "Any weather",
@@ -2804,7 +3034,7 @@
     "uniqueEntryId": "TzbsfYgE4k2qo7fHN",
     "colors": ["Beige", "Pink"],
     "specialSell": 1500,
-    "activeHours": [["20:00", "09:00"]],
+    "activeHours": [["19:00", "08:00"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
       "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
@@ -2814,7 +3044,9 @@
     "sourceSheet": "Bugs",
     "num": 24,
     "name": "honeybee",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins11.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins11.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectMitsubachiCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectMitsubachiCropped.png",
     "sell": 200,
     "whereHow": "Flying near flowers",
     "weather": "Any except rain",
@@ -2827,7 +3059,7 @@
     "uniqueEntryId": "yeWiAiqDRwinvumDm",
     "colors": ["Yellow", "Blue"],
     "specialSell": 300,
-    "activeHours": [["09:00", "18:00"]],
+    "activeHours": [["08:00", "17:00"]],
     "activeMonths": {
       "northern": [3, 4, 5, 6, 7],
       "southern": [1, 9, 10, 11, 12]
@@ -2837,7 +3069,9 @@
     "sourceSheet": "Bugs",
     "num": 63,
     "name": "horned atlas",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins52.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins52.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectKohkasasuohkabutoCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectKohkasasuohkabutoCropped.png",
     "sell": 8000,
     "whereHow": "On palm trees",
     "weather": "Any weather",
@@ -2850,7 +3084,7 @@
     "uniqueEntryId": "S93y8gxrSHFNCFmwJ",
     "colors": ["Black", "Black"],
     "specialSell": 12000,
-    "activeHours": [["18:00", "09:00"]],
+    "activeHours": [["17:00", "08:00"]],
     "activeMonths": {
       "northern": [7, 8],
       "southern": [1, 2]
@@ -2860,7 +3094,9 @@
     "sourceSheet": "Bugs",
     "num": 62,
     "name": "horned dynastid",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins51.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins51.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectKabutomushiCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectKabutomushiCropped.png",
     "sell": 1350,
     "whereHow": "On trees (any kind)",
     "weather": "Any weather",
@@ -2873,7 +3109,7 @@
     "uniqueEntryId": "zaG8qsKLpbTjysx7D",
     "colors": ["Brown", "Black"],
     "specialSell": 2025,
-    "activeHours": [["18:00", "09:00"]],
+    "activeHours": [["17:00", "08:00"]],
     "activeMonths": {
       "northern": [7, 8],
       "southern": [1, 2]
@@ -2883,7 +3119,9 @@
     "sourceSheet": "Bugs",
     "num": 64,
     "name": "horned elephant",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins53.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins53.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectZoukabutoCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectZoukabutoCropped.png",
     "sell": 8000,
     "whereHow": "On palm trees",
     "weather": "Any weather",
@@ -2896,7 +3134,7 @@
     "uniqueEntryId": "M7SHXNEMf78nJD6fE",
     "colors": ["Beige", "Black"],
     "specialSell": 12000,
-    "activeHours": [["18:00", "09:00"]],
+    "activeHours": [["17:00", "08:00"]],
     "activeMonths": {
       "northern": [7, 8],
       "southern": [1, 2]
@@ -2906,7 +3144,9 @@
     "sourceSheet": "Bugs",
     "num": 65,
     "name": "horned hercules",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins54.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins54.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectHerakuresuohkabutoCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectHerakuresuohkabutoCropped.png",
     "sell": 12000,
     "whereHow": "On palm trees",
     "weather": "Any weather",
@@ -2919,7 +3159,7 @@
     "uniqueEntryId": "TqhEomNEMDZ2wcTpk",
     "colors": ["Yellow", "Black"],
     "specialSell": 18000,
-    "activeHours": [["18:00", "09:00"]],
+    "activeHours": [["17:00", "08:00"]],
     "activeMonths": {
       "northern": [7, 8],
       "southern": [1, 2]
@@ -2929,7 +3169,9 @@
     "sourceSheet": "Bugs",
     "num": 45,
     "name": "jewel beetle",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins44.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins44.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectTamamushiCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectTamamushiCropped.png",
     "sell": 2400,
     "whereHow": "On tree stumps",
     "weather": "Any except rain",
@@ -2942,7 +3184,7 @@
     "uniqueEntryId": "TYFowxRG4ydcvotkQ",
     "colors": ["Green", "Black"],
     "specialSell": 3600,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["00:00", "23:59"]],
     "activeMonths": {
       "northern": [4, 5, 6, 7, 8],
       "southern": [1, 2, 10, 11, 12]
@@ -2952,7 +3194,9 @@
     "sourceSheet": "Bugs",
     "num": 43,
     "name": "ladybug",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins37.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins37.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectTentoumushiCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectTentoumushiCropped.png",
     "sell": 200,
     "whereHow": "On flowers",
     "weather": "Any except rain",
@@ -2965,7 +3209,7 @@
     "uniqueEntryId": "pYSSbvXzkuFneRvQ7",
     "colors": ["Red", "Green"],
     "specialSell": 300,
-    "activeHours": [["09:00", "18:00"]],
+    "activeHours": [["08:00", "17:00"]],
     "activeMonths": {
       "northern": [3, 4, 5, 6, 10],
       "southern": [4, 9, 10, 11, 12]
@@ -2975,7 +3219,9 @@
     "sourceSheet": "Bugs",
     "num": 16,
     "name": "long locust",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins13.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins13.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectShoryobattaCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectShoryobattaCropped.png",
     "sell": 200,
     "whereHow": "On the ground",
     "weather": "Any weather",
@@ -2988,7 +3234,7 @@
     "uniqueEntryId": "Q57sgq4hQTNZAqWXj",
     "colors": ["Green", "Blue"],
     "specialSell": 300,
-    "activeHours": [["09:00", "20:00"]],
+    "activeHours": [["08:00", "19:00"]],
     "activeMonths": {
       "northern": [4, 5, 6, 7, 8, 9, 10, 11],
       "southern": [1, 2, 3, 4, 5, 10, 11, 12]
@@ -2998,7 +3244,9 @@
     "sourceSheet": "Bugs",
     "num": 15,
     "name": "Madagascan sunset moth",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins79.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins79.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectNishikiohtsubamegaCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectNishikiohtsubamegaCropped.png",
     "sell": 2500,
     "whereHow": "Flying near flowers",
     "weather": "Any except rain",
@@ -3011,7 +3259,7 @@
     "uniqueEntryId": "EFWMygLqnJinFoXSW",
     "colors": ["Green", "Pink"],
     "specialSell": 3750,
-    "activeHours": [["09:00", "17:00"]],
+    "activeHours": [["08:00", "16:00"]],
     "activeMonths": {
       "northern": [4, 5, 6, 7, 8, 9],
       "southern": [1, 2, 3, 10, 11, 12]
@@ -3021,7 +3269,9 @@
     "sourceSheet": "Bugs",
     "num": 42,
     "name": "man-faced stink bug",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins78.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins78.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectJinmenkamemushiCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectJinmenkamemushiCropped.png",
     "sell": 1000,
     "whereHow": "On flowers",
     "weather": "Any except rain",
@@ -3034,7 +3284,7 @@
     "uniqueEntryId": "zvr84Jvf4s6K23XJ5",
     "colors": ["Black", "Orange"],
     "specialSell": 1500,
-    "activeHours": [["20:00", "09:00"]],
+    "activeHours": [["19:00", "08:00"]],
     "activeMonths": {
       "northern": [3, 4, 5, 6, 7, 8, 9, 10],
       "southern": [1, 2, 3, 4, 9, 10, 11, 12]
@@ -3044,7 +3294,9 @@
     "sourceSheet": "Bugs",
     "num": 22,
     "name": "mantis",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins15.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins15.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectKamakiriCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectKamakiriCropped.png",
     "sell": 430,
     "whereHow": "On flowers",
     "weather": "Any except rain",
@@ -3057,7 +3309,7 @@
     "uniqueEntryId": "Qko2mfz7SaESpMcCv",
     "colors": ["Green", "Green"],
     "specialSell": 645,
-    "activeHours": [["09:00", "18:00"]],
+    "activeHours": [["08:00", "17:00"]],
     "activeMonths": {
       "northern": [3, 4, 5, 6, 7, 8, 9, 10, 11],
       "southern": [1, 2, 3, 4, 5, 9, 10, 11, 12]
@@ -3067,7 +3319,9 @@
     "sourceSheet": "Bugs",
     "num": 17,
     "name": "migratory locust",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins14.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins14.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectTonosamabattaCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectTonosamabattaCropped.png",
     "sell": 600,
     "whereHow": "On the ground",
     "weather": "Any weather",
@@ -3080,7 +3334,7 @@
     "uniqueEntryId": "dkGagcjd7aZwFEszw",
     "colors": ["Green", "Orange"],
     "specialSell": 900,
-    "activeHours": [["09:00", "20:00"]],
+    "activeHours": [["08:00", "19:00"]],
     "activeMonths": {
       "northern": [8, 9, 10, 11],
       "southern": [2, 3, 4, 5]
@@ -3090,7 +3344,9 @@
     "sourceSheet": "Bugs",
     "num": 56,
     "name": "miyama stag",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins46.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins46.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectMiyamakuwagataCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectMiyamakuwagataCropped.png",
     "sell": 1000,
     "whereHow": "On trees (any kind)",
     "weather": "Any weather",
@@ -3103,7 +3359,7 @@
     "uniqueEntryId": "qRGGm6MfuP4Aqdk3M",
     "colors": ["Black", "Black"],
     "specialSell": 1500,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["00:00", "23:59"]],
     "activeMonths": {
       "northern": [7, 8],
       "southern": [1, 2]
@@ -3113,7 +3369,9 @@
     "sourceSheet": "Bugs",
     "num": 37,
     "name": "mole cricket",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins33.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins33.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectOkeraCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectOkeraCropped.png",
     "sell": 500,
     "whereHow": "Underground (dig where noise is loudest)",
     "weather": "Any weather",
@@ -3126,7 +3384,7 @@
     "uniqueEntryId": "HMWPGeeKw9LP6ucSq",
     "colors": ["Brown", "Yellow"],
     "specialSell": 750,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["00:00", "23:59"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 11, 12],
       "southern": [5, 6, 7, 8, 9, 10, 11]
@@ -3136,7 +3394,9 @@
     "sourceSheet": "Bugs",
     "num": 8,
     "name": "monarch butterfly",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins4.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins4.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectOhkabamadaraCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectOhkabamadaraCropped.png",
     "sell": 140,
     "whereHow": "Flying near flowers",
     "weather": "Any except rain",
@@ -3149,7 +3409,7 @@
     "uniqueEntryId": "BJPKSZMZ2tkLXkWjL",
     "colors": ["Orange", "Blue"],
     "specialSell": 210,
-    "activeHours": [["05:00", "18:00"]],
+    "activeHours": [["04:00", "17:00"]],
     "activeMonths": {
       "northern": [9, 10, 11],
       "southern": [3, 4, 5]
@@ -3159,7 +3419,9 @@
     "sourceSheet": "Bugs",
     "num": 73,
     "name": "mosquito",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins58.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins58.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectKaCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectKaCropped.png",
     "sell": 130,
     "whereHow": "Flying",
     "weather": "Any except rain",
@@ -3172,7 +3434,7 @@
     "uniqueEntryId": "3mMZ74qpWWnoizJHh",
     "colors": ["Black", "White"],
     "specialSell": 195,
-    "activeHours": [["18:00", "05:00"]],
+    "activeHours": [["17:00", "04:00"]],
     "activeMonths": {
       "northern": [6, 7, 8, 9],
       "southern": [1, 2, 3, 12]
@@ -3182,7 +3444,9 @@
     "sourceSheet": "Bugs",
     "num": 13,
     "name": "moth",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins9.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins9.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectGaCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectGaCropped.png",
     "sell": 130,
     "whereHow": "Flying near light sources",
     "weather": "Any except rain",
@@ -3195,7 +3459,7 @@
     "uniqueEntryId": "7Kd97rqbYBuzuCHgf",
     "colors": ["Beige", "Yellow"],
     "specialSell": 195,
-    "activeHours": [["20:00", "05:00"]],
+    "activeHours": [["19:00", "04:00"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
       "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
@@ -3205,7 +3469,9 @@
     "sourceSheet": "Bugs",
     "num": 23,
     "name": "orchid mantis",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins16.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins16.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectHanakamakiriCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectHanakamakiriCropped.png",
     "sell": 2400,
     "whereHow": "On white flowers",
     "weather": "Any except rain",
@@ -3218,7 +3484,7 @@
     "uniqueEntryId": "9b4v6nMrrThHEtNbB",
     "colors": ["White", "Pink"],
     "specialSell": 3600,
-    "activeHours": [["09:00", "18:00"]],
+    "activeHours": [["08:00", "17:00"]],
     "activeMonths": {
       "northern": [3, 4, 5, 6, 7, 8, 9, 10, 11],
       "southern": [1, 2, 3, 4, 5, 9, 10, 11, 12]
@@ -3228,7 +3494,9 @@
     "sourceSheet": "Bugs",
     "num": 6,
     "name": "paper kite butterfly",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins73.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins73.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectOhgomamadaraCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectOhgomamadaraCropped.png",
     "sell": 1000,
     "whereHow": "Flying near flowers",
     "weather": "Any except rain",
@@ -3241,7 +3509,7 @@
     "uniqueEntryId": "hzwridDJE99rPHLrZ",
     "colors": ["White", "Yellow"],
     "specialSell": 1500,
-    "activeHours": [["09:00", "20:00"]],
+    "activeHours": [["08:00", "19:00"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
       "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
@@ -3251,7 +3519,9 @@
     "sourceSheet": "Bugs",
     "num": 4,
     "name": "peacock butterfly",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins3.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins3.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectKarasuagehaCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectKarasuagehaCropped.png",
     "sell": 2500,
     "whereHow": "Flying near blue/purple/black flowers",
     "weather": "Any except rain",
@@ -3264,7 +3534,7 @@
     "uniqueEntryId": "rguKzmnRkGmBMKzyE",
     "colors": ["Green", "Blue"],
     "specialSell": 3750,
-    "activeHours": [["05:00", "20:00"]],
+    "activeHours": [["04:00", "19:00"]],
     "activeMonths": {
       "northern": [3, 4, 5, 6],
       "southern": [9, 10, 11, 12]
@@ -3274,7 +3544,9 @@
     "sourceSheet": "Bugs",
     "num": 76,
     "name": "pill bug",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins57.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins57.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectDangomushiCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectDangomushiCropped.png",
     "sell": 250,
     "whereHow": "From hitting rocks",
     "weather": "Any weather",
@@ -3287,7 +3559,7 @@
     "uniqueEntryId": "SGHXhcTzaNJD2z926",
     "colors": ["Black", "Blue"],
     "specialSell": 375,
-    "activeHours": [["00:00", "17:00"]],
+    "activeHours": [["23:00", "16:00"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 6, 9, 10, 11, 12],
       "southern": [3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
@@ -3297,7 +3569,9 @@
     "sourceSheet": "Bugs",
     "num": 38,
     "name": "pondskater",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins27.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins27.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectAmenboCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectAmenboCropped.png",
     "sell": 130,
     "whereHow": "On rivers/ponds",
     "weather": "Any weather",
@@ -3310,7 +3584,7 @@
     "uniqueEntryId": "eSBNwiuZforpxNYem",
     "colors": ["Black", "Blue"],
     "specialSell": 195,
-    "activeHours": [["09:00", "20:00"]],
+    "activeHours": [["08:00", "19:00"]],
     "activeMonths": {
       "northern": [5, 6, 7, 8, 9],
       "southern": [1, 2, 3, 11, 12]
@@ -3320,7 +3594,9 @@
     "sourceSheet": "Bugs",
     "num": 12,
     "name": "Queen Alexandra's birdwing",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins8.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins8.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectArekisandoratoribaneagehaCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectArekisandoratoribaneagehaCropped.png",
     "sell": 4000,
     "whereHow": "Flying near flowers",
     "weather": "Any except rain",
@@ -3333,7 +3609,7 @@
     "uniqueEntryId": "PbNXeN9GZuJuow7jv",
     "colors": ["Green", "Pink"],
     "specialSell": 6000,
-    "activeHours": [["09:00", "17:00"]],
+    "activeHours": [["08:00", "16:00"]],
     "activeMonths": {
       "northern": [5, 6, 7, 8, 9],
       "southern": [1, 2, 3, 11, 12]
@@ -3343,7 +3619,9 @@
     "sourceSheet": "Bugs",
     "num": 58,
     "name": "rainbow stag",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins48.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins48.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectNijiirokuwagataCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectNijiirokuwagataCropped.png",
     "sell": 6000,
     "whereHow": "On trees (any kind)",
     "weather": "Any weather",
@@ -3356,7 +3634,7 @@
     "uniqueEntryId": "Egfv6BDtFMeGZPmfh",
     "colors": ["Brown", "Black"],
     "specialSell": 9000,
-    "activeHours": [["20:00", "09:00"]],
+    "activeHours": [["19:00", "08:00"]],
     "activeMonths": {
       "northern": [6, 7, 8, 9],
       "southern": [1, 2, 3, 12]
@@ -3366,7 +3644,9 @@
     "sourceSheet": "Bugs",
     "num": 11,
     "name": "Rajah Brooke's birdwing",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins7.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins7.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectAkaeritoribaneagehaCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectAkaeritoribaneagehaCropped.png",
     "sell": 2500,
     "whereHow": "Flying near flowers",
     "weather": "Any except rain",
@@ -3379,7 +3659,7 @@
     "uniqueEntryId": "gLpHgXT4pPXP4XfWQ",
     "colors": ["Green", "Pink"],
     "specialSell": 3750,
-    "activeHours": [["09:00", "18:00"]],
+    "activeHours": [["08:00", "17:00"]],
     "activeMonths": {
       "northern": [1, 2, 4, 5, 6, 7, 8, 9, 12],
       "southern": [1, 2, 3, 6, 7, 8, 10, 11, 12]
@@ -3389,7 +3669,9 @@
     "sourceSheet": "Bugs",
     "num": 32,
     "name": "red dragonfly",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins22.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins22.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectAkiakaneCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectAkiakaneCropped.png",
     "sell": 180,
     "whereHow": "Flying",
     "weather": "Any except rain",
@@ -3402,7 +3684,7 @@
     "uniqueEntryId": "PKSHvkPphXteXHKuG",
     "colors": ["Red", "Orange"],
     "specialSell": 270,
-    "activeHours": [["09:00", "20:00"]],
+    "activeHours": [["08:00", "19:00"]],
     "activeMonths": {
       "northern": [9, 10],
       "southern": [3, 4]
@@ -3412,7 +3694,9 @@
     "sourceSheet": "Bugs",
     "num": 18,
     "name": "rice grasshopper",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins67.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins67.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectInagoCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectInagoCropped.png",
     "sell": 400,
     "whereHow": "On the ground",
     "weather": "Any weather",
@@ -3425,7 +3709,7 @@
     "uniqueEntryId": "ZxXDxrgPvXEHz24Ni",
     "colors": ["Green", "Yellow"],
     "specialSell": 600,
-    "activeHours": [["09:00", "20:00"]],
+    "activeHours": [["08:00", "19:00"]],
     "activeMonths": {
       "northern": [8, 9, 10, 11],
       "southern": [2, 3, 4, 5]
@@ -3435,7 +3719,9 @@
     "sourceSheet": "Bugs",
     "num": 27,
     "name": "robust cicada",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins18.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins18.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectMinminzemiCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectMinminzemiCropped.png",
     "sell": 300,
     "whereHow": "On hardwood/cedar trees",
     "weather": "Any weather",
@@ -3448,7 +3734,7 @@
     "uniqueEntryId": "cd5ymnRmRvT4n4yjB",
     "colors": ["Black", "Blue"],
     "specialSell": 450,
-    "activeHours": [["09:00", "18:00"]],
+    "activeHours": [["08:00", "17:00"]],
     "activeMonths": {
       "northern": [7, 8],
       "southern": [1, 2]
@@ -3458,7 +3744,9 @@
     "sourceSheet": "Bugs",
     "num": 48,
     "name": "rosalia batesi beetle",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins82.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins82.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectRuriboshikamikiriCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectRuriboshikamikiriCropped.png",
     "sell": 3000,
     "whereHow": "On tree stumps",
     "weather": "Any except rain",
@@ -3471,7 +3759,7 @@
     "uniqueEntryId": "MSTA9vdJmGoDDADrF",
     "colors": ["Blue", "Black"],
     "specialSell": 4500,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["00:00", "23:59"]],
     "activeMonths": {
       "northern": [5, 6, 7, 8, 9],
       "southern": [1, 2, 3, 11, 12]
@@ -3481,7 +3769,9 @@
     "sourceSheet": "Bugs",
     "num": 55,
     "name": "saw stag",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins46.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins46.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectNokogirikuwagataCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectNokogirikuwagataCropped.png",
     "sell": 2000,
     "whereHow": "On trees (any kind)",
     "weather": "Any weather",
@@ -3494,7 +3784,7 @@
     "uniqueEntryId": "YQq3iSiBcBAHTWxc2",
     "colors": ["Brown", "Black"],
     "specialSell": 3000,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["00:00", "23:59"]],
     "activeMonths": {
       "northern": [7, 8],
       "southern": [1, 2]
@@ -3504,7 +3794,9 @@
     "sourceSheet": "Bugs",
     "num": 52,
     "name": "scarab beetle",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins43.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins43.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectPurachinakoganeCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectPurachinakoganeCropped.png",
     "sell": 10000,
     "whereHow": "On trees (any kind)",
     "weather": "Any weather",
@@ -3517,7 +3809,7 @@
     "uniqueEntryId": "2HXdFD8s6BmYYMf4u",
     "colors": ["Black", "Beige"],
     "specialSell": 15000,
-    "activeHours": [["00:00", "21:00"]],
+    "activeHours": [["23:00", "20:00"]],
     "activeMonths": {
       "northern": [7, 8],
       "southern": [1, 2]
@@ -3527,7 +3819,9 @@
     "sourceSheet": "Bugs",
     "num": 80,
     "name": "scorpion",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins63.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins63.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectSasoriCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectSasoriCropped.png",
     "sell": 8000,
     "whereHow": "On the ground",
     "weather": "Any weather",
@@ -3540,7 +3834,7 @@
     "uniqueEntryId": "xMzHsHbjvvicZvYxg",
     "colors": ["Black", "Black"],
     "specialSell": 12000,
-    "activeHours": [["20:00", "05:00"]],
+    "activeHours": [["19:00", "04:00"]],
     "activeMonths": {
       "northern": [5, 6, 7, 8, 9, 10],
       "southern": [1, 2, 3, 4, 11, 12]
@@ -3550,9 +3844,11 @@
     "sourceSheet": "Bugs",
     "num": 75,
     "name": "snail",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins29.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins29.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectKatatsumuriCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectKatatsumuriCropped.png",
     "sell": 250,
-    "whereHow": "On rocks",
+    "whereHow": "On rocks/bushes",
     "weather": "Rain only",
     "rarity": "Common",
     "inventoryFilename": null,
@@ -3563,7 +3859,7 @@
     "uniqueEntryId": "rDNLeQnmJQGxsHpmL",
     "colors": ["Beige", "Green"],
     "specialSell": 375,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["00:00", "23:59"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
       "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
@@ -3573,7 +3869,9 @@
     "sourceSheet": "Bugs",
     "num": 78,
     "name": "spider",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins61.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins61.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectKumoCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectKumoCropped.png",
     "sell": 600,
     "whereHow": "Shaking trees (hardwood or cedar only)",
     "weather": "Any weather",
@@ -3586,7 +3884,7 @@
     "uniqueEntryId": "s2u8kDoMQx7GbAJTR",
     "colors": ["Yellow", "Orange"],
     "specialSell": 900,
-    "activeHours": [["20:00", "09:00"]],
+    "activeHours": [["19:00", "08:00"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
       "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
@@ -3596,7 +3894,9 @@
     "sourceSheet": "Bugs",
     "num": 41,
     "name": "stinkbug",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins64.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins64.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectKamemushiCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectKamemushiCropped.png",
     "sell": 120,
     "whereHow": "On flowers",
     "weather": "Any except rain",
@@ -3609,7 +3909,7 @@
     "uniqueEntryId": "4u5GZ4z3CyaHhMgqj",
     "colors": ["Green", "Yellow"],
     "specialSell": 180,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["00:00", "23:59"]],
     "activeMonths": {
       "northern": [3, 4, 5, 6, 7, 8, 9, 10],
       "southern": [1, 2, 3, 4, 9, 10, 11, 12]
@@ -3619,7 +3919,9 @@
     "sourceSheet": "Bugs",
     "num": 79,
     "name": "tarantula",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins62.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins62.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectTaranchuraCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectTaranchuraCropped.png",
     "sell": 8000,
     "whereHow": "On the ground",
     "weather": "Any weather",
@@ -3632,7 +3934,7 @@
     "uniqueEntryId": "4mto3ZvrZYpJxbm4c",
     "colors": ["Brown", "Black"],
     "specialSell": 12000,
-    "activeHours": [["20:00", "05:00"]],
+    "activeHours": [["19:00", "04:00"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 11, 12],
       "southern": [5, 6, 7, 8, 9, 10]
@@ -3642,7 +3944,9 @@
     "sourceSheet": "Bugs",
     "num": 44,
     "name": "tiger beetle",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins70.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins70.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectHanmyouCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectHanmyouCropped.png",
     "sell": 1500,
     "whereHow": "On the ground",
     "weather": "Any except rain",
@@ -3655,7 +3959,7 @@
     "uniqueEntryId": "zzGvu3797KnMb4LCD",
     "colors": ["Green", "Yellow"],
     "specialSell": 2250,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["00:00", "23:59"]],
     "activeMonths": {
       "northern": [2, 3, 4, 5, 6, 7, 8, 9, 10],
       "southern": [1, 2, 3, 4, 8, 9, 10, 11, 12]
@@ -3665,7 +3969,9 @@
     "sourceSheet": "Bugs",
     "num": 3,
     "name": "tiger butterfly",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins2.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins2.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectAgehachoCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectAgehachoCropped.png",
     "sell": 240,
     "whereHow": "Flying near flowers",
     "weather": "Any except rain",
@@ -3678,7 +3984,7 @@
     "uniqueEntryId": "GcSpepwg536mYnNuu",
     "colors": ["Yellow", "Green"],
     "specialSell": 360,
-    "activeHours": [["05:00", "20:00"]],
+    "activeHours": [["04:00", "19:00"]],
     "activeMonths": {
       "northern": [3, 4, 5, 6, 7, 8, 9],
       "southern": [1, 2, 3, 9, 10, 11, 12]
@@ -3688,7 +3994,9 @@
     "sourceSheet": "Bugs",
     "num": 46,
     "name": "violin beetle",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins38.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins38.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectBaiorinmushiCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectBaiorinmushiCropped.png",
     "sell": 450,
     "whereHow": "On tree stumps",
     "weather": "Any except rain",
@@ -3701,7 +4009,7 @@
     "uniqueEntryId": "poAcys5Mr35ELp5PS",
     "colors": ["Brown", "Black"],
     "specialSell": 675,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["00:00", "23:59"]],
     "activeMonths": {
       "northern": [5, 6, 9, 10, 11],
       "southern": [3, 4, 5, 11, 12]
@@ -3711,7 +4019,9 @@
     "sourceSheet": "Bugs",
     "num": 29,
     "name": "walker cicada",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins19.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins19.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectTsukutsukuhousiCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectTsukutsukuhousiCropped.png",
     "sell": 400,
     "whereHow": "On hardwood/cedar trees",
     "weather": "Any weather",
@@ -3724,7 +4034,7 @@
     "uniqueEntryId": "QdrL4K7seJHvd4ZZM",
     "colors": ["Black", "Pink"],
     "specialSell": 600,
-    "activeHours": [["09:00", "18:00"]],
+    "activeHours": [["08:00", "17:00"]],
     "activeMonths": {
       "northern": [8, 9],
       "southern": [2, 3]
@@ -3734,7 +4044,9 @@
     "sourceSheet": "Bugs",
     "num": 67,
     "name": "walking leaf",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins34.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins34.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectKonohamushiCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectKonohamushiCropped.png",
     "sell": 600,
     "whereHow": "Disguised under trees",
     "weather": "Any weather",
@@ -3747,7 +4059,7 @@
     "uniqueEntryId": "kuZaMcg2E7ZX56nio",
     "colors": ["Green", "Green"],
     "specialSell": 900,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["00:00", "23:59"]],
     "activeMonths": {
       "northern": [7, 8, 9],
       "southern": [1, 2, 3]
@@ -3757,7 +4069,9 @@
     "sourceSheet": "Bugs",
     "num": 66,
     "name": "walking stick",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins35.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins35.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectNanafushiCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectNanafushiCropped.png",
     "sell": 600,
     "whereHow": "On trees (any kind)",
     "weather": "Any weather",
@@ -3771,8 +4085,8 @@
     "colors": ["Brown", "Yellow"],
     "specialSell": 900,
     "activeHours": [
-      ["04:00", "08:00"],
-      ["17:00", "19:00"]
+      ["03:00", "07:00"],
+      ["16:00", "18:00"]
     ],
     "activeMonths": {
       "northern": [6, 7, 8, 9, 10, 11],
@@ -3783,7 +4097,9 @@
     "sourceSheet": "Bugs",
     "num": 25,
     "name": "wasp",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins12.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins12.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectHachiCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectHachiCropped.png",
     "sell": 2500,
     "whereHow": "Shaking trees",
     "weather": "Any weather",
@@ -3796,7 +4112,7 @@
     "uniqueEntryId": "ZEfBHqM6pFEddBezw",
     "colors": ["Yellow", "Orange"],
     "specialSell": 3750,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["00:00", "23:59"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
       "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
@@ -3806,7 +4122,9 @@
     "sourceSheet": "Bugs",
     "num": 71,
     "name": "wharf roach",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins71.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins71.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectFunamushiCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectFunamushiCropped.png",
     "sell": 200,
     "whereHow": "On beach rocks",
     "weather": "Any weather",
@@ -3819,7 +4137,7 @@
     "uniqueEntryId": "2fp9ChfPuPdYefTK3",
     "colors": ["Beige", "Blue"],
     "specialSell": 300,
-    "activeHours": [["01:00", "00:59"]],
+    "activeHours": [["00:00", "23:59"]],
     "activeMonths": {
       "northern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
       "southern": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
@@ -3829,7 +4147,9 @@
     "sourceSheet": "Bugs",
     "num": 2,
     "name": "yellow butterfly",
-    "iconImage": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/Ins1.png\")",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Ins1.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookInsectIcon/InsectMonkichoCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrInsectMonkichoCropped.png",
     "sell": 160,
     "whereHow": "Flying near flowers",
     "weather": "Any except rain",
@@ -3842,7 +4162,7 @@
     "uniqueEntryId": "9d92MqgcnGao8wQjB",
     "colors": ["Yellow", "Blue"],
     "specialSell": 240,
-    "activeHours": [["05:00", "20:00"]],
+    "activeHours": [["04:00", "19:00"]],
     "activeMonths": {
       "northern": [3, 4, 5, 6, 9, 10],
       "southern": [3, 4, 9, 10, 11, 12]

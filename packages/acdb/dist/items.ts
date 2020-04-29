@@ -27,14 +27,12 @@ export interface Items {
   ceilingType?: CeilingType | null;
   customize?: boolean;
   uses?: number;
+  stackSize?: number;
   seasonalAvailability?: SeasonalAvailability;
   style?: Style;
   primaryShape?: PrimaryShape;
   secondaryShape?: SecondaryShape | null;
   type?: string;
-  framedImage?: null | string;
-  albumImage?: null | string;
-  inventoryImage?: string;
   category?: Category;
   realArtworkTitle?: string;
   artist?: string;
@@ -185,6 +183,9 @@ export interface Variant {
   closetImage?: string;
   storageImage?: null | string;
   labelThemes?: LabelTheme[];
+  framedImage?: null | string;
+  albumImage?: null | string;
+  inventoryImage?: string;
   genuine?: boolean;
   highResTexture?: null;
 }

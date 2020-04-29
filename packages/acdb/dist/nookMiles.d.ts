@@ -3,6 +3,7 @@ export interface NookMiles {
   name: string;
   image: string;
   nookMiles: number | null;
+  stackSize: number | null;
   category: Category | null;
   filename: null | string;
   internalId: number | null;
