@@ -1,24 +1,5 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var ActiveHour;
-(function (ActiveHour) {
-    ActiveHour["The0000"] = "00:00";
-    ActiveHour["The0300"] = "03:00";
-    ActiveHour["The0400"] = "04:00";
-    ActiveHour["The0500"] = "05:00";
-    ActiveHour["The0700"] = "07:00";
-    ActiveHour["The0800"] = "08:00";
-    ActiveHour["The0900"] = "09:00";
-    ActiveHour["The1500"] = "15:00";
-    ActiveHour["The1600"] = "16:00";
-    ActiveHour["The1700"] = "17:00";
-    ActiveHour["The1800"] = "18:00";
-    ActiveHour["The1900"] = "19:00";
-    ActiveHour["The2000"] = "20:00";
-    ActiveHour["The2100"] = "21:00";
-    ActiveHour["The2300"] = "23:00";
-    ActiveHour["The2359"] = "23:59";
-})(ActiveHour = exports.ActiveHour || (exports.ActiveHour = {}));
 var Color;
 (function (Color) {
     Color["Beige"] = "Beige";
@@ -40,13 +21,6 @@ var LightingType;
     LightingType["Emission"] = "Emission";
     LightingType["Fluorescent"] = "Fluorescent";
 })(LightingType = exports.LightingType || (exports.LightingType = {}));
-var Rarity;
-(function (Rarity) {
-    Rarity["Common"] = "Common";
-    Rarity["Rare"] = "Rare";
-    Rarity["UltraRare"] = "Ultra-rare";
-    Rarity["Uncommon"] = "Uncommon";
-})(Rarity = exports.Rarity || (exports.Rarity = {}));
 var Size;
 (function (Size) {
     Size["The1X1"] = "1x1";

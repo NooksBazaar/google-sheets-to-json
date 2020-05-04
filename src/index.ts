@@ -2,9 +2,16 @@ import {OAuth2Client} from 'google-auth-library';
 import {google, sheets_v4} from 'googleapis';
 import fs from 'fs';
 import {camelCase, omit, pick, zipObject} from 'lodash';
-import {addMinutes, parse, format as dfFormat} from 'date-fns';
+import utc from 'dayjs/plugin/utc';
+import customParseFormat from 'dayjs/plugin/customParseFormat';
+import dayjs from 'dayjs';
+
+dayjs.extend(utc);
+dayjs.extend(customParseFormat);
 
 const SHEET_ID = '1mo7myqHry5r_TKvakvIhHbcEAEQpSiNoNQoIS8sMpvM';
+
+const OUTPUT = 'out';
 
 const ITEM_SHEETS = [
   'Housewares',
@@ -57,8 +64,8 @@ export async function main(auth: OAuth2Client) {
     fs.mkdirSync('cache');
   }
 
-  if (!fs.existsSync('out')) {
-    fs.mkdirSync('out');
+  if (!fs.existsSync(OUTPUT)) {
+    fs.mkdirSync(OUTPUT);
   }
 
   const workSet: Array<[string, string[]]> = [
@@ -80,12 +87,6 @@ export async function main(auth: OAuth2Client) {
 
     let data = await loadData(sheets, sheetNames, key);
 
-    // console.log(`Writing raw file to disk`);
-    // fs.writeFileSync(
-    //   `out/${key}-raw.json`,
-    //   JSON.stringify(data, undefined, ' '),
-    // );
-
     console.log(`Normalising data`);
     data = await normalizeData(data, key);
 
@@ -103,7 +104,10 @@ export async function main(auth: OAuth2Client) {
       }
 
       console.log(`Writing data to disk`);
-      fs.writeFileSync(`out/${key}.json`, JSON.stringify(data, undefined, ' '));
+      fs.writeFileSync(
+        `${OUTPUT}/${key}.json`,
+        JSON.stringify(data, undefined, ' '),
+      );
 
       console.log(`Finished ${key}`);
     }
@@ -116,12 +120,12 @@ export async function main(auth: OAuth2Client) {
       continue;
     }
 
-    const data = require(`../out/${key}.json`);
+    const data = require(`../${OUTPUT}/${key}.json`);
 
     all.push(...data);
   }
 
-  fs.writeFileSync(`out/all.json`, JSON.stringify(all, undefined, ' '));
+  fs.writeFileSync(`${OUTPUT}/all.json`, JSON.stringify(all, undefined, ' '));
 
   if (validateIds) {
     console.log(duplicates);
@@ -176,23 +180,26 @@ const valueFormatters: ValueFormatters = {
   albumImage: extractImageUrl,
   framedImage: extractImageUrl,
   iconImage: extractImageUrl,
+  houseImage: extractImageUrl,
   inventoryImage: extractImageUrl,
   uses: normaliseUse,
   source: (input: string) =>
     input.includes('\n')
       ? input.split('\n')
       : input.split(';').map(i => i.trim()),
-  startTime: normaliseTime,
-  endTime: normaliseTime,
   birthday: normaliseBirthday,
 };
 
 function emptyDate() {
-  return new Date('1970-01-01T00:00:00.000Z');
+  return dayjs.utc('1970-01-01T00:00:00.000Z');
 }
 
-const TIME_FORMAT_IN = 'hh:mm a';
+const TIME_FORMAT_IN = 'HH:MM';
 const TIME_FORMAT_OUT = 'HH:mm';
+const BDAY_FORMAT_IN = 'H/D';
+const BDAY_FORMAT_OUT = 'HH/DD';
+const ACTIVEHOURS_FORMAT_IN = 'h A';
+const ACTIVEHOURS_FORMAT_OUT = 'HH';
 
 const NULL_VALUES = new Set([
   'None',
@@ -201,16 +208,10 @@ const NULL_VALUES = new Set([
   'No lighting',
 ]);
 
-function format(date: Date, format: string) {
-  date = addMinutes(date, date.getTimezoneOffset());
-
-  return dfFormat(date, format);
-}
-
 const ALL_DAY: Array<[string, string]> = [
   [
-    format(emptyDate(), TIME_FORMAT_OUT),
-    format(new Date('1970-01-01T23:59:59.999Z'), TIME_FORMAT_OUT),
+    emptyDate().format(TIME_FORMAT_OUT),
+    dayjs.utc('1970-01-01T23:59:59.999Z').format(TIME_FORMAT_OUT),
   ],
 ];
 
@@ -299,32 +300,13 @@ export async function normalizeData(data: ItemData, sheetKey: string) {
     if (sheetKey === 'creatures') {
       item['colors'] = [item['color1'], item['color2']].filter(item => !!item);
 
-      const startTime: string[] = item['startTime'];
-      const endTime: string[] = item['endTime'];
-      let activeHours: Array<[string, string]> = ALL_DAY;
-
-      if (startTime) {
-        const totalTimeActives = startTime.length;
-        activeHours = [];
-
-        for (let i = 0; i < totalTimeActives; i++) {
-          const start = startTime[i];
-          const end = endTime[i];
-
-          activeHours.push([start, end]);
-        }
-      }
-
       item['specialSell'] = Math.round(item.sell * 1.5); // CJ / Flicks
-      item['activeHours'] = activeHours;
 
       item['activeMonths'] = {
         northern: mapAvailability(pick(item, NH_AVAILABILITY_KEYS)),
         southern: mapAvailability(pick(item, SH_AVAILABILITY_KEYS)),
       };
 
-      delete item['startTime'];
-      delete item['endTime'];
       delete item['color1'];
       delete item['color2'];
 
@@ -407,35 +389,8 @@ function normaliseUse(input: string | number) {
   return -1;
 }
 
-function normaliseTime(input: string | number) {
-  const date = emptyDate();
-
-  if (typeof input === 'number') {
-    const minutesToAdd = input * 24 * 60;
-
-    const output = addMinutes(date, minutesToAdd);
-
-    return [format(output, TIME_FORMAT_OUT)];
-  }
-
-  if (input === 'All day') {
-    return null;
-  }
-
-  return input.split('\n').map(input2 => {
-    const output = parse(input2, TIME_FORMAT_IN, date);
-
-    return format(output, TIME_FORMAT_OUT);
-  });
-}
-
-const BDAY_FORMAT_IN = 'M/d';
-const BDAY_FORMAT_OUT = 'MM-dd';
-
 function normaliseBirthday(input: string) {
-  const output = parse(input, BDAY_FORMAT_IN, emptyDate());
-
-  return format(output, BDAY_FORMAT_OUT);
+  return dayjs.utc(input, BDAY_FORMAT_IN).format(BDAY_FORMAT_OUT);
 }
 
 const NH_AVAILABILITY_KEYS = [
@@ -545,15 +500,40 @@ async function mergeItemVariations(data: any[]) {
   return Object.values(dataset);
 }
 
-function mapAvailability(data: {[key: string]: boolean}): number[] {
-  const availableMonths = [];
+function mapAvailability(data: {[key: string]: string}): number[] {
+  const availableMonths: any = {};
 
   let i = 1;
   for (const month of Object.keys(data)) {
     const isAvailable = data[month];
 
     if (isAvailable) {
-      availableMonths.push(i);
+      let isAllDay = false;
+      let activeHours = [];
+
+      if (isAvailable === 'All day') {
+        isAllDay = true;
+        activeHours.push(['00', '00']);
+      } else {
+        const dayParts = data[month].split(';');
+        for (const part of dayParts) {
+          const times = part.trim().split('–');
+          const startTime = dayjs
+            .utc(times[0].trim(), ACTIVEHOURS_FORMAT_IN)
+            .format(ACTIVEHOURS_FORMAT_OUT)
+            .toString();
+          const endTime = dayjs
+            .utc(times[1].trim(), ACTIVEHOURS_FORMAT_IN)
+            .format(ACTIVEHOURS_FORMAT_OUT)
+            .toString();
+          isAllDay = false;
+          activeHours.push([startTime, endTime]);
+        }
+      }
+      availableMonths[i] = {
+        isAllDay,
+        activeHours,
+      };
     }
 
     i++;

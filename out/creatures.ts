@@ -8,7 +8,7 @@ export interface Creatures {
   sell: number;
   whereHow: string;
   shadow?: string;
-  rarity: Rarity;
+  totalCatchesToUnlock: number;
   rainSnowCatchUp?: boolean;
   size?: Size;
   lightingType?: LightingType | null;
@@ -19,34 +19,18 @@ export interface Creatures {
   uniqueEntryId: string;
   colors: Color[];
   specialSell: number;
-  activeHours: Array<ActiveHour[]>;
   activeMonths: ActiveMonths;
   weather?: Weather;
-  inventoryFilename?: null | string;
-}
-
-export enum ActiveHour {
-  The0000 = '00:00',
-  The0300 = '03:00',
-  The0400 = '04:00',
-  The0500 = '05:00',
-  The0700 = '07:00',
-  The0800 = '08:00',
-  The0900 = '09:00',
-  The1500 = '15:00',
-  The1600 = '16:00',
-  The1700 = '17:00',
-  The1800 = '18:00',
-  The1900 = '19:00',
-  The2000 = '20:00',
-  The2100 = '21:00',
-  The2300 = '23:00',
-  The2359 = '23:59',
 }
 
 export interface ActiveMonths {
-  northern: number[];
-  southern: number[];
+  northern: {[key: string]: Thern};
+  southern: {[key: string]: Thern};
+}
+
+export interface Thern {
+  isAllDay: boolean;
+  activeHours: Array<string[]>;
 }
 
 export enum Color {
@@ -68,13 +52,6 @@ export enum Color {
 export enum LightingType {
   Emission = 'Emission',
   Fluorescent = 'Fluorescent',
-}
-
-export enum Rarity {
-  Common = 'Common',
-  Rare = 'Rare',
-  UltraRare = 'Ultra-rare',
-  Uncommon = 'Uncommon',
 }
 
 export enum Size {

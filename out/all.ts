@@ -24,7 +24,7 @@ export interface Item {
   paneType?: PaneType | null;
   curtainType?: CurtainType | null;
   curtainColor?: null | string;
-  ceilingType?: CeilingType | null;
+  ceilingType?: CeilingType;
   customize?: boolean;
   uses?: number;
   stackSize?: number | null;
@@ -33,6 +33,7 @@ export interface Item {
   primaryShape?: PrimaryShape;
   secondaryShape?: SecondaryShape | null;
   type?: string;
+  museum?: Museum;
   category?: Category | null;
   realArtworkTitle?: string;
   artist?: string;
@@ -44,7 +45,7 @@ export interface Item {
   sell?: number;
   whereHow?: string;
   shadow?: string;
-  rarity?: Rarity;
+  totalCatchesToUnlock?: number;
   rainSnowCatchUp?: boolean;
   iconFilename?: string;
   critterpediaFilename?: string;
@@ -53,47 +54,33 @@ export interface Item {
   uniqueEntryId?: string;
   colors?: Color[];
   specialSell?: number;
-  activeHours?: Array<ActiveHour[]>;
   activeMonths?: ActiveMonths;
   weather?: Weather;
-  inventoryFilename?: null | string;
   image?: string;
   nookMiles?: number | null;
   filename?: null | string;
   source?: string[];
   materials?: {[key: string]: number};
+  houseImage?: string;
   species?: string;
   gender?: Gender;
   personality?: Personality;
   hobby?: Hobby;
   birthday?: string;
   catchphrase?: string;
+  favoriteSong?: string;
   styles?: Style[];
   buy?: number;
 }
 
-export enum ActiveHour {
-  The0000 = '00:00',
-  The0300 = '03:00',
-  The0400 = '04:00',
-  The0500 = '05:00',
-  The0700 = '07:00',
-  The0800 = '08:00',
-  The0900 = '09:00',
-  The1500 = '15:00',
-  The1600 = '16:00',
-  The1700 = '17:00',
-  The1800 = '18:00',
-  The1900 = '19:00',
-  The2000 = '20:00',
-  The2100 = '21:00',
-  The2300 = '23:00',
-  The2359 = '23:59',
+export interface ActiveMonths {
+  northern: {[key: string]: Thern};
+  southern: {[key: string]: Thern};
 }
 
-export interface ActiveMonths {
-  northern: number[];
-  southern: number[];
+export interface Thern {
+  isAllDay: boolean;
+  activeHours: Array<string[]>;
 }
 
 export enum Catalog {
@@ -177,7 +164,9 @@ export enum Hobby {
 }
 
 export enum InteractEnum {
+  Trash = 'Trash',
   Wardrobe = 'Wardrobe',
+  Workbench = 'Workbench',
 }
 
 export enum LightingType {
@@ -186,6 +175,12 @@ export enum LightingType {
   Fluorescent = 'Fluorescent',
   Monitor = 'Monitor',
   Spotlight = 'Spotlight',
+}
+
+export enum Museum {
+  Room1 = 'Room 1',
+  Room2 = 'Room 2',
+  Room3 = 'Room 3',
 }
 
 export enum PaneType {
@@ -216,13 +211,6 @@ export enum PrimaryShape {
   Rib = 'Rib',
   Robe = 'Robe',
   Salopette = 'Salopette',
-}
-
-export enum Rarity {
-  Common = 'Common',
-  Rare = 'Rare',
-  UltraRare = 'Ultra-rare',
-  Uncommon = 'Uncommon',
 }
 
 export enum SeasonalAvailability {
@@ -300,7 +288,6 @@ export enum Style {
   Cool = 'Cool',
   Cute = 'Cute',
   Elegant = 'Elegant',
-  EverydayComfy = 'everyday; comfy',
   Gorgeous = 'Gorgeous',
   Simple = 'Simple',
 }

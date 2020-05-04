@@ -1,13 +1,15 @@
 export interface Villagers {
   sourceSheet: SourceSheet;
   name: string;
-  image: string;
+  iconImage: string;
+  houseImage: string;
   species: string;
   gender: Gender;
   personality: Personality;
   hobby: Hobby;
   birthday: string;
   catchphrase: string;
+  favoriteSong: string;
   filename: string;
   uniqueEntryId: string;
   colors: Color[];

@@ -43,7 +43,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "apple chair",
-    "source": ["Big sister villagers"],
+    "source": ["Big Sister villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -57,7 +57,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "apple dress",
-    "source": ["Big sister villagers"],
+    "source": ["Big Sister villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Dresses",
@@ -70,7 +70,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "apple hat",
-    "source": ["Big sister villagers"],
+    "source": ["Big Sister villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Headwear",
@@ -83,7 +83,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "apple rug",
-    "source": ["Big sister villagers"],
+    "source": ["Big Sister villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Rugs",
@@ -96,7 +96,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "apple umbrella",
-    "source": ["Big sister villagers"],
+    "source": ["Big Sister villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Umbrellas",
@@ -109,7 +109,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "apple wall",
-    "source": ["Big sister villagers"],
+    "source": ["Big Sister villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Wallpaper",
@@ -657,7 +657,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "birdcage",
-    "source": ["Big sister villagers"],
+    "source": ["Big Sister villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -837,7 +837,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "brown herringbone wall",
-    "source": ["Big sister villagers"],
+    "source": ["Big Sister villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Wallpaper",
@@ -2046,7 +2046,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "dark wooden-mosaic wall",
-    "source": ["Big sister villagers"],
+    "source": ["Big Sister villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Wallpaper",
@@ -2114,7 +2114,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "DIY workbench",
-    "source": ["Big sister villagers"],
+    "source": ["Big Sister villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -2454,7 +2454,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "flower stand",
-    "source": ["Big sister villagers"],
+    "source": ["Big Sister villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -2465,8 +2465,8 @@
       "pink roses": 2,
       "orange roses": 2,
       "white liles": 2,
-      "yellow lilies": 2,
-      "purple windflowers": 5
+      "yellow lilies": 1,
+      "purple windflowers": 4
     }
   },
   {
@@ -3371,7 +3371,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "hyacinth lamp",
-    "source": ["Big sister villagers"],
+    "source": ["Big Sister villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Miscellaneous",
@@ -3586,7 +3586,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "iron closet",
-    "source": ["Big sister villagers"],
+    "source": ["Big Sister villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -3599,7 +3599,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "iron doorplate",
-    "source": ["Big sister villagers"],
+    "source": ["Big Sister villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Wall-mounted",
@@ -3638,7 +3638,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "iron garden bench",
-    "source": ["Big sister villagers"],
+    "source": ["Big Sister villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -3690,7 +3690,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "iron shelf",
-    "source": ["Big sister villagers"],
+    "source": ["Big Sister villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -3745,7 +3745,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "iron worktable",
-    "source": ["Big sister villagers"],
+    "source": ["Big Sister villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -3945,7 +3945,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "juicy-apple TV",
-    "source": ["Big sister villagers"],
+    "source": ["Big Sister villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -4017,7 +4017,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "key holder",
-    "source": ["Big sister villagers"],
+    "source": ["Big Sister villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Wall-mounted",
@@ -4153,7 +4153,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "leaf umbrella",
-    "source": ["Big sister villagers"],
+    "source": ["Big Sister villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Umbrellas",
@@ -6166,7 +6166,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "shell lamp",
-    "source": ["Big sister villagers"],
+    "source": ["Big Sister villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Miscellaneous",
@@ -6180,7 +6180,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "shell partition",
-    "source": ["Big sister villagers"],
+    "source": ["Big Sister villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -6207,7 +6207,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "shell speaker",
-    "source": ["Big sister villagers"],
+    "source": ["Big Sister villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Miscellaneous",
@@ -6221,7 +6221,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "shell stool",
-    "source": ["Big sister villagers"],
+    "source": ["Big Sister villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -6975,7 +6975,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "street piano",
-    "source": ["Big sister villagers"],
+    "source": ["Big Sister villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -7226,7 +7226,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "tree branch wreath",
-    "source": ["Big sister villagers"],
+    "source": ["Big Sister villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Wall-mounted",
@@ -7935,7 +7935,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "wooden mini table",
-    "source": ["Big sister villagers"],
+    "source": ["Big Sister villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -7974,7 +7974,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "wooden table",
-    "source": ["Big sister villagers"],
+    "source": ["Big Sister villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -7987,7 +7987,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "wooden table mirror",
-    "source": ["Big sister villagers"],
+    "source": ["Big Sister villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Miscellaneous",
@@ -8028,7 +8028,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "wooden waste bin",
-    "source": ["Big sister villagers"],
+    "source": ["Big Sister villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",
@@ -8055,7 +8055,7 @@
   {
     "sourceSheet": "Recipes",
     "name": "wooden-block bench",
-    "source": ["Big sister villagers"],
+    "source": ["Big Sister villagers"],
     "sourceNotes": null,
     "version": "1.0.0",
     "category": "Housewares",

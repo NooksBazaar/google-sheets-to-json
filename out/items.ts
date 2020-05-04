@@ -24,7 +24,7 @@ export interface Items {
   paneType?: PaneType | null;
   curtainType?: CurtainType | null;
   curtainColor?: null | string;
-  ceilingType?: CeilingType | null;
+  ceilingType?: CeilingType;
   customize?: boolean;
   uses?: number;
   stackSize?: number;
@@ -33,6 +33,7 @@ export interface Items {
   primaryShape?: PrimaryShape;
   secondaryShape?: SecondaryShape | null;
   type?: string;
+  museum?: Museum;
   category?: Category;
   realArtworkTitle?: string;
   artist?: string;
@@ -87,7 +88,9 @@ export enum CurtainType {
 }
 
 export enum InteractEnum {
+  Trash = 'Trash',
   Wardrobe = 'Wardrobe',
+  Workbench = 'Workbench',
 }
 
 export enum LightingType {
@@ -96,6 +99,12 @@ export enum LightingType {
   Fluorescent = 'Fluorescent',
   Monitor = 'Monitor',
   Spotlight = 'Spotlight',
+}
+
+export enum Museum {
+  Room1 = 'Room 1',
+  Room2 = 'Room 2',
+  Room3 = 'Room 3',
 }
 
 export enum PaneType {
@@ -160,7 +169,6 @@ export enum Style {
   Cool = 'Cool',
   Cute = 'Cute',
   Elegant = 'Elegant',
-  EverydayComfy = 'everyday; comfy',
   Gorgeous = 'Gorgeous',
   Simple = 'Simple',
 }

@@ -49,7 +49,9 @@ var CurtainType;
 })(CurtainType = exports.CurtainType || (exports.CurtainType = {}));
 var InteractEnum;
 (function (InteractEnum) {
+    InteractEnum["Trash"] = "Trash";
     InteractEnum["Wardrobe"] = "Wardrobe";
+    InteractEnum["Workbench"] = "Workbench";
 })(InteractEnum = exports.InteractEnum || (exports.InteractEnum = {}));
 var LightingType;
 (function (LightingType) {
@@ -59,6 +61,12 @@ var LightingType;
     LightingType["Monitor"] = "Monitor";
     LightingType["Spotlight"] = "Spotlight";
 })(LightingType = exports.LightingType || (exports.LightingType = {}));
+var Museum;
+(function (Museum) {
+    Museum["Room1"] = "Room 1";
+    Museum["Room2"] = "Room 2";
+    Museum["Room3"] = "Room 3";
+})(Museum = exports.Museum || (exports.Museum = {}));
 var PaneType;
 (function (PaneType) {
     PaneType["Glass"] = "Glass";
@@ -122,7 +130,6 @@ var Style;
     Style["Cool"] = "Cool";
     Style["Cute"] = "Cute";
     Style["Elegant"] = "Elegant";
-    Style["EverydayComfy"] = "everyday; comfy";
     Style["Gorgeous"] = "Gorgeous";
     Style["Simple"] = "Simple";
 })(Style = exports.Style || (exports.Style = {}));

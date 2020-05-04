@@ -1,24 +1,5 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var ActiveHour;
-(function (ActiveHour) {
-    ActiveHour["The0000"] = "00:00";
-    ActiveHour["The0300"] = "03:00";
-    ActiveHour["The0400"] = "04:00";
-    ActiveHour["The0500"] = "05:00";
-    ActiveHour["The0700"] = "07:00";
-    ActiveHour["The0800"] = "08:00";
-    ActiveHour["The0900"] = "09:00";
-    ActiveHour["The1500"] = "15:00";
-    ActiveHour["The1600"] = "16:00";
-    ActiveHour["The1700"] = "17:00";
-    ActiveHour["The1800"] = "18:00";
-    ActiveHour["The1900"] = "19:00";
-    ActiveHour["The2000"] = "20:00";
-    ActiveHour["The2100"] = "21:00";
-    ActiveHour["The2300"] = "23:00";
-    ActiveHour["The2359"] = "23:59";
-})(ActiveHour = exports.ActiveHour || (exports.ActiveHour = {}));
 var Catalog;
 (function (Catalog) {
     Catalog["ForSale"] = "For sale";
@@ -101,7 +82,9 @@ var Hobby;
 })(Hobby = exports.Hobby || (exports.Hobby = {}));
 var InteractEnum;
 (function (InteractEnum) {
+    InteractEnum["Trash"] = "Trash";
     InteractEnum["Wardrobe"] = "Wardrobe";
+    InteractEnum["Workbench"] = "Workbench";
 })(InteractEnum = exports.InteractEnum || (exports.InteractEnum = {}));
 var LightingType;
 (function (LightingType) {
@@ -111,6 +94,12 @@ var LightingType;
     LightingType["Monitor"] = "Monitor";
     LightingType["Spotlight"] = "Spotlight";
 })(LightingType = exports.LightingType || (exports.LightingType = {}));
+var Museum;
+(function (Museum) {
+    Museum["Room1"] = "Room 1";
+    Museum["Room2"] = "Room 2";
+    Museum["Room3"] = "Room 3";
+})(Museum = exports.Museum || (exports.Museum = {}));
 var PaneType;
 (function (PaneType) {
     PaneType["Glass"] = "Glass";
@@ -141,13 +130,6 @@ var PrimaryShape;
     PrimaryShape["Robe"] = "Robe";
     PrimaryShape["Salopette"] = "Salopette";
 })(PrimaryShape = exports.PrimaryShape || (exports.PrimaryShape = {}));
-var Rarity;
-(function (Rarity) {
-    Rarity["Common"] = "Common";
-    Rarity["Rare"] = "Rare";
-    Rarity["UltraRare"] = "Ultra-rare";
-    Rarity["Uncommon"] = "Uncommon";
-})(Rarity = exports.Rarity || (exports.Rarity = {}));
 var SeasonalAvailability;
 (function (SeasonalAvailability) {
     SeasonalAvailability["AllYear"] = "All Year";
@@ -224,7 +206,6 @@ var Style;
     Style["Cool"] = "Cool";
     Style["Cute"] = "Cute";
     Style["Elegant"] = "Elegant";
-    Style["EverydayComfy"] = "everyday; comfy";
     Style["Gorgeous"] = "Gorgeous";
     Style["Simple"] = "Simple";
 })(Style = exports.Style || (exports.Style = {}));
