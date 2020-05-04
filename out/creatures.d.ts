@@ -23,16 +23,20 @@ export interface Creatures {
     weather?: Weather;
 }
 export interface ActiveMonths {
-    northern: {
-        [key: string]: Thern;
-    };
-    southern: {
-        [key: string]: Thern;
-    };
+    northern: Thern[];
+    southern: Thern[];
 }
 export interface Thern {
+    month: number;
     isAllDay: boolean;
     activeHours: Array<string[]>;
+    season: Season;
+}
+export declare enum Season {
+    Autumn = "autumn",
+    Spring = "spring",
+    Summer = "summer",
+    Winter = "winter"
 }
 export declare enum Color {
     Beige = "Beige",

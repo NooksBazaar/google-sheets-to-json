@@ -1,5 +1,12 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+var Season;
+(function (Season) {
+    Season["Autumn"] = "autumn";
+    Season["Spring"] = "spring";
+    Season["Summer"] = "summer";
+    Season["Winter"] = "winter";
+})(Season = exports.Season || (exports.Season = {}));
 var Catalog;
 (function (Catalog) {
     Catalog["ForSale"] = "For sale";
