@@ -1,0 +1,2362 @@
+[
+  {
+    "sourceSheet": "Construction",
+    "name": "brick bridge",
+    "image": "http://acnhcdn.com/drivesync/bridgearamp/NewCanvas1wqearthyjuk,.png",
+    "buy": 198000,
+    "category": "Bridge",
+    "source": ["Resident Services Upgrade"],
+    "filename": "BridgeBricks",
+    "uniqueEntryId": "Rvkrg9tcubTMakcBS"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "iron bridge",
+    "image": "http://acnhcdn.com/drivesync/bridgearamp/NewCanvas1wdaeteyhrjtuy.png",
+    "buy": 228000,
+    "category": "Bridge",
+    "source": ["Resident Services Upgrade"],
+    "filename": "BridgeIron",
+    "uniqueEntryId": "RmQ6iiKkFf3Sy4iSQ"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "log bridge",
+    "image": "http://acnhcdn.com/drivesync/bridgearamp/NewCanvas1adsvfbgnhjh.png",
+    "buy": 98000,
+    "category": "Bridge",
+    "source": ["Resident Services Upgrade"],
+    "filename": "BridgeLog",
+    "uniqueEntryId": "Px55sTfjKSbbMtjAK"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "red zen bridge",
+    "image": "http://acnhcdn.com/drivesync/bridgearamp/NewCanvas1wdqfegrhtryjmm.png",
+    "buy": 228000,
+    "category": "Bridge",
+    "source": ["Resident Services Upgrade"],
+    "filename": "BridgeRed",
+    "uniqueEntryId": "jTziEHXkeYaugKDQQ"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "stone bridge",
+    "image": "http://acnhcdn.com/drivesync/bridgearamp/NewCanvas1adwfesgrdthfgmj.png",
+    "buy": 168000,
+    "category": "Bridge",
+    "source": ["Resident Services Upgrade"],
+    "filename": "BridgeStone",
+    "uniqueEntryId": "JmrwC2tRRCCgbZnrp"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "suspension bridge",
+    "image": "http://acnhcdn.com/drivesync/bridgearamp/NewCanvas1sxdaefwrge5yhyjum.png",
+    "buy": 129800,
+    "category": "Bridge",
+    "source": ["Resident Services Upgrade"],
+    "filename": "BridgeSuspension",
+    "uniqueEntryId": "q52JebMTHDqHJKBba"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "wooden bridge",
+    "image": "http://acnhcdn.com/drivesync/bridgearamp/NewCanvas1adsfhngm.png",
+    "buy": 168000,
+    "category": "Bridge",
+    "source": ["Resident Services Upgrade"],
+    "filename": "BridgeWood",
+    "uniqueEntryId": "7oZ7FMrJEpBLZzsmw"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "zen bridge",
+    "image": "http://acnhcdn.com/drivesync/bridgearamp/NewCanvas1w.png",
+    "buy": 228000,
+    "category": "Bridge",
+    "source": ["Resident Services Upgrade"],
+    "filename": "BridgeJapanese",
+    "uniqueEntryId": "TbKbHzJM8j8ezmAEF"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "large mailbox",
+    "image": "https://acnhcdn.com/latest/HousePostIcon/FtrPostLarge.png",
+    "buy": 5000,
+    "category": "Mailbox",
+    "source": ["3rd House Upgrade (Left Room)"],
+    "filename": "FtrPostLarge",
+    "uniqueEntryId": "9mei7SoYtX9WhJqBx"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "black large mailbox",
+    "image": "https://acnhcdn.com/latest/HousePostIcon/FtrPostLargeBlack.png",
+    "buy": 5000,
+    "category": "Mailbox",
+    "source": ["3rd House Upgrade (Left Room)"],
+    "filename": "FtrPostLargeBlack",
+    "uniqueEntryId": "MfwnWmtJuJDAvc2Lz"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "blue large mailbox",
+    "image": "https://acnhcdn.com/latest/HousePostIcon/FtrPostLargeBlue.png",
+    "buy": 5000,
+    "category": "Mailbox",
+    "source": ["3rd House Upgrade (Left Room)"],
+    "filename": "FtrPostLargeBlue",
+    "uniqueEntryId": "PXyHoT3WdZxgZNngW"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "green large mailbox",
+    "image": "https://acnhcdn.com/latest/HousePostIcon/FtrPostLargeGreen.png",
+    "buy": 5000,
+    "category": "Mailbox",
+    "source": ["3rd House Upgrade (Left Room)"],
+    "filename": "FtrPostLargeGreen",
+    "uniqueEntryId": "MkQ6G3TQ7YqhQToAi"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "pink large mailbox",
+    "image": "https://acnhcdn.com/latest/HousePostIcon/FtrPostLargePink.png",
+    "buy": 5000,
+    "category": "Mailbox",
+    "source": ["3rd House Upgrade (Left Room)"],
+    "filename": "FtrPostLargePink",
+    "uniqueEntryId": "442cvvb6XZ2ykmMy9"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "red large mailbox",
+    "image": "https://acnhcdn.com/latest/HousePostIcon/FtrPostLargeRed.png",
+    "buy": 5000,
+    "category": "Mailbox",
+    "source": ["3rd House Upgrade (Left Room)"],
+    "filename": "FtrPostLargeRed",
+    "uniqueEntryId": "dd7zAjPBuZzeepDg4"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "white large mailbox",
+    "image": "https://acnhcdn.com/latest/HousePostIcon/FtrPostLargeWhite.png",
+    "buy": 5000,
+    "category": "Mailbox",
+    "source": ["3rd House Upgrade (Left Room)"],
+    "filename": "FtrPostLargeWhite",
+    "uniqueEntryId": "uEXJbNeCvpXGjCokH"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "yellow large mailbox",
+    "image": "https://acnhcdn.com/latest/HousePostIcon/FtrPostLargeYellow.png",
+    "buy": 5000,
+    "category": "Mailbox",
+    "source": ["3rd House Upgrade (Left Room)"],
+    "filename": "FtrPostLargeYellow",
+    "uniqueEntryId": "Ed6P9B4Y7y6TA99YS"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "rustic mailbox",
+    "image": "https://acnhcdn.com/latest/HousePostIcon/FtrPostSimple.png",
+    "buy": 5000,
+    "category": "Mailbox",
+    "source": ["3rd House Upgrade (Left Room)"],
+    "filename": "FtrPostSimple",
+    "uniqueEntryId": "vhd8waS64LR47ty8Q"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "square mailbox",
+    "image": "https://acnhcdn.com/latest/HousePostIcon/FtrPostSquare.png",
+    "buy": 5000,
+    "category": "Mailbox",
+    "source": ["3rd House Upgrade (Left Room)"],
+    "filename": "FtrPostSquare",
+    "uniqueEntryId": "BKJKu7xjhMajA2aFy"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "black square mailbox",
+    "image": "https://acnhcdn.com/latest/HousePostIcon/FtrPostSquareBlack.png",
+    "buy": 5000,
+    "category": "Mailbox",
+    "source": ["3rd House Upgrade (Left Room)"],
+    "filename": "FtrPostSquareBlack",
+    "uniqueEntryId": "EePwSJwYCpQZacFqi"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "blue square mailbox",
+    "image": "https://acnhcdn.com/latest/HousePostIcon/FtrPostSquareBlue.png",
+    "buy": 5000,
+    "category": "Mailbox",
+    "source": ["3rd House Upgrade (Left Room)"],
+    "filename": "FtrPostSquareBlue",
+    "uniqueEntryId": "cP7bYmszxmrmW2ygL"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "green square mailbox",
+    "image": "https://acnhcdn.com/latest/HousePostIcon/FtrPostSquareGreen.png",
+    "buy": 5000,
+    "category": "Mailbox",
+    "source": ["3rd House Upgrade (Left Room)"],
+    "filename": "FtrPostSquareGreen",
+    "uniqueEntryId": "xuTEi6Do6tN46d3q5"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "pink square mailbox",
+    "image": "https://acnhcdn.com/latest/HousePostIcon/FtrPostSquarePink.png",
+    "buy": 5000,
+    "category": "Mailbox",
+    "source": ["3rd House Upgrade (Left Room)"],
+    "filename": "FtrPostSquarePink",
+    "uniqueEntryId": "wM9frkMp4Bw3j8siW"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "red square mailbox",
+    "image": "https://acnhcdn.com/latest/HousePostIcon/FtrPostSquareRed.png",
+    "buy": 5000,
+    "category": "Mailbox",
+    "source": ["3rd House Upgrade (Left Room)"],
+    "filename": "FtrPostSquareRed",
+    "uniqueEntryId": "hnC7jsEoSKbk5RsEy"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "white square mailbox",
+    "image": "https://acnhcdn.com/latest/HousePostIcon/FtrPostSquareWhite.png",
+    "buy": 5000,
+    "category": "Mailbox",
+    "source": ["3rd House Upgrade (Left Room)"],
+    "filename": "FtrPostSquareWhite",
+    "uniqueEntryId": "62DZnrMMYjrk5jbS5"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "yellow square mailbox",
+    "image": "https://acnhcdn.com/latest/HousePostIcon/FtrPostSquareYellow.png",
+    "buy": 5000,
+    "category": "Mailbox",
+    "source": ["3rd House Upgrade (Left Room)"],
+    "filename": "FtrPostSquareYellow",
+    "uniqueEntryId": "Me97eMZ28yf3j8S8v"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "ordinary mailbox",
+    "image": "https://acnhcdn.com/latest/HousePostIcon/FtrPostStandard.png",
+    "buy": 5000,
+    "category": "Mailbox",
+    "source": ["3rd House Upgrade (Left Room)"],
+    "filename": "FtrPostStandard",
+    "uniqueEntryId": "WiXx9pYfimxQTSAuF"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "black ordinary mailbox",
+    "image": "https://acnhcdn.com/latest/HousePostIcon/FtrPostStandardBlack.png",
+    "buy": 5000,
+    "category": "Mailbox",
+    "source": ["3rd House Upgrade (Left Room)"],
+    "filename": "FtrPostStandardBlack",
+    "uniqueEntryId": "mrnKiTGF6ra4B8X2T"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "blue ordinary mailbox",
+    "image": "https://acnhcdn.com/latest/HousePostIcon/FtrPostStandardBlue.png",
+    "buy": 5000,
+    "category": "Mailbox",
+    "source": ["3rd House Upgrade (Left Room)"],
+    "filename": "FtrPostStandardBlue",
+    "uniqueEntryId": "RzqDEHhw3HSGjpavY"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "green ordinary mailbox",
+    "image": "https://acnhcdn.com/latest/HousePostIcon/FtrPostStandardGreen.png",
+    "buy": 5000,
+    "category": "Mailbox",
+    "source": ["3rd House Upgrade (Left Room)"],
+    "filename": "FtrPostStandardGreen",
+    "uniqueEntryId": "ujFMEsLrnERfkwfP9"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "pink ordinary mailbox",
+    "image": "https://acnhcdn.com/latest/HousePostIcon/FtrPostStandardPink.png",
+    "buy": 5000,
+    "category": "Mailbox",
+    "source": ["3rd House Upgrade (Left Room)"],
+    "filename": "FtrPostStandardPink",
+    "uniqueEntryId": "TimXNFMGAu2gEdSHg"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "red ordinary mailbox",
+    "image": "https://acnhcdn.com/latest/HousePostIcon/FtrPostStandardRed.png",
+    "buy": 5000,
+    "category": "Mailbox",
+    "source": ["3rd House Upgrade (Left Room)"],
+    "filename": "FtrPostStandardRed",
+    "uniqueEntryId": "TBRuBdRZM6YmQPNHp"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "white ordinary mailbox",
+    "image": "https://acnhcdn.com/latest/HousePostIcon/FtrPostStandardWhite.png",
+    "buy": 5000,
+    "category": "Mailbox",
+    "source": ["3rd House Upgrade (Left Room)"],
+    "filename": "FtrPostStandardWhite",
+    "uniqueEntryId": "QYJ4Xh4GSSi4iYzMb"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "yellow ordinary mailbox",
+    "image": "https://acnhcdn.com/latest/HousePostIcon/FtrPostStandardYellow.png",
+    "buy": 5000,
+    "category": "Mailbox",
+    "source": ["3rd House Upgrade (Left Room)"],
+    "filename": "FtrPostStandardYellow",
+    "uniqueEntryId": "egLw54yP3orauEyFd"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "wooden mailbox",
+    "image": "https://acnhcdn.com/latest/HousePostIcon/FtrPostWood.png",
+    "buy": 5000,
+    "category": "Mailbox",
+    "source": ["3rd House Upgrade (Left Room)"],
+    "filename": "FtrPostWood",
+    "uniqueEntryId": "iqx2M7qtMQjSr73dq"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "blue wooden mailbox",
+    "image": "https://acnhcdn.com/latest/HousePostIcon/FtrPostWoodBlue.png",
+    "buy": 5000,
+    "category": "Mailbox",
+    "source": ["3rd House Upgrade (Left Room)"],
+    "filename": "FtrPostWoodBlue",
+    "uniqueEntryId": "hc333N34upcNjSabw"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "chic wooden mailbox",
+    "image": "https://acnhcdn.com/latest/HousePostIcon/FtrPostWoodDark.png",
+    "buy": 5000,
+    "category": "Mailbox",
+    "source": ["3rd House Upgrade (Left Room)"],
+    "filename": "FtrPostWoodDark",
+    "uniqueEntryId": "f2YBipw25G8BAxwSt"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "green wooden mailbox",
+    "image": "https://acnhcdn.com/latest/HousePostIcon/FtrPostWoodGreen.png",
+    "buy": 5000,
+    "category": "Mailbox",
+    "source": ["3rd House Upgrade (Left Room)"],
+    "filename": "FtrPostWoodGreen",
+    "uniqueEntryId": "6bxdrutijtpzKv39F"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "pink wooden mailbox",
+    "image": "https://acnhcdn.com/latest/HousePostIcon/FtrPostWoodPink.png",
+    "buy": 5000,
+    "category": "Mailbox",
+    "source": ["3rd House Upgrade (Left Room)"],
+    "filename": "FtrPostWoodPink",
+    "uniqueEntryId": "rFbXYtTBoJmXaHs8o"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "red wooden mailbox",
+    "image": "https://acnhcdn.com/latest/HousePostIcon/FtrPostWoodRed.png",
+    "buy": 5000,
+    "category": "Mailbox",
+    "source": ["3rd House Upgrade (Left Room)"],
+    "filename": "FtrPostWoodRed",
+    "uniqueEntryId": "wuakRPNugQ72t832X"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "white wooden mailbox",
+    "image": "https://acnhcdn.com/latest/HousePostIcon/FtrPostWoodWhite.png",
+    "buy": 5000,
+    "category": "Mailbox",
+    "source": ["3rd House Upgrade (Left Room)"],
+    "filename": "FtrPostWoodWhite",
+    "uniqueEntryId": "hs8QMbn7caa6z85ha"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "yellow wooden mailbox",
+    "image": "https://acnhcdn.com/latest/HousePostIcon/FtrPostWoodYellow.png",
+    "buy": 5000,
+    "category": "Mailbox",
+    "source": ["3rd House Upgrade (Left Room)"],
+    "filename": "FtrPostWoodYellow",
+    "uniqueEntryId": "ZDcPaCBz24tNYiGe4"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "white fancy door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorCarvingAR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorCarvingAR",
+    "uniqueEntryId": "r6k9ATzzAKaWMNJnQ"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "black fancy door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorCarvingBR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorCarvingBR",
+    "uniqueEntryId": "3ZahH8gvtHGdkEM68"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "red fancy door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorCarvingCR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorCarvingCR",
+    "uniqueEntryId": "us8rFY2TSFXCx72kH"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "pink fancy door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorCarvingDR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorCarvingDR",
+    "uniqueEntryId": "2jbKjqmXXQddSvH26"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "blue fancy door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorCarvingER.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorCarvingER",
+    "uniqueEntryId": "fm6MupiuPAK6HPNNj"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "yellow fancy door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorCarvingFR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorCarvingFR",
+    "uniqueEntryId": "iNTxu4FaB6TC9pjni"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "basic door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorCercleWindowAR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorCercleWindowAR",
+    "uniqueEntryId": "HrAsZSpm2pRj2u8ad"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "green basic door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorCercleWindowBR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorCercleWindowBR",
+    "uniqueEntryId": "jDYnxjeL9zxWFsYM3"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "yellow basic door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorCercleWindowCR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorCercleWindowCR",
+    "uniqueEntryId": "yoMGH8LhL7mFWZiPD"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "burgundy basic door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorCercleWindowDR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorCercleWindowDR",
+    "uniqueEntryId": "vuSF9u2vtgf95NREh"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "blue basic door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorCercleWindowER.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorCercleWindowER",
+    "uniqueEntryId": "BxqZmtEty82NDo8J3"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "pale-blue basic door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorCercleWindowFR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorCercleWindowFR",
+    "uniqueEntryId": "LnLiK3nvaaGqMSJbo"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "beige basic door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorCercleWindowGR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorCercleWindowGR",
+    "uniqueEntryId": "uF4YeCTGBx4Tawcp8"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "white basic door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorCercleWindowHR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorCercleWindowHR",
+    "uniqueEntryId": "rrazQ4rMyTqvC3G3Y"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "pink basic door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorCercleWindowIR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorCercleWindowIR",
+    "uniqueEntryId": "Xby3xZhQd3dMb4Coe"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "green-apple basic door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorCercleWindowJR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorCercleWindowJR",
+    "uniqueEntryId": "mH3kwkiNAW9Tgg5XH"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "imperial door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorChineseAR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorChineseAR",
+    "uniqueEntryId": "BbeW2wNrRMq4PkQB5"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "brown imperial door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorChineseBR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorChineseBR",
+    "uniqueEntryId": "SN5ik2H7HfGLuG9EN"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "red imperial door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorChineseCR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorChineseCR",
+    "uniqueEntryId": "NtxTaTeTrzghsGS2W"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "yellow imperial door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorChineseDR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorChineseDR",
+    "uniqueEntryId": "dBGXJ8LnHwDZciTRS"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "green imperial door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorChineseER.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorChineseER",
+    "uniqueEntryId": "h59gk2epKc9ALPoF9"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "red-green imperial door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorChineseFR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorChineseFR",
+    "uniqueEntryId": "2mrsS49vJNZdWDQeD"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "white imperial door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorChineseGR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorChineseGR",
+    "uniqueEntryId": "bthYBfAjTxo7F5dNi"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "black imperial door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorChineseHR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorChineseHR",
+    "uniqueEntryId": "qT9ghD7YkZpMDgBDf"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "iron door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorIronAR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorIronAR",
+    "uniqueEntryId": "yE4x5zcn95mcNNf2f"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "red iron door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorIronBR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorIronBR",
+    "uniqueEntryId": "Bp9ysH2C4zeiScQXP"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "blue iron door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorIronCR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorIronCR",
+    "uniqueEntryId": "5tgy5p3AE38NBeG9B"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "yellow iron door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorIronDR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorIronDR",
+    "uniqueEntryId": "wELe85t5gE9e5fZ7H"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "green iron door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorIronER.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorIronER",
+    "uniqueEntryId": "CH2gZGRicug5TB5nF"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "pink iron door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorIronFR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorIronFR",
+    "uniqueEntryId": "BLseEGcXhw9dPreLx"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "gray iron door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorIronGR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorIronGR",
+    "uniqueEntryId": "27cPAfi2DYBEzzgto"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "iron grill door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorIronGrillAR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorIronGrillAR",
+    "uniqueEntryId": "Cgd6XZxLfYLbuRqoC"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "maple iron grill door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorIronGrillBR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorIronGrillBR",
+    "uniqueEntryId": "FW8NZXxWLT4hY6Nj3"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "green iron grill door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorIronGrillCR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorIronGrillCR",
+    "uniqueEntryId": "fNwKPm8gu5pnoNZ2H"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "pale-blue iron grill door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorIronGrillDR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorIronGrillDR",
+    "uniqueEntryId": "LGernbHCg8R4Kcs8f"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "pink iron grill door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorIronGrillER.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorIronGrillER",
+    "uniqueEntryId": "sjAoF3vsRF5J8jLdq"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "white iron grill door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorIronGrillFR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorIronGrillFR",
+    "uniqueEntryId": "bz47mYutYXduChB3P"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "dark-brown iron grill door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorIronGrillGR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorIronGrillGR",
+    "uniqueEntryId": "CQFAjS99WqxTu4QDJ"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "gray iron grill door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorIronGrillHR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorIronGrillHR",
+    "uniqueEntryId": "uzLEvMD46GzBZQ3mN"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "red iron grill door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorIronGrillIR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorIronGrillIR",
+    "uniqueEntryId": "giywRE5qEmQZC6GAN"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "purple iron grill door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorIronGrillJR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorIronGrillJR",
+    "uniqueEntryId": "Q4GLiP3Kmurrk2WSB"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "white iron door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorIronHR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorIronHR",
+    "uniqueEntryId": "Zi4ndrFTFsEqhQPw9"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "metal-accent door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorIronpartsAR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorIronpartsAR",
+    "uniqueEntryId": "EivvfJTS98tFNbuno"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "red metal-accent door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorIronpartsBR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorIronpartsBR",
+    "uniqueEntryId": "XvgfNPwfYGffgE24X"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "blue metal-accent door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorIronpartsCR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorIronpartsCR",
+    "uniqueEntryId": "YB3NZt9RRYJroWRcn"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "green metal-accent door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorIronpartsDR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorIronpartsDR",
+    "uniqueEntryId": "gveHmLcPh9uNLMFB8"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "pink metal-accent door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorIronpartsER.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorIronpartsER",
+    "uniqueEntryId": "TB89rf3ccaKip4QRz"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "brown metal-accent door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorIronpartsFR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorIronpartsFR",
+    "uniqueEntryId": "8eztTyD69pNsq7Eee"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "purple metal-accent door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorIronpartsGR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorIronpartsGR",
+    "uniqueEntryId": "B6NfDDoKJXSTX6nEZ"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "white metal-accent door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorIronpartsHR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorIronpartsHR",
+    "uniqueEntryId": "yDBA2qT5sGQAzt7eB"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "zen door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorJapaneseAR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorJapaneseAR",
+    "uniqueEntryId": "jGJNCRi6kcXXTD67g"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "yellow zen door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorJapaneseBR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorJapaneseBR",
+    "uniqueEntryId": "yHJcPMRBWKZofvC4H"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "brown zen door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorJapaneseCR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorJapaneseCR",
+    "uniqueEntryId": "3bWWrFPG7N5NcAKbS"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "red zen door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorJapaneseDR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorJapaneseDR",
+    "uniqueEntryId": "tdPuvQyRrRFiBEv7z"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "black zen door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorJapaneseER.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorJapaneseER",
+    "uniqueEntryId": "AxrkW9SNKqmh9kX4S"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "lacquered zen door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorJapaneseFR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorJapaneseFR",
+    "uniqueEntryId": "soxZojTeCikxb9q53"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "white zen door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorJapaneseGR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorJapaneseGR",
+    "uniqueEntryId": "wY7gy8YD2Y8ojnDnm"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "brown latticework door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorLatticeAR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorLatticeAR",
+    "uniqueEntryId": "a4Mft9ihDSpo4jusc"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "walnut latticework door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorLatticeBR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorLatticeBR",
+    "uniqueEntryId": "xtvqjdafPWY4DF4ww"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "red latticework door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorLatticeCR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorLatticeCR",
+    "uniqueEntryId": "Nnbfndanco3rvQgWf"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "latticework door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorLatticeDR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorLatticeDR",
+    "uniqueEntryId": "jexi2bbNCwn2j3JvC"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "gray latticework door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorLatticeER.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorLatticeER",
+    "uniqueEntryId": "ZCfMjY9ED5jW87aZY"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "blue latticework door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorLatticeFR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorLatticeFR",
+    "uniqueEntryId": "JwdJLi5HHZe24DmkF"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "white latticework door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorLatticeGR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorLatticeGR",
+    "uniqueEntryId": "ndjhLSHZXG4TrmXNS"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "black latticework door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorLatticeHR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorLatticeHR",
+    "uniqueEntryId": "Kzu4WsZwmSWzLdMC6"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "common door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorReliefAR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorReliefAR",
+    "uniqueEntryId": "8Gx8LKMb7ipbF9qKa"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "red common door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorReliefBR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorReliefBR",
+    "uniqueEntryId": "WmuaHC559AALWH2Bb"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "blue common door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorReliefCR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorReliefCR",
+    "uniqueEntryId": "hfWfx4mxev3qjp2zH"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "green common door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorReliefDR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorReliefDR",
+    "uniqueEntryId": "3xcS4XeYXbi6A4JJc"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "yellow common door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorReliefER.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorReliefER",
+    "uniqueEntryId": "5ZKFC4ePpoYDqqJSu"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "gray common door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorReliefFR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorReliefFR",
+    "uniqueEntryId": "mEBW6Y6gLFpBpibwA"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "white common door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorReliefGR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorReliefGR",
+    "uniqueEntryId": "cFZFak2hPc3jBrpv8"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "black common door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorReliefHR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorReliefHR",
+    "uniqueEntryId": "6mmdmWbK5ZRpbCsWc"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "green-apple common door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorReliefIR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorReliefIR",
+    "uniqueEntryId": "oe58QsaRvnF9dQ9Eg"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "purple common door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorReliefJR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorReliefJR",
+    "uniqueEntryId": "XBquzTWPzAnHcKYBj"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "white simple door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorSimpleAR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorSimpleAR",
+    "uniqueEntryId": "q4CQF3zCDhorZ7fAc"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "beige simple door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorSimpleBR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorSimpleBR",
+    "uniqueEntryId": "jQFLgioHYBRbRkBYK"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "gray simple door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorSimpleCR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorSimpleCR",
+    "uniqueEntryId": "QjS2nzSqHCLCcLGKQ"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "blue simple door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorSimpleDR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorSimpleDR",
+    "uniqueEntryId": "cN2eTBiAPt2Bv8GTK"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "pink simple door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorSimpleER.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorSimpleER",
+    "uniqueEntryId": "qvNBxg3CEWvEnoNpZ"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "yellow simple door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorSimpleFR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorSimpleFR",
+    "uniqueEntryId": "t8gHx6QjK9tFMmMna"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "deep-green simple door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorSimpleGR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorSimpleGR",
+    "uniqueEntryId": "Gyibc6G9u5Zv4fMdJ"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "purple simple door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorSimpleHR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorSimpleHR",
+    "uniqueEntryId": "dmTdoj8NzL2jSKZHu"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "rustic door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorSimplicityAR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorSimplicityAR",
+    "uniqueEntryId": "mbsrSkG43TP7tA6e5"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "white rustic door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorSimplicityBR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorSimplicityBR",
+    "uniqueEntryId": "Mu7FQYgoRajRuL5BD"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "maple rustic door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorSimplicityCR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorSimplicityCR",
+    "uniqueEntryId": "cuDwoeXKD2jdQEPvQ"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "black rustic door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorSimplicityDR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorSimplicityDR",
+    "uniqueEntryId": "TKDhdqyJBdrz8yQt6"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "red rustic door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorSimplicityER.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorSimplicityER",
+    "uniqueEntryId": "RddBzpZ8QEcLWD4Gv"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "blue rustic door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorSimplicityFR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorSimplicityFR",
+    "uniqueEntryId": "8k4sCwWWqugmTYuw6"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "light-green rustic door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorSimplicityGR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorSimplicityGR",
+    "uniqueEntryId": "n5cEgH77z99n3rT8i"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "pink rustic door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorSimplicityHR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorSimplicityHR",
+    "uniqueEntryId": "GANZwLknoRyyegbLM"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "pale-purple rustic door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorSimplicityIR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorSimplicityIR",
+    "uniqueEntryId": "HEczAiQ4dHwB5zh5i"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "green rustic door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorSimplicityJR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorSimplicityJR",
+    "uniqueEntryId": "YyyhicaCZuYCAd4hm"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "wooden door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorStandardAR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorStandardAR",
+    "uniqueEntryId": "4ovKGY9ZoiujvqkS8"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "maple wooden door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorStandardBR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorStandardBR",
+    "uniqueEntryId": "zvWtASTxgTYBunTDz"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "red wooden door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorStandardCR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorStandardCR",
+    "uniqueEntryId": "h4LK4FrT733y64FZz"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "green wooden door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorStandardDR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorStandardDR",
+    "uniqueEntryId": "qj2PXQwBkjoDPMSDc"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "blue wooden door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorStandardER.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorStandardER",
+    "uniqueEntryId": "okXxYSYZ8o2vceKQG"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "gray wooden door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorStandardFR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorStandardFR",
+    "uniqueEntryId": "C2LhRZFynjh6x5gQB"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "beige wooden door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorStandardGR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorStandardGR",
+    "uniqueEntryId": "N5LASg9qjhgexBMe7"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "white wooden door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorStandardHR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorStandardHR",
+    "uniqueEntryId": "h2ja68uKd7TxdEwQE"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "pink wooden door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorStandardIR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorStandardIR",
+    "uniqueEntryId": "gPykmDtFtSdxotvrk"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "purple wooden door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorStandardJR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorStandardJR",
+    "uniqueEntryId": "oNx9giXYQZLfuCYq5"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "vertical-panes door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorVerticalWindowAR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorVerticalWindowAR",
+    "uniqueEntryId": "aqhHtKKvCQQpb834t"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "maple vertical-panes door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorVerticalWindowBR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorVerticalWindowBR",
+    "uniqueEntryId": "uKkrQ5yBYWQMmerB7"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "green vertical-panes door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorVerticalWindowCR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorVerticalWindowCR",
+    "uniqueEntryId": "DAwzGNJimCfi6XuPY"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "blue vertical-panes door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorVerticalWindowDR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorVerticalWindowDR",
+    "uniqueEntryId": "AJB8xQLjaJR2WrHBv"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "yellow vertical-panes door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorVerticalWindowER.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorVerticalWindowER",
+    "uniqueEntryId": "Aszgp3pAbCC75LNHd"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "red vertical-panes door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorVerticalWindowFR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorVerticalWindowFR",
+    "uniqueEntryId": "jtHKujXtSxTwgmgiY"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "white vertical-panes door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorVerticalWindowGR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorVerticalWindowGR",
+    "uniqueEntryId": "CxFPdgKzKg2ifRx62"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "black vertical-panes door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorVerticalWindowHR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorVerticalWindowHR",
+    "uniqueEntryId": "Z4efmoeAjzYLhTsKJ"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "purple vertical-panes door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorVerticalWindowIR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorVerticalWindowIR",
+    "uniqueEntryId": "JHMuJ2pSXBFsCGThM"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "cyan vertical-panes door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorVerticalWindowJR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorVerticalWindowJR",
+    "uniqueEntryId": "CTyPWnQDRGqMcDEyf"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "windowed door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorWindowAR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorWindowAR",
+    "uniqueEntryId": "28wnpfEyGZCvdDsmc"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "maple windowed door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorWindowBR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorWindowBR",
+    "uniqueEntryId": "bTb3Quno8Hhs7ASK2"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "red windowed door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorWindowCR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorWindowCR",
+    "uniqueEntryId": "Z4oGMDMqpFBdfYXsZ"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "green windowed door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorWindowDR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorWindowDR",
+    "uniqueEntryId": "CHTZZvpsuYP2ZvEtm"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "blue windowed door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorWindowER.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorWindowER",
+    "uniqueEntryId": "i5JLZk2vdr5jZ9nBC"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "gray windowed door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorWindowFR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorWindowFR",
+    "uniqueEntryId": "Y7W4HKFy49BLvabBD"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "beige windowed door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorWindowGR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorWindowGR",
+    "uniqueEntryId": "oMqf22Pf8fZzeoJdY"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "white windowed door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorWindowHR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorWindowHR",
+    "uniqueEntryId": "ZovDjWHe8YSZZKinn"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "pink windowed door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorWindowIR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorWindowIR",
+    "uniqueEntryId": "svRR2C9PSLt5ef3Su"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "purple windowed door",
+    "image": "https://acnhcdn.com/latest/HouseDoorIcon/HouseDoorWindowJR.png",
+    "buy": 5000,
+    "category": "Door",
+    "source": ["4th House Upgrade (Right Room)"],
+    "filename": "HouseDoorWindowJR",
+    "uniqueEntryId": "kiK57D48BgFz2LdAh"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "blue steel staircase",
+    "image": "http://acnhcdn.com/drivesync/bridgearamp/NewCanvas1wdqferbgf%20%20.png",
+    "buy": 228000,
+    "category": "Incline",
+    "source": ["Resident Services Upgrade"],
+    "filename": "SlopeIronStairBlue",
+    "uniqueEntryId": "wEC52Lc5cf8TcamMB"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "blue-plank ramp",
+    "image": "http://acnhcdn.com/drivesync/bridgearamp/NewCanvas1wr3t453y46ujyk%2Cj.png",
+    "buy": 128000,
+    "category": "Incline",
+    "source": ["Resident Services Upgrade"],
+    "filename": "SlopeWoodBlue",
+    "uniqueEntryId": "gHnYrhHS9A7MrPdpr"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "brick staircase",
+    "image": "http://acnhcdn.com/drivesync/bridgearamp/NewCanvas1dafsgdb.png",
+    "buy": 198000,
+    "category": "Incline",
+    "source": ["Resident Services Upgrade"],
+    "filename": "SlopeBrickStair",
+    "uniqueEntryId": "A8AfTzxqpvzfcMeC5"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "log staircase",
+    "image": "http://acnhcdn.com/drivesync/bridgearamp/NewCanvas1awr3t45y6u5jky.png",
+    "buy": 168000,
+    "category": "Incline",
+    "source": ["Resident Services Upgrade"],
+    "filename": "SlopeWoodStair",
+    "uniqueEntryId": "wk6oQREwMmRAmkTWJ"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "natural ramp",
+    "image": "http://acnhcdn.com/drivesync/bridgearamp/NewCanvas1qewt453yw46ujyk.png",
+    "buy": 98000,
+    "category": "Incline",
+    "source": ["Resident Services Upgrade"],
+    "filename": "SlopeNatural",
+    "uniqueEntryId": "m7jAPxsGCRgSWo6Ng"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "red steel staircase",
+    "image": "http://acnhcdn.com/drivesync/bridgearamp/NewCanvas1wretehryjm.png",
+    "buy": 228000,
+    "category": "Incline",
+    "source": ["Resident Services Upgrade"],
+    "filename": "SlopeIronStair",
+    "uniqueEntryId": "2nygbmutbmBfuzEXp"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "stone staircase",
+    "image": "http://acnhcdn.com/drivesync/bridgearamp/NewCanvas1ewfweaf.png",
+    "buy": 168000,
+    "category": "Incline",
+    "source": ["Resident Services Upgrade"],
+    "filename": "SlopeStoneStair",
+    "uniqueEntryId": "4zszj8KsBNe2XgeGq"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "white-plank ramp",
+    "image": "http://acnhcdn.com/drivesync/bridgearamp/NewCanvas1qwr3t4y56ujj.png",
+    "buy": 128000,
+    "category": "Incline",
+    "source": ["Resident Services Upgrade"],
+    "filename": "SlopeWood",
+    "uniqueEntryId": "aR8pTDNtanxDQt7MY"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "red tile roof",
+    "image": "https://acnhcdn.com/latest/HouseRoofIcon/HouseRoofPA04StandardA.png",
+    "buy": 5000,
+    "category": "Roofing",
+    "source": ["3rd House Upgrade (Left Room)"],
+    "filename": "HouseRoofPA04StandardA",
+    "uniqueEntryId": "uifwByFWdDXnTJ4vp"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "pink tile roof",
+    "image": "https://acnhcdn.com/latest/HouseRoofIcon/HouseRoofPA04StandardB.png",
+    "buy": 5000,
+    "category": "Roofing",
+    "source": ["3rd House Upgrade (Left Room)"],
+    "filename": "HouseRoofPA04StandardB",
+    "uniqueEntryId": "ve7xChDBdMDgb6nTS"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "yellow tile roof",
+    "image": "https://acnhcdn.com/latest/HouseRoofIcon/HouseRoofPA04StandardC.png",
+    "buy": 5000,
+    "category": "Roofing",
+    "source": ["3rd House Upgrade (Left Room)"],
+    "filename": "HouseRoofPA04StandardC",
+    "uniqueEntryId": "2aQvQYwCsSQyRGyvF"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "green tile roof",
+    "image": "https://acnhcdn.com/latest/HouseRoofIcon/HouseRoofPA04StandardD.png",
+    "buy": 5000,
+    "category": "Roofing",
+    "source": ["3rd House Upgrade (Left Room)"],
+    "filename": "HouseRoofPA04StandardD",
+    "uniqueEntryId": "pEWWGqpXPdLucubvS"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "aqua tile roof",
+    "image": "https://acnhcdn.com/latest/HouseRoofIcon/HouseRoofPA04StandardE.png",
+    "buy": 5000,
+    "category": "Roofing",
+    "source": ["3rd House Upgrade (Left Room)"],
+    "filename": "HouseRoofPA04StandardE",
+    "uniqueEntryId": "Qnx2RexRkQSfFnLuB"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "blue tile roof",
+    "image": "https://acnhcdn.com/latest/HouseRoofIcon/HouseRoofPA04StandardF.png",
+    "buy": 5000,
+    "category": "Roofing",
+    "source": ["3rd House Upgrade (Left Room)"],
+    "filename": "HouseRoofPA04StandardF",
+    "uniqueEntryId": "B7gS5WW3ksnrfNeXK"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "purple tile roof",
+    "image": "https://acnhcdn.com/latest/HouseRoofIcon/HouseRoofPA04StandardG.png",
+    "buy": 5000,
+    "category": "Roofing",
+    "source": ["3rd House Upgrade (Left Room)"],
+    "filename": "HouseRoofPA04StandardG",
+    "uniqueEntryId": "3dBXpZsj6tD2dBzwj"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "black tile roof",
+    "image": "https://acnhcdn.com/latest/HouseRoofIcon/HouseRoofPA04StandardH.png",
+    "buy": 5000,
+    "category": "Roofing",
+    "source": ["3rd House Upgrade (Left Room)"],
+    "filename": "HouseRoofPA04StandardH",
+    "uniqueEntryId": "aEXiJy3tnSJWNTBkv"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "grey stone roof",
+    "image": "https://acnhcdn.com/latest/HouseRoofIcon/HouseRoofPA04StoneA.png",
+    "buy": 5000,
+    "category": "Roofing",
+    "source": ["3rd House Upgrade (Left Room)"],
+    "filename": "HouseRoofPA04StoneA",
+    "uniqueEntryId": "ab33Skrb5b7oeha7y"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "beige stone roof",
+    "image": "https://acnhcdn.com/latest/HouseRoofIcon/HouseRoofPA04StoneB.png",
+    "buy": 5000,
+    "category": "Roofing",
+    "source": ["3rd House Upgrade (Left Room)"],
+    "filename": "HouseRoofPA04StoneB",
+    "uniqueEntryId": "rJ4yqFWLmk6ykB5Et"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "orange stone roof",
+    "image": "https://acnhcdn.com/latest/HouseRoofIcon/HouseRoofPA04StoneC.png",
+    "buy": 5000,
+    "category": "Roofing",
+    "source": ["3rd House Upgrade (Left Room)"],
+    "filename": "HouseRoofPA04StoneC",
+    "uniqueEntryId": "ifhZHe9jHujeiSgAu"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "red stone roof",
+    "image": "https://acnhcdn.com/latest/HouseRoofIcon/HouseRoofPA04StoneD.png",
+    "buy": 5000,
+    "category": "Roofing",
+    "source": ["3rd House Upgrade (Left Room)"],
+    "filename": "HouseRoofPA04StoneD",
+    "uniqueEntryId": "zPrrQagfzwkhtnAZT"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "blue stone roof",
+    "image": "https://acnhcdn.com/latest/HouseRoofIcon/HouseRoofPA04StoneE.png",
+    "buy": 5000,
+    "category": "Roofing",
+    "source": ["3rd House Upgrade (Left Room)"],
+    "filename": "HouseRoofPA04StoneE",
+    "uniqueEntryId": "2q8sqokbgGi3mebNb"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "green stone roof",
+    "image": "https://acnhcdn.com/latest/HouseRoofIcon/HouseRoofPA04StoneF.png",
+    "buy": 5000,
+    "category": "Roofing",
+    "source": ["3rd House Upgrade (Left Room)"],
+    "filename": "HouseRoofPA04StoneF",
+    "uniqueEntryId": "T85hEMqZDuz32hnS2"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "brown stone roof",
+    "image": "https://acnhcdn.com/latest/HouseRoofIcon/HouseRoofPA04StoneG.png",
+    "buy": 5000,
+    "category": "Roofing",
+    "source": ["3rd House Upgrade (Left Room)"],
+    "filename": "HouseRoofPA04StoneG",
+    "uniqueEntryId": "mapwfPNGnhg62uQkt"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "black stone roof",
+    "image": "https://acnhcdn.com/latest/HouseRoofIcon/HouseRoofPA04StoneH.png",
+    "buy": 5000,
+    "category": "Roofing",
+    "source": ["3rd House Upgrade (Left Room)"],
+    "filename": "HouseRoofPA04StoneH",
+    "uniqueEntryId": "hyshRxYSTue2YG2zE"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "golden-brown thatch roof",
+    "image": "https://acnhcdn.com/latest/HouseRoofIcon/HouseRoofPA04ThatchedA.png",
+    "buy": 5000,
+    "category": "Roofing",
+    "source": ["3rd House Upgrade (Left Room)"],
+    "filename": "HouseRoofPA04ThatchedA",
+    "uniqueEntryId": "roxKGs7uRQw2pw8to"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "brown thatch roof",
+    "image": "https://acnhcdn.com/latest/HouseRoofIcon/HouseRoofPA04ThatchedB.png",
+    "buy": 5000,
+    "category": "Roofing",
+    "source": ["3rd House Upgrade (Left Room)"],
+    "filename": "HouseRoofPA04ThatchedB",
+    "uniqueEntryId": "N9gATxvMvWX5HLEhS"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "orange thatch roof",
+    "image": "https://acnhcdn.com/latest/HouseRoofIcon/HouseRoofPA04ThatchedC.png",
+    "buy": 5000,
+    "category": "Roofing",
+    "source": ["3rd House Upgrade (Left Room)"],
+    "filename": "HouseRoofPA04ThatchedC",
+    "uniqueEntryId": "KehTqxnW4g25qgMzj"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "fresh-grass thatch roof",
+    "image": "https://acnhcdn.com/latest/HouseRoofIcon/HouseRoofPA04ThatchedD.png",
+    "buy": 5000,
+    "category": "Roofing",
+    "source": ["3rd House Upgrade (Left Room)"],
+    "filename": "HouseRoofPA04ThatchedD",
+    "uniqueEntryId": "Z5NELbfAsKrPcwy5L"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "gray thatch roof",
+    "image": "https://acnhcdn.com/latest/HouseRoofIcon/HouseRoofPA04ThatchedE.png",
+    "buy": 5000,
+    "category": "Roofing",
+    "source": ["3rd House Upgrade (Left Room)"],
+    "filename": "HouseRoofPA04ThatchedE",
+    "uniqueEntryId": "PpodDcgiEgAJiDiSS"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "white thatch roof",
+    "image": "https://acnhcdn.com/latest/HouseRoofIcon/HouseRoofPA04ThatchedF.png",
+    "buy": 5000,
+    "category": "Roofing",
+    "source": ["3rd House Upgrade (Left Room)"],
+    "filename": "HouseRoofPA04ThatchedF",
+    "uniqueEntryId": "CGCfToQFCeeeMkRWc"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "deep-green thatch roof",
+    "image": "https://acnhcdn.com/latest/HouseRoofIcon/HouseRoofPA04ThatchedG.png",
+    "buy": 5000,
+    "category": "Roofing",
+    "source": ["3rd House Upgrade (Left Room)"],
+    "filename": "HouseRoofPA04ThatchedG",
+    "uniqueEntryId": "vc6xgYJWGgA9cTkB7"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "black thatch roof",
+    "image": "https://acnhcdn.com/latest/HouseRoofIcon/HouseRoofPA04ThatchedH.png",
+    "buy": 5000,
+    "category": "Roofing",
+    "source": ["3rd House Upgrade (Left Room)"],
+    "filename": "HouseRoofPA04ThatchedH",
+    "uniqueEntryId": "53msS63AkP5L46Bq7"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "orange curved shingles",
+    "image": "https://acnhcdn.com/latest/HouseRoofIcon/HouseRoofPA04WesterntileA.png",
+    "buy": 5000,
+    "category": "Roofing",
+    "source": ["3rd House Upgrade (Left Room)"],
+    "filename": "HouseRoofPA04WesterntileA",
+    "uniqueEntryId": "yfLcN39wQrmNt8WHH"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "pink curved shingles",
+    "image": "https://acnhcdn.com/latest/HouseRoofIcon/HouseRoofPA04WesterntileB.png",
+    "buy": 5000,
+    "category": "Roofing",
+    "source": ["3rd House Upgrade (Left Room)"],
+    "filename": "HouseRoofPA04WesterntileB",
+    "uniqueEntryId": "Pcg6fSeBJ5C92kLPs"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "yellow curved shingles",
+    "image": "https://acnhcdn.com/latest/HouseRoofIcon/HouseRoofPA04WesterntileC.png",
+    "buy": 5000,
+    "category": "Roofing",
+    "source": ["3rd House Upgrade (Left Room)"],
+    "filename": "HouseRoofPA04WesterntileC",
+    "uniqueEntryId": "n5Gc39GsgiLg4ofb2"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "green curved shingles",
+    "image": "https://acnhcdn.com/latest/HouseRoofIcon/HouseRoofPA04WesterntileD.png",
+    "buy": 5000,
+    "category": "Roofing",
+    "source": ["3rd House Upgrade (Left Room)"],
+    "filename": "HouseRoofPA04WesterntileD",
+    "uniqueEntryId": "zH9xBNwrWkv4JfBH3"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "blue curved shingles",
+    "image": "https://acnhcdn.com/latest/HouseRoofIcon/HouseRoofPA04WesterntileE.png",
+    "buy": 5000,
+    "category": "Roofing",
+    "source": ["3rd House Upgrade (Left Room)"],
+    "filename": "HouseRoofPA04WesterntileE",
+    "uniqueEntryId": "mprPiQG9puuaCguod"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "beige curved shingles",
+    "image": "https://acnhcdn.com/latest/HouseRoofIcon/HouseRoofPA04WesterntileF.png",
+    "buy": 5000,
+    "category": "Roofing",
+    "source": ["3rd House Upgrade (Left Room)"],
+    "filename": "HouseRoofPA04WesterntileF",
+    "uniqueEntryId": "jX9sAaudmHztd6WoQ"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "brown curved shingles",
+    "image": "https://acnhcdn.com/latest/HouseRoofIcon/HouseRoofPA04WesterntileG.png",
+    "buy": 5000,
+    "category": "Roofing",
+    "source": ["3rd House Upgrade (Left Room)"],
+    "filename": "HouseRoofPA04WesterntileG",
+    "uniqueEntryId": "zKQZJpWoGzgw7orRW"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "black curved shingles",
+    "image": "https://acnhcdn.com/latest/HouseRoofIcon/HouseRoofPA04WesterntileH.png",
+    "buy": 5000,
+    "category": "Roofing",
+    "source": ["3rd House Upgrade (Left Room)"],
+    "filename": "HouseRoofPA04WesterntileH",
+    "uniqueEntryId": "BdGehD5vw6WxG8efX"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "common exterior",
+    "image": "https://acnhcdn.com/latest/HouseWallIcon/HouseWallPA04StandardA.png",
+    "buy": 5000,
+    "category": "Siding",
+    "source": ["5th House Upgrade (2nd Floor)"],
+    "filename": "HouseWallPA04StandardA",
+    "uniqueEntryId": "tvSkijt9ictdZ5haB"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "red-trim common exterior",
+    "image": "https://acnhcdn.com/latest/HouseWallIcon/HouseWallPA04StandardB.png",
+    "buy": 5000,
+    "category": "Siding",
+    "source": ["5th House Upgrade (2nd Floor)"],
+    "filename": "HouseWallPA04StandardB",
+    "uniqueEntryId": "ckT8w7sPNqY2aRMcH"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "blue-trim common exterior",
+    "image": "https://acnhcdn.com/latest/HouseWallIcon/HouseWallPA04StandardC.png",
+    "buy": 5000,
+    "category": "Siding",
+    "source": ["5th House Upgrade (2nd Floor)"],
+    "filename": "HouseWallPA04StandardC",
+    "uniqueEntryId": "9gtBjJE4tYb6wQczz"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "gray-trim common exterior",
+    "image": "https://acnhcdn.com/latest/HouseWallIcon/HouseWallPA04StandardD.png",
+    "buy": 5000,
+    "category": "Siding",
+    "source": ["5th House Upgrade (2nd Floor)"],
+    "filename": "HouseWallPA04StandardD",
+    "uniqueEntryId": "JfXXtqNSk5D2jYMYf"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "yellow common exterior",
+    "image": "https://acnhcdn.com/latest/HouseWallIcon/HouseWallPA04StandardE.png",
+    "buy": 5000,
+    "category": "Siding",
+    "source": ["5th House Upgrade (2nd Floor)"],
+    "filename": "HouseWallPA04StandardE",
+    "uniqueEntryId": "BGfRq5YPPAt93qsms"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "pink common exterior",
+    "image": "https://acnhcdn.com/latest/HouseWallIcon/HouseWallPA04StandardF.png",
+    "buy": 5000,
+    "category": "Siding",
+    "source": ["5th House Upgrade (2nd Floor)"],
+    "filename": "HouseWallPA04StandardF",
+    "uniqueEntryId": "ceKL4XwfZzkGoYpg9"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "red common exterior",
+    "image": "https://acnhcdn.com/latest/HouseWallIcon/HouseWallPA04StandardG.png",
+    "buy": 5000,
+    "category": "Siding",
+    "source": ["5th House Upgrade (2nd Floor)"],
+    "filename": "HouseWallPA04StandardG",
+    "uniqueEntryId": "cwEx7XyAwefNQJ8Rr"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "black common exterior",
+    "image": "https://acnhcdn.com/latest/HouseWallIcon/HouseWallPA04StandardH.png",
+    "buy": 5000,
+    "category": "Siding",
+    "source": ["5th House Upgrade (2nd Floor)"],
+    "filename": "HouseWallPA04StandardH",
+    "uniqueEntryId": "di7Pmwx9aDN4v4Xfc"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "cobblestone exterior",
+    "image": "https://acnhcdn.com/latest/HouseWallIcon/HouseWallPA04StoneA.png",
+    "buy": 5000,
+    "category": "Siding",
+    "source": ["5th House Upgrade (2nd Floor)"],
+    "filename": "HouseWallPA04StoneA",
+    "uniqueEntryId": "ZH4zSM5t8CkRN6WL7"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "chic cobblestone exterior",
+    "image": "https://acnhcdn.com/latest/HouseWallIcon/HouseWallPA04StoneB.png",
+    "buy": 5000,
+    "category": "Siding",
+    "source": ["5th House Upgrade (2nd Floor)"],
+    "filename": "HouseWallPA04StoneB",
+    "uniqueEntryId": "Lms2QszBWsfaCCxGf"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "brown cobblestone exterior",
+    "image": "https://acnhcdn.com/latest/HouseWallIcon/HouseWallPA04StoneC.png",
+    "buy": 5000,
+    "category": "Siding",
+    "source": ["5th House Upgrade (2nd Floor)"],
+    "filename": "HouseWallPA04StoneC",
+    "uniqueEntryId": "NL3LEQdCu2TtcE9eW"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "red cobblestone exterior",
+    "image": "https://acnhcdn.com/latest/HouseWallIcon/HouseWallPA04StoneD.png",
+    "buy": 5000,
+    "category": "Siding",
+    "source": ["5th House Upgrade (2nd Floor)"],
+    "filename": "HouseWallPA04StoneD",
+    "uniqueEntryId": "xXRQfdAGyLJCXSbY6"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "orange cobblestone exterior",
+    "image": "https://acnhcdn.com/latest/HouseWallIcon/HouseWallPA04StoneE.png",
+    "buy": 5000,
+    "category": "Siding",
+    "source": ["5th House Upgrade (2nd Floor)"],
+    "filename": "HouseWallPA04StoneE",
+    "uniqueEntryId": "Xs4kXRbnMnnkzzdGm"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "blue cobblestone exterior",
+    "image": "https://acnhcdn.com/latest/HouseWallIcon/HouseWallPA04StoneF.png",
+    "buy": 5000,
+    "category": "Siding",
+    "source": ["5th House Upgrade (2nd Floor)"],
+    "filename": "HouseWallPA04StoneF",
+    "uniqueEntryId": "eTg7RcPdjkGPBeWL4"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "green cobblestone exterior",
+    "image": "https://acnhcdn.com/latest/HouseWallIcon/HouseWallPA04StoneG.png",
+    "buy": 5000,
+    "category": "Siding",
+    "source": ["5th House Upgrade (2nd Floor)"],
+    "filename": "HouseWallPA04StoneG",
+    "uniqueEntryId": "Jiy9DpvuhLX6skBrR"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "gray cobblestone exterior",
+    "image": "https://acnhcdn.com/latest/HouseWallIcon/HouseWallPA04StoneH.png",
+    "buy": 5000,
+    "category": "Siding",
+    "source": ["5th House Upgrade (2nd Floor)"],
+    "filename": "HouseWallPA04StoneH",
+    "uniqueEntryId": "8GYy5WLx9jCpap6uY"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "white stucco exterior",
+    "image": "https://acnhcdn.com/latest/HouseWallIcon/HouseWallPA04StuccoA.png",
+    "buy": 5000,
+    "category": "Siding",
+    "source": ["5th House Upgrade (2nd Floor)"],
+    "filename": "HouseWallPA04StuccoA",
+    "uniqueEntryId": "QkWc3tQAiWrNhewAw"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "beige stucco exterior",
+    "image": "https://acnhcdn.com/latest/HouseWallIcon/HouseWallPA04StuccoB.png",
+    "buy": 5000,
+    "category": "Siding",
+    "source": ["5th House Upgrade (2nd Floor)"],
+    "filename": "HouseWallPA04StuccoB",
+    "uniqueEntryId": "qbKmPn2exhSsqLCw5"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "gray stucco exterior",
+    "image": "https://acnhcdn.com/latest/HouseWallIcon/HouseWallPA04StuccoC.png",
+    "buy": 5000,
+    "category": "Siding",
+    "source": ["5th House Upgrade (2nd Floor)"],
+    "filename": "HouseWallPA04StuccoC",
+    "uniqueEntryId": "niRaBvHzn59TEuTtu"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "red stucco exterior",
+    "image": "https://acnhcdn.com/latest/HouseWallIcon/HouseWallPA04StuccoD.png",
+    "buy": 5000,
+    "category": "Siding",
+    "source": ["5th House Upgrade (2nd Floor)"],
+    "filename": "HouseWallPA04StuccoD",
+    "uniqueEntryId": "c27kqMPWnha8RjEki"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "blue stucco exterior",
+    "image": "https://acnhcdn.com/latest/HouseWallIcon/HouseWallPA04StuccoE.png",
+    "buy": 5000,
+    "category": "Siding",
+    "source": ["5th House Upgrade (2nd Floor)"],
+    "filename": "HouseWallPA04StuccoE",
+    "uniqueEntryId": "g6d8pc3feddvfd3wm"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "yellow stucco exterior",
+    "image": "https://acnhcdn.com/latest/HouseWallIcon/HouseWallPA04StuccoF.png",
+    "buy": 5000,
+    "category": "Siding",
+    "source": ["5th House Upgrade (2nd Floor)"],
+    "filename": "HouseWallPA04StuccoF",
+    "uniqueEntryId": "78XQwM8DMwK8YsJig"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "pink stucco exterior",
+    "image": "https://acnhcdn.com/latest/HouseWallIcon/HouseWallPA04StuccoG.png",
+    "buy": 5000,
+    "category": "Siding",
+    "source": ["5th House Upgrade (2nd Floor)"],
+    "filename": "HouseWallPA04StuccoG",
+    "uniqueEntryId": "xmPeJk2bKkAWYtF64"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "black stucco exterior",
+    "image": "https://acnhcdn.com/latest/HouseWallIcon/HouseWallPA04StuccoH.png",
+    "buy": 5000,
+    "category": "Siding",
+    "source": ["5th House Upgrade (2nd Floor)"],
+    "filename": "HouseWallPA04StuccoH",
+    "uniqueEntryId": "gJeYNSQ4cBQuMiJXS"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "chalet exterior",
+    "image": "https://acnhcdn.com/latest/HouseWallIcon/HouseWallPA04WoodframeA.png",
+    "buy": 5000,
+    "category": "Siding",
+    "source": ["5th House Upgrade (2nd Floor)"],
+    "filename": "HouseWallPA04WoodframeA",
+    "uniqueEntryId": "RBTZCSQfgD2vQH3Ze"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "brown chalet exterior",
+    "image": "https://acnhcdn.com/latest/HouseWallIcon/HouseWallPA04WoodframeB.png",
+    "buy": 5000,
+    "category": "Siding",
+    "source": ["5th House Upgrade (2nd Floor)"],
+    "filename": "HouseWallPA04WoodframeB",
+    "uniqueEntryId": "xAmRhhZacLmi3ySCm"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "red chalet exterior",
+    "image": "https://acnhcdn.com/latest/HouseWallIcon/HouseWallPA04WoodframeC.png",
+    "buy": 5000,
+    "category": "Siding",
+    "source": ["5th House Upgrade (2nd Floor)"],
+    "filename": "HouseWallPA04WoodframeC",
+    "uniqueEntryId": "cA9eF8iCxf8nJhZMy"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "light-blue chalet exterior",
+    "image": "https://acnhcdn.com/latest/HouseWallIcon/HouseWallPA04WoodframeD.png",
+    "buy": 5000,
+    "category": "Siding",
+    "source": ["5th House Upgrade (2nd Floor)"],
+    "filename": "HouseWallPA04WoodframeD",
+    "uniqueEntryId": "9SCJMuao7JJBS3iry"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "yellow chalet exterior",
+    "image": "https://acnhcdn.com/latest/HouseWallIcon/HouseWallPA04WoodframeE.png",
+    "buy": 5000,
+    "category": "Siding",
+    "source": ["5th House Upgrade (2nd Floor)"],
+    "filename": "HouseWallPA04WoodframeE",
+    "uniqueEntryId": "t7eP9mfhqemhFXnBh"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "orange chalet exterior",
+    "image": "https://acnhcdn.com/latest/HouseWallIcon/HouseWallPA04WoodframeF.png",
+    "buy": 5000,
+    "category": "Siding",
+    "source": ["5th House Upgrade (2nd Floor)"],
+    "filename": "HouseWallPA04WoodframeF",
+    "uniqueEntryId": "ug4QTydifE3YXJqHR"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "cream chalet exterior",
+    "image": "https://acnhcdn.com/latest/HouseWallIcon/HouseWallPA04WoodframeG.png",
+    "buy": 5000,
+    "category": "Siding",
+    "source": ["5th House Upgrade (2nd Floor)"],
+    "filename": "HouseWallPA04WoodframeG",
+    "uniqueEntryId": "KAwpDuD4BQAodaghb"
+  },
+  {
+    "sourceSheet": "Construction",
+    "name": "black chalet exterior",
+    "image": "https://acnhcdn.com/latest/HouseWallIcon/HouseWallPA04WoodframeH.png",
+    "buy": 5000,
+    "category": "Siding",
+    "source": ["5th House Upgrade (2nd Floor)"],
+    "filename": "HouseWallPA04WoodframeH",
+    "uniqueEntryId": "kYAfpnwSRtZfZs4SG"
+  }
+]

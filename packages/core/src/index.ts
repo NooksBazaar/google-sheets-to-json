@@ -3,7 +3,7 @@ import * as fs from 'fs';
 import * as readline from 'readline';
 import {google} from 'googleapis';
 import {OAuth2Client} from 'google-auth-library';
-import {main} from './lib/acdb';
+import {main} from './lib/core';
 
 interface Credentials {
   installed: {
