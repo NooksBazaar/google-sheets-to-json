@@ -526,7 +526,7 @@ function mapAvailability(
 ): number[] {
   const availableMonths: any = [];
 
-  let i = 1;
+  let i = 0;
   for (const month of Object.keys(data)) {
     const isAvailable = data[month];
 
@@ -554,10 +554,10 @@ function mapAvailability(
         }
       }
       availableMonths.push({
-        month: i,
+        month: i + 1,
         isAllDay,
         activeHours,
-        season: isNH ? NH_SEASON[i - 1] : SH_SEASON[i - 1],
+        season: isNH ? NH_SEASON[i] : SH_SEASON[i],
       });
     }
 
