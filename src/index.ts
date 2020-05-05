@@ -194,8 +194,6 @@ function emptyDate() {
   return dayjs.utc('1970-01-01T00:00:00.000Z');
 }
 
-const TIME_FORMAT_IN = 'HH:MM';
-const TIME_FORMAT_OUT = 'HH:mm';
 const BDAY_FORMAT_IN = 'H/D';
 const BDAY_FORMAT_OUT = 'HH/DD';
 const ACTIVEHOURS_FORMAT_IN = 'h A';
@@ -207,13 +205,6 @@ const NULL_VALUES = new Set([
   'Does not play music',
   'No lighting',
 ]);
-
-const ALL_DAY: Array<[string, string]> = [
-  [
-    emptyDate().format(TIME_FORMAT_OUT),
-    dayjs.utc('1970-01-01T23:59:59.999Z').format(TIME_FORMAT_OUT),
-  ],
-];
 
 export async function normalizeData(data: ItemData, sheetKey: string) {
   for (const item of data) {
@@ -303,8 +294,8 @@ export async function normalizeData(data: ItemData, sheetKey: string) {
       item['specialSell'] = Math.round(item.sell * 1.5); // CJ / Flicks
 
       item['activeMonths'] = {
-        northern: mapAvailability(pick(item, NH_AVAILABILITY_KEYS)),
-        southern: mapAvailability(pick(item, SH_AVAILABILITY_KEYS)),
+        northern: mapAvailability(pick(item, NH_AVAILABILITY_KEYS), true),
+        southern: mapAvailability(pick(item, SH_AVAILABILITY_KEYS), false),
       };
 
       delete item['color1'];
@@ -408,6 +399,35 @@ const NH_AVAILABILITY_KEYS = [
   'nhDec',
 ];
 
+const NH_SEASON = [
+  'winter',
+  'winter',
+  'spring',
+  'spring',
+  'spring',
+  'summer',
+  'summer',
+  'summer',
+  'autumn',
+  'autumn',
+  'autumn',
+  'winter',
+];
+const SH_SEASON = [
+  'summer',
+  'summer',
+  'autumn',
+  'autumn',
+  'autumn',
+  'winter',
+  'winter',
+  'winter',
+  'spring',
+  'spring',
+  'spring',
+  'summer',
+];
+
 const SH_AVAILABILITY_KEYS = [
   'shJan',
   'shFeb',
@@ -500,10 +520,13 @@ async function mergeItemVariations(data: any[]) {
   return Object.values(dataset);
 }
 
-function mapAvailability(data: {[key: string]: string}): number[] {
-  const availableMonths: any = {};
+function mapAvailability(
+  data: {[key: string]: string},
+  isNH: boolean,
+): number[] {
+  const availableMonths: any = [];
 
-  let i = 1;
+  let i = 0;
   for (const month of Object.keys(data)) {
     const isAvailable = data[month];
 
@@ -530,10 +553,12 @@ function mapAvailability(data: {[key: string]: string}): number[] {
           activeHours.push([startTime, endTime]);
         }
       }
-      availableMonths[i] = {
+      availableMonths.push({
+        month: i + 1,
         isAllDay,
         activeHours,
-      };
+        season: isNH ? NH_SEASON[i] : SH_SEASON[i],
+      });
     }
 
     i++;
