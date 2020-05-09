@@ -25,11 +25,12 @@ export interface Item {
   curtainType?: CurtainType | null;
   curtainColor?: null | string;
   ceilingType?: CeilingType;
+  stackSize?: number | null;
   customize?: boolean;
   uses?: number;
-  stackSize?: number | null;
   seasonalAvailability?: SeasonalAvailability;
   style?: Style;
+  villagerEquippable?: boolean;
   primaryShape?: PrimaryShape;
   secondaryShape?: SecondaryShape | null;
   type?: string;
@@ -46,6 +47,7 @@ export interface Item {
   whereHow?: string;
   shadow?: string;
   totalCatchesToUnlock?: number;
+  spawnRates?: string;
   rainSnowCatchUp?: boolean;
   iconFilename?: string;
   critterpediaFilename?: string;
@@ -60,6 +62,7 @@ export interface Item {
   nookMiles?: number | null;
   filename?: null | string;
   source?: string[];
+  recipesToUnlock?: number;
   materials?: {[key: string]: number};
   houseImage?: string;
   species?: string;
@@ -224,6 +227,8 @@ export enum PrimaryShape {
 
 export enum SeasonalAvailability {
   AllYear = 'All Year',
+  Fall = 'Fall',
+  Spring = 'Spring',
   Summer = 'Summer',
   Winter = 'Winter',
 }

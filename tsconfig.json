@@ -6,11 +6,8 @@
     "resolveJsonModule": true,
     "skipLibCheck": true,
     "strict": true,
-
     "strictPropertyInitialization": true,
-
     "incremental": true,
-
     "lib": ["es2018", "esnext.asynciterable"],
     "module": "commonjs",
     "esModuleInterop": true,

@@ -1,24 +1,57 @@
 {
-  "name": "@nooksbazaar/acdb",
-  "version": "0.2.8",
-  "scripts": {
-    "build": "bash bin/build.sh",
-    "prettier:fix": "prettier '**/*.ts' README.md --write",
-    "start": "tsc -w"
+  "name": "@acdb/core",
+  "version": "0.0.0",
+  "description": "The goal of this project is to give to the community a standard way of extracting and use informations about the data spreadsheet ACNH",
+  "author": {
+    "name": "ACDB Team"
   },
-  "author": "Adam Lavin",
+  "maintainers": [
+    {
+      "name": "Adam Lavin"
+    },
+    {
+      "name": "Thibaut DAVID",
+      "email": "thibautdavid@icloud.com"
+    }
+  ],
+  "homepage": "https://github.com/acdb-team/google-sheets-to-json#readme",
   "license": "MIT",
+  "main": "src/index.ts",
+  "directories": {
+    "src": "src"
+  },
+  "files": [
+    "src"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acdb-team/google-sheets-to-json.git"
+  },
+  "scripts": {
+    "build": "bash scripts/build.sh",
+    "prettier:fix": "prettier '**/*.ts' README.md --write",
+    "commit": "git-cz"
+  },
   "devDependencies": {
     "@types/lodash": "^4.14.150",
     "@types/node": "^13.13.0",
+    "commitizen": "^4.1.2",
+    "cz-conventional-changelog": "3.2.0",
     "date-fns": "^2.12.0",
     "dayjs": "^1.8.26",
     "googleapis": "39",
     "lodash": "^4.17.15",
+    "npm-run-all": "^4.1.5",
     "prettier": "^2.0.4",
     "quicktype": "^15.0.223",
+    "standard-version": "^8.0.0",
     "ts-node": "^8.8.2",
     "tslib": "^1.11.1",
     "typescript": "^3.8.3"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   }
 }

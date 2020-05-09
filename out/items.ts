@@ -25,11 +25,12 @@ export interface Items {
   curtainType?: CurtainType | null;
   curtainColor?: null | string;
   ceilingType?: CeilingType;
+  stackSize?: number;
   customize?: boolean;
   uses?: number;
-  stackSize?: number;
   seasonalAvailability?: SeasonalAvailability;
   style?: Style;
+  villagerEquippable?: boolean;
   primaryShape?: PrimaryShape;
   secondaryShape?: SecondaryShape | null;
   type?: string;
@@ -128,6 +129,8 @@ export enum PrimaryShape {
 
 export enum SeasonalAvailability {
   AllYear = 'All Year',
+  Fall = 'Fall',
+  Spring = 'Spring',
   Summer = 'Summer',
   Winter = 'Winter',
 }

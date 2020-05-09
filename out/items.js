@@ -89,6 +89,8 @@ var PrimaryShape;
 var SeasonalAvailability;
 (function (SeasonalAvailability) {
     SeasonalAvailability["AllYear"] = "All Year";
+    SeasonalAvailability["Fall"] = "Fall";
+    SeasonalAvailability["Spring"] = "Spring";
     SeasonalAvailability["Summer"] = "Summer";
     SeasonalAvailability["Winter"] = "Winter";
 })(SeasonalAvailability = exports.SeasonalAvailability || (exports.SeasonalAvailability = {}));

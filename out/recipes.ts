@@ -3,6 +3,7 @@ export interface Recipes {
   name: string;
   source: string[];
   sourceNotes: null | string;
+  recipesToUnlock: number;
   version: Version;
   category: Category;
   internalId: number;

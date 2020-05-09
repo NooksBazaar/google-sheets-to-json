@@ -9,6 +9,7 @@ export interface Creatures {
   whereHow: string;
   shadow?: string;
   totalCatchesToUnlock: number;
+  spawnRates: string;
   rainSnowCatchUp?: boolean;
   size?: Size;
   lightingType?: LightingType | null;
