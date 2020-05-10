@@ -1,7 +1,7 @@
 {
   "name": "@acdb/core",
   "version": "0.0.0",
-  "description": "The goal of this project is to give to the community a standard way of extracting and use informations about the data spreadsheet ACNH",
+  "description": "This package provides extracted and standardised JSON for Animal Crossing: New Horizons from the community powered spreadsheet.",
   "author": {
     "name": "ACDB Team"
   },
