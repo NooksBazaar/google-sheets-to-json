@@ -17,7 +17,7 @@ const ITEM_SHEETS = [
   'Housewares',
   'Miscellaneous',
   'Wall-mounted',
-  'Wallpapers',
+  'Wallpaper',
   'Floors',
   'Rugs',
   'Fencing',
@@ -39,9 +39,7 @@ const ITEM_SHEETS = [
   'Art',
 ];
 
-const CREATURE_SHEETS = ['Fish', 'Bugs'];
-
-const NOOK_MILE_SHEETS = ['Nook Miles'];
+const CREATURE_SHEETS = ['Fish', 'Insects'];
 
 const RECIPE_SHEETS = ['Recipes'];
 
@@ -71,7 +69,6 @@ export async function main(auth: OAuth2Client) {
   const workSet: Array<[string, string[]]> = [
     ['items', ITEM_SHEETS],
     ['creatures', CREATURE_SHEETS],
-    ['nookMiles', NOOK_MILE_SHEETS],
     ['recipes', RECIPE_SHEETS],
     ['villagers', VILLAGERS_SHEETS],
     ['construction', CONSTRUCTION_SHEETS],
