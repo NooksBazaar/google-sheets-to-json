@@ -117,7 +117,7 @@ export async function main(auth: OAuth2Client) {
       continue;
     }
 
-    const data = require(`../${OUTPUT}/${key}.json`);
+    const data = readJSON(`${OUTPUT}/${key}.json`);
 
     all.push(...data);
   }
@@ -562,4 +562,9 @@ function mapAvailability(
   }
 
   return availableMonths;
+}
+
+function readJSON(filename) {
+  const rawFileString = fs.readFileSync(filename).toString();
+  return JSON.parse(rawFileString);
 }
