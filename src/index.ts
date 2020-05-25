@@ -17,7 +17,7 @@ const ITEM_SHEETS = [
   'Housewares',
   'Miscellaneous',
   'Wall-mounted',
-  'Wallpapers',
+  'Wallpaper',
   'Floors',
   'Rugs',
   'Fencing',
@@ -39,9 +39,7 @@ const ITEM_SHEETS = [
   'Art',
 ];
 
-const CREATURE_SHEETS = ['Fish', 'Bugs'];
-
-const NOOK_MILE_SHEETS = ['Nook Miles'];
+const CREATURE_SHEETS = ['Fish', 'Insects'];
 
 const RECIPE_SHEETS = ['Recipes'];
 
@@ -71,7 +69,6 @@ export async function main(auth: OAuth2Client) {
   const workSet: Array<[string, string[]]> = [
     ['items', ITEM_SHEETS],
     ['creatures', CREATURE_SHEETS],
-    ['nookMiles', NOOK_MILE_SHEETS],
     ['recipes', RECIPE_SHEETS],
     ['villagers', VILLAGERS_SHEETS],
     ['construction', CONSTRUCTION_SHEETS],
@@ -104,10 +101,7 @@ export async function main(auth: OAuth2Client) {
       }
 
       console.log(`Writing data to disk`);
-      fs.writeFileSync(
-        `${OUTPUT}/${key}.json`,
-        JSON.stringify(data, undefined, ' '),
-      );
+      writeJSON(`${OUTPUT}/${key}.json`, data);
 
       console.log(`Finished ${key}`);
     }
@@ -120,12 +114,12 @@ export async function main(auth: OAuth2Client) {
       continue;
     }
 
-    const data = require(`../${OUTPUT}/${key}.json`);
+    const data = readJSON(`${OUTPUT}/${key}.json`);
 
     all.push(...data);
   }
 
-  fs.writeFileSync(`${OUTPUT}/all.json`, JSON.stringify(all, undefined, ' '));
+  writeJSON(`${OUTPUT}/all.json`, all);
 
   if (validateIds) {
     console.log(duplicates);
@@ -161,7 +155,7 @@ export async function loadData(
     }
   }
 
-  fs.writeFileSync(cacheFile, JSON.stringify(data, undefined, '  '));
+  writeJSON(cacheFile, data);
 
   return data;
 }
@@ -565,4 +559,13 @@ function mapAvailability(
   }
 
   return availableMonths;
+}
+
+function readJSON(filename) {
+  const rawFileString = fs.readFileSync(filename).toString();
+  return JSON.parse(rawFileString);
+}
+
+function writeJSON(filename, json) {
+  fs.writeFileSync(filename, JSON.stringify(json, null, 2));
 }
