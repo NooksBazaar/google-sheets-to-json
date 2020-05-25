@@ -5,10 +5,13 @@ export interface Items {
   diy?: boolean;
   patternCustomize?: boolean | null;
   size?: Size;
+  milesPrice?: number | null;
   sourceNotes?: null | string;
-  version: Version;
+  versionAdded?: Version;
+  versionUnlocked?: Version | null;
   interact?: boolean | InteractEnum;
   tag?: null | string;
+  outdoor?: boolean;
   speakerType?: SpeakerType | null;
   lightingType?: LightingType | null;
   catalog?: Catalog;
@@ -25,11 +28,13 @@ export interface Items {
   curtainType?: CurtainType | null;
   curtainColor?: null | string;
   ceilingType?: CeilingType;
+  stackSize?: number;
   customize?: boolean;
   uses?: number;
-  stackSize?: number;
   seasonalAvailability?: SeasonalAvailability;
+  mannequinPiece?: boolean;
   style?: Style;
+  villagerEquippable?: boolean;
   primaryShape?: PrimaryShape;
   secondaryShape?: SecondaryShape | null;
   type?: string;
@@ -67,7 +72,7 @@ export declare enum Category {
   Tops = 'Tops',
   Umbrellas = 'Umbrellas',
   WallMounted = 'Wall-mounted',
-  Wallpapers = 'Wallpapers',
+  Wallpaper = 'Wallpaper',
 }
 export declare enum CeilingType {
   Cloth = 'Cloth',
@@ -118,6 +123,8 @@ export declare enum PrimaryShape {
 }
 export declare enum SeasonalAvailability {
   AllYear = 'All Year',
+  Fall = 'Fall',
+  Spring = 'Spring',
   Summer = 'Summer',
   Winter = 'Winter',
 }
@@ -178,7 +185,7 @@ export interface Variant {
   labelThemes?: LabelTheme[];
   framedImage?: null | string;
   albumImage?: null | string;
-  inventoryImage?: string;
+  inventoryImage?: null | string;
   genuine?: boolean;
   highResTexture?: null;
 }
@@ -241,7 +248,6 @@ export declare enum Color {
   Colorful = 'Colorful',
   Gray = 'Gray',
   Green = 'Green',
-  Gren = 'Gren',
   LightBlue = 'Light blue',
   Orange = 'Orange',
   Pink = 'Pink',
@@ -360,6 +366,8 @@ export declare enum Version {
   The110 = '1.1.0',
   The110A = '1.1.0a',
   The120 = '1.2.0',
+  The120A = '1.2.0a',
+  The120B = '1.2.0b',
 }
 export declare enum VfxType {
   LightOff = 'LightOff',

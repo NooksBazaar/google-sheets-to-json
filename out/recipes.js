@@ -5,7 +5,7 @@ var Category;
     Category["Accessories"] = "Accessories";
     Category["Bags"] = "Bags";
     Category["Bottoms"] = "Bottoms";
-    Category["Dresses"] = "Dresses";
+    Category["DressUp"] = "Dress-Up";
     Category["Fencing"] = "Fencing";
     Category["Floors"] = "Floors";
     Category["Headwear"] = "Headwear";
@@ -24,10 +24,16 @@ var SourceSheet;
 (function (SourceSheet) {
     SourceSheet["Recipes"] = "Recipes";
 })(SourceSheet = exports.SourceSheet || (exports.SourceSheet = {}));
-var Version;
-(function (Version) {
-    Version["The100"] = "1.0.0";
-    Version["The110A"] = "1.1.0a";
-    Version["The120"] = "1.2.0";
-})(Version = exports.Version || (exports.Version = {}));
+var VersionAdded;
+(function (VersionAdded) {
+    VersionAdded["The100"] = "1.0.0";
+    VersionAdded["The110"] = "1.1.0";
+    VersionAdded["The120"] = "1.2.0";
+})(VersionAdded = exports.VersionAdded || (exports.VersionAdded = {}));
+var VersionUnlocked;
+(function (VersionUnlocked) {
+    VersionUnlocked["The100"] = "1.0.0";
+    VersionUnlocked["The110A"] = "1.1.0a";
+    VersionUnlocked["The120"] = "1.2.0";
+})(VersionUnlocked = exports.VersionUnlocked || (exports.VersionUnlocked = {}));
 //# sourceMappingURL=recipes.js.map

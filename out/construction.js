@@ -11,7 +11,9 @@ var Category;
 })(Category = exports.Category || (exports.Category = {}));
 var Source;
 (function (Source) {
+    Source["InitialHouse"] = "Initial House";
     Source["ResidentServicesUpgrade"] = "Resident Services Upgrade";
+    Source["Tent"] = "Tent";
     Source["The3RDHouseUpgradeLeftRoom"] = "3rd House Upgrade (Left Room)";
     Source["The4ThHouseUpgradeRightRoom"] = "4th House Upgrade (Right Room)";
     Source["The5ThHouseUpgrade2NdFloor"] = "5th House Upgrade (2nd Floor)";

@@ -37,8 +37,8 @@ var Size;
 })(Size = exports.Size || (exports.Size = {}));
 var SourceSheet;
 (function (SourceSheet) {
-    SourceSheet["Bugs"] = "Bugs";
     SourceSheet["Fish"] = "Fish";
+    SourceSheet["Insects"] = "Insects";
 })(SourceSheet = exports.SourceSheet || (exports.SourceSheet = {}));
 var Weather;
 (function (Weather) {

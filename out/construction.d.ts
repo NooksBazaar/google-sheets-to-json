@@ -17,7 +17,9 @@ export declare enum Category {
   Siding = 'Siding',
 }
 export declare enum Source {
+  InitialHouse = 'Initial House',
   ResidentServicesUpgrade = 'Resident Services Upgrade',
+  Tent = 'Tent',
   The3RDHouseUpgradeLeftRoom = '3rd House Upgrade (Left Room)',
   The4ThHouseUpgradeRightRoom = '4th House Upgrade (Right Room)',
   The5ThHouseUpgrade2NdFloor = '5th House Upgrade (2nd Floor)',

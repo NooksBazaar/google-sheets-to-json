@@ -4,9 +4,9 @@ var SourceSheet;
 (function (SourceSheet) {
     SourceSheet["Achievements"] = "Achievements";
 })(SourceSheet = exports.SourceSheet || (exports.SourceSheet = {}));
-var Version;
-(function (Version) {
-    Version["The100"] = "1.0.0";
-    Version["The120"] = "1.2.0";
-})(Version = exports.Version || (exports.Version = {}));
+var VersionAdded;
+(function (VersionAdded) {
+    VersionAdded["The100"] = "1.0.0";
+    VersionAdded["The120"] = "1.2.0";
+})(VersionAdded = exports.VersionAdded || (exports.VersionAdded = {}));
 //# sourceMappingURL=achievements.js.map

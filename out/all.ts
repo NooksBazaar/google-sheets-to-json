@@ -5,10 +5,13 @@ export interface Item {
   diy?: boolean;
   patternCustomize?: boolean | null;
   size?: Size;
+  milesPrice?: number | null;
   sourceNotes?: null | string;
-  version?: Version;
+  versionAdded?: Version;
+  versionUnlocked?: Version | null;
   interact?: boolean | InteractEnum;
   tag?: null | string;
+  outdoor?: boolean;
   speakerType?: SpeakerType | null;
   lightingType?: LightingType | null;
   catalog?: Catalog;
@@ -25,16 +28,18 @@ export interface Item {
   curtainType?: CurtainType | null;
   curtainColor?: null | string;
   ceilingType?: CeilingType;
+  stackSize?: number;
   customize?: boolean;
   uses?: number;
-  stackSize?: number | null;
   seasonalAvailability?: SeasonalAvailability;
+  mannequinPiece?: boolean;
   style?: Style;
+  villagerEquippable?: boolean;
   primaryShape?: PrimaryShape;
   secondaryShape?: SecondaryShape | null;
   type?: string;
   museum?: Museum;
-  category?: Category | null;
+  category?: Category;
   realArtworkTitle?: string;
   artist?: string;
   museumDescription?: string;
@@ -46,20 +51,21 @@ export interface Item {
   whereHow?: string;
   shadow?: string;
   totalCatchesToUnlock?: number;
+  spawnRates?: string;
   rainSnowCatchUp?: boolean;
   iconFilename?: string;
   critterpediaFilename?: string;
   furnitureFilename?: string;
-  internalId?: number | null;
+  internalId?: number;
   uniqueEntryId?: string;
   colors?: Color[];
   specialSell?: number;
   activeMonths?: ActiveMonths;
   weather?: Weather;
-  image?: string;
-  nookMiles?: number | null;
-  filename?: null | string;
+  buy?: number;
   source?: string[];
+  recipesToUnlock?: number;
+  serialId?: number;
   materials?: {[key: string]: number};
   houseImage?: string;
   species?: string;
@@ -69,8 +75,13 @@ export interface Item {
   birthday?: string;
   catchphrase?: string;
   favoriteSong?: string;
+  wallpaper?: string;
+  flooring?: string;
+  furnitureList?: string;
+  furnitureNameList?: string;
+  filename?: string;
   styles?: Style[];
-  buy?: number;
+  image?: string;
 }
 
 export interface ActiveMonths {
@@ -104,7 +115,7 @@ export enum Category {
   Bottoms = 'Bottoms',
   Bridge = 'Bridge',
   Door = 'Door',
-  Dresses = 'Dresses',
+  DressUp = 'Dress-Up',
   Fencing = 'Fencing',
   Floors = 'Floors',
   Headwear = 'Headwear',
@@ -113,7 +124,6 @@ export enum Category {
   Mailbox = 'Mailbox',
   Miscellaneous = 'Miscellaneous',
   Other = 'Other',
-  Recipe = 'Recipe',
   Roofing = 'Roofing',
   Rugs = 'Rugs',
   Shoes = 'Shoes',
@@ -142,7 +152,6 @@ export enum Color {
   Colorful = 'Colorful',
   Gray = 'Gray',
   Green = 'Green',
-  Gren = 'Gren',
   LightBlue = 'Light blue',
   Orange = 'Orange',
   Pink = 'Pink',
@@ -224,6 +233,8 @@ export enum PrimaryShape {
 
 export enum SeasonalAvailability {
   AllYear = 'All Year',
+  Fall = 'Fall',
+  Spring = 'Spring',
   Summer = 'Summer',
   Winter = 'Winter',
 }
@@ -258,7 +269,6 @@ export enum SourceSheet {
   Art = 'Art',
   Bags = 'Bags',
   Bottoms = 'Bottoms',
-  Bugs = 'Bugs',
   Construction = 'Construction',
   DressUp = 'Dress-Up',
   Fencing = 'Fencing',
@@ -267,9 +277,9 @@ export enum SourceSheet {
   Fossils = 'Fossils',
   Headwear = 'Headwear',
   Housewares = 'Housewares',
+  Insects = 'Insects',
   Miscellaneous = 'Miscellaneous',
   Music = 'Music',
-  NookMiles = 'Nook Miles',
   Other = 'Other',
   Photos = 'Photos',
   Posters = 'Posters',
@@ -282,7 +292,7 @@ export enum SourceSheet {
   Umbrellas = 'Umbrellas',
   Villagers = 'Villagers',
   WallMounted = 'Wall-mounted',
-  Wallpapers = 'Wallpapers',
+  Wallpaper = 'Wallpaper',
 }
 
 export enum SpeakerType {
@@ -321,7 +331,7 @@ export interface Variant {
   labelThemes?: LabelTheme[];
   framedImage?: null | string;
   albumImage?: null | string;
-  inventoryImage?: string;
+  inventoryImage?: null | string;
   genuine?: boolean;
   highResTexture?: null;
 }
@@ -491,6 +501,8 @@ export enum Version {
   The110 = '1.1.0',
   The110A = '1.1.0a',
   The120 = '1.2.0',
+  The120A = '1.2.0a',
+  The120B = '1.2.0b',
 }
 
 export enum VfxType {

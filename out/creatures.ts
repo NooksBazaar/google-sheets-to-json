@@ -5,12 +5,13 @@ export interface Creatures {
   iconImage: string;
   critterpediaImage: string;
   furnitureImage: string;
+  size: Size;
   sell: number;
   whereHow: string;
   shadow?: string;
   totalCatchesToUnlock: number;
+  spawnRates: string;
   rainSnowCatchUp?: boolean;
-  size?: Size;
   lightingType?: LightingType | null;
   iconFilename: string;
   critterpediaFilename: string;
@@ -71,8 +72,8 @@ export enum Size {
 }
 
 export enum SourceSheet {
-  Bugs = 'Bugs',
   Fish = 'Fish',
+  Insects = 'Insects',
 }
 
 export enum Weather {

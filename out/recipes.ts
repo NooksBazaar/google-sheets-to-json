@@ -1,10 +1,16 @@
 export interface Recipes {
   sourceSheet: SourceSheet;
   name: string;
+  buy: number;
+  sell: number;
+  milesPrice: number | null;
   source: string[];
   sourceNotes: null | string;
-  version: Version;
+  versionAdded: VersionAdded;
+  versionUnlocked: VersionUnlocked | null;
+  recipesToUnlock: number;
   category: Category;
+  serialId: number;
   internalId: number;
   uniqueEntryId: string;
   materials: {[key: string]: number};
@@ -14,7 +20,7 @@ export enum Category {
   Accessories = 'Accessories',
   Bags = 'Bags',
   Bottoms = 'Bottoms',
-  Dresses = 'Dresses',
+  DressUp = 'Dress-Up',
   Fencing = 'Fencing',
   Floors = 'Floors',
   Headwear = 'Headwear',
@@ -34,7 +40,13 @@ export enum SourceSheet {
   Recipes = 'Recipes',
 }
 
-export enum Version {
+export enum VersionAdded {
+  The100 = '1.0.0',
+  The110 = '1.1.0',
+  The120 = '1.2.0',
+}
+
+export enum VersionUnlocked {
   The100 = '1.0.0',
   The110A = '1.1.0a',
   The120 = '1.2.0',

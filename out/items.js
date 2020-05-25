@@ -30,7 +30,7 @@ var Category;
     Category["Tops"] = "Tops";
     Category["Umbrellas"] = "Umbrellas";
     Category["WallMounted"] = "Wall-mounted";
-    Category["Wallpapers"] = "Wallpapers";
+    Category["Wallpaper"] = "Wallpaper";
 })(Category = exports.Category || (exports.Category = {}));
 var CeilingType;
 (function (CeilingType) {
@@ -89,6 +89,8 @@ var PrimaryShape;
 var SeasonalAvailability;
 (function (SeasonalAvailability) {
     SeasonalAvailability["AllYear"] = "All Year";
+    SeasonalAvailability["Fall"] = "Fall";
+    SeasonalAvailability["Spring"] = "Spring";
     SeasonalAvailability["Summer"] = "Summer";
     SeasonalAvailability["Winter"] = "Winter";
 })(SeasonalAvailability = exports.SeasonalAvailability || (exports.SeasonalAvailability = {}));
@@ -194,7 +196,6 @@ var Color;
     Color["Colorful"] = "Colorful";
     Color["Gray"] = "Gray";
     Color["Green"] = "Green";
-    Color["Gren"] = "Gren";
     Color["LightBlue"] = "Light blue";
     Color["Orange"] = "Orange";
     Color["Pink"] = "Pink";
@@ -317,6 +318,8 @@ var Version;
     Version["The110"] = "1.1.0";
     Version["The110A"] = "1.1.0a";
     Version["The120"] = "1.2.0";
+    Version["The120A"] = "1.2.0a";
+    Version["The120B"] = "1.2.0b";
 })(Version = exports.Version || (exports.Version = {}));
 var VfxType;
 (function (VfxType) {

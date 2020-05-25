@@ -10,6 +10,10 @@ export interface Villagers {
   birthday: string;
   catchphrase: string;
   favoriteSong: string;
+  wallpaper: string;
+  flooring: string;
+  furnitureList: string;
+  furnitureNameList: string;
   filename: string;
   uniqueEntryId: string;
   colors: Color[];
