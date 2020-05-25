@@ -533,6 +533,7 @@ function mapAvailability(
         activeHours.push(['00', '00']);
       } else {
         const dayParts = data[month].split(';');
+
         for (const part of dayParts) {
           const times = part.trim().split('–');
           const startTime = dayjs
@@ -547,6 +548,7 @@ function mapAvailability(
           activeHours.push([startTime, endTime]);
         }
       }
+
       availableMonths.push({
         month: i + 1,
         isAllDay,
@@ -561,11 +563,11 @@ function mapAvailability(
   return availableMonths;
 }
 
-function readJSON(filename) {
+function readJSON(filename: string) {
   const rawFileString = fs.readFileSync(filename).toString();
   return JSON.parse(rawFileString);
 }
 
-function writeJSON(filename, json) {
+function writeJSON(filename: string, json: any) {
   fs.writeFileSync(filename, JSON.stringify(json, null, 2));
 }
