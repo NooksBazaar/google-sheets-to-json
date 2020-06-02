@@ -176,6 +176,7 @@ const valueFormatters: ValueFormatters = {
   iconImage: extractImageUrl,
   houseImage: extractImageUrl,
   inventoryImage: extractImageUrl,
+  photoImage: extractImageUrl,
   uses: normaliseUse,
   source: (input: string) =>
     input.includes('\n')
