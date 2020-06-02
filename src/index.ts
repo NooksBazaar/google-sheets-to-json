@@ -180,7 +180,7 @@ const valueFormatters: ValueFormatters = {
   source: (input: string) =>
     input.includes('\n')
       ? input.split('\n')
-      : input.split(';').map(i => i.trim()),
+      : input.split(/[;,]/).map(i => i.trim()),
   birthday: normaliseBirthday,
 };
 
