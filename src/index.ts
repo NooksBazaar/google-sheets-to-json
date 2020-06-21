@@ -174,6 +174,7 @@ const valueFormatters: ValueFormatters = {
   albumImage: extractImageUrl,
   framedImage: extractImageUrl,
   iconImage: extractImageUrl,
+  photoImage: extractImageUrl,
   houseImage: extractImageUrl,
   inventoryImage: extractImageUrl,
   uses: normaliseUse,
