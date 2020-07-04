@@ -176,11 +176,12 @@ const valueFormatters: ValueFormatters = {
   iconImage: extractImageUrl,
   houseImage: extractImageUrl,
   inventoryImage: extractImageUrl,
+  photoImage: extractImageUrl,
   uses: normaliseUse,
   source: (input: string) =>
     input.includes('\n')
       ? input.split('\n')
-      : input.split(';').map(i => i.trim()),
+      : input.split(/[;,]/).map(i => i.trim()),
   birthday: normaliseBirthday,
 };
 
