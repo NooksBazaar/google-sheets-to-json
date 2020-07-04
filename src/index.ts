@@ -33,13 +33,14 @@ const ITEM_SHEETS = [
   'Shoes',
   'Bags',
   'Umbrellas',
+  'Clothing Other',
   'Music',
   'Fossils',
   'Other',
   'Art',
 ];
 
-const CREATURE_SHEETS = ['Fish', 'Insects'];
+const CREATURE_SHEETS = ['Fish', 'Insects', 'Sea Creatures'];
 
 const RECIPE_SHEETS = ['Recipes'];
 
