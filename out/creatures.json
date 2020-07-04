@@ -16520,5 +16520,4525 @@
         }
       ]
     }
+  },
+  {
+    "sourceSheet": "Sea Creatures",
+    "num": 17,
+    "name": "abalone",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Awabi.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishAwabiCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishAwabi.png",
+    "sell": 2000,
+    "shadow": "Medium",
+    "movementSpeed": "Medium",
+    "totalCatchesToUnlock": 20,
+    "spawnRates": "1–6",
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": null,
+    "lightingType": "Fluorescent",
+    "iconFilename": "Awabi",
+    "critterpediaFilename": "DiveFishAwabi",
+    "furnitureFilename": "FtrDiveFishAwabi",
+    "versionAdded": "1.3.0",
+    "versionUnlocked": "1.3.0",
+    "internalId": 2835,
+    "uniqueEntryId": "LnurTYKDSPtsiQr62",
+    "colors": [],
+    "specialSell": 3000,
+    "activeMonths": {
+      "northern": [
+        {
+          "month": 1,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "winter"
+        },
+        {
+          "month": 6,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "summer"
+        },
+        {
+          "month": 7,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "summer"
+        },
+        {
+          "month": 8,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "summer"
+        },
+        {
+          "month": 9,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "autumn"
+        },
+        {
+          "month": 10,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "autumn"
+        },
+        {
+          "month": 11,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "autumn"
+        },
+        {
+          "month": 12,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "winter"
+        }
+      ],
+      "southern": [
+        {
+          "month": 1,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "summer"
+        },
+        {
+          "month": 2,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "summer"
+        },
+        {
+          "month": 3,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "autumn"
+        },
+        {
+          "month": 4,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "autumn"
+        },
+        {
+          "month": 5,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "autumn"
+        },
+        {
+          "month": 6,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "winter"
+        },
+        {
+          "month": 7,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "winter"
+        },
+        {
+          "month": 12,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "summer"
+        }
+      ]
+    }
+  },
+  {
+    "sourceSheet": "Sea Creatures",
+    "num": 28,
+    "name": "acorn barnacle",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fujitsubo.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishFujitsuboCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishFujitsubo.png",
+    "sell": 600,
+    "shadow": "X-Small",
+    "movementSpeed": "Stationary",
+    "totalCatchesToUnlock": 0,
+    "spawnRates": "6–11",
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": null,
+    "lightingType": "Fluorescent",
+    "iconFilename": "Fujitsubo",
+    "critterpediaFilename": "DiveFishFujitsubo",
+    "furnitureFilename": "FtrDiveFishFujitsubo",
+    "versionAdded": "1.3.0",
+    "versionUnlocked": "1.3.0",
+    "internalId": 2832,
+    "uniqueEntryId": "QjvNJrjo5pNqZzuGq",
+    "colors": [],
+    "specialSell": 900,
+    "activeMonths": {
+      "northern": [
+        {
+          "month": 1,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 2,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 3,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 4,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 5,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 6,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 7,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 8,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 9,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 10,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 11,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 12,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        }
+      ],
+      "southern": [
+        {
+          "month": 1,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 2,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 3,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 4,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 5,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 6,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 7,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 8,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 9,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 10,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 11,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 12,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        }
+      ]
+    }
+  },
+  {
+    "sourceSheet": "Sea Creatures",
+    "num": 19,
+    "name": "chambered nautilus",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Oumugai.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishOumugaiCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishOumugai.png",
+    "sell": 1800,
+    "shadow": "Medium",
+    "movementSpeed": "Medium",
+    "totalCatchesToUnlock": 20,
+    "spawnRates": "3–5",
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": null,
+    "lightingType": "Fluorescent",
+    "iconFilename": "Oumugai",
+    "critterpediaFilename": "DiveFishOumagai",
+    "furnitureFilename": "FtrDiveFishOumagai",
+    "versionAdded": "1.3.0",
+    "versionUnlocked": "1.3.0",
+    "internalId": 2856,
+    "uniqueEntryId": "cmNawSTGaZZjRi5sp",
+    "colors": [],
+    "specialSell": 2700,
+    "activeMonths": {
+      "northern": [
+        {
+          "month": 3,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "spring"
+        },
+        {
+          "month": 4,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "spring"
+        },
+        {
+          "month": 5,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "spring"
+        },
+        {
+          "month": 6,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "summer"
+        },
+        {
+          "month": 9,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "autumn"
+        },
+        {
+          "month": 10,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "autumn"
+        },
+        {
+          "month": 11,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "autumn"
+        }
+      ],
+      "southern": [
+        {
+          "month": 3,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "autumn"
+        },
+        {
+          "month": 4,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "autumn"
+        },
+        {
+          "month": 5,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "autumn"
+        },
+        {
+          "month": 9,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "spring"
+        },
+        {
+          "month": 10,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "spring"
+        },
+        {
+          "month": 11,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "spring"
+        },
+        {
+          "month": 12,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "summer"
+        }
+      ]
+    }
+  },
+  {
+    "sourceSheet": "Sea Creatures",
+    "num": 25,
+    "name": "Dungeness crab",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/DungenessCrab.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishDungenessCrabCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishDungenessCrab.png",
+    "sell": 1900,
+    "shadow": "Medium",
+    "movementSpeed": "Medium",
+    "totalCatchesToUnlock": 20,
+    "spawnRates": "3–5",
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": null,
+    "lightingType": "Fluorescent",
+    "iconFilename": "DungenessCrab",
+    "critterpediaFilename": "DiveFishDungenessCrab",
+    "furnitureFilename": "FtrDiveFishDungenessCrab",
+    "versionAdded": "1.3.0",
+    "versionUnlocked": "1.3.0",
+    "internalId": 7308,
+    "uniqueEntryId": "jTP553H6DNuKBSAKa",
+    "colors": [],
+    "specialSell": 2850,
+    "activeMonths": {
+      "northern": [
+        {
+          "month": 1,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 2,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 3,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 4,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 5,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 11,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 12,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        }
+      ],
+      "southern": [
+        {
+          "month": 5,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 6,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 7,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 8,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 9,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 10,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 11,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        }
+      ]
+    }
+  },
+  {
+    "sourceSheet": "Sea Creatures",
+    "num": 23,
+    "name": "firefly squid",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Hotaruika.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishHotaruikaCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishHotaruika.png",
+    "sell": 1400,
+    "shadow": "X-Small",
+    "movementSpeed": "Slow",
+    "totalCatchesToUnlock": 0,
+    "spawnRates": "6",
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": null,
+    "lightingType": "Fluorescent",
+    "iconFilename": "Hotaruika",
+    "critterpediaFilename": "DiveFishHotaruika",
+    "furnitureFilename": "FtrDiveFishHotaruika",
+    "versionAdded": "1.3.0",
+    "versionUnlocked": "1.3.0",
+    "internalId": 6920,
+    "uniqueEntryId": "ETuWxdyZNpqeFCYby",
+    "colors": [],
+    "specialSell": 2100,
+    "activeMonths": {
+      "northern": [
+        {
+          "month": 3,
+          "isAllDay": false,
+          "activeHours": [["21", "04"]],
+          "season": "spring"
+        },
+        {
+          "month": 4,
+          "isAllDay": false,
+          "activeHours": [["21", "04"]],
+          "season": "spring"
+        },
+        {
+          "month": 5,
+          "isAllDay": false,
+          "activeHours": [["21", "04"]],
+          "season": "spring"
+        },
+        {
+          "month": 6,
+          "isAllDay": false,
+          "activeHours": [["21", "04"]],
+          "season": "summer"
+        }
+      ],
+      "southern": [
+        {
+          "month": 9,
+          "isAllDay": false,
+          "activeHours": [["21", "04"]],
+          "season": "spring"
+        },
+        {
+          "month": 10,
+          "isAllDay": false,
+          "activeHours": [["21", "04"]],
+          "season": "spring"
+        },
+        {
+          "month": 11,
+          "isAllDay": false,
+          "activeHours": [["21", "04"]],
+          "season": "spring"
+        },
+        {
+          "month": 12,
+          "isAllDay": false,
+          "activeHours": [["21", "04"]],
+          "season": "summer"
+        }
+      ]
+    }
+  },
+  {
+    "sourceSheet": "Sea Creatures",
+    "num": 39,
+    "name": "flatworm",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Hiramushi.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishHiramushiCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishHiramushi.png",
+    "sell": 700,
+    "shadow": "X-Small",
+    "movementSpeed": "Very slow",
+    "totalCatchesToUnlock": 0,
+    "spawnRates": "5–8",
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": null,
+    "lightingType": "Fluorescent",
+    "iconFilename": "Hiramushi",
+    "critterpediaFilename": "DiveFishHiramushi",
+    "furnitureFilename": "FtrDiveFishHiramushi",
+    "versionAdded": "1.3.0",
+    "versionUnlocked": "1.3.0",
+    "internalId": 2844,
+    "uniqueEntryId": "4LAq9YXXj4ZdfkSuK",
+    "colors": [],
+    "specialSell": 1050,
+    "activeMonths": {
+      "northern": [
+        {
+          "month": 8,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "summer"
+        },
+        {
+          "month": 9,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "autumn"
+        }
+      ],
+      "southern": [
+        {
+          "month": 2,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "summer"
+        },
+        {
+          "month": 3,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "autumn"
+        }
+      ]
+    }
+  },
+  {
+    "sourceSheet": "Sea Creatures",
+    "num": 24,
+    "name": "gazami crab",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Gazami.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishGazamiCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishGazami.png",
+    "sell": 2200,
+    "shadow": "Medium",
+    "movementSpeed": "Medium",
+    "totalCatchesToUnlock": 20,
+    "spawnRates": "2–5",
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": null,
+    "lightingType": "Fluorescent",
+    "iconFilename": "Gazami",
+    "critterpediaFilename": "DiveFishGazami",
+    "furnitureFilename": "FtrDiveFishGazami",
+    "versionAdded": "1.3.0",
+    "versionUnlocked": "1.3.0",
+    "internalId": 7191,
+    "uniqueEntryId": "ruLaEghgv3y3obBA2",
+    "colors": [],
+    "specialSell": 3300,
+    "activeMonths": {
+      "northern": [
+        {
+          "month": 6,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 7,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 8,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 9,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 10,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 11,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        }
+      ],
+      "southern": [
+        {
+          "month": 1,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 2,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 3,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 4,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 5,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 12,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        }
+      ]
+    }
+  },
+  {
+    "sourceSheet": "Sea Creatures",
+    "num": 35,
+    "name": "giant isopod",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Daiougusokumushi.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishDaiougusokumushiCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishDaiougusokumushi.png",
+    "sell": 12000,
+    "shadow": "Medium",
+    "movementSpeed": "Very fast",
+    "totalCatchesToUnlock": 80,
+    "spawnRates": "1",
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": null,
+    "lightingType": null,
+    "iconFilename": "Daiougusokumushi",
+    "critterpediaFilename": "DiveFishDaiougusokumushi",
+    "furnitureFilename": "FtrDiveFishDaiougusokumushi",
+    "versionAdded": "1.3.0",
+    "versionUnlocked": "1.3.0",
+    "internalId": 2858,
+    "uniqueEntryId": "eGLoSDD4EWD2c6SGs",
+    "colors": [],
+    "specialSell": 18000,
+    "activeMonths": {
+      "northern": [
+        {
+          "month": 7,
+          "isAllDay": false,
+          "activeHours": [
+            ["09", "16"],
+            ["21", "04"]
+          ],
+          "season": "summer"
+        },
+        {
+          "month": 8,
+          "isAllDay": false,
+          "activeHours": [
+            ["09", "16"],
+            ["21", "04"]
+          ],
+          "season": "summer"
+        },
+        {
+          "month": 9,
+          "isAllDay": false,
+          "activeHours": [
+            ["09", "16"],
+            ["21", "04"]
+          ],
+          "season": "autumn"
+        },
+        {
+          "month": 10,
+          "isAllDay": false,
+          "activeHours": [
+            ["09", "16"],
+            ["21", "04"]
+          ],
+          "season": "autumn"
+        }
+      ],
+      "southern": [
+        {
+          "month": 1,
+          "isAllDay": false,
+          "activeHours": [
+            ["09", "16"],
+            ["21", "04"]
+          ],
+          "season": "summer"
+        },
+        {
+          "month": 2,
+          "isAllDay": false,
+          "activeHours": [
+            ["09", "16"],
+            ["21", "04"]
+          ],
+          "season": "summer"
+        },
+        {
+          "month": 3,
+          "isAllDay": false,
+          "activeHours": [
+            ["09", "16"],
+            ["21", "04"]
+          ],
+          "season": "autumn"
+        },
+        {
+          "month": 4,
+          "isAllDay": false,
+          "activeHours": [
+            ["09", "16"],
+            ["21", "04"]
+          ],
+          "season": "autumn"
+        }
+      ]
+    }
+  },
+  {
+    "sourceSheet": "Sea Creatures",
+    "num": 18,
+    "name": "gigas giant clam",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Shakogai.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishShakogaiCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishShakogai.png",
+    "sell": 15000,
+    "shadow": "X-Large",
+    "movementSpeed": "Very fast",
+    "totalCatchesToUnlock": 80,
+    "spawnRates": "1",
+    "size": "2x1",
+    "surface": true,
+    "hhaBasePoints": null,
+    "lightingType": "Fluorescent",
+    "iconFilename": "Shakogai",
+    "critterpediaFilename": "DiveFishShakogai",
+    "furnitureFilename": "FtrDiveFishShakogai",
+    "versionAdded": "1.3.0",
+    "versionUnlocked": "1.3.0",
+    "internalId": 7214,
+    "uniqueEntryId": "EQmRaHjokMEGTDC7G",
+    "colors": [],
+    "specialSell": 22500,
+    "activeMonths": {
+      "northern": [
+        {
+          "month": 5,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 6,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 7,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 8,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 9,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        }
+      ],
+      "southern": [
+        {
+          "month": 1,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 2,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 3,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 11,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 12,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        }
+      ]
+    }
+  },
+  {
+    "sourceSheet": "Sea Creatures",
+    "num": 36,
+    "name": "horseshoe crab",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Kabutogani.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishKabutoganiCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishKabutogani.png",
+    "sell": 2500,
+    "shadow": "Medium",
+    "movementSpeed": "Medium",
+    "totalCatchesToUnlock": 20,
+    "spawnRates": "3–5",
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": null,
+    "lightingType": null,
+    "iconFilename": "Kabutogani",
+    "critterpediaFilename": "DiveFishKabutogani",
+    "furnitureFilename": "FtrDiveFishKabutogani",
+    "versionAdded": "1.3.0",
+    "versionUnlocked": "1.3.0",
+    "internalId": 2857,
+    "uniqueEntryId": "bbhHaiT2qwcTy46X5",
+    "colors": [],
+    "specialSell": 3750,
+    "activeMonths": {
+      "northern": [
+        {
+          "month": 7,
+          "isAllDay": false,
+          "activeHours": [["21", "04"]],
+          "season": "summer"
+        },
+        {
+          "month": 8,
+          "isAllDay": false,
+          "activeHours": [["21", "04"]],
+          "season": "summer"
+        },
+        {
+          "month": 9,
+          "isAllDay": false,
+          "activeHours": [["21", "04"]],
+          "season": "autumn"
+        }
+      ],
+      "southern": [
+        {
+          "month": 1,
+          "isAllDay": false,
+          "activeHours": [["21", "04"]],
+          "season": "summer"
+        },
+        {
+          "month": 2,
+          "isAllDay": false,
+          "activeHours": [["21", "04"]],
+          "season": "summer"
+        },
+        {
+          "month": 3,
+          "isAllDay": false,
+          "activeHours": [["21", "04"]],
+          "season": "autumn"
+        }
+      ]
+    }
+  },
+  {
+    "sourceSheet": "Sea Creatures",
+    "num": 34,
+    "name": "lobster",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Fish54.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishLobsterCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishLobster.png",
+    "sell": 4500,
+    "shadow": "Large",
+    "movementSpeed": "Fast",
+    "totalCatchesToUnlock": 40,
+    "spawnRates": "1–2",
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": null,
+    "lightingType": "Fluorescent",
+    "iconFilename": "Fish54",
+    "critterpediaFilename": "DiveFishLobster",
+    "furnitureFilename": "FtrDiveFishLobster",
+    "versionAdded": "1.3.0",
+    "versionUnlocked": "1.3.0",
+    "internalId": 2849,
+    "uniqueEntryId": "5DadWMEddJREFyXKo",
+    "colors": [],
+    "specialSell": 6750,
+    "activeMonths": {
+      "northern": [
+        {
+          "month": 1,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 4,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 5,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 6,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 12,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        }
+      ],
+      "southern": [
+        {
+          "month": 6,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 7,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 10,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 11,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 12,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        }
+      ]
+    }
+  },
+  {
+    "sourceSheet": "Sea Creatures",
+    "num": 32,
+    "name": "mantis shrimp",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Shako.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishSyakoCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishShako.png",
+    "sell": 2500,
+    "shadow": "Small",
+    "movementSpeed": "Medium",
+    "totalCatchesToUnlock": 20,
+    "spawnRates": "2–8",
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": null,
+    "lightingType": "Fluorescent",
+    "iconFilename": "Shako",
+    "critterpediaFilename": "DiveFishSyako",
+    "furnitureFilename": "FtrDiveFishSyako",
+    "versionAdded": "1.3.0",
+    "versionUnlocked": "1.3.0",
+    "internalId": 2845,
+    "uniqueEntryId": "WvZWyzkotj6WQ3tLy",
+    "colors": [],
+    "specialSell": 3750,
+    "activeMonths": {
+      "northern": [
+        {
+          "month": 1,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "winter"
+        },
+        {
+          "month": 2,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "winter"
+        },
+        {
+          "month": 3,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "spring"
+        },
+        {
+          "month": 4,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "spring"
+        },
+        {
+          "month": 5,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "spring"
+        },
+        {
+          "month": 6,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "summer"
+        },
+        {
+          "month": 7,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "summer"
+        },
+        {
+          "month": 8,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "summer"
+        },
+        {
+          "month": 9,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "autumn"
+        },
+        {
+          "month": 10,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "autumn"
+        },
+        {
+          "month": 11,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "autumn"
+        },
+        {
+          "month": 12,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "winter"
+        }
+      ],
+      "southern": [
+        {
+          "month": 1,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "summer"
+        },
+        {
+          "month": 2,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "summer"
+        },
+        {
+          "month": 3,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "autumn"
+        },
+        {
+          "month": 4,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "autumn"
+        },
+        {
+          "month": 5,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "autumn"
+        },
+        {
+          "month": 6,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "winter"
+        },
+        {
+          "month": 7,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "winter"
+        },
+        {
+          "month": 8,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "winter"
+        },
+        {
+          "month": 9,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "spring"
+        },
+        {
+          "month": 10,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "spring"
+        },
+        {
+          "month": 11,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "spring"
+        },
+        {
+          "month": 12,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "summer"
+        }
+      ]
+    }
+  },
+  {
+    "sourceSheet": "Sea Creatures",
+    "num": 9,
+    "name": "moon jellyfish",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Mizukurage.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishMizukurageCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishMizukurage.png",
+    "sell": 600,
+    "shadow": "Small",
+    "movementSpeed": "Very slow",
+    "totalCatchesToUnlock": 0,
+    "spawnRates": "4–12",
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": null,
+    "lightingType": "Fluorescent",
+    "iconFilename": "Mizukurage",
+    "critterpediaFilename": "DiveFishMizukurage",
+    "furnitureFilename": "FtrDiveFishMizukurage",
+    "versionAdded": "1.3.0",
+    "versionUnlocked": "1.3.0",
+    "internalId": 7245,
+    "uniqueEntryId": "iugx8EqNWqiwv73C7",
+    "colors": [],
+    "specialSell": 900,
+    "activeMonths": {
+      "northern": [
+        {
+          "month": 7,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 8,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 9,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        }
+      ],
+      "southern": [
+        {
+          "month": 1,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 2,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 3,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        }
+      ]
+    }
+  },
+  {
+    "sourceSheet": "Sea Creatures",
+    "num": 12,
+    "name": "mussel",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Muhrugai.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishMuhrugaiCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishMuhrugai.png",
+    "sell": 1500,
+    "shadow": "Small",
+    "movementSpeed": "Slow",
+    "totalCatchesToUnlock": 0,
+    "spawnRates": "3–8",
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": null,
+    "lightingType": null,
+    "iconFilename": "Muhrugai",
+    "critterpediaFilename": "DiveFishMuhrugai",
+    "furnitureFilename": "FtrDiveFishMuhrugai",
+    "versionAdded": "1.3.0",
+    "versionUnlocked": "1.3.0",
+    "internalId": 7411,
+    "uniqueEntryId": "M784h47XqSbBSthgT",
+    "colors": [],
+    "specialSell": 2250,
+    "activeMonths": {
+      "northern": [
+        {
+          "month": 6,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 7,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 8,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 9,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 10,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 11,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 12,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        }
+      ],
+      "southern": [
+        {
+          "month": 1,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 2,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 3,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 4,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 5,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 6,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 12,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        }
+      ]
+    }
+  },
+  {
+    "sourceSheet": "Sea Creatures",
+    "num": 20,
+    "name": "octopus",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Tako.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishTakoCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishTako.png",
+    "sell": 1200,
+    "shadow": "Medium",
+    "movementSpeed": "Slow",
+    "totalCatchesToUnlock": 0,
+    "spawnRates": "2–8",
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": null,
+    "lightingType": "Fluorescent",
+    "iconFilename": "Tako",
+    "critterpediaFilename": "DiveFishTako",
+    "furnitureFilename": "FtrDiveFishTako",
+    "versionAdded": "1.3.0",
+    "versionUnlocked": "1.3.0",
+    "internalId": 2854,
+    "uniqueEntryId": "f7amqwd7b3fHnvPFA",
+    "colors": [],
+    "specialSell": 1800,
+    "activeMonths": {
+      "northern": [
+        {
+          "month": 1,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 2,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 3,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 4,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 5,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 6,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 7,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 8,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 9,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 10,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 11,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 12,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        }
+      ],
+      "southern": [
+        {
+          "month": 1,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 2,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 3,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 4,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 5,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 6,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 7,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 8,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 9,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 10,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 11,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 12,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        }
+      ]
+    }
+  },
+  {
+    "sourceSheet": "Sea Creatures",
+    "num": 13,
+    "name": "oyster",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Kaki.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishOysterCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishKaki.png",
+    "sell": 1100,
+    "shadow": "Small",
+    "movementSpeed": "Slow",
+    "totalCatchesToUnlock": 0,
+    "spawnRates": "5–12",
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": null,
+    "lightingType": null,
+    "iconFilename": "Kaki",
+    "critterpediaFilename": "DiveFishOyster",
+    "furnitureFilename": "FtrDiveFishKaki",
+    "versionAdded": "1.3.0",
+    "versionUnlocked": "1.3.0",
+    "internalId": 2833,
+    "uniqueEntryId": "aacYapCp5wKdQDCmB",
+    "colors": [],
+    "specialSell": 1650,
+    "activeMonths": {
+      "northern": [
+        {
+          "month": 1,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 2,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 9,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 10,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 11,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 12,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        }
+      ],
+      "southern": [
+        {
+          "month": 3,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 4,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 5,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 6,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 7,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 8,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        }
+      ]
+    }
+  },
+  {
+    "sourceSheet": "Sea Creatures",
+    "num": 11,
+    "name": "pearl oyster",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Akoyagai.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishAkoyagaiCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishAkoyagai.png",
+    "sell": 2800,
+    "shadow": "Small",
+    "movementSpeed": "Medium",
+    "totalCatchesToUnlock": 20,
+    "spawnRates": "2–4",
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": null,
+    "lightingType": null,
+    "iconFilename": "Akoyagai",
+    "critterpediaFilename": "DiveFishAkoyagai",
+    "furnitureFilename": "FtrDiveFishAkoyagai",
+    "versionAdded": "1.3.0",
+    "versionUnlocked": "1.3.0",
+    "internalId": 2838,
+    "uniqueEntryId": "Hr2jZ9XybS3jYFw8H",
+    "colors": [],
+    "specialSell": 4200,
+    "activeMonths": {
+      "northern": [
+        {
+          "month": 1,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 2,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 3,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 4,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 5,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 6,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 7,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 8,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 9,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 10,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 11,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 12,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        }
+      ],
+      "southern": [
+        {
+          "month": 1,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 2,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 3,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 4,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 5,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 6,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 7,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 8,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 9,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 10,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 11,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 12,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        }
+      ]
+    }
+  },
+  {
+    "sourceSheet": "Sea Creatures",
+    "num": 27,
+    "name": "red king crab",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Tarabagani.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishTarabaganiCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishTarabagani.png",
+    "sell": 8000,
+    "shadow": "Large",
+    "movementSpeed": "Very fast",
+    "totalCatchesToUnlock": 80,
+    "spawnRates": "1–2",
+    "size": "2x1",
+    "surface": true,
+    "hhaBasePoints": null,
+    "lightingType": "Fluorescent",
+    "iconFilename": "Tarabagani",
+    "critterpediaFilename": "DiveFishTarabagani",
+    "furnitureFilename": "FtrDiveFishTarabagani",
+    "versionAdded": "1.3.0",
+    "versionUnlocked": "1.3.0",
+    "internalId": 2852,
+    "uniqueEntryId": "F3XTwHJQcfdrJk4vk",
+    "colors": [],
+    "specialSell": 12000,
+    "activeMonths": {
+      "northern": [
+        {
+          "month": 1,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 2,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 3,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 11,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 12,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        }
+      ],
+      "southern": [
+        {
+          "month": 5,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 6,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 7,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 8,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 9,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        }
+      ]
+    }
+  },
+  {
+    "sourceSheet": "Sea Creatures",
+    "num": 14,
+    "name": "scallop",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Hotate.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishHotateCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishHotate.png",
+    "sell": 1200,
+    "shadow": "Medium",
+    "movementSpeed": "Slow",
+    "totalCatchesToUnlock": 5,
+    "spawnRates": "6–8",
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": null,
+    "lightingType": "Fluorescent",
+    "iconFilename": "Hotate",
+    "critterpediaFilename": "DiveFishHotate",
+    "furnitureFilename": "FtrDiveFishHotate",
+    "versionAdded": "1.3.0",
+    "versionUnlocked": "1.3.0",
+    "internalId": 2839,
+    "uniqueEntryId": "fMwWEu3Zwy6tZdX2X",
+    "colors": [],
+    "specialSell": 1800,
+    "activeMonths": {
+      "northern": [
+        {
+          "month": 1,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 2,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 3,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 4,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 5,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 6,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 7,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 8,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 9,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 10,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 11,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 12,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        }
+      ],
+      "southern": [
+        {
+          "month": 1,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 2,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 3,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 4,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 5,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 6,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 7,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 8,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 9,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 10,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 11,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 12,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        }
+      ]
+    }
+  },
+  {
+    "sourceSheet": "Sea Creatures",
+    "num": 8,
+    "name": "sea anemone",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Isogintyaku.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishIsogintyakuCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishIsogintyaku.png",
+    "sell": 500,
+    "shadow": "Large",
+    "movementSpeed": "Stationary",
+    "totalCatchesToUnlock": 0,
+    "spawnRates": "3–14",
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": null,
+    "lightingType": "Fluorescent",
+    "iconFilename": "Isogintyaku",
+    "critterpediaFilename": "DiveFishIsogintyaku",
+    "furnitureFilename": "FtrDiveFishIsogintyaku",
+    "versionAdded": "1.3.0",
+    "versionUnlocked": "1.3.0",
+    "internalId": 2840,
+    "uniqueEntryId": "fre7kn6ALvnpnH8yC",
+    "colors": [],
+    "specialSell": 750,
+    "activeMonths": {
+      "northern": [
+        {
+          "month": 1,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 2,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 3,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 4,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 5,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 6,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 7,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 8,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 9,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 10,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 11,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 12,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        }
+      ],
+      "southern": [
+        {
+          "month": 1,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 2,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 3,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 4,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 5,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 6,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 7,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 8,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 9,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 10,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 11,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 12,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        }
+      ]
+    }
+  },
+  {
+    "sourceSheet": "Sea Creatures",
+    "num": 3,
+    "name": "sea cucumber",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Namako.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishNamakoCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishNamako.png",
+    "sell": 500,
+    "shadow": "Medium",
+    "movementSpeed": "Very slow",
+    "totalCatchesToUnlock": 0,
+    "spawnRates": "4–12",
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": null,
+    "lightingType": "Fluorescent",
+    "iconFilename": "Namako",
+    "critterpediaFilename": "DiveFishNamako",
+    "furnitureFilename": "FtrDiveFishNamako",
+    "versionAdded": "1.3.0",
+    "versionUnlocked": "1.3.0",
+    "internalId": 2842,
+    "uniqueEntryId": "2jxxcGooLMwyyiNQc",
+    "colors": [],
+    "specialSell": 750,
+    "activeMonths": {
+      "northern": [
+        {
+          "month": 1,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 2,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 3,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 4,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 11,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 12,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        }
+      ],
+      "southern": [
+        {
+          "month": 5,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 6,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 7,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 8,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 9,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 10,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        }
+      ]
+    }
+  },
+  {
+    "sourceSheet": "Sea Creatures",
+    "num": 2,
+    "name": "sea grapes",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Umibudou.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishUmibudouCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishUmibudou.png",
+    "sell": 900,
+    "shadow": "Small",
+    "movementSpeed": "Stationary",
+    "totalCatchesToUnlock": 0,
+    "spawnRates": "4–12",
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": null,
+    "lightingType": "Fluorescent",
+    "iconFilename": "Umibudou",
+    "critterpediaFilename": "DiveFishUmibudou",
+    "furnitureFilename": "FtrDiveFishUmibudou",
+    "versionAdded": "1.3.0",
+    "versionUnlocked": "1.3.0",
+    "internalId": 2830,
+    "uniqueEntryId": "eBdtw3eCrMuP9LWyn",
+    "colors": [],
+    "specialSell": 1350,
+    "activeMonths": {
+      "northern": [
+        {
+          "month": 6,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 7,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 8,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 9,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        }
+      ],
+      "southern": [
+        {
+          "month": 1,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 2,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 3,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 12,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        }
+      ]
+    }
+  },
+  {
+    "sourceSheet": "Sea Creatures",
+    "num": 4,
+    "name": "sea pig",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Senjunamako.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishSenjunamakoCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishSenjunamako.png",
+    "sell": 10000,
+    "shadow": "Small",
+    "movementSpeed": "Very fast",
+    "totalCatchesToUnlock": 80,
+    "spawnRates": "1",
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": null,
+    "lightingType": "Fluorescent",
+    "iconFilename": "Senjunamako",
+    "critterpediaFilename": "DiveFishSenjunamako",
+    "furnitureFilename": "FtrDiveFishSenjunamako",
+    "versionAdded": "1.3.0",
+    "versionUnlocked": "1.3.0",
+    "internalId": 7303,
+    "uniqueEntryId": "kxxguvYvS4G3o7E5x",
+    "colors": [],
+    "specialSell": 15000,
+    "activeMonths": {
+      "northern": [
+        {
+          "month": 1,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "winter"
+        },
+        {
+          "month": 2,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "winter"
+        },
+        {
+          "month": 11,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "autumn"
+        },
+        {
+          "month": 12,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "winter"
+        }
+      ],
+      "southern": [
+        {
+          "month": 5,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "autumn"
+        },
+        {
+          "month": 6,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "winter"
+        },
+        {
+          "month": 7,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "winter"
+        },
+        {
+          "month": 8,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "winter"
+        }
+      ]
+    }
+  },
+  {
+    "sourceSheet": "Sea Creatures",
+    "num": 37,
+    "name": "sea pineapple",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Hoya.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishHoyaCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishHoya.png",
+    "sell": 1500,
+    "shadow": "Small",
+    "movementSpeed": "Slow",
+    "totalCatchesToUnlock": 0,
+    "spawnRates": "2–6",
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": null,
+    "lightingType": "Fluorescent",
+    "iconFilename": "Hoya",
+    "critterpediaFilename": "DiveFishHoya",
+    "furnitureFilename": "FtrDiveFishHoya",
+    "versionAdded": "1.3.0",
+    "versionUnlocked": "1.3.0",
+    "internalId": 7228,
+    "uniqueEntryId": "e29uLe7tkErhipLfS",
+    "colors": [],
+    "specialSell": 2250,
+    "activeMonths": {
+      "northern": [
+        {
+          "month": 4,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 5,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 6,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 7,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 8,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        }
+      ],
+      "southern": [
+        {
+          "month": 1,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 2,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 10,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 11,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 12,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        }
+      ]
+    }
+  },
+  {
+    "sourceSheet": "Sea Creatures",
+    "num": 10,
+    "name": "sea slug",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Umiushi.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishUmiushiCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishUmiushi.png",
+    "sell": 600,
+    "shadow": "X-Small",
+    "movementSpeed": "Very slow",
+    "totalCatchesToUnlock": 0,
+    "spawnRates": "1–12",
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": null,
+    "lightingType": "Fluorescent",
+    "iconFilename": "Umiushi",
+    "critterpediaFilename": "DiveFishUmiushi",
+    "furnitureFilename": "FtrDiveFishUmiushi",
+    "versionAdded": "1.3.0",
+    "versionUnlocked": "1.3.0",
+    "internalId": 2843,
+    "uniqueEntryId": "3YjdEG93fagcXpiuf",
+    "colors": [],
+    "specialSell": 900,
+    "activeMonths": {
+      "northern": [
+        {
+          "month": 1,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 2,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 3,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 4,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 5,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 6,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 7,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 8,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 9,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 10,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 11,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 12,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        }
+      ],
+      "southern": [
+        {
+          "month": 1,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 2,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 3,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 4,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 5,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 6,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 7,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 8,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 9,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 10,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 11,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 12,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        }
+      ]
+    }
+  },
+  {
+    "sourceSheet": "Sea Creatures",
+    "num": 5,
+    "name": "sea star",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Hitode.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishHitodeCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishHitode.png",
+    "sell": 500,
+    "shadow": "Small",
+    "movementSpeed": "Very slow",
+    "totalCatchesToUnlock": 0,
+    "spawnRates": "4–10",
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": null,
+    "lightingType": "Fluorescent",
+    "iconFilename": "Hitode",
+    "critterpediaFilename": "DiveFishHitode",
+    "furnitureFilename": "FtrDiveFishHitode",
+    "versionAdded": "1.3.0",
+    "versionUnlocked": "1.3.0",
+    "internalId": 2841,
+    "uniqueEntryId": "vAF9BcZt5q8gBQJmj",
+    "colors": [],
+    "specialSell": 750,
+    "activeMonths": {
+      "northern": [
+        {
+          "month": 1,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 2,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 3,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 4,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 5,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 6,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 7,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 8,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 9,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 10,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 11,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 12,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        }
+      ],
+      "southern": [
+        {
+          "month": 1,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 2,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 3,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 4,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 5,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 6,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 7,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 8,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 9,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 10,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 11,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 12,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        }
+      ]
+    }
+  },
+  {
+    "sourceSheet": "Sea Creatures",
+    "num": 6,
+    "name": "sea urchin",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Uni.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishUniCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishUni.png",
+    "sell": 1700,
+    "shadow": "Small",
+    "movementSpeed": "Slow",
+    "totalCatchesToUnlock": 0,
+    "spawnRates": "2–7",
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": null,
+    "lightingType": null,
+    "iconFilename": "Uni",
+    "critterpediaFilename": "DiveFishUni",
+    "furnitureFilename": "FtrDiveFishUni",
+    "versionAdded": "1.3.0",
+    "versionUnlocked": "1.3.0",
+    "internalId": 2831,
+    "uniqueEntryId": "3emjFCipv2bgQ6HaM",
+    "colors": [],
+    "specialSell": 2550,
+    "activeMonths": {
+      "northern": [
+        {
+          "month": 5,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 6,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 7,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 8,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 9,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        }
+      ],
+      "southern": [
+        {
+          "month": 1,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 2,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 3,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 11,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 12,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        }
+      ]
+    }
+  },
+  {
+    "sourceSheet": "Sea Creatures",
+    "num": 1,
+    "name": "seaweed",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Wakame.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishWakameCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishWakame.png",
+    "sell": 600,
+    "shadow": "Large",
+    "movementSpeed": "Stationary",
+    "totalCatchesToUnlock": 0,
+    "spawnRates": "3–14",
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": null,
+    "lightingType": null,
+    "iconFilename": "Wakame",
+    "critterpediaFilename": "DiveFishWakame",
+    "furnitureFilename": "FtrDiveFishWakame",
+    "versionAdded": "1.3.0",
+    "versionUnlocked": "1.3.0",
+    "internalId": 2620,
+    "uniqueEntryId": "KM4dfXCZ6CvZjEyw9",
+    "colors": [],
+    "specialSell": 900,
+    "activeMonths": {
+      "northern": [
+        {
+          "month": 1,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 2,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 3,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 4,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 5,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 6,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 7,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 10,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 11,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 12,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        }
+      ],
+      "southern": [
+        {
+          "month": 1,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 4,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 5,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 6,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 7,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 8,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 9,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 10,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 11,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 12,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        }
+      ]
+    }
+  },
+  {
+    "sourceSheet": "Sea Creatures",
+    "num": 7,
+    "name": "slate pencil urchin",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Paipuuni.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishPaipuuniCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishPaipuuni.png",
+    "sell": 2000,
+    "shadow": "Medium",
+    "movementSpeed": "Medium",
+    "totalCatchesToUnlock": 20,
+    "spawnRates": "3–4",
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": null,
+    "lightingType": "Fluorescent",
+    "iconFilename": "Paipuuni",
+    "critterpediaFilename": "DiveFishPaipuuni",
+    "furnitureFilename": "FtrDiveFishPaipuuni",
+    "versionAdded": "1.3.0",
+    "versionUnlocked": "1.3.0",
+    "internalId": 7267,
+    "uniqueEntryId": "TMftNBRmEGkvhpfnC",
+    "colors": [],
+    "specialSell": 3000,
+    "activeMonths": {
+      "northern": [
+        {
+          "month": 5,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "spring"
+        },
+        {
+          "month": 6,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "summer"
+        },
+        {
+          "month": 7,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "summer"
+        },
+        {
+          "month": 8,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "summer"
+        },
+        {
+          "month": 9,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "autumn"
+        }
+      ],
+      "southern": [
+        {
+          "month": 1,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "summer"
+        },
+        {
+          "month": 2,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "summer"
+        },
+        {
+          "month": 3,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "autumn"
+        },
+        {
+          "month": 11,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "spring"
+        },
+        {
+          "month": 12,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "summer"
+        }
+      ]
+    }
+  },
+  {
+    "sourceSheet": "Sea Creatures",
+    "num": 26,
+    "name": "snow crab",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Zuwaigani.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishZuwaiganiCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishZuwaigani.png",
+    "sell": 6000,
+    "shadow": "Large",
+    "movementSpeed": "Fast",
+    "totalCatchesToUnlock": 40,
+    "spawnRates": "1–3",
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": null,
+    "lightingType": null,
+    "iconFilename": "Zuwaigani",
+    "critterpediaFilename": "DiveFishZuwaigani",
+    "furnitureFilename": "FtrDiveFishZuwaigani",
+    "versionAdded": "1.3.0",
+    "versionUnlocked": "1.3.0",
+    "internalId": 2850,
+    "uniqueEntryId": "bQNma5vbcs7wWRqY7",
+    "colors": [],
+    "specialSell": 9000,
+    "activeMonths": {
+      "northern": [
+        {
+          "month": 1,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 2,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 3,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 4,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 11,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 12,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        }
+      ],
+      "southern": [
+        {
+          "month": 5,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 6,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 7,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 8,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 9,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 10,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        }
+      ]
+    }
+  },
+  {
+    "sourceSheet": "Sea Creatures",
+    "num": 29,
+    "name": "spider crab",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Takaashigani.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishTakaashiganiCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishTakaashigani.png",
+    "sell": 12000,
+    "shadow": "X-Large",
+    "movementSpeed": "Very fast",
+    "totalCatchesToUnlock": 80,
+    "spawnRates": "1–2",
+    "size": "2x2",
+    "surface": false,
+    "hhaBasePoints": null,
+    "lightingType": null,
+    "iconFilename": "Takaashigani",
+    "critterpediaFilename": "DiveFishTakaashigani",
+    "furnitureFilename": "FtrDiveFishTakaashigani",
+    "versionAdded": "1.3.0",
+    "versionUnlocked": "1.3.0",
+    "internalId": 2853,
+    "uniqueEntryId": "gp2XNvGKNGmR6buT3",
+    "colors": [],
+    "specialSell": 18000,
+    "activeMonths": {
+      "northern": [
+        {
+          "month": 3,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 4,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        }
+      ],
+      "southern": [
+        {
+          "month": 9,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 10,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        }
+      ]
+    }
+  },
+  {
+    "sourceSheet": "Sea Creatures",
+    "num": 33,
+    "name": "spiny lobster",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Iseebi.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishIseebiCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishIseebi.png",
+    "sell": 5000,
+    "shadow": "Large",
+    "movementSpeed": "Fast",
+    "totalCatchesToUnlock": 40,
+    "spawnRates": "5",
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": null,
+    "lightingType": null,
+    "iconFilename": "Iseebi",
+    "critterpediaFilename": "DiveFishIseebi",
+    "furnitureFilename": "FtrDiveFishIseebi",
+    "versionAdded": "1.3.0",
+    "versionUnlocked": "1.3.0",
+    "internalId": 2848,
+    "uniqueEntryId": "9n5iphC8vQe6Rar72",
+    "colors": [],
+    "specialSell": 7500,
+    "activeMonths": {
+      "northern": [
+        {
+          "month": 10,
+          "isAllDay": false,
+          "activeHours": [["21", "04"]],
+          "season": "autumn"
+        },
+        {
+          "month": 11,
+          "isAllDay": false,
+          "activeHours": [["21", "04"]],
+          "season": "autumn"
+        },
+        {
+          "month": 12,
+          "isAllDay": false,
+          "activeHours": [["21", "04"]],
+          "season": "winter"
+        }
+      ],
+      "southern": [
+        {
+          "month": 4,
+          "isAllDay": false,
+          "activeHours": [["21", "04"]],
+          "season": "autumn"
+        },
+        {
+          "month": 5,
+          "isAllDay": false,
+          "activeHours": [["21", "04"]],
+          "season": "autumn"
+        },
+        {
+          "month": 6,
+          "isAllDay": false,
+          "activeHours": [["21", "04"]],
+          "season": "winter"
+        }
+      ]
+    }
+  },
+  {
+    "sourceSheet": "Sea Creatures",
+    "num": 38,
+    "name": "spotted garden eel",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Chinanago.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishChinanagoCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishChinanago.png",
+    "sell": 1100,
+    "shadow": "Small",
+    "movementSpeed": "Slow",
+    "totalCatchesToUnlock": 0,
+    "spawnRates": "6–8",
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": null,
+    "lightingType": "Fluorescent",
+    "iconFilename": "Chinanago",
+    "critterpediaFilename": "DiveFishChinanago",
+    "furnitureFilename": "FtrDiveFishChinanago",
+    "versionAdded": "1.3.0",
+    "versionUnlocked": "1.3.0",
+    "internalId": 2855,
+    "uniqueEntryId": "zYEHNF5Svak8ZARMW",
+    "colors": [],
+    "specialSell": 1650,
+    "activeMonths": {
+      "northern": [
+        {
+          "month": 5,
+          "isAllDay": false,
+          "activeHours": [["04", "21"]],
+          "season": "spring"
+        },
+        {
+          "month": 6,
+          "isAllDay": false,
+          "activeHours": [["04", "21"]],
+          "season": "summer"
+        },
+        {
+          "month": 7,
+          "isAllDay": false,
+          "activeHours": [["04", "21"]],
+          "season": "summer"
+        },
+        {
+          "month": 8,
+          "isAllDay": false,
+          "activeHours": [["04", "21"]],
+          "season": "summer"
+        },
+        {
+          "month": 9,
+          "isAllDay": false,
+          "activeHours": [["04", "21"]],
+          "season": "autumn"
+        },
+        {
+          "month": 10,
+          "isAllDay": false,
+          "activeHours": [["04", "21"]],
+          "season": "autumn"
+        }
+      ],
+      "southern": [
+        {
+          "month": 1,
+          "isAllDay": false,
+          "activeHours": [["04", "21"]],
+          "season": "summer"
+        },
+        {
+          "month": 2,
+          "isAllDay": false,
+          "activeHours": [["04", "21"]],
+          "season": "summer"
+        },
+        {
+          "month": 3,
+          "isAllDay": false,
+          "activeHours": [["04", "21"]],
+          "season": "autumn"
+        },
+        {
+          "month": 4,
+          "isAllDay": false,
+          "activeHours": [["04", "21"]],
+          "season": "autumn"
+        },
+        {
+          "month": 11,
+          "isAllDay": false,
+          "activeHours": [["04", "21"]],
+          "season": "spring"
+        },
+        {
+          "month": 12,
+          "isAllDay": false,
+          "activeHours": [["04", "21"]],
+          "season": "summer"
+        }
+      ]
+    }
+  },
+  {
+    "sourceSheet": "Sea Creatures",
+    "num": 31,
+    "name": "sweet shrimp",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Amaebi.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishAmaebiCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishAmaebi.png",
+    "sell": 1400,
+    "shadow": "Small",
+    "movementSpeed": "Slow",
+    "totalCatchesToUnlock": 0,
+    "spawnRates": "3–12",
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": null,
+    "lightingType": "Fluorescent",
+    "iconFilename": "Amaebi",
+    "critterpediaFilename": "DiveFishAmaebi",
+    "furnitureFilename": "FtrDiveFishAmaebi",
+    "versionAdded": "1.3.0",
+    "versionUnlocked": "1.3.0",
+    "internalId": 2846,
+    "uniqueEntryId": "5v5X2ipAYLaALxMsw",
+    "colors": [],
+    "specialSell": 2100,
+    "activeMonths": {
+      "northern": [
+        {
+          "month": 1,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "winter"
+        },
+        {
+          "month": 2,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "winter"
+        },
+        {
+          "month": 9,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "autumn"
+        },
+        {
+          "month": 10,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "autumn"
+        },
+        {
+          "month": 11,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "autumn"
+        },
+        {
+          "month": 12,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "winter"
+        }
+      ],
+      "southern": [
+        {
+          "month": 3,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "autumn"
+        },
+        {
+          "month": 4,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "autumn"
+        },
+        {
+          "month": 5,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "autumn"
+        },
+        {
+          "month": 6,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "winter"
+        },
+        {
+          "month": 7,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "winter"
+        },
+        {
+          "month": 8,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "winter"
+        }
+      ]
+    }
+  },
+  {
+    "sourceSheet": "Sea Creatures",
+    "num": 30,
+    "name": "tiger prawn",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Kurumaebi.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishKurumaebiCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishKurumaebi.png",
+    "sell": 3000,
+    "shadow": "Small",
+    "movementSpeed": "Medium",
+    "totalCatchesToUnlock": 20,
+    "spawnRates": "1–4",
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": null,
+    "lightingType": "Fluorescent",
+    "iconFilename": "Kurumaebi",
+    "critterpediaFilename": "DiveFishKurumaebi",
+    "furnitureFilename": "FtrDiveFishKurumaebi",
+    "versionAdded": "1.3.0",
+    "versionUnlocked": "1.3.0",
+    "internalId": 2847,
+    "uniqueEntryId": "EaMd8ansu3qtzAGbv",
+    "colors": [],
+    "specialSell": 4500,
+    "activeMonths": {
+      "northern": [
+        {
+          "month": 6,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "summer"
+        },
+        {
+          "month": 7,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "summer"
+        },
+        {
+          "month": 8,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "summer"
+        },
+        {
+          "month": 9,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "autumn"
+        }
+      ],
+      "southern": [
+        {
+          "month": 1,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "summer"
+        },
+        {
+          "month": 2,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "summer"
+        },
+        {
+          "month": 3,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "autumn"
+        },
+        {
+          "month": 12,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "summer"
+        }
+      ]
+    }
+  },
+  {
+    "sourceSheet": "Sea Creatures",
+    "num": 16,
+    "name": "turban shell",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Sazae.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishSazaeCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishSazae.png",
+    "sell": 1000,
+    "shadow": "Small",
+    "movementSpeed": "Slow",
+    "totalCatchesToUnlock": 0,
+    "spawnRates": "2–10",
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": null,
+    "lightingType": null,
+    "iconFilename": "Sazae",
+    "critterpediaFilename": "DiveFishSazae",
+    "furnitureFilename": "FtrDiveFishSazae",
+    "versionAdded": "1.3.0",
+    "versionUnlocked": "1.3.0",
+    "internalId": 2834,
+    "uniqueEntryId": "efXQqEuT2yZApwmGB",
+    "colors": [],
+    "specialSell": 1500,
+    "activeMonths": {
+      "northern": [
+        {
+          "month": 3,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 4,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 5,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 9,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 10,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 11,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 12,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        }
+      ],
+      "southern": [
+        {
+          "month": 3,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 4,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 5,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 6,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 9,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 10,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 11,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        }
+      ]
+    }
+  },
+  {
+    "sourceSheet": "Sea Creatures",
+    "num": 21,
+    "name": "umbrella octopus",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Mendako.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishMendakoCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishMendako.png",
+    "sell": 6000,
+    "shadow": "Small",
+    "movementSpeed": "Fast",
+    "totalCatchesToUnlock": 40,
+    "spawnRates": "1–3",
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": null,
+    "lightingType": "Fluorescent",
+    "iconFilename": "Mendako",
+    "critterpediaFilename": "DiveFishMendako",
+    "furnitureFilename": "FtrDiveFishMendako",
+    "versionAdded": "1.3.0",
+    "versionUnlocked": "1.3.0",
+    "internalId": 7252,
+    "uniqueEntryId": "kXFeaEJCCEkQ58T2e",
+    "colors": [],
+    "specialSell": 9000,
+    "activeMonths": {
+      "northern": [
+        {
+          "month": 3,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 4,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 5,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 9,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 10,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 11,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        }
+      ],
+      "southern": [
+        {
+          "month": 3,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 4,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 5,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 9,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 10,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 11,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        }
+      ]
+    }
+  },
+  {
+    "sourceSheet": "Sea Creatures",
+    "num": 22,
+    "name": "vampire squid",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Koumoridako.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishKoumoridakoCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishKoumoridako.png",
+    "sell": 10000,
+    "shadow": "Medium",
+    "movementSpeed": "Very fast",
+    "totalCatchesToUnlock": 80,
+    "spawnRates": "1",
+    "size": "1x1",
+    "surface": false,
+    "hhaBasePoints": null,
+    "lightingType": "Fluorescent",
+    "iconFilename": "Koumoridako",
+    "critterpediaFilename": "DiveFishKoumoridako",
+    "furnitureFilename": "FtrDiveFishKoumoridako",
+    "versionAdded": "1.3.0",
+    "versionUnlocked": "1.3.0",
+    "internalId": 7203,
+    "uniqueEntryId": "deJZZk2rxAnePwfzq",
+    "colors": [],
+    "specialSell": 15000,
+    "activeMonths": {
+      "northern": [
+        {
+          "month": 5,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "spring"
+        },
+        {
+          "month": 6,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "summer"
+        },
+        {
+          "month": 7,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "summer"
+        },
+        {
+          "month": 8,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "summer"
+        }
+      ],
+      "southern": [
+        {
+          "month": 1,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "summer"
+        },
+        {
+          "month": 2,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "summer"
+        },
+        {
+          "month": 11,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "spring"
+        },
+        {
+          "month": 12,
+          "isAllDay": false,
+          "activeHours": [["16", "09"]],
+          "season": "summer"
+        }
+      ]
+    }
+  },
+  {
+    "sourceSheet": "Sea Creatures",
+    "num": 40,
+    "name": "Venus' flower basket",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Kairoudouketsu.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishKairoudouketsuCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishKairoudouketsu.png",
+    "sell": 5000,
+    "shadow": "Medium",
+    "movementSpeed": "Fast",
+    "totalCatchesToUnlock": 40,
+    "spawnRates": "1–3",
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": null,
+    "lightingType": "Fluorescent",
+    "iconFilename": "Kairoudouketsu",
+    "critterpediaFilename": "DiveFishKairoudouketsu",
+    "furnitureFilename": "FtrDiveFishKairoudouketsu",
+    "versionAdded": "1.3.0",
+    "versionUnlocked": "1.3.0",
+    "internalId": 7318,
+    "uniqueEntryId": "mSvTRhay8tmGXseMt",
+    "colors": [],
+    "specialSell": 7500,
+    "activeMonths": {
+      "northern": [
+        {
+          "month": 1,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 2,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 10,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 11,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 12,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        }
+      ],
+      "southern": [
+        {
+          "month": 4,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 5,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 6,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 7,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 8,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        }
+      ]
+    }
+  },
+  {
+    "sourceSheet": "Sea Creatures",
+    "num": 15,
+    "name": "whelk",
+    "iconImage": "https://acnhcdn.com/latest/MenuIcon/Baigai.png",
+    "critterpediaImage": "https://acnhcdn.com/latest/BookDiveFishIcon/DiveFishBaigaiCropped.png",
+    "furnitureImage": "https://acnhcdn.com/latest/FtrIcon/FtrDiveFishBaigai.png",
+    "sell": 1000,
+    "shadow": "Small",
+    "movementSpeed": "Slow",
+    "totalCatchesToUnlock": 0,
+    "spawnRates": "1–8",
+    "size": "1x1",
+    "surface": true,
+    "hhaBasePoints": null,
+    "lightingType": "Fluorescent",
+    "iconFilename": "Baigai",
+    "critterpediaFilename": "DiveFishBaigai",
+    "furnitureFilename": "FtrDiveFishBaigai",
+    "versionAdded": "1.3.0",
+    "versionUnlocked": "1.3.0",
+    "internalId": 7278,
+    "uniqueEntryId": "jSidvLMAXdiDAQNs6",
+    "colors": [],
+    "specialSell": 1500,
+    "activeMonths": {
+      "northern": [
+        {
+          "month": 1,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 2,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 3,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 4,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 5,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 6,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 7,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 8,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 9,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 10,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 11,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 12,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        }
+      ],
+      "southern": [
+        {
+          "month": 1,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 2,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        },
+        {
+          "month": 3,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 4,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 5,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "autumn"
+        },
+        {
+          "month": 6,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 7,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 8,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "winter"
+        },
+        {
+          "month": 9,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 10,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 11,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "spring"
+        },
+        {
+          "month": 12,
+          "isAllDay": true,
+          "activeHours": [["00", "00"]],
+          "season": "summer"
+        }
+      ]
+    }
   }
 ]

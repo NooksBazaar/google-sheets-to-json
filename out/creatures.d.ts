@@ -6,13 +6,13 @@ export interface Creatures {
   critterpediaImage: string;
   furnitureImage: string;
   sell: number;
-  whereHow: string;
-  shadow?: string;
+  whereHow?: string;
+  shadow?: Shadow;
   totalCatchesToUnlock: number;
   spawnRates: string;
   size: Size;
   surface: boolean;
-  hhaBasePoints: number;
+  hhaBasePoints: number | null;
   lightingType?: LightingType | null;
   iconFilename: string;
   critterpediaFilename: string;
@@ -23,6 +23,9 @@ export interface Creatures {
   specialSell: number;
   activeMonths: ActiveMonths;
   weather?: Weather;
+  movementSpeed?: MovementSpeed;
+  versionAdded?: Version;
+  versionUnlocked?: Version;
 }
 export interface ActiveMonths {
   northern: Thern[];
@@ -59,6 +62,25 @@ export declare enum LightingType {
   Emission = 'Emission',
   Fluorescent = 'Fluorescent',
 }
+export declare enum MovementSpeed {
+  Fast = 'Fast',
+  Medium = 'Medium',
+  Slow = 'Slow',
+  Stationary = 'Stationary',
+  VeryFast = 'Very fast',
+  VerySlow = 'Very slow',
+}
+export declare enum Shadow {
+  Large = 'Large',
+  LargeWFin = 'Large w/Fin',
+  Long = 'Long',
+  Medium = 'Medium',
+  MediumWFin = 'Medium w/Fin',
+  Small = 'Small',
+  XLarge = 'X-Large',
+  XSmall = 'X-Small',
+  XXLarge = 'XX-Large',
+}
 export declare enum Size {
   The1X1 = '1x1',
   The2X1 = '2x1',
@@ -68,6 +90,10 @@ export declare enum Size {
 export declare enum SourceSheet {
   Fish = 'Fish',
   Insects = 'Insects',
+  SeaCreatures = 'Sea Creatures',
+}
+export declare enum Version {
+  The130 = '1.3.0',
 }
 export declare enum Weather {
   AnyExceptRain = 'Any except rain',

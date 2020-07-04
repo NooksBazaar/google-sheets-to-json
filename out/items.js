@@ -1,17 +1,18 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var Catalog;
-(function (Catalog) {
-    Catalog["ForSale"] = "For sale";
-    Catalog["NotForSale"] = "Not for sale";
-    Catalog["NotInCatalog"] = "Not in catalog";
-})(Catalog = exports.Catalog || (exports.Catalog = {}));
+var CatalogEnum;
+(function (CatalogEnum) {
+    CatalogEnum["ForSale"] = "For sale";
+    CatalogEnum["NotForSale"] = "Not for sale";
+    CatalogEnum["NotInCatalog"] = "Not in catalog";
+})(CatalogEnum = exports.CatalogEnum || (exports.CatalogEnum = {}));
 var Category;
 (function (Category) {
     Category["Accessories"] = "Accessories";
     Category["Art"] = "Art";
     Category["Bags"] = "Bags";
     Category["Bottoms"] = "Bottoms";
+    Category["ClothingOther"] = "Clothing Other";
     Category["DressUp"] = "Dress-Up";
     Category["Fencing"] = "Fencing";
     Category["Floors"] = "Floors";
@@ -81,6 +82,7 @@ var PrimaryShape;
     PrimaryShape["Box"] = "Box";
     PrimaryShape["Dress"] = "Dress";
     PrimaryShape["Kimono"] = "Kimono";
+    PrimaryShape["Marinesuit"] = "Marinesuit";
     PrimaryShape["Overall"] = "Overall";
     PrimaryShape["Rib"] = "Rib";
     PrimaryShape["Robe"] = "Robe";

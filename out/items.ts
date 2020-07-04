@@ -16,7 +16,7 @@ export interface Items {
   outdoor?: boolean;
   speakerType?: SpeakerType | null;
   lightingType?: LightingType | null;
-  catalog?: Catalog;
+  catalog?: boolean | CatalogEnum;
   set?: null | string;
   series?: null | string;
   customizationKitCost?: number | null;
@@ -29,7 +29,7 @@ export interface Items {
   paneType?: PaneType | null;
   curtainType?: CurtainType | null;
   curtainColor?: null | string;
-  ceilingType?: CeilingType | null;
+  ceilingType?: CeilingType;
   sizeCategory?: SizeCategory;
   stackSize?: number;
   customize?: boolean;
@@ -49,7 +49,7 @@ export interface Items {
   museumDescription?: string;
 }
 
-export enum Catalog {
+export enum CatalogEnum {
   ForSale = 'For sale',
   NotForSale = 'Not for sale',
   NotInCatalog = 'Not in catalog',
@@ -60,6 +60,7 @@ export enum Category {
   Art = 'Art',
   Bags = 'Bags',
   Bottoms = 'Bottoms',
+  ClothingOther = 'Clothing Other',
   DressUp = 'Dress-Up',
   Fencing = 'Fencing',
   Floors = 'Floors',
@@ -129,6 +130,7 @@ export enum PrimaryShape {
   Box = 'Box',
   Dress = 'Dress',
   Kimono = 'Kimono',
+  Marinesuit = 'Marinesuit',
   Overall = 'Overall',
   Rib = 'Rib',
   Robe = 'Robe',

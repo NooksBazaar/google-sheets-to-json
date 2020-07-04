@@ -6,13 +6,13 @@ export interface Creatures {
   critterpediaImage: string;
   furnitureImage: string;
   sell: number;
-  whereHow: string;
-  shadow?: string;
+  whereHow?: string;
+  shadow?: Shadow;
   totalCatchesToUnlock: number;
   spawnRates: string;
   size: Size;
   surface: boolean;
-  hhaBasePoints: number;
+  hhaBasePoints: number | null;
   lightingType?: LightingType | null;
   iconFilename: string;
   critterpediaFilename: string;
@@ -23,6 +23,9 @@ export interface Creatures {
   specialSell: number;
   activeMonths: ActiveMonths;
   weather?: Weather;
+  movementSpeed?: MovementSpeed;
+  versionAdded?: Version;
+  versionUnlocked?: Version;
 }
 
 export interface ActiveMonths {
@@ -65,6 +68,27 @@ export enum LightingType {
   Fluorescent = 'Fluorescent',
 }
 
+export enum MovementSpeed {
+  Fast = 'Fast',
+  Medium = 'Medium',
+  Slow = 'Slow',
+  Stationary = 'Stationary',
+  VeryFast = 'Very fast',
+  VerySlow = 'Very slow',
+}
+
+export enum Shadow {
+  Large = 'Large',
+  LargeWFin = 'Large w/Fin',
+  Long = 'Long',
+  Medium = 'Medium',
+  MediumWFin = 'Medium w/Fin',
+  Small = 'Small',
+  XLarge = 'X-Large',
+  XSmall = 'X-Small',
+  XXLarge = 'XX-Large',
+}
+
 export enum Size {
   The1X1 = '1x1',
   The2X1 = '2x1',
@@ -75,6 +99,11 @@ export enum Size {
 export enum SourceSheet {
   Fish = 'Fish',
   Insects = 'Insects',
+  SeaCreatures = 'Sea Creatures',
+}
+
+export enum Version {
+  The130 = '1.3.0',
 }
 
 export enum Weather {

@@ -24,12 +24,12 @@ var CardColor;
     CardColor["White"] = "white";
     CardColor["Yellow"] = "yellow";
 })(CardColor = exports.CardColor || (exports.CardColor = {}));
-var Catalog;
-(function (Catalog) {
-    Catalog["ForSale"] = "For sale";
-    Catalog["NotForSale"] = "Not for sale";
-    Catalog["NotInCatalog"] = "Not in catalog";
-})(Catalog = exports.Catalog || (exports.Catalog = {}));
+var CatalogEnum;
+(function (CatalogEnum) {
+    CatalogEnum["ForSale"] = "For sale";
+    CatalogEnum["NotForSale"] = "Not for sale";
+    CatalogEnum["NotInCatalog"] = "Not in catalog";
+})(CatalogEnum = exports.CatalogEnum || (exports.CatalogEnum = {}));
 var Category;
 (function (Category) {
     Category["Bridge"] = "Bridge";
@@ -109,6 +109,15 @@ var LightingType;
     LightingType["Monitor"] = "Monitor";
     LightingType["Spotlight"] = "Spotlight";
 })(LightingType = exports.LightingType || (exports.LightingType = {}));
+var MovementSpeed;
+(function (MovementSpeed) {
+    MovementSpeed["Fast"] = "Fast";
+    MovementSpeed["Medium"] = "Medium";
+    MovementSpeed["Slow"] = "Slow";
+    MovementSpeed["Stationary"] = "Stationary";
+    MovementSpeed["VeryFast"] = "Very fast";
+    MovementSpeed["VerySlow"] = "Very slow";
+})(MovementSpeed = exports.MovementSpeed || (exports.MovementSpeed = {}));
 var Museum;
 (function (Museum) {
     Museum["Room1"] = "Room 1";
@@ -140,6 +149,7 @@ var PrimaryShape;
     PrimaryShape["Box"] = "Box";
     PrimaryShape["Dress"] = "Dress";
     PrimaryShape["Kimono"] = "Kimono";
+    PrimaryShape["Marinesuit"] = "Marinesuit";
     PrimaryShape["Overall"] = "Overall";
     PrimaryShape["Rib"] = "Rib";
     PrimaryShape["Robe"] = "Robe";
@@ -159,6 +169,18 @@ var SecondaryShape;
     SecondaryShape["L"] = "L";
     SecondaryShape["N"] = "N";
 })(SecondaryShape = exports.SecondaryShape || (exports.SecondaryShape = {}));
+var Shadow;
+(function (Shadow) {
+    Shadow["Large"] = "Large";
+    Shadow["LargeWFin"] = "Large w/Fin";
+    Shadow["Long"] = "Long";
+    Shadow["Medium"] = "Medium";
+    Shadow["MediumWFin"] = "Medium w/Fin";
+    Shadow["Small"] = "Small";
+    Shadow["XLarge"] = "X-Large";
+    Shadow["XSmall"] = "X-Small";
+    Shadow["XXLarge"] = "XX-Large";
+})(Shadow = exports.Shadow || (exports.Shadow = {}));
 var Size;
 (function (Size) {
     Size["The05X1"] = "0.5x1";
@@ -178,18 +200,13 @@ var Size;
     Size["The4X4"] = "4x4";
     Size["The5X5"] = "5x5";
 })(Size = exports.Size || (exports.Size = {}));
-var SizeCategory;
-(function (SizeCategory) {
-    SizeCategory["Large"] = "Large";
-    SizeCategory["Medium"] = "Medium";
-    SizeCategory["Small"] = "Small";
-})(SizeCategory = exports.SizeCategory || (exports.SizeCategory = {}));
 var SourceSheet;
 (function (SourceSheet) {
     SourceSheet["Accessories"] = "Accessories";
     SourceSheet["Art"] = "Art";
     SourceSheet["Bags"] = "Bags";
     SourceSheet["Bottoms"] = "Bottoms";
+    SourceSheet["ClothingOther"] = "Clothing Other";
     SourceSheet["Construction"] = "Construction";
     SourceSheet["DressUp"] = "Dress-Up";
     SourceSheet["Fencing"] = "Fencing";
@@ -206,6 +223,7 @@ var SourceSheet;
     SourceSheet["Posters"] = "Posters";
     SourceSheet["Recipes"] = "Recipes";
     SourceSheet["Rugs"] = "Rugs";
+    SourceSheet["SeaCreatures"] = "Sea Creatures";
     SourceSheet["Shoes"] = "Shoes";
     SourceSheet["Socks"] = "Socks";
     SourceSheet["Tools"] = "Tools";

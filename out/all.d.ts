@@ -16,7 +16,7 @@ export interface Item {
   outdoor?: boolean;
   speakerType?: SpeakerType | null;
   lightingType?: LightingType | null;
-  catalog?: Catalog;
+  catalog?: boolean | CatalogEnum;
   set?: null | string;
   series?: null | string;
   customizationKitCost?: number | null;
@@ -29,8 +29,8 @@ export interface Item {
   paneType?: PaneType | null;
   curtainType?: CurtainType | null;
   curtainColor?: null | string;
-  ceilingType?: CeilingType | null;
-  sizeCategory?: SizeCategory;
+  ceilingType?: CeilingType;
+  sizeCategory?: Shadow;
   stackSize?: number;
   customize?: boolean;
   uses?: number;
@@ -53,7 +53,7 @@ export interface Item {
   furnitureImage?: string;
   sell?: number;
   whereHow?: string;
-  shadow?: string;
+  shadow?: Shadow;
   totalCatchesToUnlock?: number;
   spawnRates?: string;
   iconFilename?: string;
@@ -65,6 +65,7 @@ export interface Item {
   specialSell?: number;
   activeMonths?: ActiveMonths;
   weather?: Weather;
+  movementSpeed?: MovementSpeed;
   buy?: number;
   source?: string[];
   recipesToUnlock?: number;
@@ -126,7 +127,7 @@ export declare enum CardColor {
   White = 'white',
   Yellow = 'yellow',
 }
-export declare enum Catalog {
+export declare enum CatalogEnum {
   ForSale = 'For sale',
   NotForSale = 'Not for sale',
   NotInCatalog = 'Not in catalog',
@@ -202,6 +203,14 @@ export declare enum LightingType {
   Monitor = 'Monitor',
   Spotlight = 'Spotlight',
 }
+export declare enum MovementSpeed {
+  Fast = 'Fast',
+  Medium = 'Medium',
+  Slow = 'Slow',
+  Stationary = 'Stationary',
+  VeryFast = 'Very fast',
+  VerySlow = 'Very slow',
+}
 export declare enum Museum {
   Room1 = 'Room 1',
   Room2 = 'Room 2',
@@ -229,6 +238,7 @@ export declare enum PrimaryShape {
   Box = 'Box',
   Dress = 'Dress',
   Kimono = 'Kimono',
+  Marinesuit = 'Marinesuit',
   Overall = 'Overall',
   Rib = 'Rib',
   Robe = 'Robe',
@@ -245,6 +255,17 @@ export declare enum SecondaryShape {
   H = 'H',
   L = 'L',
   N = 'N',
+}
+export declare enum Shadow {
+  Large = 'Large',
+  LargeWFin = 'Large w/Fin',
+  Long = 'Long',
+  Medium = 'Medium',
+  MediumWFin = 'Medium w/Fin',
+  Small = 'Small',
+  XLarge = 'X-Large',
+  XSmall = 'X-Small',
+  XXLarge = 'XX-Large',
 }
 export declare enum Size {
   The05X1 = '0.5x1',
@@ -264,16 +285,12 @@ export declare enum Size {
   The4X4 = '4x4',
   The5X5 = '5x5',
 }
-export declare enum SizeCategory {
-  Large = 'Large',
-  Medium = 'Medium',
-  Small = 'Small',
-}
 export declare enum SourceSheet {
   Accessories = 'Accessories',
   Art = 'Art',
   Bags = 'Bags',
   Bottoms = 'Bottoms',
+  ClothingOther = 'Clothing Other',
   Construction = 'Construction',
   DressUp = 'Dress-Up',
   Fencing = 'Fencing',
@@ -290,6 +307,7 @@ export declare enum SourceSheet {
   Posters = 'Posters',
   Recipes = 'Recipes',
   Rugs = 'Rugs',
+  SeaCreatures = 'Sea Creatures',
   Shoes = 'Shoes',
   Socks = 'Socks',
   Tools = 'Tools',
