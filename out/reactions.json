@@ -5,7 +5,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/Outraged.png",
     "source": ["Peppy"],
     "sourceNotes": null,
-    "internalId": null,
+    "internalId": "Outraged",
     "uniqueEntryId": "6suhKYAAhh5QMKt64"
   },
   {
@@ -14,7 +14,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/Nodding.png",
     "source": ["Cranky"],
     "sourceNotes": null,
-    "internalId": null,
+    "internalId": "Nodding",
     "uniqueEntryId": "7smqwK9J7eFBxta28"
   },
   {
@@ -23,7 +23,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/Shocked.png",
     "source": ["Snooty"],
     "sourceNotes": null,
-    "internalId": null,
+    "internalId": "Shocked",
     "uniqueEntryId": "vosig4bbr4kPq57AT"
   },
   {
@@ -32,7 +32,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/Apologize.png",
     "source": ["Big Sister"],
     "sourceNotes": null,
-    "internalId": null,
+    "internalId": "Apologize",
     "uniqueEntryId": "jBKsQYCAd7PtymQeB"
   },
   {
@@ -41,7 +41,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/Blushing.png",
     "source": ["Lazy"],
     "sourceNotes": null,
-    "internalId": null,
+    "internalId": "Blushing",
     "uniqueEntryId": "wzvKbFrEJCseTohoz"
   },
   {
@@ -50,7 +50,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/Pardon.png",
     "source": ["Cranky"],
     "sourceNotes": null,
-    "internalId": null,
+    "internalId": "Pardon",
     "uniqueEntryId": "WRSSRZMtM6rXfXBrR"
   },
   {
@@ -59,7 +59,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/ColdChill.png",
     "source": ["Big Sister"],
     "sourceNotes": null,
-    "internalId": null,
+    "internalId": "ColdChill",
     "uniqueEntryId": "K62u2owKFDLmPCB3Q"
   },
   {
@@ -68,7 +68,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/Assent.png",
     "source": ["Big Sister"],
     "sourceNotes": "Requires a high level of friendship",
-    "internalId": null,
+    "internalId": "Assent",
     "uniqueEntryId": "TGifHTbyLBh4f3gDQ"
   },
   {
@@ -77,7 +77,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/QuestionMark.png",
     "source": ["Peppy"],
     "sourceNotes": null,
-    "internalId": null,
+    "internalId": "QuestionMark",
     "uniqueEntryId": "SskgipgnKzm5TsK7d"
   },
   {
@@ -86,7 +86,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/AbsentMindedness.png",
     "source": ["Normal"],
     "sourceNotes": "Requires a high level of friendship",
-    "internalId": null,
+    "internalId": "AbsentMindedness",
     "uniqueEntryId": "JFrTBJCEaX5R4kABT"
   },
   {
@@ -95,7 +95,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/Clapping.png",
     "source": ["All"],
     "sourceNotes": null,
-    "internalId": null,
+    "internalId": "Clapping",
     "uniqueEntryId": "F9DpGeqZzDeSTh2bq"
   },
   {
@@ -104,7 +104,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/Negative.png",
     "source": ["Big Sister"],
     "sourceNotes": null,
-    "internalId": null,
+    "internalId": "Negative",
     "uniqueEntryId": "Bw5YBM6iuWgMzutWq"
   },
   {
@@ -113,7 +113,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/Frantic.png",
     "source": ["Jock"],
     "sourceNotes": null,
-    "internalId": null,
+    "internalId": "Frantic",
     "uniqueEntryId": "vsSjQBZXPeSK6uDTK"
   },
   {
@@ -122,7 +122,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/Sleep.png",
     "source": ["Smug"],
     "sourceNotes": null,
-    "internalId": null,
+    "internalId": "Sleep",
     "uniqueEntryId": "2vvgAacGjthcFW5Qa"
   },
   {
@@ -131,7 +131,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/Cheering.png",
     "source": ["Jock"],
     "sourceNotes": null,
-    "internalId": null,
+    "internalId": "Cheering",
     "uniqueEntryId": "fomfML4NWdY8x6adv"
   },
   {
@@ -140,7 +140,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/Shaking.png",
     "source": ["Normal"],
     "sourceNotes": null,
-    "internalId": null,
+    "internalId": "Shaking",
     "uniqueEntryId": "noKrWYCMSWcH4jwvi"
   },
   {
@@ -149,7 +149,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/Dance.png",
     "source": ["Jock"],
     "sourceNotes": "Requires a high level of friendship",
-    "internalId": null,
+    "internalId": "Dance",
     "uniqueEntryId": "5QDD3DcwdPhbGoJAf"
   },
   {
@@ -158,7 +158,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/HappyDance.png",
     "source": ["Normal"],
     "sourceNotes": null,
-    "internalId": null,
+    "internalId": "HappyDance",
     "uniqueEntryId": "8nAwdhzZfotqpLC9R"
   },
   {
@@ -167,7 +167,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/Greeting.png",
     "source": ["All"],
     "sourceNotes": null,
-    "internalId": null,
+    "internalId": "Greeting",
     "uniqueEntryId": "oE6uqhZYjYfuqb55n"
   },
   {
@@ -176,7 +176,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/Smiling.png",
     "source": ["Peppy"],
     "sourceNotes": null,
-    "internalId": null,
+    "internalId": "Smiling",
     "uniqueEntryId": "TWENXBbBENgnFiGq3"
   },
   {
@@ -185,7 +185,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/BrokenHeart.png",
     "source": ["Smug"],
     "sourceNotes": null,
-    "internalId": null,
+    "internalId": "BrokenHeart",
     "uniqueEntryId": "ex6gKZu6zsyd6MgDr"
   },
   {
@@ -194,7 +194,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/IdeaBulb.png",
     "source": ["Cranky"],
     "sourceNotes": "Requires a high level of friendship",
-    "internalId": null,
+    "internalId": "IdeaBulb",
     "uniqueEntryId": "8ux4ddfibJQR2EuWW"
   },
   {
@@ -203,7 +203,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/Silent.png",
     "source": ["Snooty"],
     "sourceNotes": null,
-    "internalId": null,
+    "internalId": "Silent",
     "uniqueEntryId": "X2kzqTaPwtG6SGNT8"
   },
   {
@@ -212,7 +212,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/HappyFlower.png",
     "source": ["All"],
     "sourceNotes": null,
-    "internalId": null,
+    "internalId": "HappyFlower",
     "uniqueEntryId": "fSNyHJHgLKac5mSLT"
   },
   {
@@ -221,7 +221,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/Laughing.png",
     "source": ["Big Sister"],
     "sourceNotes": null,
-    "internalId": null,
+    "internalId": "Laughing",
     "uniqueEntryId": "EBenMHMpwnkMgS6eg"
   },
   {
@@ -230,7 +230,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/Love.png",
     "source": ["Snooty"],
     "sourceNotes": "Requires a high level of friendship",
-    "internalId": null,
+    "internalId": "Love",
     "uniqueEntryId": "GvAsErCFuGAcMAeXM"
   },
   {
@@ -239,7 +239,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/Scheming.png",
     "source": ["Peppy"],
     "sourceNotes": "Requires a high level of friendship",
-    "internalId": null,
+    "internalId": "Scheming",
     "uniqueEntryId": "E7it7yLfFaddFvEhQ"
   },
   {
@@ -248,7 +248,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/Oops.png",
     "source": ["Lazy"],
     "sourceNotes": null,
-    "internalId": null,
+    "internalId": "Oops",
     "uniqueEntryId": "DPR7WWkmR36Bsf2LG"
   },
   {
@@ -257,7 +257,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/Hello.png",
     "source": ["Normal"],
     "sourceNotes": null,
-    "internalId": null,
+    "internalId": "Hello",
     "uniqueEntryId": "Z3MuKfQMaH3D8vkPA"
   },
   {
@@ -266,7 +266,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/SmugFace.png",
     "source": ["Lazy"],
     "sourceNotes": "Requires a high level of friendship",
-    "internalId": null,
+    "internalId": "SmugFace",
     "uniqueEntryId": "xKoQpdJMtocNFRckm"
   },
   {
@@ -275,7 +275,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/OhGeez.png",
     "source": ["Smug"],
     "sourceNotes": null,
-    "internalId": null,
+    "internalId": "OhGeez",
     "uniqueEntryId": "7YdF3ZMr95XP3FaoW"
   },
   {
@@ -284,14 +284,17 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/SadSpiral.png",
     "source": ["Normal"],
     "sourceNotes": null,
-    "internalId": null,
+    "internalId": "SadSpiral",
     "uniqueEntryId": "Wo8q6KhPtL2CYwat4"
   },
   {
     "sourceSheet": "Reactions",
     "name": "Sheepishness",
     "image": "https://acnhcdn.com/latest/ManpuIcon/WrySmile.png",
-    "source": ["Cranky"]
+    "source": ["Cranky"],
+    "sourceNotes": null,
+    "internalId": "WrySmile",
+    "uniqueEntryId": "5cRnCPDJRdRpPJF8D"
   },
   {
     "sourceSheet": "Reactions",
@@ -299,7 +302,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/Surprised.png",
     "source": ["Jock"],
     "sourceNotes": null,
-    "internalId": null,
+    "internalId": "Surprised",
     "uniqueEntryId": "bn29da8SNdMYYyWAa"
   },
   {
@@ -308,7 +311,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/Shaki.png",
     "source": ["Smug"],
     "sourceNotes": "Requires a high level of friendship",
-    "internalId": null,
+    "internalId": "Shaki",
     "uniqueEntryId": "Bj5iG7kc6tLND9bjn"
   },
   {
@@ -317,7 +320,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/Hesitate.png",
     "source": ["Lazy"],
     "sourceNotes": null,
-    "internalId": null,
+    "internalId": "Hesitate",
     "uniqueEntryId": "9H7jt7AGKbh6mW4y8"
   },
   {
@@ -326,7 +329,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/Sighing.png",
     "source": ["Snooty"],
     "sourceNotes": null,
-    "internalId": null,
+    "internalId": "Sighing",
     "uniqueEntryId": "ntjLqg82EQNsgnzYA"
   },
   {
@@ -335,7 +338,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/Sleepy.png",
     "source": ["Peppy"],
     "sourceNotes": null,
-    "internalId": null,
+    "internalId": "Sleepy",
     "uniqueEntryId": "9e5BhxmqtMurNWqW4"
   },
   {
@@ -344,7 +347,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/Grin.png",
     "source": ["Smug"],
     "sourceNotes": null,
-    "internalId": null,
+    "internalId": "Grin",
     "uniqueEntryId": "KDAWT9zDKpufEWgaW"
   },
   {
@@ -353,7 +356,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/Sneezing.png",
     "source": ["Jock"],
     "sourceNotes": null,
-    "internalId": null,
+    "internalId": "Sneezing",
     "uniqueEntryId": "F6Dkk4PGtjDMCgry3"
   },
   {
@@ -362,7 +365,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/Crying.png",
     "source": ["Lazy"],
     "sourceNotes": null,
-    "internalId": null,
+    "internalId": "Crying",
     "uniqueEntryId": "W8nngMS98uwpHHW4m"
   },
   {
@@ -371,7 +374,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/Aha.png",
     "source": ["All"],
     "sourceNotes": null,
-    "internalId": null,
+    "internalId": "Aha",
     "uniqueEntryId": "7jmkZiSxrYT7MMm4P"
   },
   {
@@ -380,7 +383,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/Thinking.png",
     "source": ["Snooty"],
     "sourceNotes": null,
-    "internalId": null,
+    "internalId": "Thinking",
     "uniqueEntryId": "HEFCeCGtJ7Bkb5PXG"
   },
   {
@@ -389,7 +392,7 @@
     "image": "https://acnhcdn.com/latest/ManpuIcon/Worried.png",
     "source": ["Cranky"],
     "sourceNotes": null,
-    "internalId": null,
+    "internalId": "Worried",
     "uniqueEntryId": "TygKeKxvotLEzWqvY"
   }
 ]

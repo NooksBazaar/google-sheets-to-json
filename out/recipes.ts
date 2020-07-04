@@ -6,32 +6,44 @@ export interface Recipes {
   milesPrice: number | null;
   source: string[];
   sourceNotes: null | string;
-  versionAdded: VersionAdded;
-  versionUnlocked: VersionUnlocked | null;
+  versionAdded: Version;
+  versionUnlocked: Version;
   recipesToUnlock: number;
   category: Category;
+  craftedItemInternalId: number;
+  cardColor: CardColor | null;
   serialId: number;
   internalId: number;
   uniqueEntryId: string;
   materials: {[key: string]: number};
 }
 
+export enum CardColor {
+  Beige = 'beige',
+  Blue = 'blue',
+  Brick = 'brick',
+  Brown = 'brown',
+  DarkGray = 'dark gray',
+  Gold = 'gold',
+  Green = 'green',
+  LightGray = 'light gray',
+  Orange = 'orange',
+  Pink = 'pink',
+  Red = 'red',
+  Silver = 'silver',
+  White = 'white',
+  Yellow = 'yellow',
+}
+
 export enum Category {
-  Accessories = 'Accessories',
-  Bags = 'Bags',
-  Bottoms = 'Bottoms',
   DressUp = 'Dress-Up',
-  Fencing = 'Fencing',
+  Equipment = 'Equipment',
   Floors = 'Floors',
-  Headwear = 'Headwear',
   Housewares = 'Housewares',
   Miscellaneous = 'Miscellaneous',
   Other = 'Other',
   Rugs = 'Rugs',
-  Shoes = 'Shoes',
   Tools = 'Tools',
-  Tops = 'Tops',
-  Umbrellas = 'Umbrellas',
   WallMounted = 'Wall-mounted',
   Wallpaper = 'Wallpaper',
 }
@@ -40,14 +52,11 @@ export enum SourceSheet {
   Recipes = 'Recipes',
 }
 
-export enum VersionAdded {
+export enum Version {
   The100 = '1.0.0',
   The110 = '1.1.0',
-  The120 = '1.2.0',
-}
-
-export enum VersionUnlocked {
-  The100 = '1.0.0',
   The110A = '1.1.0a',
   The120 = '1.2.0',
+  The121C = '1.2.1c',
+  The130 = '1.3.0',
 }

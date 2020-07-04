@@ -55,4 +55,9 @@ var Style;
     Style["Gorgeous"] = "Gorgeous";
     Style["Simple"] = "Simple";
 })(Style = exports.Style || (exports.Style = {}));
+var Subtype;
+(function (Subtype) {
+    Subtype["A"] = "A";
+    Subtype["B"] = "B";
+})(Subtype = exports.Subtype || (exports.Subtype = {}));
 //# sourceMappingURL=villagers.js.map

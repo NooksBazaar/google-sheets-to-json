@@ -1,22 +1,32 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+var CardColor;
+(function (CardColor) {
+    CardColor["Beige"] = "beige";
+    CardColor["Blue"] = "blue";
+    CardColor["Brick"] = "brick";
+    CardColor["Brown"] = "brown";
+    CardColor["DarkGray"] = "dark gray";
+    CardColor["Gold"] = "gold";
+    CardColor["Green"] = "green";
+    CardColor["LightGray"] = "light gray";
+    CardColor["Orange"] = "orange";
+    CardColor["Pink"] = "pink";
+    CardColor["Red"] = "red";
+    CardColor["Silver"] = "silver";
+    CardColor["White"] = "white";
+    CardColor["Yellow"] = "yellow";
+})(CardColor = exports.CardColor || (exports.CardColor = {}));
 var Category;
 (function (Category) {
-    Category["Accessories"] = "Accessories";
-    Category["Bags"] = "Bags";
-    Category["Bottoms"] = "Bottoms";
     Category["DressUp"] = "Dress-Up";
-    Category["Fencing"] = "Fencing";
+    Category["Equipment"] = "Equipment";
     Category["Floors"] = "Floors";
-    Category["Headwear"] = "Headwear";
     Category["Housewares"] = "Housewares";
     Category["Miscellaneous"] = "Miscellaneous";
     Category["Other"] = "Other";
     Category["Rugs"] = "Rugs";
-    Category["Shoes"] = "Shoes";
     Category["Tools"] = "Tools";
-    Category["Tops"] = "Tops";
-    Category["Umbrellas"] = "Umbrellas";
     Category["WallMounted"] = "Wall-mounted";
     Category["Wallpaper"] = "Wallpaper";
 })(Category = exports.Category || (exports.Category = {}));
@@ -24,16 +34,13 @@ var SourceSheet;
 (function (SourceSheet) {
     SourceSheet["Recipes"] = "Recipes";
 })(SourceSheet = exports.SourceSheet || (exports.SourceSheet = {}));
-var VersionAdded;
-(function (VersionAdded) {
-    VersionAdded["The100"] = "1.0.0";
-    VersionAdded["The110"] = "1.1.0";
-    VersionAdded["The120"] = "1.2.0";
-})(VersionAdded = exports.VersionAdded || (exports.VersionAdded = {}));
-var VersionUnlocked;
-(function (VersionUnlocked) {
-    VersionUnlocked["The100"] = "1.0.0";
-    VersionUnlocked["The110A"] = "1.1.0a";
-    VersionUnlocked["The120"] = "1.2.0";
-})(VersionUnlocked = exports.VersionUnlocked || (exports.VersionUnlocked = {}));
+var Version;
+(function (Version) {
+    Version["The100"] = "1.0.0";
+    Version["The110"] = "1.1.0";
+    Version["The110A"] = "1.1.0a";
+    Version["The120"] = "1.2.0";
+    Version["The121C"] = "1.2.1c";
+    Version["The130"] = "1.3.0";
+})(Version = exports.Version || (exports.Version = {}));
 //# sourceMappingURL=recipes.js.map

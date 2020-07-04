@@ -6,19 +6,19 @@ export interface Achievements {
   num: number;
   internalId: number;
   internalName: string;
-  internalCategory: string;
-  numOfTiers: number;
-  tier1: number;
-  tier2: number | null;
-  tier3: number | null;
-  tier4: number | null;
-  tier5: number | null;
+  internalCategory: null | string;
+  numOfTiers: number | string;
+  tier1: number | string;
+  tier2: number | null | string;
+  tier3: number | null | string;
+  tier4: number | null | string;
+  tier5: number | null | string;
   tier6: number | null;
-  tier1Reward: number;
-  tier2Reward: number | null;
-  tier3Reward: number | null;
-  tier4Reward: number | null;
-  tier5Reward: number | null;
+  tier1Reward: number | string;
+  tier2Reward: number | null | string;
+  tier3Reward: number | null | string;
+  tier4Reward: number | null | string;
+  tier5Reward: number | null | string;
   tier6Reward: number | null;
   tier1Modifier: string;
   tier1Noun: string;
@@ -42,4 +42,5 @@ export declare enum SourceSheet {
 export declare enum VersionAdded {
   The100 = '1.0.0',
   The120 = '1.2.0',
+  The130 = '1.3.0',
 }

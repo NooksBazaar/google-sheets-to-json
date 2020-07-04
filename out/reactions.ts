@@ -3,9 +3,9 @@ export interface Reactions {
   name: string;
   image: string;
   source: string[];
-  sourceNotes?: null | string;
-  internalId?: null;
-  uniqueEntryId?: string;
+  sourceNotes: null | string;
+  internalId: string;
+  uniqueEntryId: string;
 }
 
 export enum SourceSheet {

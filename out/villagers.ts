@@ -2,14 +2,18 @@ export interface Villagers {
   sourceSheet: SourceSheet;
   name: string;
   iconImage: string;
+  photoImage: string;
   houseImage: string;
   species: string;
   gender: Gender;
   personality: Personality;
+  subtype: Subtype;
   hobby: Hobby;
   birthday: string;
   catchphrase: string;
   favoriteSong: string;
+  favoriteSaying: string;
+  defaultClothing: number;
   wallpaper: string;
   flooring: string;
   furnitureList: string;
@@ -73,4 +77,9 @@ export enum Style {
   Elegant = 'Elegant',
   Gorgeous = 'Gorgeous',
   Simple = 'Simple',
+}
+
+export enum Subtype {
+  A = 'A',
+  B = 'B',
 }
