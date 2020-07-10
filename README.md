@@ -11,3 +11,7 @@ google [spreadsheet](https://docs.google.com/spreadsheets/d/13d_LAJPlxMa_DubPTui
 - Run `yarn start` to start a water that will automatically build into `build`
 - Run `yarn install` to install the required node modules
 - Run `node build` to export data from Google Sheets into local `out` folder
+
+To fetch the latest data and rebuild the output file:
+
+ - Run `yarn rebuild`
