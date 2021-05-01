@@ -1,56 +1,57 @@
 import {OAuth2Client} from 'google-auth-library';
 import {google, sheets_v4} from 'googleapis';
 import fs from 'fs';
-import {camelCase, omit, pick, zipObject} from 'lodash';
-import utc from 'dayjs/plugin/utc';
-import customParseFormat from 'dayjs/plugin/customParseFormat';
-import dayjs from 'dayjs';
+import {camelCase, omit, pick, zipObject, isEqual} from 'lodash';
+import {DateTime} from 'luxon';
 
-dayjs.extend(utc);
-dayjs.extend(customParseFormat);
+// import utc from 'dayjs/plugin/utc';
+// import customParseFormat from 'dayjs/plugin/customParseFormat';
+// import dayjs from 'dayjs';
+//
+// dayjs.extend(utc);
+// dayjs.extend(customParseFormat);
 
 const SHEET_ID = '1mo7myqHry5r_TKvakvIhHbcEAEQpSiNoNQoIS8sMpvM';
 
 const OUTPUT = 'out';
 
-const ITEM_SHEETS = [
-  'Housewares',
-  'Miscellaneous',
-  'Wall-mounted',
-  'Wallpaper',
-  'Floors',
-  'Rugs',
-  'Fencing',
-  'Photos',
-  'Posters',
-  'Tools',
-  'Tops',
-  'Bottoms',
-  'Dress-Up',
-  'Headwear',
-  'Accessories',
-  'Socks',
-  'Shoes',
-  'Bags',
-  'Umbrellas',
-  'Clothing Other',
-  'Music',
-  'Fossils',
-  'Other',
-  'Art',
-];
-
-const CREATURE_SHEETS = ['Fish', 'Insects', 'Sea Creatures'];
-
-const RECIPE_SHEETS = ['Recipes'];
-
-const VILLAGERS_SHEETS = ['Villagers'];
-
-const CONSTRUCTION_SHEETS = ['Construction'];
-
-const ACHIEVEMENTS_SHEETS = ['Achievements'];
-
-const REACTIONS_SHEETS = ['Reactions'];
+const SHEET_GROUPS = {
+  items: [
+    'Housewares',
+    'Miscellaneous',
+    'Wall-mounted',
+    'Wallpaper',
+    'Floors',
+    'Rugs',
+    'Photos',
+    'Posters',
+    'Tools',
+    'Fencing',
+    'Tops',
+    'Bottoms',
+    'Dress-Up',
+    'Headwear',
+    'Accessories',
+    'Socks',
+    'Shoes',
+    'Bags',
+    'Umbrellas',
+    'Clothing Other',
+    'Music',
+    'Fossils',
+    'Art',
+    'Other',
+  ],
+  creatures: ['Insects', 'Fish', 'Sea Creatures'],
+  construction: ['Construction'],
+  recipes: ['Recipes'],
+  achievements: ['Achievements'],
+  villagers: ['Villagers'],
+  'special-npcs': ['Special NPCs'],
+  reactions: ['Reactions'],
+  'message-cards': ['Message Cards'],
+  'season-and-events': ['Seasons and Events'],
+};
 
 type ItemData = any[];
 
@@ -67,20 +68,10 @@ export async function main(auth: OAuth2Client) {
     fs.mkdirSync(OUTPUT);
   }
 
-  const workSet: Array<[string, string[]]> = [
-    ['items', ITEM_SHEETS],
-    ['creatures', CREATURE_SHEETS],
-    ['recipes', RECIPE_SHEETS],
-    ['villagers', VILLAGERS_SHEETS],
-    ['construction', CONSTRUCTION_SHEETS],
-    ['achievements', ACHIEVEMENTS_SHEETS],
-    ['reactions', REACTIONS_SHEETS],
-  ];
-
   const ids = new Set();
   const duplicates = new Set();
 
-  for (const [key, sheetNames] of workSet) {
+  for (const [key, sheetNames] of Object.entries(SHEET_GROUPS)) {
     console.log(`Loading ${key}`);
 
     let data = await loadData(sheets, sheetNames, key);
@@ -110,7 +101,7 @@ export async function main(auth: OAuth2Client) {
 
   const all = [];
 
-  for (const [key] of workSet) {
+  for (const [key] of Object.entries(SHEET_GROUPS)) {
     if (key === 'achievements' || key === 'reactions') {
       continue;
     }
@@ -133,6 +124,16 @@ export async function loadData(
   key: string,
 ) {
   const cacheFile = `cache/${key}.json`;
+
+  // const response = await sheets.spreadsheets.get({
+  //   spreadsheetId: SHEET_ID,
+  // });
+  //
+  // const titles = response.data.sheets?.map((sheet) => sheet.properties?.title);
+  //
+  // console.log(titles);
+  //
+  // process.exit(0);
 
   try {
     const file = fs.readFileSync(cacheFile);
@@ -166,18 +167,6 @@ interface ValueFormatters {
 }
 
 const valueFormatters: ValueFormatters = {
-  image: extractImageUrl,
-  house: extractImageUrl,
-  furnitureImage: extractImageUrl,
-  critterpediaImage: extractImageUrl,
-  closetImage: extractImageUrl,
-  storageImage: extractImageUrl,
-  albumImage: extractImageUrl,
-  framedImage: extractImageUrl,
-  iconImage: extractImageUrl,
-  houseImage: extractImageUrl,
-  inventoryImage: extractImageUrl,
-  photoImage: extractImageUrl,
   uses: normaliseUse,
   source: (input: string) =>
     input.includes('\n')
@@ -186,14 +175,12 @@ const valueFormatters: ValueFormatters = {
   birthday: normaliseBirthday,
 };
 
-function emptyDate() {
-  return dayjs.utc('1970-01-01T00:00:00.000Z');
-}
-
-const BDAY_FORMAT_IN = 'H/D';
-const BDAY_FORMAT_OUT = 'HH/DD';
-const ACTIVEHOURS_FORMAT_IN = 'h A';
+const BDAY_FORMAT_IN = 'H/d';
+const BDAY_FORMAT_OUT = 'HH/dd';
+const ACTIVEHOURS_FORMAT_IN = 'h a';
 const ACTIVEHOURS_FORMAT_OUT = 'HH';
+const SEASON_EVENT_FORMAT_IN = 'MMMM d';
+const SEASON_EVENT_FORMAT_OUT = 'LL/dd';
 
 const NULL_VALUES = new Set([
   'None',
@@ -226,6 +213,13 @@ export async function normalizeData(data: ItemData, sheetKey: string) {
 
       if (typeof value === 'string') {
         value = value.trim();
+
+        // Remove NBSP characters from the text.
+        value = value.replace(String.fromCharCode(160), ' ');
+
+        if (value.toLowerCase().startsWith('=image(')) {
+          value = extractImageUrl(value);
+        }
       }
 
       if (valueFormatter) {
@@ -366,9 +360,9 @@ function normaliseUse(input: string | number) {
 
   // The flimsy fishing rod is the only tool that has variable use
   //  amounts, for some reason. For the purposes of ensuring our
-  //  types are correct we'll force it to 9.5 :)
-  if (input === '9.5?') {
-    return 9.5;
+  //  types are correct we'll force it to 7.5 :)
+  if (input === '5-10') {
+    return 7.5;
   }
 
   console.info(`Unexpected Use value: ${JSON.stringify(input)}`);
@@ -377,7 +371,7 @@ function normaliseUse(input: string | number) {
 }
 
 function normaliseBirthday(input: string) {
-  return dayjs.utc(input, BDAY_FORMAT_IN).format(BDAY_FORMAT_OUT);
+  return DateTime.fromFormat(input, BDAY_FORMAT_IN).toFormat(BDAY_FORMAT_OUT);
 }
 
 const NH_AVAILABILITY_KEYS = [
@@ -409,6 +403,7 @@ const NH_SEASON = [
   'autumn',
   'winter',
 ];
+
 const SH_SEASON = [
   'summer',
   'summer',
@@ -441,27 +436,26 @@ const SH_AVAILABILITY_KEYS = [
 
 const ITEM_VARIATION_KEYS = [
   'image',
-  'variation',
   'filename',
-  'variantId',
   'uniqueEntryId',
   'colors',
-  'pattern',
-  'bodyCustomize',
-  'bodyTitle',
   'source',
-  'closetImage',
-  'storageImage',
   'internalId',
-  'labelThemes',
-  'genuine',
   'buy',
   'sell',
   'themes',
-  'highResTexture',
-  'inventoryImage',
+  'variation',
+  'variantId',
+  'bodyCustomize',
+  'bodyTitle',
+  'pattern',
+  'closetImage',
+  'storageImage',
+  'labelThemes',
   'framedImage',
   'albumImage',
+  'genuine',
+  'inventoryImage',
 ];
 
 const keysWithDifferentValueToRoot = new Set();
@@ -538,14 +532,16 @@ function mapAvailability(
 
         for (const part of dayParts) {
           const times = part.trim().split('–');
-          const startTime = dayjs
-            .utc(times[0].trim(), ACTIVEHOURS_FORMAT_IN)
-            .format(ACTIVEHOURS_FORMAT_OUT)
-            .toString();
-          const endTime = dayjs
-            .utc(times[1].trim(), ACTIVEHOURS_FORMAT_IN)
-            .format(ACTIVEHOURS_FORMAT_OUT)
-            .toString();
+          const startTime = DateTime.fromFormat(
+            times[0].trim(),
+            ACTIVEHOURS_FORMAT_IN,
+          ).toFormat(ACTIVEHOURS_FORMAT_OUT);
+
+          const endTime = DateTime.fromFormat(
+            times[1].trim(),
+            ACTIVEHOURS_FORMAT_IN,
+          ).toFormat(ACTIVEHOURS_FORMAT_OUT);
+
           isAllDay = false;
           activeHours.push([startTime, endTime]);
         }

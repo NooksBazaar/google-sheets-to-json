@@ -11,11 +11,12 @@
   "license": "MIT",
   "devDependencies": {
     "@types/lodash": "^4.14.150",
+    "@types/luxon": "^1.26.5",
     "@types/node": "^13.13.0",
     "date-fns": "^2.12.0",
-    "dayjs": "^1.8.26",
     "googleapis": "39",
     "lodash": "^4.17.15",
+    "luxon": "^1.26.0",
     "prettier": "^2.0.4",
     "quicktype": "^15.0.223",
     "ts-node": "^8.8.2",

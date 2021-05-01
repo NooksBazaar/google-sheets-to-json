@@ -14,4 +14,4 @@ google [spreadsheet](https://docs.google.com/spreadsheets/d/13d_LAJPlxMa_DubPTui
 
 To fetch the latest data and rebuild the output file:
 
- - Run `yarn rebuild`
+- Run `yarn rebuild`
