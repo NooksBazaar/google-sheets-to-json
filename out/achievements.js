@@ -1,5 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.VersionAdded = exports.SourceSheet = void 0;
 var SourceSheet;
 (function (SourceSheet) {
     SourceSheet["Achievements"] = "Achievements";

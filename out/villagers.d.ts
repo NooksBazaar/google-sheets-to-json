@@ -3,7 +3,7 @@ export interface Villagers {
   name: string;
   iconImage: string;
   photoImage: string;
-  houseImage: string;
+  houseImage: null | string;
   species: string;
   gender: Gender;
   personality: Personality;
@@ -14,16 +14,23 @@ export interface Villagers {
   favoriteSong: string;
   favoriteSaying: string;
   defaultClothing: number;
+  defaultUmbrella: string;
   wallpaper: string;
   flooring: string;
-  furnitureList: string;
-  furnitureNameList: string;
+  furnitureList: null | string;
+  furnitureNameList: null | string;
+  diyWorkbench: number | string;
+  kitchenEquipment: string;
+  versionAdded: VersionAdded;
+  nameColor: string;
+  bubbleColor: string;
   filename: string;
   uniqueEntryId: string;
   colors: Color[];
   styles: Style[];
 }
 export declare enum Color {
+  Aqua = 'Aqua',
   Beige = 'Beige',
   Black = 'Black',
   Blue = 'Blue',
@@ -31,7 +38,6 @@ export declare enum Color {
   Colorful = 'Colorful',
   Gray = 'Gray',
   Green = 'Green',
-  LightBlue = 'Light blue',
   Orange = 'Orange',
   Pink = 'Pink',
   Purple = 'Purple',
@@ -75,4 +81,8 @@ export declare enum Style {
 export declare enum Subtype {
   A = 'A',
   B = 'B',
+}
+export declare enum VersionAdded {
+  The100 = '1.0.0',
+  The190 = '1.9.0',
 }

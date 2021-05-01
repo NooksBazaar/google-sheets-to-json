@@ -7,13 +7,15 @@ export interface Creatures {
   furnitureImage: string;
   sell: number;
   whereHow?: string;
-  shadow?: Shadow;
+  weather?: Weather;
   totalCatchesToUnlock: number;
   spawnRates: string;
   size: Size;
   surface: boolean;
-  hhaBasePoints: number | null;
-  lightingType?: LightingType | null;
+  description: string;
+  catchPhrase: string;
+  hhaBasePoints: number;
+  hhaCategory: HhaCategory | null;
   iconFilename: string;
   critterpediaFilename: string;
   furnitureFilename: string;
@@ -22,10 +24,13 @@ export interface Creatures {
   colors: Color[];
   specialSell: number;
   activeMonths: ActiveMonths;
-  weather?: Weather;
+  shadow?: Shadow;
+  catchDifficulty?: CatchDifficulty;
+  vision?: Vision;
+  lightingType?: LightingType | null;
   movementSpeed?: MovementSpeed;
-  versionAdded?: Version;
-  versionUnlocked?: Version;
+  versionAdded?: VersionAdded;
+  unlocked?: boolean;
 }
 export interface ActiveMonths {
   northern: Thern[];
@@ -43,20 +48,30 @@ export declare enum Season {
   Summer = 'summer',
   Winter = 'winter',
 }
+export declare enum CatchDifficulty {
+  Easy = 'Easy',
+  Hard = 'Hard',
+  Medium = 'Medium',
+  VeryEasy = 'Very Easy',
+  VeryHard = 'Very Hard',
+}
 export declare enum Color {
+  Aqua = 'Aqua',
   Beige = 'Beige',
   Black = 'Black',
   Blue = 'Blue',
   Brown = 'Brown',
   Gray = 'Gray',
   Green = 'Green',
-  LightBlue = 'Light blue',
   Orange = 'Orange',
   Pink = 'Pink',
   Purple = 'Purple',
   Red = 'Red',
   White = 'White',
   Yellow = 'Yellow',
+}
+export declare enum HhaCategory {
+  Pet = 'Pet',
 }
 export declare enum LightingType {
   Emission = 'Emission',
@@ -72,12 +87,11 @@ export declare enum MovementSpeed {
 }
 export declare enum Shadow {
   Large = 'Large',
-  LargeWFin = 'Large w/Fin',
   Long = 'Long',
   Medium = 'Medium',
-  MediumWFin = 'Medium w/Fin',
   Small = 'Small',
   XLarge = 'X-Large',
+  XLargeWFin = 'X-Large w/Fin',
   XSmall = 'X-Small',
   XXLarge = 'XX-Large',
 }
@@ -92,8 +106,15 @@ export declare enum SourceSheet {
   Insects = 'Insects',
   SeaCreatures = 'Sea Creatures',
 }
-export declare enum Version {
+export declare enum VersionAdded {
   The130 = '1.3.0',
+}
+export declare enum Vision {
+  Medium = 'Medium',
+  Narrow = 'Narrow',
+  VeryNarrow = 'Very Narrow',
+  VeryWide = 'Very Wide',
+  Wide = 'Wide',
 }
 export declare enum Weather {
   AnyExceptRain = 'Any except rain',

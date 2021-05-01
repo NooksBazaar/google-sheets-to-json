@@ -1,7 +1,9 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.VersionAdded = exports.Subtype = exports.Style = exports.SourceSheet = exports.Personality = exports.Hobby = exports.Gender = exports.Color = void 0;
 var Color;
 (function (Color) {
+    Color["Aqua"] = "Aqua";
     Color["Beige"] = "Beige";
     Color["Black"] = "Black";
     Color["Blue"] = "Blue";
@@ -9,7 +11,6 @@ var Color;
     Color["Colorful"] = "Colorful";
     Color["Gray"] = "Gray";
     Color["Green"] = "Green";
-    Color["LightBlue"] = "Light blue";
     Color["Orange"] = "Orange";
     Color["Pink"] = "Pink";
     Color["Purple"] = "Purple";
@@ -60,4 +61,9 @@ var Subtype;
     Subtype["A"] = "A";
     Subtype["B"] = "B";
 })(Subtype = exports.Subtype || (exports.Subtype = {}));
+var VersionAdded;
+(function (VersionAdded) {
+    VersionAdded["The100"] = "1.0.0";
+    VersionAdded["The190"] = "1.9.0";
+})(VersionAdded = exports.VersionAdded || (exports.VersionAdded = {}));
 //# sourceMappingURL=villagers.js.map

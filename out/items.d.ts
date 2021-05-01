@@ -4,19 +4,24 @@ export interface Items {
   patternTitle?: null | string;
   diy?: boolean;
   patternCustomize?: boolean;
+  kitType?: KitType | null;
   size?: Size;
   surface?: boolean;
-  milesPrice?: number | null;
+  exchangePrice?: number | null;
+  exchangeCurrency?: ExchangeCurrency | null;
   sourceNotes?: null | string;
-  versionAdded?: Version;
-  versionUnlocked?: Version;
-  hhaBasePoints?: number | null;
+  seasonEvent?: null | string;
+  seasonEventExclusive?: boolean | null;
+  hhaBasePoints?: number;
+  hhaCategory?: HhaCategory | null;
   interact?: boolean | InteractEnum;
-  tag?: null | string;
+  tag?: string;
   outdoor?: boolean;
   speakerType?: SpeakerType | null;
   lightingType?: LightingType | null;
-  catalog?: boolean | CatalogEnum;
+  catalog?: Catalog;
+  versionAdded?: VersionAdded;
+  unlocked?: boolean;
   set?: null | string;
   series?: null | string;
   customizationKitCost?: number | null;
@@ -31,24 +36,33 @@ export interface Items {
   curtainColor?: null | string;
   ceilingType?: CeilingType;
   sizeCategory?: SizeCategory;
-  stackSize?: number;
   customize?: boolean;
   uses?: number;
+  stackSize?: number;
   seasonalAvailability?: SeasonalAvailability;
-  mannequinPiece?: boolean | null;
-  style?: Style;
+  seasonality?: SeasonalAvailability;
+  mannequinSeason?: SeasonalAvailability | null;
+  gender?: Gender;
+  villagerGender?: Gender;
+  style1?: Style;
+  style2?: Style | null;
   sortOrder?: number;
   villagerEquippable?: boolean;
+  clothGroupId?: number;
   primaryShape?: PrimaryShape;
-  secondaryShape?: SecondaryShape | null;
+  secondaryShape?: SecondaryShape;
   type?: string;
+  fossilGroup?: string;
+  description?: string;
   museum?: Museum;
+  highResTexture?: null;
   category?: Category;
   realArtworkTitle?: string;
   artist?: string;
-  museumDescription?: string;
+  inventoryFilename?: string;
+  storageFilename?: string;
 }
-export declare enum CatalogEnum {
+export declare enum Catalog {
   ForSale = 'For sale',
   NotForSale = 'Not for sale',
   NotInCatalog = 'Not in catalog',
@@ -92,10 +106,46 @@ export declare enum CurtainType {
   RollerShades = 'Roller Shades',
   SlattedBlinds = 'Slatted Blinds',
 }
-export declare enum InteractEnum {
+export declare enum ExchangeCurrency {
+  HeartCrystals = 'Heart Crystals',
+  NookMiles = 'Nook Miles',
+  NookPoints = 'Nook Points',
+}
+export declare enum Gender {
+  Free = 'Free',
+  Manly = 'Manly',
+  Womanly = 'Womanly',
+}
+export declare enum HhaCategory {
+  AC = 'AC',
+  Appliance = 'Appliance',
+  Audio = 'Audio',
+  Clock = 'Clock',
+  Doll = 'Doll',
+  Dresser = 'Dresser',
+  Lighting = 'Lighting',
+  MusicalInstrument = 'MusicalInstrument',
+  Pet = 'Pet',
+  Plant = 'Plant',
+  SmallGoods = 'SmallGoods',
   Trash = 'Trash',
+  Tv = 'TV',
+}
+export declare enum InteractEnum {
+  Bed = 'Bed',
+  Chair = 'Chair',
+  Mirror = 'Mirror',
+  MusicPlayer = 'Music Player',
+  MusicalInstrument = 'Musical Instrument',
+  Trash = 'Trash',
+  Tv = 'TV',
   Wardrobe = 'Wardrobe',
   Workbench = 'Workbench',
+}
+export declare enum KitType {
+  Normal = 'Normal',
+  Pumpkin = 'Pumpkin',
+  RainbowFeather = 'Rainbow feather',
 }
 export declare enum LightingType {
   Candle = 'Candle',
@@ -103,6 +153,15 @@ export declare enum LightingType {
   Fluorescent = 'Fluorescent',
   Monitor = 'Monitor',
   Spotlight = 'Spotlight',
+}
+export declare enum SeasonalAvailability {
+  AllYear = 'All Year',
+  Autumn = 'Autumn',
+  Fall = 'Fall',
+  Spring = 'Spring',
+  Summer = 'Summer',
+  SummerWinter = 'Summer; Winter',
+  Winter = 'Winter',
 }
 export declare enum Museum {
   Room1 = 'Room 1',
@@ -126,13 +185,6 @@ export declare enum PrimaryShape {
   Rib = 'Rib',
   Robe = 'Robe',
   Salopette = 'Salopette',
-}
-export declare enum SeasonalAvailability {
-  AllYear = 'All Year',
-  Fall = 'Fall',
-  Spring = 'Spring',
-  Summer = 'Summer',
-  Winter = 'Winter',
 }
 export declare enum SecondaryShape {
   H = 'H',
@@ -178,27 +230,26 @@ export declare enum Style {
 }
 export interface Variant {
   image?: string;
-  variation?: number | null | string;
-  filename: string;
-  variantId?: VariantID | null;
+  filename?: string;
   uniqueEntryId: string;
   colors: Color[];
-  pattern?: null | string;
-  bodyCustomize?: boolean;
-  bodyTitle?: BodyTitle | null;
   source: Source[];
   internalId: number;
   buy: number;
   sell: number | null;
   themes: Theme[];
+  variation?: number | null | string;
+  variantId?: VariantID | null;
+  bodyCustomize?: boolean;
+  bodyTitle?: BodyTitle | null;
+  pattern?: null | string;
   closetImage?: string;
   storageImage?: null | string;
   labelThemes?: LabelTheme[];
   framedImage?: null | string;
   albumImage?: null | string;
-  inventoryImage?: null | string;
   genuine?: boolean;
-  highResTexture?: null;
+  inventoryImage?: null | string;
 }
 export declare enum BodyTitle {
   Art = 'Art',
@@ -231,6 +282,7 @@ export declare enum BodyTitle {
   Genre = 'Genre',
   HayCondition = 'Hay condition',
   Illumination = 'Illumination',
+  JoyCon = 'Joy-Con',
   KnitCapColor = 'Knit-cap color',
   LightColor = 'Light color',
   LumberType = 'Lumber type',
@@ -242,6 +294,7 @@ export declare enum BodyTitle {
   Paint = 'Paint',
   PaintColor = 'Paint color',
   PlateColor = 'Plate color',
+  PumpkinColor = 'Pumpkin color',
   RoofColor = 'Roof color',
   Season = 'Season',
   ShellColor = 'Shell color',
@@ -252,6 +305,7 @@ export declare enum BodyTitle {
   Variation = 'Variation',
 }
 export declare enum Color {
+  Aqua = 'Aqua',
   Beige = 'Beige',
   Black = 'Black',
   Blue = 'Blue',
@@ -259,7 +313,6 @@ export declare enum Color {
   Colorful = 'Colorful',
   Gray = 'Gray',
   Green = 'Green',
-  LightBlue = 'Light blue',
   Orange = 'Orange',
   Pink = 'Pink',
   Purple = 'Purple',
@@ -282,42 +335,39 @@ export declare enum LabelTheme {
 }
 export declare enum Source {
   AbleSisters = 'Able Sisters',
+  AllVillagers = 'All villagers',
   AppleTree = 'Apple Tree',
   AssessingFossils = 'Assessing fossils',
   Beach = 'Beach',
   Birthday = 'Birthday',
-  BlackBlackRoses = 'Black/black roses',
-  BlueBlueHyacinths = 'Blue/blue hyacinths',
-  BlueBluePansies = 'Blue/blue pansies',
-  BlueBlueWindflowers = 'Blue/blue windflowers',
-  BluePinkWindflowers = 'Blue/pink windflowers',
-  BugOff = 'Bug-Off',
-  BunnyDay = 'Bunny Day',
+  Blathers = 'Blathers',
+  Breeding = 'Breeding',
   BuryingBellsInAGlowingSpot = 'Burying bells in a glowing spot',
   CJ = 'C.J.',
   CatchingWithANet = 'Catching with a net',
   CedarTree = 'Cedar Tree',
+  CheckToyDayStockingsTheDayAfterToyDay = 'Check Toy Day stockings the day after Toy Day',
   CherryTree = 'Cherry Tree',
   ChoppingABambooTree = 'Chopping a bamboo tree',
   ChoppingATree = 'Chopping a tree',
   ClamDigSpot = 'Clam dig spot',
   CoconutTree = 'Coconut Tree',
-  ColorfulBalloon = 'Colorful balloon',
   Crafting = 'Crafting',
   Cyrus = 'Cyrus',
   DaisyMae = 'Daisy Mae',
   DeliveringItemForAVillager = 'Delivering item for a villager',
   DigSpot = 'Dig Spot',
   DiggingUpAFullyGrownBush = 'Digging up a fully grown bush',
-  DiggingUpAPartiallyGrownBush = 'Digging up a partially grown bush',
+  DiggingUpAPumpkinPlant = 'Digging up a pumpkin plant',
   DiveSpot = 'Dive spot',
-  Diving = 'Diving',
   DodoAirlines = 'Dodo Airlines',
   DonTReturnLostItem = "Don't return lost item",
+  DonTReturnTreasureQuestItem = "Don't return treasure quest item",
+  EggBalloon = 'Egg balloon',
   ExpiredTurnips = 'Expired turnips',
   Fishing = 'Fishing',
-  FishingTourney = 'Fishing Tourney',
   Flick = 'Flick',
+  Franklin = 'Franklin',
   GlowingDigSpot = 'Glowing dig spot',
   Gullivarrr = 'Gullivarrr',
   Gulliver = 'Gulliver',
@@ -325,38 +375,36 @@ export declare enum Source {
   Hha = 'HHA',
   HighFriendship = 'High Friendship',
   HittingARock = 'Hitting a rock',
-  InternationalMuseumDay = 'International Museum Day',
   Isabelle = 'Isabelle',
+  Jack = 'Jack',
+  Jingle = 'Jingle',
   JollyReddSTreasureTrawler = "Jolly Redd's Treasure Trawler",
   KKConcert = 'K.K. concert',
   Kicks = 'Kicks',
   Label = 'Label',
-  Labelle = 'Labelle',
   Leif = 'Leif',
+  Luna = 'Luna',
   MOM = 'Mom',
   Mail = 'Mail',
   MayDayTour = 'May Day Tour',
-  NewYearSEve = "New Year's Eve",
   Nintendo = 'Nintendo',
+  NookLink = 'NookLink',
   NookMilesRedemption = 'Nook Miles Redemption',
-  NookMilesShop = 'Nook Miles Shop',
   NookSCranny = "Nook's Cranny",
   NookShopping = 'Nook Shopping',
-  NookShoppingCatalog = 'Nook Shopping Catalog',
+  NookShoppingDailySelection = 'Nook Shopping Daily Selection',
   NookShoppingPosters = 'Nook Shopping Posters',
   NookShoppingPromotion = 'Nook Shopping Promotion',
   NookShoppingSeasonal = 'Nook Shopping Seasonal',
   OnGround = 'On ground',
-  OrangeOrangeRoses = 'Orange/orange roses',
-  OrangeOrangeTulips = 'Orange/orange tulips',
   OrangeTree = 'Orange Tree',
-  OrangeWhiteWindflowers = 'Orange/white windflowers',
   Pascal = 'Pascal',
+  Pavé = 'Pav\u00E9',
   PeachTree = 'Peach Tree',
   PearTree = 'Pear Tree',
   PickingFlowers = 'Picking flowers',
+  PickingPumpkins = 'Picking pumpkins',
   PlantingABambooShoot = 'Planting a bamboo shoot',
-  PlantingABushStart = 'Planting a bush start',
   PlantingACedarSapling = 'Planting a cedar sapling',
   PlantingACherry = 'Planting a cherry',
   PlantingACoconut = 'Planting a coconut',
@@ -365,26 +413,8 @@ export declare enum Source {
   PlantingASapling = 'Planting a sapling',
   PlantingAnApple = 'Planting an apple',
   PlantingAnOrange = 'Planting an orange',
-  PurplePurpleMums = 'Purple/purple mums',
-  RecycleBin = 'Recycle bin',
-  RecycleBox = 'Recycle Box',
-  RedOrangeWindflowers = 'Red/orange windflowers',
-  RedRedCosmos = 'Red/red cosmos',
-  RedRedLilies = 'Red/red lilies',
-  RedRedRoses = 'Red/red roses',
-  RedRedTulips = 'Red/red tulips',
-  RedWhiteCosmos = 'Red/white cosmos',
-  RedWhiteHyacinths = 'Red/white hyacinths',
-  RedWhiteLilies = 'Red/white lilies',
-  RedWhiteMums = 'Red/white mums',
-  RedWhiteRoses = 'Red/white roses',
-  RedWhiteTulips = 'Red/white tulips',
-  RedYellowCosmos = 'Red/yellow cosmos',
-  RedYellowHyacinths = 'Red/yellow hyacinths',
-  RedYellowLilies = 'Red/yellow lilies',
-  RedYellowPansies = 'Red/yellow pansies',
-  RedYellowRoses = 'Red/yellow roses',
-  RedYellowTulips = 'Red/yellow tulips',
+  RecycleBox = 'Recycle box',
+  ReddSRaffle = "Redd's Raffle",
   Reese = 'Reese',
   Rover = 'Rover',
   Saharah = 'Saharah',
@@ -394,14 +424,11 @@ export declare enum Source {
   StartingItems = 'Starting items',
   The5StarTownStatus = '5-star town status',
   TomNook = 'Tom Nook',
-  WaterWithGoldWateringCan = 'Water with gold watering can',
-  WhiteWhiteHyacinths = 'White/white hyacinths',
-  WhiteWhiteMums = 'White/white mums',
-  WhiteWhitePansies = 'White/white pansies',
-  WhiteWhiteRoses = 'White/white roses',
-  WhiteWhiteWindflowers = 'White/white windflowers',
+  UseAFountainFirework = 'Use a fountain firework',
+  Wilbur = 'Wilbur',
   WishingOnShootingStars = 'Wishing on shooting stars',
   WrappingAPresent = 'Wrapping a present',
+  Zipper = 'Zipper',
 }
 export declare enum Theme {
   Bathroom = 'bathroom',
@@ -412,15 +439,14 @@ export declare enum Theme {
   Facility = 'facility',
   Fancy = 'fancy',
   Fitness = 'fitness',
-  FolkArt = 'folk art',
   FreezingCold = 'freezing cold',
-  Garage = 'garage',
   Garden = 'garden',
+  Harmonious = 'harmonious',
+  Heritage = 'heritage',
   Horror = 'horror',
   Kitchen = 'kitchen',
   LivingRoom = 'living room',
   Music = 'music',
-  None = 'none',
   Ocean = 'ocean',
   Office = 'office',
   Outdoors = 'outdoors',
@@ -428,7 +454,7 @@ export declare enum Theme {
   School = 'school',
   Shop = 'shop',
   Space = 'space',
-  ZenStyle = 'zen-style',
+  Workshop = 'workshop',
 }
 export declare enum VariantID {
   The0_0 = '0_0',
@@ -496,15 +522,18 @@ export declare enum VariantID {
   The7_6 = '7_6',
   The7_7 = '7_7',
 }
-export declare enum Version {
+export declare enum VersionAdded {
   The100 = '1.0.0',
   The110 = '1.1.0',
-  The110A = '1.1.0a',
+  The1100 = '1.10.0',
   The120 = '1.2.0',
-  The120A = '1.2.0a',
-  The120B = '1.2.0b',
-  The121C = '1.2.1c',
   The130 = '1.3.0',
+  The140 = '1.4.0',
+  The150 = '1.5.0',
+  The160 = '1.6.0',
+  The170 = '1.7.0',
+  The180 = '1.8.0',
+  The190 = '1.9.0',
 }
 export declare enum VfxType {
   LightOff = 'LightOff',
