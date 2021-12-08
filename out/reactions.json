@@ -1,304 +1,12 @@
 [
   {
     "sourceSheet": "Reactions",
-    "num": 40,
-    "name": "Aggravation",
-    "image": "https://acnhcdn.com/latest/ManpuIcon/Outraged.png",
-    "source": ["Peppy villagers"],
-    "sourceNotes": null,
-    "seasonEvent": null,
-    "seasonEventExclusive": null,
-    "versionAdded": "1.0.0",
-    "iconFilename": "Outraged",
-    "internalId": 25,
-    "uniqueEntryId": "6suhKYAAhh5QMKt64"
-  },
-  {
-    "sourceSheet": "Reactions",
-    "num": 2,
-    "name": "Agreement",
-    "image": "https://acnhcdn.com/latest/ManpuIcon/Nodding.png",
-    "source": ["Cranky villagers"],
-    "sourceNotes": null,
-    "seasonEvent": null,
-    "seasonEventExclusive": null,
-    "versionAdded": "1.0.0",
-    "iconFilename": "Nodding",
-    "internalId": 39,
-    "uniqueEntryId": "7smqwK9J7eFBxta28"
-  },
-  {
-    "sourceSheet": "Reactions",
-    "num": 20,
-    "name": "Amazed",
-    "image": "https://acnhcdn.com/latest/ManpuIcon/Shocked.png",
-    "source": ["Snooty villagers"],
-    "sourceNotes": null,
-    "seasonEvent": null,
-    "seasonEventExclusive": null,
-    "versionAdded": "1.0.0",
-    "iconFilename": "Shocked",
-    "internalId": 33,
-    "uniqueEntryId": "vosig4bbr4kPq57AT"
-  },
-  {
-    "sourceSheet": "Reactions",
-    "num": 16,
-    "name": "Apologetic",
-    "image": "https://acnhcdn.com/latest/ManpuIcon/Apologize.png",
-    "source": ["Big Sister villagers"],
-    "sourceNotes": null,
-    "seasonEvent": null,
-    "seasonEventExclusive": null,
-    "versionAdded": "1.0.0",
-    "iconFilename": "Apologize",
-    "internalId": 126,
-    "uniqueEntryId": "jBKsQYCAd7PtymQeB"
-  },
-  {
-    "sourceSheet": "Reactions",
-    "num": 24,
-    "name": "Bashfulness",
-    "image": "https://acnhcdn.com/latest/ManpuIcon/Blushing.png",
-    "source": ["Lazy villagers"],
-    "sourceNotes": null,
-    "seasonEvent": null,
-    "seasonEventExclusive": null,
-    "versionAdded": "1.0.0",
-    "iconFilename": "Blushing",
-    "internalId": 44,
-    "uniqueEntryId": "wzvKbFrEJCseTohoz"
-  },
-  {
-    "sourceSheet": "Reactions",
-    "num": 17,
-    "name": "Bewilderment",
-    "image": "https://acnhcdn.com/latest/ManpuIcon/Pardon.png",
-    "source": ["Cranky villagers"],
-    "sourceNotes": null,
-    "seasonEvent": null,
-    "seasonEventExclusive": null,
-    "versionAdded": "1.0.0",
-    "iconFilename": "Pardon",
-    "internalId": 253,
-    "uniqueEntryId": "WRSSRZMtM6rXfXBrR"
-  },
-  {
-    "sourceSheet": "Reactions",
-    "num": 41,
-    "name": "Cold Chill",
-    "image": "https://acnhcdn.com/latest/ManpuIcon/ColdChill.png",
-    "source": ["Big Sister villagers"],
-    "sourceNotes": null,
-    "seasonEvent": null,
-    "seasonEventExclusive": null,
-    "versionAdded": "1.0.0",
-    "iconFilename": "ColdChill",
-    "internalId": 37,
-    "uniqueEntryId": "K62u2owKFDLmPCB3Q"
-  },
-  {
-    "sourceSheet": "Reactions",
-    "num": 56,
-    "name": "Confetti",
-    "image": "https://acnhcdn.com/latest/ManpuIcon/AddConfetti.png",
-    "source": ["Viva Festivale Reaction Set"],
-    "sourceNotes": null,
-    "seasonEvent": "Festivale (ready days); Festivale",
-    "seasonEventExclusive": true,
-    "versionAdded": "1.7.0",
-    "iconFilename": "AddConfetti",
-    "internalId": 848,
-    "uniqueEntryId": "ZQwAqpKEDkTHTQXEn"
-  },
-  {
-    "sourceSheet": "Reactions",
-    "num": 10,
-    "name": "Confident",
-    "image": "https://acnhcdn.com/latest/ManpuIcon/Assent.png",
-    "source": ["Big Sister villagers"],
-    "sourceNotes": "Requires a high level of friendship",
-    "seasonEvent": null,
-    "seasonEventExclusive": null,
-    "versionAdded": "1.0.0",
-    "iconFilename": "Assent",
-    "internalId": 127,
-    "uniqueEntryId": "TGifHTbyLBh4f3gDQ"
-  },
-  {
-    "sourceSheet": "Reactions",
-    "num": 18,
-    "name": "Curiosity",
-    "image": "https://acnhcdn.com/latest/ManpuIcon/QuestionMark.png",
-    "source": ["Peppy villagers"],
-    "sourceNotes": null,
-    "seasonEvent": null,
-    "seasonEventExclusive": null,
-    "versionAdded": "1.0.0",
-    "iconFilename": "QuestionMark",
-    "internalId": 41,
-    "uniqueEntryId": "SskgipgnKzm5TsK7d"
-  },
-  {
-    "sourceSheet": "Reactions",
-    "num": 30,
-    "name": "Daydreaming",
-    "image": "https://acnhcdn.com/latest/ManpuIcon/AbsentMindedness.png",
-    "source": ["Normal villagers"],
-    "sourceNotes": "Requires a high level of friendship",
-    "seasonEvent": null,
-    "seasonEventExclusive": null,
-    "versionAdded": "1.0.0",
-    "iconFilename": "AbsentMindedness",
-    "internalId": 61,
-    "uniqueEntryId": "JFrTBJCEaX5R4kABT"
-  },
-  {
-    "sourceSheet": "Reactions",
-    "num": 15,
-    "name": "Delight",
-    "image": "https://acnhcdn.com/latest/ManpuIcon/Clapping.png",
-    "source": ["All villagers"],
-    "sourceNotes": null,
-    "seasonEvent": null,
-    "seasonEventExclusive": null,
-    "versionAdded": "1.0.0",
-    "iconFilename": "Clapping",
-    "internalId": 47,
-    "uniqueEntryId": "F9DpGeqZzDeSTh2bq"
-  },
-  {
-    "sourceSheet": "Reactions",
-    "num": 3,
-    "name": "Disagreement",
-    "image": "https://acnhcdn.com/latest/ManpuIcon/Negative.png",
-    "source": ["Big Sister villagers"],
-    "sourceNotes": null,
-    "seasonEvent": null,
-    "seasonEventExclusive": null,
-    "versionAdded": "1.0.0",
-    "iconFilename": "Negative",
-    "internalId": 58,
-    "uniqueEntryId": "Bw5YBM6iuWgMzutWq"
-  },
-  {
-    "sourceSheet": "Reactions",
-    "num": 42,
-    "name": "Distress",
-    "image": "https://acnhcdn.com/latest/ManpuIcon/Frantic.png",
-    "source": ["Jock villagers"],
-    "sourceNotes": null,
-    "seasonEvent": null,
-    "seasonEventExclusive": null,
-    "versionAdded": "1.0.0",
-    "iconFilename": "Frantic",
-    "internalId": 31,
-    "uniqueEntryId": "vsSjQBZXPeSK6uDTK"
-  },
-  {
-    "sourceSheet": "Reactions",
-    "num": 33,
-    "name": "Dozing",
-    "image": "https://acnhcdn.com/latest/ManpuIcon/Sleep.png",
-    "source": ["Smug villagers"],
-    "sourceNotes": null,
-    "seasonEvent": null,
-    "seasonEventExclusive": null,
-    "versionAdded": "1.0.0",
-    "iconFilename": "Sleep",
-    "internalId": 63,
-    "uniqueEntryId": "2vvgAacGjthcFW5Qa"
-  },
-  {
-    "sourceSheet": "Reactions",
-    "num": 14,
-    "name": "Encouraging",
-    "image": "https://acnhcdn.com/latest/ManpuIcon/Cheering.png",
-    "source": ["Jock villagers"],
-    "sourceNotes": null,
-    "seasonEvent": null,
-    "seasonEventExclusive": null,
-    "versionAdded": "1.0.0",
-    "iconFilename": "Cheering",
-    "internalId": 49,
-    "uniqueEntryId": "fomfML4NWdY8x6adv"
-  },
-  {
-    "sourceSheet": "Reactions",
-    "num": 54,
-    "name": "Excited",
-    "image": "https://acnhcdn.com/latest/ManpuIcon/AddExcited.png",
-    "source": ["Hip Reaction Collection"],
-    "sourceNotes": null,
-    "seasonEvent": null,
-    "seasonEventExclusive": null,
-    "versionAdded": "1.6.0",
-    "iconFilename": "AddExcited",
-    "internalId": 813,
-    "uniqueEntryId": "n7AxvQcyuPEtdD7uF"
-  },
-  {
-    "sourceSheet": "Reactions",
-    "num": 43,
-    "name": "Fearful",
-    "image": "https://acnhcdn.com/latest/ManpuIcon/Shaking.png",
-    "source": ["Normal villagers"],
-    "sourceNotes": null,
-    "seasonEvent": null,
-    "seasonEventExclusive": null,
-    "versionAdded": "1.0.0",
-    "iconFilename": "Shaking",
-    "internalId": 38,
-    "uniqueEntryId": "noKrWYCMSWcH4jwvi"
-  },
-  {
-    "sourceSheet": "Reactions",
-    "num": 59,
-    "name": "Feelin' It",
-    "image": "https://acnhcdn.com/latest/ManpuIcon/AddDance.png",
-    "source": ["Viva Festivale Reaction Set"],
-    "sourceNotes": null,
-    "seasonEvent": "Festivale (ready days); Festivale",
-    "seasonEventExclusive": true,
-    "versionAdded": "1.7.0",
-    "iconFilename": "AddDance",
-    "internalId": 856,
-    "uniqueEntryId": "r6wW7uebEBsLwP3XT"
-  },
-  {
-    "sourceSheet": "Reactions",
-    "num": 12,
-    "name": "Flourish",
-    "image": "https://acnhcdn.com/latest/ManpuIcon/Dance.png",
-    "source": ["Jock villagers"],
-    "sourceNotes": "Requires a high level of friendship",
-    "seasonEvent": null,
-    "seasonEventExclusive": null,
-    "versionAdded": "1.0.0",
-    "iconFilename": "Dance",
-    "internalId": 60,
-    "uniqueEntryId": "5QDD3DcwdPhbGoJAf"
-  },
-  {
-    "sourceSheet": "Reactions",
-    "num": 7,
-    "name": "Glee",
-    "image": "https://acnhcdn.com/latest/ManpuIcon/HappyDance.png",
-    "source": ["Normal villagers"],
-    "sourceNotes": null,
-    "seasonEvent": null,
-    "seasonEventExclusive": null,
-    "versionAdded": "1.0.0",
-    "iconFilename": "HappyDance",
-    "internalId": 23,
-    "uniqueEntryId": "8nAwdhzZfotqpLC9R"
-  },
-  {
-    "sourceSheet": "Reactions",
     "num": 1,
     "name": "Greetings",
     "image": "https://acnhcdn.com/latest/ManpuIcon/Greeting.png",
-    "source": ["All villagers"],
+    "source": [
+      "All villagers"
+    ],
     "sourceNotes": null,
     "seasonEvent": null,
     "seasonEventExclusive": null,
@@ -309,178 +17,44 @@
   },
   {
     "sourceSheet": "Reactions",
-    "num": 5,
-    "name": "Happiness",
-    "image": "https://acnhcdn.com/latest/ManpuIcon/Smiling.png",
-    "source": ["Peppy villagers"],
+    "num": 2,
+    "name": "Agreement",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Nodding.png",
+    "source": [
+      "Cranky villagers"
+    ],
     "sourceNotes": null,
     "seasonEvent": null,
     "seasonEventExclusive": null,
     "versionAdded": "1.0.0",
-    "iconFilename": "Smiling",
-    "internalId": 19,
-    "uniqueEntryId": "TWENXBbBENgnFiGq3"
+    "iconFilename": "Nodding",
+    "internalId": 39,
+    "uniqueEntryId": "7smqwK9J7eFBxta28"
   },
   {
     "sourceSheet": "Reactions",
-    "num": 45,
-    "name": "Haunt",
-    "image": "https://acnhcdn.com/latest/ManpuIcon/AddScaring.png",
-    "source": ["Jack"],
-    "sourceNotes": null,
-    "seasonEvent": "Halloween",
-    "seasonEventExclusive": true,
-    "versionAdded": "1.5.0",
-    "iconFilename": "AddScaring",
-    "internalId": 801,
-    "uniqueEntryId": "fA3nXJsXHNT67zyT2"
-  },
-  {
-    "sourceSheet": "Reactions",
-    "num": 37,
-    "name": "Heartbreak",
-    "image": "https://acnhcdn.com/latest/ManpuIcon/BrokenHeart.png",
-    "source": ["Smug villagers"],
+    "num": 3,
+    "name": "Disagreement",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Negative.png",
+    "source": [
+      "Big Sister villagers"
+    ],
     "sourceNotes": null,
     "seasonEvent": null,
     "seasonEventExclusive": null,
     "versionAdded": "1.0.0",
-    "iconFilename": "BrokenHeart",
-    "internalId": 42,
-    "uniqueEntryId": "ex6gKZu6zsyd6MgDr"
-  },
-  {
-    "sourceSheet": "Reactions",
-    "num": 53,
-    "name": "Here You Go",
-    "image": "https://acnhcdn.com/latest/ManpuIcon/AddHereYouGo.png",
-    "source": ["Hip Reaction Collection"],
-    "sourceNotes": null,
-    "seasonEvent": null,
-    "seasonEventExclusive": null,
-    "versionAdded": "1.6.0",
-    "iconFilename": "AddHereYouGo",
-    "internalId": 816,
-    "uniqueEntryId": "7mskmgbcDnZMfaa8d"
-  },
-  {
-    "sourceSheet": "Reactions",
-    "num": 21,
-    "name": "Inspiration",
-    "image": "https://acnhcdn.com/latest/ManpuIcon/IdeaBulb.png",
-    "source": ["Cranky villagers"],
-    "sourceNotes": "Requires a high level of friendship",
-    "seasonEvent": null,
-    "seasonEventExclusive": null,
-    "versionAdded": "1.0.0",
-    "iconFilename": "IdeaBulb",
-    "internalId": 40,
-    "uniqueEntryId": "8ux4ddfibJQR2EuWW"
-  },
-  {
-    "sourceSheet": "Reactions",
-    "num": 39,
-    "name": "Intense",
-    "image": "https://acnhcdn.com/latest/ManpuIcon/Silent.png",
-    "source": ["Snooty villagers"],
-    "sourceNotes": null,
-    "seasonEvent": null,
-    "seasonEventExclusive": null,
-    "versionAdded": "1.0.0",
-    "iconFilename": "Silent",
-    "internalId": 119,
-    "uniqueEntryId": "X2kzqTaPwtG6SGNT8"
-  },
-  {
-    "sourceSheet": "Reactions",
-    "num": 6,
-    "name": "Joy",
-    "image": "https://acnhcdn.com/latest/ManpuIcon/HappyFlower.png",
-    "source": ["All villagers"],
-    "sourceNotes": null,
-    "seasonEvent": null,
-    "seasonEventExclusive": null,
-    "versionAdded": "1.0.0",
-    "iconFilename": "HappyFlower",
-    "internalId": 21,
-    "uniqueEntryId": "fSNyHJHgLKac5mSLT"
-  },
-  {
-    "sourceSheet": "Reactions",
-    "num": 8,
-    "name": "Laughter",
-    "image": "https://acnhcdn.com/latest/ManpuIcon/Laughing.png",
-    "source": ["Big Sister villagers"],
-    "sourceNotes": null,
-    "seasonEvent": null,
-    "seasonEventExclusive": null,
-    "versionAdded": "1.0.0",
-    "iconFilename": "Laughing",
-    "internalId": 20,
-    "uniqueEntryId": "EBenMHMpwnkMgS6eg"
-  },
-  {
-    "sourceSheet": "Reactions",
-    "num": 58,
-    "name": "Let's Go",
-    "image": "https://acnhcdn.com/latest/ManpuIcon/AddEntice.png",
-    "source": ["Viva Festivale Reaction Set"],
-    "sourceNotes": null,
-    "seasonEvent": "Festivale (ready days); Festivale",
-    "seasonEventExclusive": true,
-    "versionAdded": "1.7.0",
-    "iconFilename": "AddEntice",
-    "internalId": 855,
-    "uniqueEntryId": "mcdAptLF325uqyDKa"
-  },
-  {
-    "sourceSheet": "Reactions",
-    "num": 9,
-    "name": "Love",
-    "image": "https://acnhcdn.com/latest/ManpuIcon/Love.png",
-    "source": ["Snooty villagers"],
-    "sourceNotes": "Requires a high level of friendship",
-    "seasonEvent": null,
-    "seasonEventExclusive": null,
-    "versionAdded": "1.0.0",
-    "iconFilename": "Love",
-    "internalId": 22,
-    "uniqueEntryId": "GvAsErCFuGAcMAeXM"
-  },
-  {
-    "sourceSheet": "Reactions",
-    "num": 28,
-    "name": "Mischief",
-    "image": "https://acnhcdn.com/latest/ManpuIcon/Scheming.png",
-    "source": ["Peppy villagers"],
-    "sourceNotes": "Requires a high level of friendship",
-    "seasonEvent": null,
-    "seasonEventExclusive": null,
-    "versionAdded": "1.0.0",
-    "iconFilename": "Scheming",
-    "internalId": 46,
-    "uniqueEntryId": "E7it7yLfFaddFvEhQ"
-  },
-  {
-    "sourceSheet": "Reactions",
-    "num": 23,
-    "name": "Mistaken",
-    "image": "https://acnhcdn.com/latest/ManpuIcon/Oops.png",
-    "source": ["Lazy villagers"],
-    "sourceNotes": null,
-    "seasonEvent": null,
-    "seasonEventExclusive": null,
-    "versionAdded": "1.0.0",
-    "iconFilename": "Oops",
-    "internalId": 59,
-    "uniqueEntryId": "DPR7WWkmR36Bsf2LG"
+    "iconFilename": "Negative",
+    "internalId": 58,
+    "uniqueEntryId": "Bw5YBM6iuWgMzutWq"
   },
   {
     "sourceSheet": "Reactions",
     "num": 4,
     "name": "Pleased",
     "image": "https://acnhcdn.com/latest/ManpuIcon/Hello.png",
-    "source": ["Normal villagers"],
+    "source": [
+      "Normal villagers"
+    ],
     "sourceNotes": null,
     "seasonEvent": null,
     "seasonEventExclusive": null,
@@ -491,94 +65,108 @@
   },
   {
     "sourceSheet": "Reactions",
-    "num": 13,
-    "name": "Pride",
-    "image": "https://acnhcdn.com/latest/ManpuIcon/SmugFace.png",
-    "source": ["Lazy villagers"],
+    "num": 5,
+    "name": "Happiness",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Smiling.png",
+    "source": [
+      "Peppy villagers"
+    ],
+    "sourceNotes": null,
+    "seasonEvent": null,
+    "seasonEventExclusive": null,
+    "versionAdded": "1.0.0",
+    "iconFilename": "Smiling",
+    "internalId": 19,
+    "uniqueEntryId": "TWENXBbBENgnFiGq3"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "num": 6,
+    "name": "Joy",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/HappyFlower.png",
+    "source": [
+      "All villagers"
+    ],
+    "sourceNotes": null,
+    "seasonEvent": null,
+    "seasonEventExclusive": null,
+    "versionAdded": "1.0.0",
+    "iconFilename": "HappyFlower",
+    "internalId": 21,
+    "uniqueEntryId": "fSNyHJHgLKac5mSLT"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "num": 7,
+    "name": "Glee",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/HappyDance.png",
+    "source": [
+      "Normal villagers"
+    ],
+    "sourceNotes": null,
+    "seasonEvent": null,
+    "seasonEventExclusive": null,
+    "versionAdded": "1.0.0",
+    "iconFilename": "HappyDance",
+    "internalId": 23,
+    "uniqueEntryId": "8nAwdhzZfotqpLC9R"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "num": 8,
+    "name": "Laughter",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Laughing.png",
+    "source": [
+      "Big Sister villagers"
+    ],
+    "sourceNotes": null,
+    "seasonEvent": null,
+    "seasonEventExclusive": null,
+    "versionAdded": "1.0.0",
+    "iconFilename": "Laughing",
+    "internalId": 20,
+    "uniqueEntryId": "EBenMHMpwnkMgS6eg"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "num": 9,
+    "name": "Love",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Love.png",
+    "source": [
+      "Snooty villagers"
+    ],
     "sourceNotes": "Requires a high level of friendship",
     "seasonEvent": null,
     "seasonEventExclusive": null,
     "versionAdded": "1.0.0",
-    "iconFilename": "SmugFace",
-    "internalId": 51,
-    "uniqueEntryId": "xKoQpdJMtocNFRckm"
+    "iconFilename": "Love",
+    "internalId": 22,
+    "uniqueEntryId": "GvAsErCFuGAcMAeXM"
   },
   {
     "sourceSheet": "Reactions",
-    "num": 29,
-    "name": "Resignation",
-    "image": "https://acnhcdn.com/latest/ManpuIcon/OhGeez.png",
-    "source": ["Smug villagers"],
-    "sourceNotes": null,
+    "num": 10,
+    "name": "Confident",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Assent.png",
+    "source": [
+      "Big Sister villagers"
+    ],
+    "sourceNotes": "Requires a high level of friendship",
     "seasonEvent": null,
     "seasonEventExclusive": null,
     "versionAdded": "1.0.0",
-    "iconFilename": "OhGeez",
-    "internalId": 45,
-    "uniqueEntryId": "7YdF3ZMr95XP3FaoW"
-  },
-  {
-    "sourceSheet": "Reactions",
-    "num": 36,
-    "name": "Sadness",
-    "image": "https://acnhcdn.com/latest/ManpuIcon/SadSpiral.png",
-    "source": ["Normal villagers"],
-    "sourceNotes": null,
-    "seasonEvent": null,
-    "seasonEventExclusive": null,
-    "versionAdded": "1.0.0",
-    "iconFilename": "SadSpiral",
-    "internalId": 30,
-    "uniqueEntryId": "Wo8q6KhPtL2CYwat4"
-  },
-  {
-    "sourceSheet": "Reactions",
-    "num": 46,
-    "name": "Scare",
-    "image": "https://acnhcdn.com/latest/ManpuIcon/AddPrank.png",
-    "source": ["All villagers"],
-    "sourceNotes": null,
-    "seasonEvent": "Halloween",
-    "seasonEventExclusive": true,
-    "versionAdded": "1.5.0",
-    "iconFilename": "AddPrank",
-    "internalId": 805,
-    "uniqueEntryId": "sBW2mWEs7FW8mN8e5"
-  },
-  {
-    "sourceSheet": "Reactions",
-    "num": 26,
-    "name": "Sheepishness",
-    "image": "https://acnhcdn.com/latest/ManpuIcon/WrySmile.png",
-    "source": ["Cranky villagers"],
-    "sourceNotes": null,
-    "seasonEvent": null,
-    "seasonEventExclusive": null,
-    "versionAdded": "1.0.0",
-    "iconFilename": "WrySmile",
-    "internalId": 54,
-    "uniqueEntryId": "5cRnCPDJRdRpPJF8D"
-  },
-  {
-    "sourceSheet": "Reactions",
-    "num": 22,
-    "name": "Shocked",
-    "image": "https://acnhcdn.com/latest/ManpuIcon/Surprised.png",
-    "source": ["Jock villagers"],
-    "sourceNotes": null,
-    "seasonEvent": null,
-    "seasonEventExclusive": null,
-    "versionAdded": "1.0.0",
-    "iconFilename": "Surprised",
-    "internalId": 36,
-    "uniqueEntryId": "bn29da8SNdMYYyWAa"
+    "iconFilename": "Assent",
+    "internalId": 127,
+    "uniqueEntryId": "TGifHTbyLBh4f3gDQ"
   },
   {
     "sourceSheet": "Reactions",
     "num": 11,
     "name": "Showmanship",
     "image": "https://acnhcdn.com/latest/ManpuIcon/Shaki.png",
-    "source": ["Smug villagers"],
+    "source": [
+      "Smug villagers"
+    ],
     "sourceNotes": "Requires a high level of friendship",
     "seasonEvent": null,
     "seasonEventExclusive": null,
@@ -589,122 +177,124 @@
   },
   {
     "sourceSheet": "Reactions",
-    "num": 25,
-    "name": "Shyness",
-    "image": "https://acnhcdn.com/latest/ManpuIcon/Hesitate.png",
-    "source": ["Lazy villagers"],
+    "num": 12,
+    "name": "Flourish",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Dance.png",
+    "source": [
+      "Jock villagers"
+    ],
+    "sourceNotes": "Requires a high level of friendship",
+    "seasonEvent": null,
+    "seasonEventExclusive": null,
+    "versionAdded": "1.0.0",
+    "iconFilename": "Dance",
+    "internalId": 60,
+    "uniqueEntryId": "5QDD3DcwdPhbGoJAf"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "num": 13,
+    "name": "Pride",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/SmugFace.png",
+    "source": [
+      "Lazy villagers"
+    ],
+    "sourceNotes": "Requires a high level of friendship",
+    "seasonEvent": null,
+    "seasonEventExclusive": null,
+    "versionAdded": "1.0.0",
+    "iconFilename": "SmugFace",
+    "internalId": 51,
+    "uniqueEntryId": "xKoQpdJMtocNFRckm"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "num": 14,
+    "name": "Encouraging",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Cheering.png",
+    "source": [
+      "Jock villagers"
+    ],
     "sourceNotes": null,
     "seasonEvent": null,
     "seasonEventExclusive": null,
     "versionAdded": "1.0.0",
-    "iconFilename": "Hesitate",
-    "internalId": 57,
-    "uniqueEntryId": "9H7jt7AGKbh6mW4y8"
+    "iconFilename": "Cheering",
+    "internalId": 49,
+    "uniqueEntryId": "fomfML4NWdY8x6adv"
   },
   {
     "sourceSheet": "Reactions",
-    "num": 35,
-    "name": "Sighing",
-    "image": "https://acnhcdn.com/latest/ManpuIcon/Sighing.png",
-    "source": ["Snooty villagers"],
+    "num": 15,
+    "name": "Delight",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Clapping.png",
+    "source": [
+      "All villagers"
+    ],
     "sourceNotes": null,
     "seasonEvent": null,
     "seasonEventExclusive": null,
     "versionAdded": "1.0.0",
-    "iconFilename": "Sighing",
-    "internalId": 28,
-    "uniqueEntryId": "ntjLqg82EQNsgnzYA"
+    "iconFilename": "Clapping",
+    "internalId": 47,
+    "uniqueEntryId": "F9DpGeqZzDeSTh2bq"
   },
   {
     "sourceSheet": "Reactions",
-    "num": 47,
-    "name": "Sit Down",
-    "image": "https://acnhcdn.com/latest/ManpuIcon/AddSitDown.png",
-    "source": ["Hip Reaction Collection"],
-    "sourceNotes": null,
-    "seasonEvent": null,
-    "seasonEventExclusive": null,
-    "versionAdded": "1.6.0",
-    "iconFilename": "AddSitDown",
-    "internalId": 808,
-    "uniqueEntryId": "vZLdKXLdnjvN4J5Je"
-  },
-  {
-    "sourceSheet": "Reactions",
-    "num": 32,
-    "name": "Sleepy",
-    "image": "https://acnhcdn.com/latest/ManpuIcon/Sleepy.png",
-    "source": ["Peppy villagers"],
+    "num": 16,
+    "name": "Apologetic",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Apologize.png",
+    "source": [
+      "Big Sister villagers"
+    ],
     "sourceNotes": null,
     "seasonEvent": null,
     "seasonEventExclusive": null,
     "versionAdded": "1.0.0",
-    "iconFilename": "Sleepy",
-    "internalId": 43,
-    "uniqueEntryId": "9e5BhxmqtMurNWqW4"
+    "iconFilename": "Apologize",
+    "internalId": 126,
+    "uniqueEntryId": "jBKsQYCAd7PtymQeB"
   },
   {
     "sourceSheet": "Reactions",
-    "num": 27,
-    "name": "Smirking",
-    "image": "https://acnhcdn.com/latest/ManpuIcon/Grin.png",
-    "source": ["Smug villagers"],
+    "num": 17,
+    "name": "Bewilderment",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Pardon.png",
+    "source": [
+      "Cranky villagers"
+    ],
     "sourceNotes": null,
     "seasonEvent": null,
     "seasonEventExclusive": null,
     "versionAdded": "1.0.0",
-    "iconFilename": "Grin",
-    "internalId": 53,
-    "uniqueEntryId": "KDAWT9zDKpufEWgaW"
+    "iconFilename": "Pardon",
+    "internalId": 253,
+    "uniqueEntryId": "WRSSRZMtM6rXfXBrR"
   },
   {
     "sourceSheet": "Reactions",
-    "num": 44,
-    "name": "Sneezing",
-    "image": "https://acnhcdn.com/latest/ManpuIcon/Sneezing.png",
-    "source": ["Jock villagers"],
+    "num": 18,
+    "name": "Curiosity",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/QuestionMark.png",
+    "source": [
+      "Peppy villagers"
+    ],
     "sourceNotes": null,
     "seasonEvent": null,
     "seasonEventExclusive": null,
     "versionAdded": "1.0.0",
-    "iconFilename": "Sneezing",
-    "internalId": 48,
-    "uniqueEntryId": "F6Dkk4PGtjDMCgry3"
-  },
-  {
-    "sourceSheet": "Reactions",
-    "num": 50,
-    "name": "Sniff Sniff",
-    "image": "https://acnhcdn.com/latest/ManpuIcon/AddSmell.png",
-    "source": ["Hip Reaction Collection"],
-    "sourceNotes": null,
-    "seasonEvent": null,
-    "seasonEventExclusive": null,
-    "versionAdded": "1.6.0",
-    "iconFilename": "AddSmell",
-    "internalId": 814,
-    "uniqueEntryId": "M3JksnoqmWyo9otrd"
-  },
-  {
-    "sourceSheet": "Reactions",
-    "num": 38,
-    "name": "Sorrow",
-    "image": "https://acnhcdn.com/latest/ManpuIcon/Crying.png",
-    "source": ["Lazy villagers"],
-    "sourceNotes": null,
-    "seasonEvent": null,
-    "seasonEventExclusive": null,
-    "versionAdded": "1.0.0",
-    "iconFilename": "Crying",
-    "internalId": 32,
-    "uniqueEntryId": "W8nngMS98uwpHHW4m"
+    "iconFilename": "QuestionMark",
+    "internalId": 41,
+    "uniqueEntryId": "SskgipgnKzm5TsK7d"
   },
   {
     "sourceSheet": "Reactions",
     "num": 19,
     "name": "Surprise",
     "image": "https://acnhcdn.com/latest/ManpuIcon/Aha.png",
-    "source": ["All villagers"],
+    "source": [
+      "All villagers"
+    ],
     "sourceNotes": null,
     "seasonEvent": null,
     "seasonEventExclusive": null,
@@ -715,38 +305,188 @@
   },
   {
     "sourceSheet": "Reactions",
-    "num": 55,
-    "name": "Ta-da",
-    "image": "https://acnhcdn.com/latest/ManpuIcon/AddPraise.png",
-    "source": ["Hip Reaction Collection"],
+    "num": 20,
+    "name": "Amazed",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Shocked.png",
+    "source": [
+      "Snooty villagers"
+    ],
     "sourceNotes": null,
     "seasonEvent": null,
     "seasonEventExclusive": null,
-    "versionAdded": "1.6.0",
-    "iconFilename": "AddPraise",
-    "internalId": 817,
-    "uniqueEntryId": "r5knh2R8vmx7J4pxR"
+    "versionAdded": "1.0.0",
+    "iconFilename": "Shocked",
+    "internalId": 33,
+    "uniqueEntryId": "vosig4bbr4kPq57AT"
   },
   {
     "sourceSheet": "Reactions",
-    "num": 49,
-    "name": "Take a Picture",
-    "image": "https://acnhcdn.com/latest/ManpuIcon/AddTakePictures.png",
-    "source": ["Hip Reaction Collection"],
+    "num": 21,
+    "name": "Inspiration",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/IdeaBulb.png",
+    "source": [
+      "Cranky villagers"
+    ],
+    "sourceNotes": "Requires a high level of friendship",
+    "seasonEvent": null,
+    "seasonEventExclusive": null,
+    "versionAdded": "1.0.0",
+    "iconFilename": "IdeaBulb",
+    "internalId": 40,
+    "uniqueEntryId": "8ux4ddfibJQR2EuWW"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "num": 22,
+    "name": "Shocked",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Surprised.png",
+    "source": [
+      "Jock villagers"
+    ],
     "sourceNotes": null,
     "seasonEvent": null,
     "seasonEventExclusive": null,
-    "versionAdded": "1.6.0",
-    "iconFilename": "AddTakePictures",
-    "internalId": 815,
-    "uniqueEntryId": "77uFv5cZp43Rt3LaP"
+    "versionAdded": "1.0.0",
+    "iconFilename": "Surprised",
+    "internalId": 36,
+    "uniqueEntryId": "bn29da8SNdMYYyWAa"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "num": 23,
+    "name": "Mistaken",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Oops.png",
+    "source": [
+      "Lazy villagers"
+    ],
+    "sourceNotes": null,
+    "seasonEvent": null,
+    "seasonEventExclusive": null,
+    "versionAdded": "1.0.0",
+    "iconFilename": "Oops",
+    "internalId": 59,
+    "uniqueEntryId": "DPR7WWkmR36Bsf2LG"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "num": 24,
+    "name": "Bashfulness",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Blushing.png",
+    "source": [
+      "Lazy villagers"
+    ],
+    "sourceNotes": null,
+    "seasonEvent": null,
+    "seasonEventExclusive": null,
+    "versionAdded": "1.0.0",
+    "iconFilename": "Blushing",
+    "internalId": 44,
+    "uniqueEntryId": "wzvKbFrEJCseTohoz"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "num": 25,
+    "name": "Shyness",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Hesitate.png",
+    "source": [
+      "Lazy villagers"
+    ],
+    "sourceNotes": null,
+    "seasonEvent": null,
+    "seasonEventExclusive": null,
+    "versionAdded": "1.0.0",
+    "iconFilename": "Hesitate",
+    "internalId": 57,
+    "uniqueEntryId": "9H7jt7AGKbh6mW4y8"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "num": 26,
+    "name": "Sheepishness",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/WrySmile.png",
+    "source": [
+      "Cranky villagers"
+    ],
+    "sourceNotes": null,
+    "seasonEvent": null,
+    "seasonEventExclusive": null,
+    "versionAdded": "1.0.0",
+    "iconFilename": "WrySmile",
+    "internalId": 54,
+    "uniqueEntryId": "5cRnCPDJRdRpPJF8D"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "num": 27,
+    "name": "Smirking",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Grin.png",
+    "source": [
+      "Smug villagers"
+    ],
+    "sourceNotes": null,
+    "seasonEvent": null,
+    "seasonEventExclusive": null,
+    "versionAdded": "1.0.0",
+    "iconFilename": "Grin",
+    "internalId": 53,
+    "uniqueEntryId": "KDAWT9zDKpufEWgaW"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "num": 28,
+    "name": "Mischief",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Scheming.png",
+    "source": [
+      "Peppy villagers"
+    ],
+    "sourceNotes": "Requires a high level of friendship",
+    "seasonEvent": null,
+    "seasonEventExclusive": null,
+    "versionAdded": "1.0.0",
+    "iconFilename": "Scheming",
+    "internalId": 46,
+    "uniqueEntryId": "E7it7yLfFaddFvEhQ"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "num": 29,
+    "name": "Resignation",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/OhGeez.png",
+    "source": [
+      "Smug villagers"
+    ],
+    "sourceNotes": null,
+    "seasonEvent": null,
+    "seasonEventExclusive": null,
+    "versionAdded": "1.0.0",
+    "iconFilename": "OhGeez",
+    "internalId": 45,
+    "uniqueEntryId": "7YdF3ZMr95XP3FaoW"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "num": 30,
+    "name": "Daydreaming",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/AbsentMindedness.png",
+    "source": [
+      "Normal villagers"
+    ],
+    "sourceNotes": "Requires a high level of friendship",
+    "seasonEvent": null,
+    "seasonEventExclusive": null,
+    "versionAdded": "1.0.0",
+    "iconFilename": "AbsentMindedness",
+    "internalId": 61,
+    "uniqueEntryId": "JFrTBJCEaX5R4kABT"
   },
   {
     "sourceSheet": "Reactions",
     "num": 31,
     "name": "Thought",
     "image": "https://acnhcdn.com/latest/ManpuIcon/Thinking.png",
-    "source": ["Snooty villagers"],
+    "source": [
+      "Snooty villagers"
+    ],
     "sourceNotes": null,
     "seasonEvent": null,
     "seasonEventExclusive": null,
@@ -757,52 +497,44 @@
   },
   {
     "sourceSheet": "Reactions",
-    "num": 57,
-    "name": "Viva",
-    "image": "https://acnhcdn.com/latest/ManpuIcon/AddViva.png",
-    "source": ["Viva Festivale Reaction Set"],
-    "sourceNotes": null,
-    "seasonEvent": "Festivale (ready days); Festivale",
-    "seasonEventExclusive": true,
-    "versionAdded": "1.7.0",
-    "iconFilename": "AddViva",
-    "internalId": 851,
-    "uniqueEntryId": "awBmqTsqEP6vSyH3k"
-  },
-  {
-    "sourceSheet": "Reactions",
-    "num": 48,
-    "name": "Wave Goodbye",
-    "image": "https://acnhcdn.com/latest/ManpuIcon/AddWaveHands.png",
-    "source": ["Hip Reaction Collection"],
+    "num": 32,
+    "name": "Sleepy",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Sleepy.png",
+    "source": [
+      "Peppy villagers"
+    ],
     "sourceNotes": null,
     "seasonEvent": null,
     "seasonEventExclusive": null,
-    "versionAdded": "1.6.0",
-    "iconFilename": "AddWaveHands",
-    "internalId": 809,
-    "uniqueEntryId": "dbiQgwwQZxAQw54ur"
+    "versionAdded": "1.0.0",
+    "iconFilename": "Sleepy",
+    "internalId": 43,
+    "uniqueEntryId": "9e5BhxmqtMurNWqW4"
   },
   {
     "sourceSheet": "Reactions",
-    "num": 51,
-    "name": "Work Out",
-    "image": "https://acnhcdn.com/latest/ManpuIcon/AddGymnastics.png",
-    "source": ["Hip Reaction Collection"],
+    "num": 33,
+    "name": "Dozing",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Sleep.png",
+    "source": [
+      "Smug villagers"
+    ],
     "sourceNotes": null,
     "seasonEvent": null,
     "seasonEventExclusive": null,
-    "versionAdded": "1.6.0",
-    "iconFilename": "AddGymnastics",
-    "internalId": 804,
-    "uniqueEntryId": "oXMGkQsnaXyB2WLKp"
+    "versionAdded": "1.0.0",
+    "iconFilename": "Sleep",
+    "internalId": 63,
+    "uniqueEntryId": "2vvgAacGjthcFW5Qa"
   },
   {
     "sourceSheet": "Reactions",
     "num": 34,
     "name": "Worry",
     "image": "https://acnhcdn.com/latest/ManpuIcon/Worried.png",
-    "source": ["Cranky villagers"],
+    "source": [
+      "Cranky villagers"
+    ],
     "sourceNotes": null,
     "seasonEvent": null,
     "seasonEventExclusive": null,
@@ -813,10 +545,284 @@
   },
   {
     "sourceSheet": "Reactions",
+    "num": 35,
+    "name": "Sighing",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Sighing.png",
+    "source": [
+      "Snooty villagers"
+    ],
+    "sourceNotes": null,
+    "seasonEvent": null,
+    "seasonEventExclusive": null,
+    "versionAdded": "1.0.0",
+    "iconFilename": "Sighing",
+    "internalId": 28,
+    "uniqueEntryId": "ntjLqg82EQNsgnzYA"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "num": 36,
+    "name": "Sadness",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/SadSpiral.png",
+    "source": [
+      "Normal villagers"
+    ],
+    "sourceNotes": null,
+    "seasonEvent": null,
+    "seasonEventExclusive": null,
+    "versionAdded": "1.0.0",
+    "iconFilename": "SadSpiral",
+    "internalId": 30,
+    "uniqueEntryId": "Wo8q6KhPtL2CYwat4"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "num": 37,
+    "name": "Heartbreak",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/BrokenHeart.png",
+    "source": [
+      "Smug villagers"
+    ],
+    "sourceNotes": null,
+    "seasonEvent": null,
+    "seasonEventExclusive": null,
+    "versionAdded": "1.0.0",
+    "iconFilename": "BrokenHeart",
+    "internalId": 42,
+    "uniqueEntryId": "ex6gKZu6zsyd6MgDr"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "num": 38,
+    "name": "Sorrow",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Crying.png",
+    "source": [
+      "Lazy villagers"
+    ],
+    "sourceNotes": null,
+    "seasonEvent": null,
+    "seasonEventExclusive": null,
+    "versionAdded": "1.0.0",
+    "iconFilename": "Crying",
+    "internalId": 32,
+    "uniqueEntryId": "W8nngMS98uwpHHW4m"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "num": 39,
+    "name": "Intense",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Silent.png",
+    "source": [
+      "Snooty villagers"
+    ],
+    "sourceNotes": null,
+    "seasonEvent": null,
+    "seasonEventExclusive": null,
+    "versionAdded": "1.0.0",
+    "iconFilename": "Silent",
+    "internalId": 119,
+    "uniqueEntryId": "X2kzqTaPwtG6SGNT8"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "num": 40,
+    "name": "Aggravation",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Outraged.png",
+    "source": [
+      "Peppy villagers"
+    ],
+    "sourceNotes": null,
+    "seasonEvent": null,
+    "seasonEventExclusive": null,
+    "versionAdded": "1.0.0",
+    "iconFilename": "Outraged",
+    "internalId": 25,
+    "uniqueEntryId": "6suhKYAAhh5QMKt64"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "num": 41,
+    "name": "Cold Chill",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/ColdChill.png",
+    "source": [
+      "Big Sister villagers"
+    ],
+    "sourceNotes": null,
+    "seasonEvent": null,
+    "seasonEventExclusive": null,
+    "versionAdded": "1.0.0",
+    "iconFilename": "ColdChill",
+    "internalId": 37,
+    "uniqueEntryId": "K62u2owKFDLmPCB3Q"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "num": 42,
+    "name": "Distress",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Frantic.png",
+    "source": [
+      "Jock villagers"
+    ],
+    "sourceNotes": null,
+    "seasonEvent": null,
+    "seasonEventExclusive": null,
+    "versionAdded": "1.0.0",
+    "iconFilename": "Frantic",
+    "internalId": 31,
+    "uniqueEntryId": "vsSjQBZXPeSK6uDTK"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "num": 43,
+    "name": "Fearful",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Shaking.png",
+    "source": [
+      "Normal villagers"
+    ],
+    "sourceNotes": null,
+    "seasonEvent": null,
+    "seasonEventExclusive": null,
+    "versionAdded": "1.0.0",
+    "iconFilename": "Shaking",
+    "internalId": 38,
+    "uniqueEntryId": "noKrWYCMSWcH4jwvi"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "num": 44,
+    "name": "Sneezing",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/Sneezing.png",
+    "source": [
+      "Jock villagers"
+    ],
+    "sourceNotes": null,
+    "seasonEvent": null,
+    "seasonEventExclusive": null,
+    "versionAdded": "1.0.0",
+    "iconFilename": "Sneezing",
+    "internalId": 48,
+    "uniqueEntryId": "F6Dkk4PGtjDMCgry3"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "num": 45,
+    "name": "Haunt",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/AddScaring.png",
+    "source": [
+      "Jack"
+    ],
+    "sourceNotes": null,
+    "seasonEvent": "Halloween",
+    "seasonEventExclusive": true,
+    "versionAdded": "1.5.0",
+    "iconFilename": "AddScaring",
+    "internalId": 801,
+    "uniqueEntryId": "fA3nXJsXHNT67zyT2"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "num": 46,
+    "name": "Scare",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/AddPrank.png",
+    "source": [
+      "All villagers"
+    ],
+    "sourceNotes": null,
+    "seasonEvent": "Halloween",
+    "seasonEventExclusive": true,
+    "versionAdded": "1.5.0",
+    "iconFilename": "AddPrank",
+    "internalId": 805,
+    "uniqueEntryId": "sBW2mWEs7FW8mN8e5"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "num": 47,
+    "name": "Sit Down",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/AddSitDown.png",
+    "source": [
+      "Hip Reaction Collection"
+    ],
+    "sourceNotes": null,
+    "seasonEvent": null,
+    "seasonEventExclusive": null,
+    "versionAdded": "1.6.0",
+    "iconFilename": "AddSitDown",
+    "internalId": 808,
+    "uniqueEntryId": "vZLdKXLdnjvN4J5Je"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "num": 48,
+    "name": "Wave Goodbye",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/AddWaveHands.png",
+    "source": [
+      "Hip Reaction Collection"
+    ],
+    "sourceNotes": null,
+    "seasonEvent": null,
+    "seasonEventExclusive": null,
+    "versionAdded": "1.6.0",
+    "iconFilename": "AddWaveHands",
+    "internalId": 809,
+    "uniqueEntryId": "dbiQgwwQZxAQw54ur"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "num": 49,
+    "name": "Take a Picture",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/AddTakePictures.png",
+    "source": [
+      "Hip Reaction Collection"
+    ],
+    "sourceNotes": null,
+    "seasonEvent": null,
+    "seasonEventExclusive": null,
+    "versionAdded": "1.6.0",
+    "iconFilename": "AddTakePictures",
+    "internalId": 815,
+    "uniqueEntryId": "77uFv5cZp43Rt3LaP"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "num": 50,
+    "name": "Sniff Sniff",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/AddSmell.png",
+    "source": [
+      "Hip Reaction Collection"
+    ],
+    "sourceNotes": null,
+    "seasonEvent": null,
+    "seasonEventExclusive": null,
+    "versionAdded": "1.6.0",
+    "iconFilename": "AddSmell",
+    "internalId": 814,
+    "uniqueEntryId": "M3JksnoqmWyo9otrd"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "num": 51,
+    "name": "Work Out",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/AddGymnastics.png",
+    "source": [
+      "Hip Reaction Collection"
+    ],
+    "sourceNotes": null,
+    "seasonEvent": null,
+    "seasonEventExclusive": null,
+    "versionAdded": "1.6.0",
+    "iconFilename": "AddGymnastics",
+    "internalId": 804,
+    "uniqueEntryId": "oXMGkQsnaXyB2WLKp"
+  },
+  {
+    "sourceSheet": "Reactions",
     "num": 52,
     "name": "Yoga",
     "image": "https://acnhcdn.com/latest/ManpuIcon/AddYoga.png",
-    "source": ["Hip Reaction Collection"],
+    "source": [
+      "Hip Reaction Collection"
+    ],
     "sourceNotes": null,
     "seasonEvent": null,
     "seasonEventExclusive": null,
@@ -824,5 +830,581 @@
     "iconFilename": "AddYoga",
     "internalId": 802,
     "uniqueEntryId": "yeh2FF6fzMn3BdAi6"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "num": 53,
+    "name": "Here You Go",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/AddHereYouGo.png",
+    "source": [
+      "Hip Reaction Collection"
+    ],
+    "sourceNotes": null,
+    "seasonEvent": null,
+    "seasonEventExclusive": null,
+    "versionAdded": "1.6.0",
+    "iconFilename": "AddHereYouGo",
+    "internalId": 816,
+    "uniqueEntryId": "7mskmgbcDnZMfaa8d"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "num": 54,
+    "name": "Excited",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/AddExcited.png",
+    "source": [
+      "Hip Reaction Collection"
+    ],
+    "sourceNotes": null,
+    "seasonEvent": null,
+    "seasonEventExclusive": null,
+    "versionAdded": "1.6.0",
+    "iconFilename": "AddExcited",
+    "internalId": 813,
+    "uniqueEntryId": "n7AxvQcyuPEtdD7uF"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "num": 55,
+    "name": "Ta-da",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/AddPraise.png",
+    "source": [
+      "Hip Reaction Collection"
+    ],
+    "sourceNotes": null,
+    "seasonEvent": null,
+    "seasonEventExclusive": null,
+    "versionAdded": "1.6.0",
+    "iconFilename": "AddPraise",
+    "internalId": 817,
+    "uniqueEntryId": "r5knh2R8vmx7J4pxR"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "num": 56,
+    "name": "Confetti",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/AddConfetti.png",
+    "source": [
+      "Viva Festivale Reaction Set"
+    ],
+    "sourceNotes": null,
+    "seasonEvent": "Festivale (ready days); Festivale",
+    "seasonEventExclusive": true,
+    "versionAdded": "1.7.0",
+    "iconFilename": "AddConfetti",
+    "internalId": 848,
+    "uniqueEntryId": "ZQwAqpKEDkTHTQXEn"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "num": 57,
+    "name": "Viva",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/AddViva.png",
+    "source": [
+      "Viva Festivale Reaction Set"
+    ],
+    "sourceNotes": null,
+    "seasonEvent": "Festivale (ready days); Festivale",
+    "seasonEventExclusive": true,
+    "versionAdded": "1.7.0",
+    "iconFilename": "AddViva",
+    "internalId": 851,
+    "uniqueEntryId": "awBmqTsqEP6vSyH3k"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "num": 58,
+    "name": "Let's Go",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/AddEntice.png",
+    "source": [
+      "Viva Festivale Reaction Set"
+    ],
+    "sourceNotes": null,
+    "seasonEvent": "Festivale (ready days); Festivale",
+    "seasonEventExclusive": true,
+    "versionAdded": "1.7.0",
+    "iconFilename": "AddEntice",
+    "internalId": 855,
+    "uniqueEntryId": "mcdAptLF325uqyDKa"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "num": 59,
+    "name": "Feelin' It",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/AddDance.png",
+    "source": [
+      "Viva Festivale Reaction Set"
+    ],
+    "sourceNotes": null,
+    "seasonEvent": "Festivale (ready days); Festivale",
+    "seasonEventExclusive": true,
+    "versionAdded": "1.7.0",
+    "iconFilename": "AddDance",
+    "internalId": 856,
+    "uniqueEntryId": "r6wW7uebEBsLwP3XT"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "num": 60,
+    "name": "Posture Warm-Up",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/AddRadioGymnastics01.png",
+    "source": [
+      "Group Stretching"
+    ],
+    "sourceNotes": "Received after doing your 50th group stretch",
+    "seasonEvent": null,
+    "seasonEventExclusive": null,
+    "versionAdded": "2.0.0",
+    "iconFilename": "AddRadioGymnastics01",
+    "internalId": 993,
+    "uniqueEntryId": "XG5nz2NLapRDsC2Ro"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "num": 61,
+    "name": "Arm Circles",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/AddRadioGymnastics02.png",
+    "source": [
+      "Group Stretching"
+    ],
+    "sourceNotes": "Received after doing your 50th group stretch",
+    "seasonEvent": null,
+    "seasonEventExclusive": null,
+    "versionAdded": "2.0.0",
+    "iconFilename": "AddRadioGymnastics02",
+    "internalId": 994,
+    "uniqueEntryId": "j4wmMk6NhvHfuM6um"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "num": 62,
+    "name": "Side Bends",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/AddRadioGymnastics03.png",
+    "source": [
+      "Group Stretching"
+    ],
+    "sourceNotes": "Received after doing your 50th group stretch",
+    "seasonEvent": null,
+    "seasonEventExclusive": null,
+    "versionAdded": "2.0.0",
+    "iconFilename": "AddRadioGymnastics03",
+    "internalId": 995,
+    "uniqueEntryId": "bqJis3YL4LQd6en4T"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "num": 63,
+    "name": "Body Twists",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/AddRadioGymnastics04.png",
+    "source": [
+      "Group Stretching"
+    ],
+    "sourceNotes": "Received after doing your 50th group stretch",
+    "seasonEvent": null,
+    "seasonEventExclusive": null,
+    "versionAdded": "2.0.0",
+    "iconFilename": "AddRadioGymnastics04",
+    "internalId": 996,
+    "uniqueEntryId": "4gwdwpfJAWceXuEzb"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "num": 64,
+    "name": "Wide Arm Stretch",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/AddRadioGymnastics05.png",
+    "source": [
+      "Group Stretching"
+    ],
+    "sourceNotes": "Received after doing your 50th group stretch",
+    "seasonEvent": null,
+    "seasonEventExclusive": null,
+    "versionAdded": "2.0.0",
+    "iconFilename": "AddRadioGymnastics05",
+    "internalId": 997,
+    "uniqueEntryId": "NbPWHvrWsEu2CrkgB"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "num": 65,
+    "name": "Upper-Body Circles",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/AddRadioGymnastics06.png",
+    "source": [
+      "Group Stretching"
+    ],
+    "sourceNotes": "Received after doing your 50th group stretch",
+    "seasonEvent": null,
+    "seasonEventExclusive": null,
+    "versionAdded": "2.0.0",
+    "iconFilename": "AddRadioGymnastics06",
+    "internalId": 998,
+    "uniqueEntryId": "NdqKFNRcviZmKghHD"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "num": 66,
+    "name": "Jump",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/AddRadioGymnastics07.png",
+    "source": [
+      "Group Stretching"
+    ],
+    "sourceNotes": "Received after doing your 50th group stretch",
+    "seasonEvent": null,
+    "seasonEventExclusive": null,
+    "versionAdded": "2.0.0",
+    "iconFilename": "AddRadioGymnastics07",
+    "internalId": 999,
+    "uniqueEntryId": "5oMAeCNZuPPy7uzC5"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "num": 67,
+    "name": "Double Wave",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/AddGreetingBothHands.png",
+    "source": [
+      "New Reactions Notebook"
+    ],
+    "sourceNotes": null,
+    "seasonEvent": null,
+    "seasonEventExclusive": null,
+    "versionAdded": "2.0.0",
+    "iconFilename": "AddGreetingBothHands",
+    "internalId": 1114,
+    "uniqueEntryId": "sQKDgwyWjmaszK8oY"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "num": 68,
+    "name": "Stretch",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/AddStretch.png",
+    "source": [
+      "New Reactions Notebook"
+    ],
+    "sourceNotes": null,
+    "seasonEvent": null,
+    "seasonEventExclusive": null,
+    "versionAdded": "2.0.0",
+    "iconFilename": "AddStretch",
+    "internalId": 1100,
+    "uniqueEntryId": "yDKAgsFYCMBu5qKLq"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "num": 69,
+    "name": "Jammin'",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/AddRhythm.png",
+    "source": [
+      "New Reactions Notebook"
+    ],
+    "sourceNotes": null,
+    "seasonEvent": null,
+    "seasonEventExclusive": null,
+    "versionAdded": "2.0.0",
+    "iconFilename": "AddRhythm",
+    "internalId": 1097,
+    "uniqueEntryId": "Yrnfag9xhZuiMQ9wm"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "num": 70,
+    "name": "Listening Ears",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/AddListen.png",
+    "source": [
+      "New Reactions Notebook"
+    ],
+    "sourceNotes": null,
+    "seasonEvent": null,
+    "seasonEventExclusive": null,
+    "versionAdded": "2.0.0",
+    "iconFilename": "AddListen",
+    "internalId": 1103,
+    "uniqueEntryId": "9qKkdjDYeCuaNKEze"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "num": 71,
+    "name": "Say Cheese",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/RequestWillingness.png",
+    "source": [
+      "New Reactions Notebook"
+    ],
+    "sourceNotes": null,
+    "seasonEvent": null,
+    "seasonEventExclusive": null,
+    "versionAdded": "2.0.0",
+    "iconFilename": "RequestWillingness",
+    "internalId": 879,
+    "uniqueEntryId": "ihrQY47HeybqMTdNv"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "num": 72,
+    "name": "Behold",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/AddRequestLook.png",
+    "source": [
+      "New Reactions Notebook"
+    ],
+    "sourceNotes": null,
+    "seasonEvent": null,
+    "seasonEventExclusive": null,
+    "versionAdded": "2.0.0",
+    "iconFilename": "AddRequestLook",
+    "internalId": 1099,
+    "uniqueEntryId": "pY7Jd5Z6SHMWXhoqR"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "num": 73,
+    "name": "Eager",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/RequestOkay.png",
+    "source": [
+      "New Reactions Notebook"
+    ],
+    "sourceNotes": null,
+    "seasonEvent": null,
+    "seasonEventExclusive": null,
+    "versionAdded": "2.0.0",
+    "iconFilename": "RequestOkay",
+    "internalId": 917,
+    "uniqueEntryId": "ws3T7rLnhiC9fYQPY"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "num": 74,
+    "name": "Flex",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/AddMusclePose.png",
+    "source": [
+      "New Reactions Notebook"
+    ],
+    "sourceNotes": null,
+    "seasonEvent": null,
+    "seasonEventExclusive": null,
+    "versionAdded": "2.0.0",
+    "iconFilename": "AddMusclePose",
+    "internalId": 1102,
+    "uniqueEntryId": "BaTvWWq8ZPve8cLah"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "num": 75,
+    "name": "Work It",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/AddPoseCool.png",
+    "source": [
+      "New Reactions Notebook"
+    ],
+    "sourceNotes": null,
+    "seasonEvent": null,
+    "seasonEventExclusive": null,
+    "versionAdded": "2.0.0",
+    "iconFilename": "AddPoseCool",
+    "internalId": 806,
+    "uniqueEntryId": "uYaFyx3fc7HZuvkuZ"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "num": 76,
+    "name": "Act Natural",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/AddPoseNaturel.png",
+    "source": [
+      "New Reactions Notebook"
+    ],
+    "sourceNotes": null,
+    "seasonEvent": null,
+    "seasonEventExclusive": null,
+    "versionAdded": "2.0.0",
+    "iconFilename": "AddPoseNaturel",
+    "internalId": 807,
+    "uniqueEntryId": "MQuTaM6pZvLbX4HhA"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "num": 77,
+    "name": "Hula",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/AddHula.png",
+    "source": [
+      "New Reactions Notebook"
+    ],
+    "sourceNotes": null,
+    "seasonEvent": null,
+    "seasonEventExclusive": null,
+    "versionAdded": "2.0.0",
+    "iconFilename": "AddHula",
+    "internalId": 1098,
+    "uniqueEntryId": "wsEqZFG2BZotT7ZsX"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "num": 78,
+    "name": "Grooving Hop",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/AddKKFesUpper.png",
+    "source": [
+      "DJ KK concert"
+    ],
+    "sourceNotes": null,
+    "seasonEvent": "Happy Home Paradise",
+    "seasonEventExclusive": true,
+    "versionAdded": "2.0.0",
+    "iconFilename": "AddKKFesUpper",
+    "internalId": 1101,
+    "uniqueEntryId": "t6rNxYbX75Jxf8fAx"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "num": 79,
+    "name": "Groove Right",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/AddKKFesRight.png",
+    "source": [
+      "DJ KK concert"
+    ],
+    "sourceNotes": null,
+    "seasonEvent": "Happy Home Paradise",
+    "seasonEventExclusive": true,
+    "versionAdded": "2.0.0",
+    "iconFilename": "AddKKFesRight",
+    "internalId": 1105,
+    "uniqueEntryId": "8idaYXi94dDnh9wid"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "num": 80,
+    "name": "Groove Left",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/AddKKFesLeft.png",
+    "source": [
+      "DJ KK concert"
+    ],
+    "sourceNotes": null,
+    "seasonEvent": "Happy Home Paradise",
+    "seasonEventExclusive": true,
+    "versionAdded": "2.0.0",
+    "iconFilename": "AddKKFesLeft",
+    "internalId": 1106,
+    "uniqueEntryId": "9mNyjT3P5QEdSPRMx"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "num": 81,
+    "name": "Soak It In",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/AddKKFesLower.png",
+    "source": [
+      "DJ KK concert"
+    ],
+    "sourceNotes": null,
+    "seasonEvent": "Happy Home Paradise",
+    "seasonEventExclusive": true,
+    "versionAdded": "2.0.0",
+    "iconFilename": "AddKKFesLower",
+    "internalId": 1107,
+    "uniqueEntryId": "Y3mrDfRHZZeTRCDfc"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "num": 82,
+    "name": "Side-to-Side",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/AddKKFesPosing05.png",
+    "source": [
+      "DJ KK concert"
+    ],
+    "sourceNotes": null,
+    "seasonEvent": "Happy Home Paradise",
+    "seasonEventExclusive": true,
+    "versionAdded": "2.0.0",
+    "iconFilename": "AddKKFesPosing05",
+    "internalId": 1110,
+    "uniqueEntryId": "hmuHXYdaB6ivvDRGr"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "num": 83,
+    "name": "Island Stomp",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/AddKKFesPosing04.png",
+    "source": [
+      "DJ KK concert"
+    ],
+    "sourceNotes": null,
+    "seasonEvent": "Happy Home Paradise",
+    "seasonEventExclusive": true,
+    "versionAdded": "2.0.0",
+    "iconFilename": "AddKKFesPosing04",
+    "internalId": 1111,
+    "uniqueEntryId": "f62feo4wDFm4ayY4X"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "num": 84,
+    "name": "Airplane",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/AddKKFesPosing01.png",
+    "source": [
+      "DJ KK concert"
+    ],
+    "sourceNotes": null,
+    "seasonEvent": "Happy Home Paradise",
+    "seasonEventExclusive": true,
+    "versionAdded": "2.0.0",
+    "iconFilename": "AddKKFesPosing01",
+    "internalId": 1109,
+    "uniqueEntryId": "ytjJ7ZCBihTRtytYf"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "num": 85,
+    "name": "Twisty Dance",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/AddKKFesPosing02.png",
+    "source": [
+      "DJ KK concert"
+    ],
+    "sourceNotes": null,
+    "seasonEvent": "Happy Home Paradise",
+    "seasonEventExclusive": true,
+    "versionAdded": "2.0.0",
+    "iconFilename": "AddKKFesPosing02",
+    "internalId": 1108,
+    "uniqueEntryId": "JiDjG2QEEAt2zxWiC"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "num": 86,
+    "name": "Shimmy",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/AddKKFesPosing00.png",
+    "source": [
+      "DJ KK concert"
+    ],
+    "sourceNotes": null,
+    "seasonEvent": "Happy Home Paradise",
+    "seasonEventExclusive": true,
+    "versionAdded": "2.0.0",
+    "iconFilename": "AddKKFesPosing00",
+    "internalId": 1104,
+    "uniqueEntryId": "Dz2gW8yx4yA8Xcjfj"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "num": 87,
+    "name": "Turnip Patch",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/AddKKFesPosing06.png",
+    "source": [
+      "DJ KK concert"
+    ],
+    "sourceNotes": null,
+    "seasonEvent": "Happy Home Paradise",
+    "seasonEventExclusive": true,
+    "versionAdded": "2.0.0",
+    "iconFilename": "AddKKFesPosing06",
+    "internalId": 1113,
+    "uniqueEntryId": "qsYo6aQckdorvMtEd"
+  },
+  {
+    "sourceSheet": "Reactions",
+    "num": 88,
+    "name": "Arm-Swing Dance",
+    "image": "https://acnhcdn.com/latest/ManpuIcon/AddKKFesPosing03.png",
+    "source": [
+      "DJ KK concert"
+    ],
+    "sourceNotes": null,
+    "seasonEvent": "Happy Home Paradise",
+    "seasonEventExclusive": true,
+    "versionAdded": "2.0.0",
+    "iconFilename": "AddKKFesPosing03",
+    "internalId": 1112,
+    "uniqueEntryId": "aPnKonrv3pkEdqtGy"
   }
 ]
