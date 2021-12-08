@@ -18,6 +18,7 @@
     "nhEndDate": "11/25",
     "shStartDate": "3/1",
     "shEndDate": "5/25",
+    "version": "1.0.0",
     "internalId": 433,
     "uniqueEntryId": "oWdfeTEzWt8puvKW3"
   },
@@ -40,6 +41,7 @@
     "nhEndDate": null,
     "shStartDate": null,
     "shEndDate": null,
+    "version": "1.0.0",
     "internalId": 0,
     "uniqueEntryId": "FfCPKSQkxM64FZ2nd"
   },
@@ -62,6 +64,7 @@
     "nhEndDate": null,
     "shStartDate": null,
     "shEndDate": null,
+    "version": "1.0.0",
     "internalId": 388,
     "uniqueEntryId": "TDuhkjRtw7KAQakP2"
   },
@@ -84,6 +87,7 @@
     "nhEndDate": null,
     "shStartDate": null,
     "shEndDate": null,
+    "version": "1.0.0",
     "internalId": 391,
     "uniqueEntryId": "AdTRESNSb7JfssoCt"
   },
@@ -106,6 +110,7 @@
     "nhEndDate": null,
     "shStartDate": null,
     "shEndDate": null,
+    "version": "1.0.0",
     "internalId": 363,
     "uniqueEntryId": "p5cZtRuvvHRk4nETq"
   },
@@ -128,6 +133,7 @@
     "nhEndDate": "8/31",
     "shStartDate": "12/1",
     "shEndDate": "2/28\n2/29",
+    "version": "1.0.0",
     "internalId": 432,
     "uniqueEntryId": "jEjPnzF6G3hDkq8P4"
   },
@@ -150,6 +156,7 @@
     "nhEndDate": null,
     "shStartDate": null,
     "shEndDate": null,
+    "version": "1.0.0",
     "internalId": 389,
     "uniqueEntryId": "rRnBoDeMhYutyWtqD"
   },
@@ -172,6 +179,7 @@
     "nhEndDate": null,
     "shStartDate": null,
     "shEndDate": null,
+    "version": "1.0.0",
     "internalId": 405,
     "uniqueEntryId": "meW8u7nvBuTdJpCeG"
   },
@@ -194,6 +202,7 @@
     "nhEndDate": null,
     "shStartDate": null,
     "shEndDate": null,
+    "version": "1.0.0",
     "internalId": 395,
     "uniqueEntryId": "bmD2rpkaq8gdBi8TZ"
   },
@@ -216,12 +225,13 @@
     "nhEndDate": null,
     "shStartDate": null,
     "shEndDate": null,
+    "version": "1.0.0",
     "internalId": 382,
     "uniqueEntryId": "Pa6BykAvEjxAgrNmB"
   },
   {
     "sourceSheet": "Message Cards",
-    "name": "Card from",
+    "name": "Dawning-year card",
     "image": "https://acnhcdn.com/latest/MessageCard/MsgNewyear01.png",
     "buy": -1,
     "backColor": null,
@@ -238,6 +248,7 @@
     "nhEndDate": null,
     "shStartDate": null,
     "shEndDate": null,
+    "version": "1.0.0",
     "internalId": 403,
     "uniqueEntryId": "K7N64yJH3NpwKk6BY"
   },
@@ -260,6 +271,7 @@
     "nhEndDate": null,
     "shStartDate": null,
     "shEndDate": null,
+    "version": "1.0.0",
     "internalId": 429,
     "uniqueEntryId": "q4KoqTjC22ghtvuu4"
   },
@@ -282,6 +294,7 @@
     "nhEndDate": null,
     "shStartDate": null,
     "shEndDate": null,
+    "version": "1.0.0",
     "internalId": 427,
     "uniqueEntryId": "pyhPqjY5seC6N2EPP"
   },
@@ -304,6 +317,7 @@
     "nhEndDate": null,
     "shStartDate": null,
     "shEndDate": null,
+    "version": "1.0.0",
     "internalId": 428,
     "uniqueEntryId": "8H9YnYnz44vYZBTzd"
   },
@@ -326,6 +340,7 @@
     "nhEndDate": null,
     "shStartDate": null,
     "shEndDate": null,
+    "version": "1.0.0",
     "internalId": 387,
     "uniqueEntryId": "9SnHEWxApcQCBiefK"
   },
@@ -348,6 +363,7 @@
     "nhEndDate": null,
     "shStartDate": null,
     "shEndDate": null,
+    "version": "1.0.0",
     "internalId": 435,
     "uniqueEntryId": "eD6D9pW3A6a8YM5Es"
   },
@@ -370,12 +386,13 @@
     "nhEndDate": null,
     "shStartDate": null,
     "shEndDate": null,
+    "version": "1.0.0",
     "internalId": 411,
     "uniqueEntryId": "pK5n68w5djRAXGrBR"
   },
   {
     "sourceSheet": "Message Cards",
-    "name": "Card from Nintendo",
+    "name": "Fireworks card",
     "image": "https://acnhcdn.com/latest/MessageCard/MsgNewyear00.png",
     "buy": -1,
     "backColor": "#090650",
@@ -392,6 +409,7 @@
     "nhEndDate": null,
     "shStartDate": null,
     "shEndDate": null,
+    "version": "1.0.0",
     "internalId": 402,
     "uniqueEntryId": "CRrysKXYPecdavppY"
   },
@@ -414,6 +432,7 @@
     "nhEndDate": null,
     "shStartDate": null,
     "shEndDate": null,
+    "version": "1.0.0",
     "internalId": 430,
     "uniqueEntryId": "aFfbn4p7DAQDEfLnB"
   },
@@ -436,6 +455,7 @@
     "nhEndDate": null,
     "shStartDate": null,
     "shEndDate": null,
+    "version": "1.0.0",
     "internalId": 431,
     "uniqueEntryId": "jmD477wFpZYTyg7JW"
   },
@@ -458,6 +478,7 @@
     "nhEndDate": "11/25",
     "shStartDate": "3/1",
     "shEndDate": "5/25",
+    "version": "1.0.0",
     "internalId": 375,
     "uniqueEntryId": "4gutEbpyCGQJywuqR"
   },
@@ -480,6 +501,7 @@
     "nhEndDate": "5/31",
     "shStartDate": "8/25",
     "shEndDate": "11/30",
+    "version": "1.0.0",
     "internalId": 379,
     "uniqueEntryId": "CePQFE2nenXK2nS8W"
   },
@@ -502,6 +524,7 @@
     "nhEndDate": null,
     "shStartDate": null,
     "shEndDate": null,
+    "version": "1.0.0",
     "internalId": 364,
     "uniqueEntryId": "ek9h3bN59WHc4c9ee"
   },
@@ -524,6 +547,7 @@
     "nhEndDate": null,
     "shStartDate": null,
     "shEndDate": null,
+    "version": "1.0.0",
     "internalId": 412,
     "uniqueEntryId": "EwqiNdRrQJFLjEPTD"
   },
@@ -546,6 +570,7 @@
     "nhEndDate": null,
     "shStartDate": null,
     "shEndDate": null,
+    "version": "1.0.0",
     "internalId": 368,
     "uniqueEntryId": "shuuoFNypR6Fgntq5"
   },
@@ -568,6 +593,7 @@
     "nhEndDate": null,
     "shStartDate": null,
     "shEndDate": null,
+    "version": "1.0.0",
     "internalId": 393,
     "uniqueEntryId": "tGtbK6hWXFuDDtEQY"
   },
@@ -590,6 +616,7 @@
     "nhEndDate": "5/31",
     "shStartDate": "8/25",
     "shEndDate": "11/30",
+    "version": "1.0.0",
     "internalId": 406,
     "uniqueEntryId": "qBukA5CtCMxwiuQs2"
   },
@@ -612,6 +639,7 @@
     "nhEndDate": null,
     "shStartDate": null,
     "shEndDate": null,
+    "version": "1.0.0",
     "internalId": 360,
     "uniqueEntryId": "tWZFw2DJ85cJhfyJE"
   },
@@ -634,6 +662,7 @@
     "nhEndDate": null,
     "shStartDate": null,
     "shEndDate": null,
+    "version": "1.0.0",
     "internalId": 396,
     "uniqueEntryId": "yQ4NKsgLyQyaxonn6"
   },
@@ -656,6 +685,7 @@
     "nhEndDate": null,
     "shStartDate": null,
     "shEndDate": null,
+    "version": "1.0.0",
     "internalId": 378,
     "uniqueEntryId": "LDXqDQmHJmGTvgRcf"
   },
@@ -678,6 +708,7 @@
     "nhEndDate": null,
     "shStartDate": null,
     "shEndDate": null,
+    "version": "1.0.0",
     "internalId": 394,
     "uniqueEntryId": "y6pgsRhjp7BEJufqM"
   },
@@ -700,6 +731,7 @@
     "nhEndDate": null,
     "shStartDate": null,
     "shEndDate": null,
+    "version": "1.0.0",
     "internalId": 376,
     "uniqueEntryId": "hFxBjcAtSZGc4b6Ef"
   },
@@ -722,6 +754,7 @@
     "nhEndDate": null,
     "shStartDate": null,
     "shEndDate": null,
+    "version": "1.0.0",
     "internalId": 392,
     "uniqueEntryId": "SKZtd2YWveniGktxw"
   },
@@ -744,6 +777,7 @@
     "nhEndDate": null,
     "shStartDate": null,
     "shEndDate": null,
+    "version": "1.0.0",
     "internalId": 410,
     "uniqueEntryId": "B6M3bgwNGuhfojaAv"
   },
@@ -766,6 +800,7 @@
     "nhEndDate": "8/31",
     "shStartDate": "12/1",
     "shEndDate": "2/28\n2/29",
+    "version": "1.0.0",
     "internalId": 366,
     "uniqueEntryId": "soTMti7GC6DBuNTTQ"
   },
@@ -788,6 +823,7 @@
     "nhEndDate": "5/31",
     "shStartDate": "8/25",
     "shEndDate": "11/30",
+    "version": "1.0.0",
     "internalId": 373,
     "uniqueEntryId": "XuiGAQaASmhbhaYQR"
   },
@@ -810,6 +846,7 @@
     "nhEndDate": null,
     "shStartDate": null,
     "shEndDate": null,
+    "version": "1.0.0",
     "internalId": 372,
     "uniqueEntryId": "d8JvDkZmHn7fa25nd"
   },
@@ -832,6 +869,7 @@
     "nhEndDate": null,
     "shStartDate": null,
     "shEndDate": null,
+    "version": "1.0.0",
     "internalId": 384,
     "uniqueEntryId": "8u6GWaqqKowKDaQMc"
   },
@@ -854,6 +892,7 @@
     "nhEndDate": null,
     "shStartDate": null,
     "shEndDate": null,
+    "version": "1.0.0",
     "internalId": 434,
     "uniqueEntryId": "Lg9oDxdeWQoiqSDfa"
   },
@@ -876,6 +915,7 @@
     "nhEndDate": null,
     "shStartDate": null,
     "shEndDate": null,
+    "version": "1.0.0",
     "internalId": 408,
     "uniqueEntryId": "LYSrW8P9Qtbgjp6Fo"
   },
@@ -898,6 +938,7 @@
     "nhEndDate": null,
     "shStartDate": null,
     "shEndDate": null,
+    "version": "1.0.0",
     "internalId": 361,
     "uniqueEntryId": "KNgFTS9DnY2yDj3Po"
   },
@@ -920,6 +961,7 @@
     "nhEndDate": null,
     "shStartDate": null,
     "shEndDate": null,
+    "version": "1.0.0",
     "internalId": 365,
     "uniqueEntryId": "jADvDRLmF5dHJkBZP"
   },
@@ -942,6 +984,7 @@
     "nhEndDate": null,
     "shStartDate": null,
     "shEndDate": null,
+    "version": "1.0.0",
     "internalId": 399,
     "uniqueEntryId": "whjFSsXWHv75vvXwH"
   },
@@ -964,6 +1007,7 @@
     "nhEndDate": null,
     "shStartDate": null,
     "shEndDate": null,
+    "version": "1.0.0",
     "internalId": 397,
     "uniqueEntryId": "Lzhq6cyapSuGRsuvu"
   },
@@ -986,6 +1030,7 @@
     "nhEndDate": null,
     "shStartDate": null,
     "shEndDate": null,
+    "version": "1.0.0",
     "internalId": 357,
     "uniqueEntryId": "eMmoyy8BfudhMeZvW"
   },
@@ -1008,6 +1053,7 @@
     "nhEndDate": "9/15",
     "shStartDate": "11/1",
     "shEndDate": "3/15",
+    "version": "1.0.0",
     "internalId": 409,
     "uniqueEntryId": "DpdwLMqmxy4cCKNfZ"
   },
@@ -1030,6 +1076,7 @@
     "nhEndDate": null,
     "shStartDate": null,
     "shEndDate": null,
+    "version": "1.0.0",
     "internalId": 377,
     "uniqueEntryId": "yBe5TtK8cowF38QFo"
   },
@@ -1052,6 +1099,7 @@
     "nhEndDate": null,
     "shStartDate": null,
     "shEndDate": null,
+    "version": "1.0.0",
     "internalId": 371,
     "uniqueEntryId": "qKHdMdrTEFdQvQTNy"
   },
@@ -1074,6 +1122,7 @@
     "nhEndDate": null,
     "shStartDate": null,
     "shEndDate": null,
+    "version": "1.0.0",
     "internalId": 381,
     "uniqueEntryId": "ztwWJo7Rv4RLuHcjK"
   },
@@ -1096,6 +1145,7 @@
     "nhEndDate": "11/25",
     "shStartDate": "3/1",
     "shEndDate": "5/25",
+    "version": "1.0.0",
     "internalId": 386,
     "uniqueEntryId": "eK9QMfBwFzoc9DvBc"
   },
@@ -1118,6 +1168,7 @@
     "nhEndDate": null,
     "shStartDate": null,
     "shEndDate": null,
+    "version": "1.0.0",
     "internalId": 398,
     "uniqueEntryId": "nznxAbGCBPW97Nibg"
   },
@@ -1140,6 +1191,7 @@
     "nhEndDate": null,
     "shStartDate": null,
     "shEndDate": null,
+    "version": "1.0.0",
     "internalId": 385,
     "uniqueEntryId": "iyFNtujivporYgfva"
   },
@@ -1162,6 +1214,7 @@
     "nhEndDate": null,
     "shStartDate": null,
     "shEndDate": null,
+    "version": "1.0.0",
     "internalId": 390,
     "uniqueEntryId": "pfp4eHBrZzYJXao2v"
   },
@@ -1184,6 +1237,7 @@
     "nhEndDate": null,
     "shStartDate": null,
     "shEndDate": null,
+    "version": "1.0.0",
     "internalId": 380,
     "uniqueEntryId": "HH9MTDZSbQjSLMdvM"
   },
@@ -1206,6 +1260,7 @@
     "nhEndDate": null,
     "shStartDate": null,
     "shEndDate": null,
+    "version": "1.0.0",
     "internalId": 407,
     "uniqueEntryId": "tfxwrM9jHukBqzcMe"
   },
@@ -1228,6 +1283,7 @@
     "nhEndDate": "2/24",
     "shStartDate": "5/26",
     "shEndDate": "8/24",
+    "version": "1.0.0",
     "internalId": 367,
     "uniqueEntryId": "emawdP4yt2aKdjG5v"
   },
@@ -1250,6 +1306,7 @@
     "nhEndDate": "2/24",
     "shStartDate": "5/26",
     "shEndDate": "8/24",
+    "version": "1.0.0",
     "internalId": 374,
     "uniqueEntryId": "CKTiJB94AipapsMyQ"
   },
@@ -1272,6 +1329,7 @@
     "nhEndDate": null,
     "shStartDate": null,
     "shEndDate": null,
+    "version": "1.0.0",
     "internalId": 404,
     "uniqueEntryId": "uMreu3ZFwHpPAPCiH"
   },
@@ -1294,6 +1352,7 @@
     "nhEndDate": null,
     "shStartDate": null,
     "shEndDate": null,
+    "version": "1.0.0",
     "internalId": 356,
     "uniqueEntryId": "2MfR4So6XB8X5btra"
   },
@@ -1316,6 +1375,7 @@
     "nhEndDate": null,
     "shStartDate": null,
     "shEndDate": null,
+    "version": "1.0.0",
     "internalId": 362,
     "uniqueEntryId": "XNi8ib3tkDKRD3h9W"
   },
@@ -1338,6 +1398,7 @@
     "nhEndDate": null,
     "shStartDate": null,
     "shEndDate": null,
+    "version": "1.0.0",
     "internalId": 358,
     "uniqueEntryId": "Xj9q2wzes2bAzEGSz"
   },
@@ -1360,6 +1421,7 @@
     "nhEndDate": "2/24",
     "shStartDate": "5/26",
     "shEndDate": "8/24",
+    "version": "1.0.0",
     "internalId": 414,
     "uniqueEntryId": "sYi9GYXt3svjcEFBA"
   },
@@ -1382,6 +1444,7 @@
     "nhEndDate": null,
     "shStartDate": null,
     "shEndDate": null,
+    "version": "1.0.0",
     "internalId": 416,
     "uniqueEntryId": "vHZqSxqW4WRAyb3Qw"
   },
@@ -1404,6 +1467,7 @@
     "nhEndDate": null,
     "shStartDate": null,
     "shEndDate": null,
+    "version": "1.0.0",
     "internalId": 383,
     "uniqueEntryId": "qjuD4YWMv86AkwRp6"
   },
@@ -1426,6 +1490,7 @@
     "nhEndDate": null,
     "shStartDate": null,
     "shEndDate": null,
+    "version": "1.0.0",
     "internalId": 413,
     "uniqueEntryId": "iBqa4MMzucwejjWmm"
   },
@@ -1448,6 +1513,7 @@
     "nhEndDate": "2/24",
     "shStartDate": "5/26",
     "shEndDate": "8/24",
+    "version": "1.0.0",
     "internalId": 370,
     "uniqueEntryId": "ptYcfxZjk4CnCpPRp"
   },
@@ -1470,7 +1536,169 @@
     "nhEndDate": null,
     "shStartDate": null,
     "shEndDate": null,
+    "version": "1.0.0",
     "internalId": 359,
     "uniqueEntryId": "3sCFGDHSNaYD5rhhZ"
+  },
+  {
+    "sourceSheet": "Message Cards",
+    "name": "Flight-ticket card",
+    "image": "https://acnhcdn.com/latest/MessageCard/MsgWherearen05.png",
+    "buy": null,
+    "backColor": null,
+    "bodyColor": "#27211E",
+    "headColor": "#FFFADF",
+    "footColor": "#27211E",
+    "penColor1": "#05050F",
+    "penColor2": "#0413F4",
+    "penColor3": "#ED0402",
+    "penColor4": "#FFBB00",
+    "startDate": null,
+    "endDate": null,
+    "nhStartDate": null,
+    "nhEndDate": null,
+    "shStartDate": null,
+    "shEndDate": null,
+    "version": "=CONCATENATE(RIGHT(J69,LEN(J69) - 6),\".\",RIGHT(K69,LEN(K69) - 6),\".\",RIGHT(K69,LEN(K69) - 6))",
+    "internalId": 439,
+    "uniqueEntryId": "XGnRzexuWbqFGnR7P"
+  },
+  {
+    "sourceSheet": "Message Cards",
+    "name": "Glowing-moss card",
+    "image": "https://acnhcdn.com/latest/MessageCard/MsgWherearen03.png",
+    "buy": null,
+    "backColor": null,
+    "bodyColor": "#E5FFFF",
+    "headColor": "#90FFFF",
+    "footColor": "#D3FB76",
+    "penColor1": "#05050F",
+    "penColor2": "#0413F4",
+    "penColor3": "#ED0402",
+    "penColor4": "#FFBB00",
+    "startDate": null,
+    "endDate": null,
+    "nhStartDate": null,
+    "nhEndDate": null,
+    "shStartDate": null,
+    "shEndDate": null,
+    "version": "=CONCATENATE(RIGHT(J70,LEN(J70) - 6),\".\",RIGHT(K70,LEN(K70) - 6),\".\",RIGHT(K70,LEN(K70) - 6))",
+    "internalId": 438,
+    "uniqueEntryId": "EnzJovE36QtxCGf2B"
+  },
+  {
+    "sourceSheet": "Message Cards",
+    "name": "MsgWherearenOffice00",
+    "image": "https://acnhcdn.com/latest/MessageCard/MsgWherearenOffice00.png",
+    "buy": null,
+    "backColor": null,
+    "bodyColor": "#2A1615",
+    "headColor": "#2A1615",
+    "footColor": "#2A1615",
+    "penColor1": "#05050F",
+    "penColor2": "#0413F4",
+    "penColor3": "#ED0402",
+    "penColor4": "#FFBB00",
+    "startDate": null,
+    "endDate": null,
+    "nhStartDate": null,
+    "nhEndDate": null,
+    "shStartDate": null,
+    "shEndDate": null,
+    "version": "=CONCATENATE(RIGHT(J71,LEN(J71) - 6),\".\",RIGHT(K71,LEN(K71) - 6),\".\",RIGHT(K71,LEN(K71) - 6))",
+    "internalId": 437,
+    "uniqueEntryId": "Tg7b6bh48DD79G9fr"
+  },
+  {
+    "sourceSheet": "Message Cards",
+    "name": "Paradise Planning card",
+    "image": "https://acnhcdn.com/latest/MessageCard/MsgWherearenShopping00.png",
+    "buy": null,
+    "backColor": null,
+    "bodyColor": "#FFF1C3",
+    "headColor": "#FFF1C3",
+    "footColor": "#FFF1C3",
+    "penColor1": "#05050F",
+    "penColor2": "#0413F4",
+    "penColor3": "#ED0402",
+    "penColor4": "#FFBB00",
+    "startDate": null,
+    "endDate": null,
+    "nhStartDate": null,
+    "nhEndDate": null,
+    "shStartDate": null,
+    "shEndDate": null,
+    "version": "=CONCATENATE(RIGHT(J72,LEN(J72) - 6),\".\",RIGHT(K72,LEN(K72) - 6),\".\",RIGHT(K72,LEN(K72) - 6))",
+    "internalId": 445,
+    "uniqueEntryId": "tGCQBx4teagP9gB9z"
+  },
+  {
+    "sourceSheet": "Message Cards",
+    "name": "Plumeria card",
+    "image": "https://acnhcdn.com/latest/MessageCard/MsgWherearen00.png",
+    "buy": null,
+    "backColor": null,
+    "bodyColor": "#FFFFFF",
+    "headColor": "#FFF548",
+    "footColor": "#FFF548",
+    "penColor1": "#05050F",
+    "penColor2": "#0413F4",
+    "penColor3": "#ED0402",
+    "penColor4": "#FFBB00",
+    "startDate": null,
+    "endDate": null,
+    "nhStartDate": null,
+    "nhEndDate": null,
+    "shStartDate": null,
+    "shEndDate": null,
+    "version": "=CONCATENATE(RIGHT(J73,LEN(J73) - 6),\".\",RIGHT(K73,LEN(K73) - 6),\".\",RIGHT(K73,LEN(K73) - 6))",
+    "internalId": 440,
+    "uniqueEntryId": "wPC5MssczpxvgZnub"
+  },
+  {
+    "sourceSheet": "Message Cards",
+    "name": "Sunset card",
+    "image": "https://acnhcdn.com/latest/MessageCard/MsgWherearen02.png",
+    "buy": null,
+    "backColor": null,
+    "bodyColor": "#FFFFFF",
+    "headColor": "#FFFFFF",
+    "footColor": "#FFFFFF",
+    "penColor1": "#05050F",
+    "penColor2": "#0413F4",
+    "penColor3": "#ED0402",
+    "penColor4": "#FFBB00",
+    "startDate": null,
+    "endDate": null,
+    "nhStartDate": null,
+    "nhEndDate": null,
+    "shStartDate": null,
+    "shEndDate": null,
+    "version": "=CONCATENATE(RIGHT(J74,LEN(J74) - 6),\".\",RIGHT(K74,LEN(K74) - 6),\".\",RIGHT(K74,LEN(K74) - 6))",
+    "internalId": 443,
+    "uniqueEntryId": "ZtyRsYeBeK52eWFYP"
+  },
+  {
+    "sourceSheet": "Message Cards",
+    "name": "Tropical card",
+    "image": "https://acnhcdn.com/latest/MessageCard/MsgWherearen04.png",
+    "buy": null,
+    "backColor": "#15648D",
+    "bodyColor": "#F8DDA4",
+    "headColor": "#F8DDA4",
+    "footColor": "#F8DDA4",
+    "penColor1": "#05050F",
+    "penColor2": "#0413F4",
+    "penColor3": "#ED0402",
+    "penColor4": "#FFBB00",
+    "startDate": null,
+    "endDate": null,
+    "nhStartDate": null,
+    "nhEndDate": null,
+    "shStartDate": null,
+    "shEndDate": null,
+    "version": "=CONCATENATE(RIGHT(J75,LEN(J75) - 6),\".\",RIGHT(K75,LEN(K75) - 6),\".\",RIGHT(K75,LEN(K75) - 6))",
+    "internalId": 444,
+    "uniqueEntryId": "G95bKJDn3LjJ899gZ"
   }
 ]
